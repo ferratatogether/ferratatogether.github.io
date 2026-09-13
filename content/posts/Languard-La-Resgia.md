@@ -2,7 +2,7 @@
 title: "La Resgia K4+ +270m & Languard K5 +70m Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "The via ferrata La Resgia can be easily combined with the via ferrata Languard (K5)"
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/laresgia.webp
 tags:
   - via-ferrata
   - K4

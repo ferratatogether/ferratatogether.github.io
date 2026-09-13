@@ -1,8 +1,8 @@
 ---
 title: "Tälli Ferrata Together "
 date: 2026-01-12T9:44:17+01:00
-summary: ""
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+summary: "A scenic and impressive via ferrata in classic style, totalling 14 ladders, iron bars, pins and steel cables for security. The main difficulties are encountered in the lowest section. For the return path, conditions are very important."
+cover: /img/talli.webp
 tags:
   - via-ferrata
   - K3

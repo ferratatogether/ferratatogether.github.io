@@ -1,7 +1,7 @@
 ---
 title: "Schwarzhorn Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
-summary: ""
+summary: "The Schwarzhorn Via Ferrata near Grindelwald is a moderately difficult (K3) alpine climb leading to the 2,928-meter summit of the Schwarzhorn, offering sweeping panoramic views of the Bernese Alps. Overall a very easy Ferrata (more like an Alpine path with some ladders). Airily staggered aluminum ladders on steep vertical rock faces and an exposed ridge travers"
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
   - via-ferrata

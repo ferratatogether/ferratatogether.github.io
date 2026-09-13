@@ -1,10 +1,14 @@
 ---
 title: "Sulzfluh Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
-summary: ""
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+summary: "The Sulzfluh via ferrata is a classic, demanding alpine fixed-rope climb scaling the steep south face of the 2,817-meter Sulzfluh peak in the Rätikon range from St. Antönien, Switzerland. 
+Rated K4 to C/D, it features airy traverses, vertical limestone walls, and no early exit points"
+cover: /img/sulzfluh.webp
 tags:
   - via-ferrata
+  - K4
+  - long
+  - trek
 ---
 The Sulzfluh via ferrata is a classic, demanding alpine fixed-rope climb scaling the steep south face of the 2,817-meter Sulzfluh peak in the Rätikon range from St. Antönien, Switzerland. 
 Rated K4 to C/D, it features airy traverses, vertical limestone walls, and no early exit points

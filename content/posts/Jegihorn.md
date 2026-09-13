@@ -2,7 +2,7 @@
 title: "Jegihorn Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "At 3,206 metres above sea level at its highest, the Jegihorn is the highest Via Ferrata in the Western Alps. 1,000 metres of steel cable, 400 anchor points, and a stomach-churning suspension bridge, several ladders  secure the path."
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/jegihorn.webp
 tags:
   - via-ferrata
   - K3
