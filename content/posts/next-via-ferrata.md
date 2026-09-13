@@ -2,7 +2,7 @@
 title: "How to find your Next via ferrata adventure"
 date: 2026-09-13T13:44:17+01:00
 summary: "How to find your Next via ferrata adventure"
-cover: /img/logo.png
+cover: /img/next.webp
 tags:
   - via-ferrata
   - search-engine
