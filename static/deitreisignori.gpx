@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>Tre Signori Via Ferrata (TI)</name>
+    <author>
+      <name>Greg Turnbull - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/236805949"/>
+    <time>2026-03-20T07:45:14.050Z</time>
+    <extensions>
+      <oa:oaCategory>viaferrata</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Tre Signori Via Ferrata (TI)</name>
+    <desc>A 4-part VF of various difficulty levels: / Inferiore B/C / Superiore C/D / Media C/D / Difficile D/E /</desc>
+    <type>viaferrata</type>
+    <trkseg>
+      <trkpt lat="46.21356" lon="8.960187">
+        <ele>1385.1</ele>
+        <name>46.213561,8.960187</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>16</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.213574" lon="8.960138">
+        <ele>1385.0</ele>
+      </trkpt>
+      <trkpt lat="46.213603" lon="8.960234">
+        <ele>1389.2</ele>
+      </trkpt>
+      <trkpt lat="46.213624" lon="8.960365">
+        <ele>1395.8</ele>
+      </trkpt>
+      <trkpt lat="46.213667" lon="8.960422">
+        <ele>1404.8</ele>
+      </trkpt>
+      <trkpt lat="46.213727" lon="8.960386">
+        <ele>1419.3</ele>
+      </trkpt>
+      <trkpt lat="46.213791" lon="8.960431">
+        <ele>1433.9</ele>
+      </trkpt>
+      <trkpt lat="46.21382" lon="8.960496">
+        <ele>1445.7</ele>
+      </trkpt>
+      <trkpt lat="46.213886" lon="8.960535">
+        <ele>1465.6</ele>
+      </trkpt>
+      <trkpt lat="46.213872" lon="8.960568">
+        <ele>1460.8</ele>
+      </trkpt>
+      <trkpt lat="46.213961" lon="8.960562">
+        <ele>1481.9</ele>
+      </trkpt>
+      <trkpt lat="46.213971" lon="8.960687">
+        <ele>1488.3</ele>
+      </trkpt>
+      <trkpt lat="46.214128" lon="8.960747">
+        <ele>1509.6</ele>
+      </trkpt>
+      <trkpt lat="46.214176" lon="8.96066">
+        <ele>1515.0</ele>
+      </trkpt>
+      <trkpt lat="46.214209" lon="8.960726">
+        <ele>1519.5</ele>
+      </trkpt>
+      <trkpt lat="46.214297" lon="8.960559">
+        <ele>1529.5</ele>
+      </trkpt>
+      <trkpt lat="46.214349" lon="8.960559">
+        <ele>1538.4</ele>
+      </trkpt>
+      <trkpt lat="46.214358" lon="8.960637">
+        <ele>1546.2</ele>
+      </trkpt>
+      <trkpt lat="46.214403" lon="8.960672">
+        <ele>1551.4</ele>
+      </trkpt>
+      <trkpt lat="46.214415" lon="8.960619">
+        <ele>1552.4</ele>
+      </trkpt>
+      <trkpt lat="46.214442" lon="8.960696">
+        <ele>1556.5</ele>
+      </trkpt>
+      <trkpt lat="46.214409" lon="8.960774">
+        <ele>1553.6</ele>
+      </trkpt>
+      <trkpt lat="46.21449" lon="8.96075">
+        <ele>1559.4</ele>
+      </trkpt>
+      <trkpt lat="46.214552" lon="8.960822">
+        <ele>1556.3</ele>
+      </trkpt>
+      <trkpt lat="46.214585" lon="8.960932">
+        <ele>1562.6</ele>
+      </trkpt>
+      <trkpt lat="46.214672" lon="8.960992">
+        <ele>1567.7</ele>
+      </trkpt>
+      <trkpt lat="46.214583" lon="8.960989">
+        <ele>1564.4</ele>
+      </trkpt>
+      <trkpt lat="46.214537" lon="8.961135">
+        <ele>1575.2</ele>
+      </trkpt>
+      <trkpt lat="46.214564" lon="8.961294">
+        <ele>1591.6</ele>
+      </trkpt>
+      <trkpt lat="46.214601" lon="8.961488">
+        <ele>1612.3</ele>
+      </trkpt>
+      <trkpt lat="46.214715" lon="8.961553">
+        <ele>1609.6</ele>
+      </trkpt>
+      <trkpt lat="46.214667" lon="8.961729">
+        <ele>1633.2</ele>
+      </trkpt>
+      <trkpt lat="46.214628" lon="8.96178">
+        <ele>1634.5</ele>
+      </trkpt>
+      <trkpt lat="46.214709" lon="8.961914">
+        <ele>1641.5</ele>
+      </trkpt>
+      <trkpt lat="46.214663" lon="8.961974">
+        <ele>1645.4</ele>
+      </trkpt>
+      <trkpt lat="46.214769" lon="8.962079">
+        <ele>1648.9</ele>
+      </trkpt>
+      <trkpt lat="46.214702" lon="8.962237">
+        <ele>1671.4</ele>
+      </trkpt>
+      <trkpt lat="46.214793" lon="8.962347">
+        <ele>1670.0</ele>
+      </trkpt>
+      <trkpt lat="46.214766" lon="8.962819">
+        <ele>1684.0</ele>
+      </trkpt>
+      <trkpt lat="46.214845" lon="8.962703">
+        <ele>1689.4</ele>
+      </trkpt>
+      <trkpt lat="46.215037" lon="8.962658">
+        <ele>1695.6</ele>
+      </trkpt>
+      <trkpt lat="46.215161" lon="8.962688">
+        <ele>1702.9</ele>
+      </trkpt>
+      <trkpt lat="46.215306" lon="8.962497">
+        <ele>1707.7</ele>
+      </trkpt>
+      <trkpt lat="46.215459" lon="8.962574">
+        <ele>1707.5</ele>
+      </trkpt>
+      <trkpt lat="46.215535" lon="8.962547">
+        <ele>1709.2</ele>
+      </trkpt>
+      <trkpt lat="46.215541" lon="8.962622">
+        <ele>1710.2</ele>
+      </trkpt>
+      <trkpt lat="46.215638" lon="8.9627">
+        <ele>1712.0</ele>
+      </trkpt>
+      <trkpt lat="46.215704" lon="8.962664">
+        <ele>1720.9</ele>
+      </trkpt>
+      <trkpt lat="46.215723" lon="8.962565">
+        <ele>1730.3</ele>
+      </trkpt>
+      <trkpt lat="46.215814" lon="8.962434">
+        <ele>1736.4</ele>
+      </trkpt>
+      <trkpt lat="46.215946" lon="8.962356">
+        <ele>1743.5</ele>
+      </trkpt>
+      <trkpt lat="46.216006" lon="8.962353">
+        <ele>1744.0</ele>
+      </trkpt>
+      <trkpt lat="46.216148" lon="8.962458">
+        <ele>1745.8</ele>
+      </trkpt>
+      <trkpt lat="46.216229" lon="8.962541">
+        <ele>1747.4</ele>
+      </trkpt>
+      <trkpt lat="46.216246" lon="8.962407">
+        <ele>1751.1</ele>
+      </trkpt>
+      <trkpt lat="46.21632" lon="8.962446">
+        <ele>1754.5</ele>
+      </trkpt>
+      <trkpt lat="46.216434" lon="8.962356">
+        <ele>1760.8</ele>
+      </trkpt>
+      <trkpt lat="46.216555" lon="8.962314">
+        <ele>1766.4</ele>
+      </trkpt>
+      <trkpt lat="46.216686" lon="8.962293">
+        <ele>1768.3</ele>
+      </trkpt>
+      <trkpt lat="46.216691" lon="8.962338">
+        <ele>1767.1</ele>
+        <name>46.216691,8.962338</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>16</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

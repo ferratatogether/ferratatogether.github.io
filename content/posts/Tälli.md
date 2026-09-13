@@ -11,8 +11,8 @@ tags:
 ---
 A scenic and impressive via ferrata in classic style, totalling 14 ladders, iron bars, pins and steel cables for security. The main difficulties are encountered in the lowest section. For the return path, conditions are very important.
 
-{{< notice info>}}
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/9SX3Wk6BZVZHPNC49
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
 {{< /notice >}}
 
 {{< notice tip>}} 📓 
@@ -53,6 +53,9 @@ https://a.sbbmobile.ch/s/Gb6VKwsU
 
 ## 🚠 Cable car
 07:00 to 21:30 - 18.- CHF back and forth -  https://www.grimselwelt.ch/bahnen/taellibahn/ 
+
+## GPX
+{{< gpx-map file="/taelli.gpx" >}}
 
 ## 🏁 Start
 1726m, 1,5h, +330m T3+ https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/zustieg-zum-taelli-klettersteig-849/

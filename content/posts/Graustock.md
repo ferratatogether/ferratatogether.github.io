@@ -9,11 +9,11 @@ tags:
 ---
 The via ferrata up the Graustock is undoubtedly part of the Engelberg via ferrata paradise. The start of the route can also be conveniently reached from Engstlenalp. The southeast ridge of the Graustock offers a mix of mountain hiking and very steep climbing. From the summit and along the entire ridge, there are beautiful views down into the Engelberg Valley, over Lakes Trüebsee and Engstlensee, and across to the glacier-covered slopes of the Titlis. All in all, it is a highly rewarding yet quite challenging mountain tour, featuring extensive hiking terrain alongside some demanding via ferrata sections.
 
-{{< notice info>}}
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/Sq7aS9HhE2Jk3fRa9
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
 {{< /notice >}}
 
-{{< notice tip>}}
+{{< notice tip>}} 📓 
 The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
@@ -42,6 +42,9 @@ https://a.sbbmobile.ch/s/LpBaNchl
 - Engelberg cable car to Trubsee
 - Trubsee chairlift to Jochpass
 Both costs 25.- with Half Fare back and forth
+
+## GPX
+{{< gpx-map file="/graustock.gpx" >}}
 
 ## 🏁 Start
 1.5H

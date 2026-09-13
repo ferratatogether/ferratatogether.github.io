@@ -1,0 +1,43 @@
+{{ $lat := .Get "lat" | default "47.3769" }}
+{{ $lon := .Get "lon" | default "8.5417" }}
+{{ $locationName := .Get "name" | default "Zürich" }}
+{{ $id :=  "weather-$locationName" }}
+
+<div class="meteoswiss-widget" id="{{ $id }}" style="font-family: sans-serif; border: 1px solid #ddd; padding: 15px; border-radius: 8px; max-width: 250px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <h4 style="margin: 0 0 10px 0; font-size: 1.1rem; color: #333;">{{ $locationName }} Weather</h4>
+  <div class="weather-loading" style="color: #666; font-size: 0.9rem;">Loading weather...</div>
+  <div class="weather-data" style="display: none;">
+    <div style="font-size: 2rem; font-weight: bold; margin-bottom: 5px; color: #005691;">
+      <span class="temp">--</span>°C
+    </div>
+    <div style="font-size: 0.9rem; color: #555; margin-bottom: 5px;">
+      💨 Wind: <span class="wind">--</span> km/h
+    </div>
+    <div style="font-size: 0.9rem; color: #555;">
+      🌧️ Rain Prob: <span class="rain">--</span>%
+    </div>
+  </div>
+</div>
+
+<script>
+  (function() {
+    const container = document.getElementById('{{ $id }}');
+    const apiUrl = `https://api.open-meteo.com/v1/forecast?latitude={{ $lat }}&longitude={{ $lon }}&current=temperature_2m,relative_humidity_2m,weather_code&timezone=Europe%2FZurich`;
+    fetch(apiUrl)
+      .then(response => response.json())
+      .then(data => {
+        if (data && data.current) {
+          container.querySelector('.temp').textContent = Math.round(data.current.temperature_2m);
+          container.querySelector('.wind').textContent = Math.round(data.current.wind_speed_10m);
+          container.querySelector('.rain').textContent = data.current.precipitation_probability;
+          
+          container.querySelector('.weather-loading').style.display = 'none';
+          container.querySelector('.weather-data').style.display = 'block';
+        }
+      })
+      .catch(err => {
+        container.querySelector('.weather-loading').textContent = 'Failed to load weather data.';
+        console.error('MeteoSwiss API Error:', err);
+      });
+  })();
+</script>

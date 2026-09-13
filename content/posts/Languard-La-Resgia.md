@@ -5,6 +5,8 @@ summary: "The via ferrata La Resgia can be easily combined with the via ferrata 
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
   - via-ferrata
+  - K4
+  - K5
 ---
 The via ferrata La Resgia can be easily combined with the via ferrata Languard (K5)
 
@@ -16,47 +18,76 @@ A very nice Ferrata with 2 options to choose in the middle. 1 is with overhang, 
 
 Has 382 metal steps and 620 meters of wire rope; Easy Up to 2 hours and 330m. 
 
-You MUST sign the waiver form, it contains detailed information about the difficulty and more -> XXXXXXXX
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
+{{< /notice >}}
 
-⏱️ Duration 3 hours total
+{{< notice tip>}} 📓 
+The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+{{< /notice >}}
 
-☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/pontresina/7504.html#forecast-tab=detail-view
+## ⏱️ Duration 
+3 hours total
 
-📈 Difficulty: C-D, +250m, 3h     Ferrata: 46.4836°, 9.9168°
+## ☀️ Weather
+https://www.meteoschweiz.admin.ch/lokalprognose/pontresina/7504.html#forecast-tab=detail-view
 
-📍 Meeting Point: 05:45AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
+## 📈 Difficulty
+C-D, +250m, 3h Ferrata: 46.4836°, 9.9168°
 
-🏁 Time of leaving: 5:55AM to platform 10
+## 📍 Meeting Point
+05:45AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
 
-🚂 Recommended train: 3h20  https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EPontresina%2C+Hotel+Pal%C3%BC%2C+Via+da+Bernina_I980198771&day=2026-09-03&time=07_00&moment=dep&trip=0_0
+## 🏁 Time of leaving
+5:55AM to platform 10
 
-🚗 Pontresina, Hotel Palü, Via da Bernina, 2h50 https://www.google.com/maps/dir/Zürich+HB,+Bahnhofplatz,+8001+Zürich/Hotel+Palü,+Via+da+Bernina+17,+7504+Pontresina/@46.9181073,8.6493576,135594m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5403767!2d47.3780356!1m5!1m1!1s0x47837bf0ae7bd5fb:0xa3df86b331003d17!2m2!1d9.9136371!2d46.4827499!3e0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
+## 🚂 Recommended train
+3h20  https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EPontresina%2C+Hotel+Pal%C3%BC%2C+Via+da+Bernina_I980198771&day=2026-09-03&time=07_00&moment=dep&trip=0_0
 
-🚠 chairlift: 
+## 🚗 Pontresina, Hotel Palü, Via da Bernina, 2h50
+https://www.google.com/maps/dir/Zürich+HB,+Bahnhofplatz,+8001+Zürich/Hotel+Palü,+Via+da+Bernina+17,+7504+Pontresina/@46.9181073,8.6493576,135594m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5403767!2d47.3780356!1m5!1m1!1s0x47837bf0ae7bd5fb:0xa3df86b331003d17!2m2!1d9.9136371!2d46.4827499!3e0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
+
+## 🚠 chairlift
 20.50 CHF to go down back to the valley (very long ride<img width="1280" height="1779" alt="IMG_4387" src="https://github.com/user-attachments/assets/e6118939-5d1f-4be3-9f7f-4e4db40186a8" />
 )
 https://www.google.com/maps/place/Sesselbahn+Alp+Languard/@46.4910248,9.9039727,534m/data=!3m1!1e3!4m14!1m7!3m6!1s0x47837d0fb40149a3:0xf0c75ea3bf32b22a!2sSesselbahn+Alp+Languard!8m2!3d46.4910248!4d9.906553!16s%2Fg%2F11tf81rtmg!3m5!1s0x47837d0fb40149a3:0xf0c75ea3bf32b22a!8m2!3d46.4910248!4d9.906553!16s%2Fg%2F11tf81rtmg?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
 
-🅿️ Parking: 46.4813°, 9.9151°
+## 🅿️ Parking
+46.4813°, 9.9151°
 Attention: 3.- CHF per hour!
 
-🏁 Start 15min walk +120m
+## 🏁 Start 
+15min walk +120m
 
-🎯 End: 2328m Alp Languard 
+## 🎯 End
+2328m Alp Languard 
 
-🚶🏻‍♂️ Exit: 45min to 1H -390m T1 https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/mountain-hiking/descent-from-la-resgia-languard-ferrata-868/
+## 🚶🏻‍♂️ Exit
+45min to 1H -390m T1 https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/mountain-hiking/descent-from-la-resgia-languard-ferrata-868/
 
 Travelling home: by public transportation
 
-💬 WhatsApp group: https://links.waltercedric.com/Languard-La-Resgia
+## 💬 WhatsApp group: 
+### Ferrata Together main group
+Join the main WhatsApp group to be informed about next events (optional)
+https://links.waltercedric.com/ferratatogether
 
-🚰 Water: The route is exposed to the sun from 9:00, throughout the season. No access to water for 2-3 hours!
+### Allmenalp WhatsApp group
+Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
+It is recommended to join the right group before the day of the event.
+https://links.waltercedric.com/Languard-La-Resgia
 
-🏊Lake: at the top, 5 min walk and you can take a litle swim behind the small dam in the rivier. 
+## 🚰 Water
+The route is exposed to the sun from 9:00, throughout the season. No access to water for 2-3 hours!
 
-🛍️ Renting equipment: Please send an email now or call and reserve a via ferrata set with helmet for this satursday: There's a rental service directly with the valley station (Luftseilbahn Kandersteg-Allmenalp Allmenbahnstrasse 23 CH-3718 Kandersteg) of the cable car, opening hours 08.30 – 17.00 h. https://www.allmenalp.ch/en/experience/climbing.html Renting Equipment (+25 CHF max)
+## 🏊 Lake
+at the top, 5 min walk and you can take a litle swim behind the small dam in the rivier. 
 
-🔗 Links:
+## 🛍️ Renting equipment
+Please send an email now or call and reserve a via ferrata set with helmet for this satursday: There's a rental service directly with the valley station (Luftseilbahn Kandersteg-Allmenalp Allmenbahnstrasse 23 CH-3718 Kandersteg) of the cable car, opening hours 08.30 – 17.00 h. https://www.allmenalp.ch/en/experience/climbing.html Renting Equipment (+25 CHF max)
+
+## 🔗 Links
 - https://ferrataguide.com/ferrata/Klettersteig_La_Resgia
 - https://www.bergsteigen.com/touren/klettersteig/klettersteig-la-resgia/
 

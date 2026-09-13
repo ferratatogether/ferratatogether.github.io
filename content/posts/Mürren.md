@@ -17,7 +17,14 @@ This via ferrata features one short section (15m in length) of extreme exposure,
 
 Gloves are MANDATORY, the surface is mostly flat and you need to grab the safety line most of the time. 
 
-You MUST sign the waiver form, it contains detailed information about the difficulty and more -> https://forms.gle/xdez1iqqfzZy9Myv7 
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
+{{< /notice >}}
+
+{{< notice tip>}} 📓 
+The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+{{< /notice >}}
 
 ⏱️ Duration 3+ hours total
 

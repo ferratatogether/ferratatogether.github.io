@@ -9,6 +9,15 @@ tags:
 The Schwarzhorn Via Ferrata near Grindelwald is a moderately difficult (K3) alpine climb leading to the 2,928-meter summit of the Schwarzhorn, offering sweeping panoramic views of the Bernese Alps. Overall a very easy Ferrata (more like an Alpine path with some ladders).
 Airily staggered aluminum ladders on steep vertical rock faces and an exposed ridge traverse
 
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
+{{< /notice >}}
+
+{{< notice tip>}} 📓 
+The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+{{< /notice >}}
+
 ⏱️ Duration 6-7h hours for the complete round trip from Grindelwald, 10.5km
 
 ☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/schwarzhorn.html#forecast-tab=detail-view

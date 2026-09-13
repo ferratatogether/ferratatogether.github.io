@@ -12,11 +12,11 @@ tags:
 ---
 At 3,206 metres above sea level at its highest, the Jegihorn is the highest Via Ferrata in the Western Alps. 1,000 metres of steel cable, 400 anchor points, and a stomach-churning suspension bridge, several ladders  secure the path.
 
-{{< notice info>}}
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/qqHSogNNw1DJexwp8
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
 {{< /notice >}}
 
-{{< notice tip>}}
+{{< notice tip>}} 📓 
 The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
@@ -51,6 +51,9 @@ Walk T3, +480m, 1h30 to start of climb
 
 ## 🚠 Cable Car
 08:00 to 16:30 https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund 
+
+## GPX
+{{< gpx-map file="/jegihorn.gpx" >}}
 
 ## 🏁 Start 
 2800m  

@@ -13,11 +13,11 @@ tags:
 ---
 A truly spectacular route in the granite rocks of the Schöllenen gorge, albeit with plenty of grass in between. There are fascinating views down into the wild gorge and its roads. With 700 metres of wire rope, 265 iron pins and pitons, artificial footholds and two attached ladders. Not advisable when wet (grass).
 
-{{< notice info>}}
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/KUpZWbu1Bep8QnhA7
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
 {{< /notice >}}
 
-{{< notice tip>}}
+{{< notice tip>}} 📓 
 The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}

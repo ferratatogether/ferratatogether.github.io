@@ -66,6 +66,7 @@ enough for 3+2.5 = 5.5hours of efforts
 ## 🔗 Links:
 - https://ferrataguide.com/ferrata/Klettersteig_Tierbergli 
 - https://www.bergsteigen.com/touren/klettersteig/tierbergli-klettersteig/
+- https://www.komoot.com/highlight/582275
 
 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 

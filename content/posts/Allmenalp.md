@@ -13,11 +13,11 @@ tags:
 ---
 {{< notice warning>}}Cable is broken, this add 2h steep trek down back to the valley{{< /notice >}}
 
-{{< notice info>}}
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/are1sXitmfEaLeBY9
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
 {{< /notice >}}
 
-{{< notice tip>}}
+{{< notice tip>}} 📓 
 The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
@@ -57,6 +57,9 @@ Typically May/June through late October (conditions permitting)
 
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
+
+{{< weather lat="46.4958" lon="7.6732" name="Kandersteg" >}}
+
 https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
 
 ## 📈 Difficulty
@@ -75,6 +78,9 @@ https://a.sbbmobile.ch/s/u3qOIzZM
 ## 🚠  Cable Car
 After the climb, we can use the cable car to avoid a trek down back to the valley.
 14.- CHF down to the valley or you’ll have to trek 2h down. https://www.allmenalp.ch/en/cable-car/prices.html
+
+## GPX
+TODO
 
 ## 🏁 Start
 15 min on car road from Kandersteg train station, 10min more from rental (cable car building)

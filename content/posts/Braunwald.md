@@ -23,11 +23,13 @@ Route overview:
 - Tour Vorder - Hinter Eggstock (black) with safety rope (difficulty approx. K5): 5.5 to 6.5 hours
 - NEW: Leiteregg ascent (double track) as a relief route to the previous K3 route (difficulty approx. K5)
 
-Sections 1 and 2 Mittlerer Eggstock 2434 m  is a K3
-https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/mittlerer-eggstock-549/via-ferrata/braunwald-eggstoecke-via-ferrata-sections-1-and-2-758/ 
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
+{{< /notice >}}
 
-{{< notice info>}}
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/qqHSogNNw1DJexwp8
+{{< notice tip>}} 📓 
+The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
 ## ⏱️ Duration

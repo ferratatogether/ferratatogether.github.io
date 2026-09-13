@@ -9,7 +9,14 @@ tags:
 Weather can cancel the event a few days before if weather is not perfect for execution:
 * https://www.meteoschweiz.admin.ch/lokalprognose/titlis.html#forecast-tab=detail-view 
 
-You MUST sign the waiver form, it contains detailed information about the difficulty and more: https://forms.gle/RDFZBHhXgt5dwo2bA
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
+{{< /notice >}}
+
+{{< notice tip>}} 📓 
+The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+{{< /notice >}}
 
 You can read the QuickStart guide:https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA/edit?usp=sharing
 
