@@ -18,10 +18,9 @@ enableEmoji = true
 #  - use the git author date or
 #  - the file modification time
 # when displaying .Lastmod on a page.
-enableGitInfo = false
+enableGitInfo = true
 [frontmatter]
-#lastmod = [':git', ':fileModTime']
-lastmod = [':fileModTime']
+lastmod = [':git', ':fileModTime']
 paginate = 1
 
 [params]  
