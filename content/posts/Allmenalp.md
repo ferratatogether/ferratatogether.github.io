@@ -58,9 +58,8 @@ Typically 16 May/June through late October (conditions permitting)
 
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
-
-{{< weather lat="46.4958" lon="7.6732" name="Kandersteg" >}}
-
+{{< kandersteg >}}
+or use 
 https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
 
 ## 📈 Difficulty

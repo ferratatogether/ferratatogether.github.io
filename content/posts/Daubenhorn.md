@@ -28,6 +28,12 @@ About 6 to 8 hours total (including access and descent).
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
+## ☀️ Weather
+Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
+{{< daubenhorn >}}
+or use 
+https://www.meteoschweiz.admin.ch/lokalprognose/leukerbad/3954.html#forecast-tab=detail-view
+
 {{< notice info>}} 👨‍⚖️
 Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
 {{< /notice >}}

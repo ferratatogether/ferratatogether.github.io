@@ -24,9 +24,9 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 6.5/7 hours total
 
 ## ☀️ Weather 
-can cancel/abort/shorten  the event a few days before if weather is not perfect for execution!
+Weather can cancel/abort/shorten  the event a few days before if weather is not perfect for execution!
 Gadmen area
-
+{{< talli >}}
 Top hill  https://www.meteoschweiz.admin.ch/lokalprognose/taellistock.html#forecast-tab=detail-view 
 
 ## 📈 Difficulty
