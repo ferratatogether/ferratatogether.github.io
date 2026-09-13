@@ -24,6 +24,10 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 * https://www.bergfex.com/sommer/monte-carasso/wetter/
 * https://www.meteoschweiz.admin.ch/lokalprognose/monte-carasso/6513.html#forecast-tab=detail-view
 
+## 🗓️ Season
+Typically June through late October (conditions permitting)
+{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+
 ## ⏱️ Duration
 2-3 hours total
 

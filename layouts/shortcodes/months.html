@@ -1,0 +1,27 @@
+{{/* Get parameters or set defaults */}}
+{{ $highlightParam := .Get "highlight" | default "" }}
+{{ $class := .Get "class" | default "month-list" }}
+{{ $activeClass := .Get "activeClass" | default "highlighted" }}
+
+{{/* Convert the comma-separated string into a slice of integers */}}
+{{ $highlights := slice }}
+{{ if ne $highlightParam "" }}
+  {{ range (split $highlightParam ",") }}
+    {{ $highlights = $highlights | append (int (trim . " ")) }}
+  {{ end }}
+{{ end }}
+
+{{/* Define the 12 months */}}
+{{ $months := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
+
+<ul class="{{ $class }}">
+  {{ range $index, $month := $months }}
+    {{/* Month numbers are 1-12, so we add 1 to the 0-based index */}}
+    {{ $monthNum := add $index 1 }}
+    {{ $isHighlighted := in $highlights $monthNum }}
+    
+    <li class="month-item{{ if $isHighlighted }} {{ $activeClass }}{{ end }}" data-month="{{ $monthNum }}">
+      {{ $month }}
+    </li>
+  {{ end }}
+</ul>

@@ -29,6 +29,10 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 Weather can cancel the event a few days before or during if weather is not perfect for execution!
 https://www.meteoschweiz.admin.ch/lokalprognose/andermatt/6490.html#forecast-tab=detail-view
 
+## 🗓️ Season
+Typically June through late October (conditions permitting)
+{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+
 ## 📈 Difficulty
 K2-3. 
 +450m. 

@@ -54,6 +54,7 @@ The variant "Freude herrscht" is classified as K4+ in the SAC via ferrata scale.
 
 ## 🗓️ Season
 Typically May/June through late October (conditions permitting)
+{{< months highlight="4,5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
@@ -79,7 +80,7 @@ https://a.sbbmobile.ch/s/u3qOIzZM
 After the climb, we can use the cable car to avoid a trek down back to the valley.
 14.- CHF down to the valley or you’ll have to trek 2h down. https://www.allmenalp.ch/en/cable-car/prices.html
 
-## GPX
+## 🗺️ GPX
 TODO
 
 ## 🏁 Start
@@ -124,6 +125,5 @@ Renting Equipment (+25 CHF max)
 * material to buy: gloves CHF 5 
 
 ## 🔗 Links
-📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
 <img width="1240" height="1754" alt="IMG_3177" src="https://github.com/user-attachments/assets/c0e6241e-83fa-46f8-aa76-793df21a1858" />

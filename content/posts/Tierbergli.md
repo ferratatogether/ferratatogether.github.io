@@ -7,6 +7,9 @@ tags:
   - via-ferrata
   - long
   - sustenpass
+  - K3
+  - trek
+  - scenic
 ---
 Impressive views of the Gwächtenhorn, Sustenhorn, and the Gadmertal valley open up time and again. Just before the final stretch to the Tierbergli Hut, the panorama widens—and your gaze falls upon the mighty Steingletscher: a true highlight of this tour!
 

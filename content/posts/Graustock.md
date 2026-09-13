@@ -25,6 +25,10 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 https://www.meteoblue.com/de/wetter/woche/graustock_schweiz_6936332?day=2
 
+## 🗓️ Season
+Typically June through late October (conditions permitting)
+{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+
 ## 📈 Difficulty
 K5, total 4.5h
 

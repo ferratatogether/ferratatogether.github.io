@@ -42,6 +42,10 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 [2700m https://www.meteoschweiz.admin.ch/lokalprognose/weissmieshuette-sac.html#forecast-tab=detail-view](https://www.meteoschweiz.admin.ch/lokalprognose/braunwald/8784.html#forecast-tab=detail-view)
 
+## 🗓️ Season
+Typically June through late October (conditions permitting)
+{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+
 ## 📈 Difficulty
 K3-K4, +400m, 3h
 

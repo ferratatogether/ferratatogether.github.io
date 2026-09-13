@@ -8,6 +8,7 @@ tags:
   - K3
   - K4
   - short
+  - valais
 ---
 A via ferrata in a lakeside setting, arranged with great originality and with plenty of ironwork: ideal for scrambling up the steep rock above the water. Special highlights are the giant suspension bridge and the final Tyrolienne traverse (can be bypassed if necessary).
 
@@ -23,11 +24,15 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
 ## ⏱️ Duration
-3 hours, Variation in height: Negligible
+3 hours, Variation in height: Negligible +56m -55m
 
 ## ☀️Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 https://www.meteoschweiz.admin.ch/lokalprognose/gibidumpass.html#forecast-tab=detail-view 
+
+## 🗓️ Season
+Typically June through late October (conditions permitting)
+{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
 ## 📈 Difficulty
 K3-4. 3 hours Technically only a moderately difficult route, and the west bank is somewhat lacking in variety. By contrast, there is plenty of variety on the inward route, with some short steep passages, traverses which force the climber slightly out from the rock face, and the two highlights mentioned above. Important: pay close attention to the information board at the starting-point, which explains precisely how to use the Tyrolienne traverse. After your "journey into space", first secure yourself again to the via ferrata, and only then unclip yourself from the rope pulley!
@@ -42,6 +47,14 @@ Find the turquoise Zürich Together Banner.
 ## 🚂 Recommended train
 https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EBlatten+b.+Naters+%28Belalpbahn%29_I8530235&day=2026-08-22&time=07_00&moment=dep&trip=0_1
 To reach the Aletsch Via Ferrata (located around the Gibidum Reservoir at the Massa Gorge) via public transport, take a train to Brig station, catch the local Postbus (Route 624) to Blatten bei Naters (20min), and walk about 1 kilometer northeast to the reservoir. The entire trip from Zürich takes roughly 3.5 hours
+
+## 🚗 
+
+## 🅿️ Parking 
+Parking lot at the Gibidum reservoir outside the village of Blatten near Naters (1482m)
+
+## 🗺️ GPX
+{{< gpx-map file="/aletsch.gpx" >}}
 
 ## 🏁 Start
 Blatten (1,327 m) is reached from Brig-Naters via a mountain road. It is possible to drive further, to the artificial lake of the Gibidum-Stausee (1,436 m), where there is parking.
@@ -72,8 +85,9 @@ TODO
 Enough for 3hours of low efforts
 
 ## 🔗 Links
-https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/berggasthaus-taelli-2147000263/
-https://ferrataguide.com/ferrata/T%C3%A4lli_Klettersteig
+- https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/berggasthaus-taelli-2147000263/
+- https://ferrataguide.com/ferrata/T%C3%A4lli_Klettersteig
+- https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/aletsch-via-ferrata
 
 ## 📓 QuickStart guide
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA

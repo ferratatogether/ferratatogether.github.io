@@ -8,7 +8,8 @@ tags:
   - K3
   - K4
   - long
-
+  - valais
+  - saas-grund
 ---
 At 3,206 metres above sea level at its highest, the Jegihorn is the highest Via Ferrata in the Western Alps. 1,000 metres of steel cable, 400 anchor points, and a stomach-churning suspension bridge, several ladders  secure the path.
 
@@ -29,6 +30,10 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 2700m https://www.meteoschweiz.admin.ch/lokalprognose/weissmieshuette-sac.html#forecast-tab=detail-view
 And city 
 https://www.meteoschweiz.admin.ch/lokalprognose/saas-grund/3910.html#forecast-tab=detail-view
+
+## 🗓️ Season
+Typically June through late October (conditions permitting)
+{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
 ## 📈 Difficulty
 K3-K4, +400m, 3h
@@ -95,15 +100,12 @@ It is close to the Bus stop and cable car.
 
 
 ## 🔗 Links
-www.off-the-trail.de/jegihorn 
+- www.off-the-trail.de/jegihorn 
 - https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/
 - https://www.bergsteigen.com/touren/klettersteig/jegihorn-klettersteig/
+- https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/via-ferrata-jaegihorn
 
-## 📓 QuickStart guide
-https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
-
-https://www.shieldmylinks.com/c/p9x7z0nm
-
+## Useful contacts
 Saastal Tourismus AGObere Dorfstrasse 23906 Saas-FeeTel.: +41 (0)27 958 18 58E-Mail: info@saas-fee.chwww.saas-fee.ch
 
 Bergbahnen Hohsaas AGSeilbahnstrasse 183910 Saas-GrundTel.: +41 27 958 15 80E-Mail: info@hohsaas.chwww.hohsaas.ch

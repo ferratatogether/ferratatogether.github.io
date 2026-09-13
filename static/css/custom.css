@@ -1,0 +1,21 @@
+
+.month-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.month-item {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Style for your highlighted months */
+.month-item.highlighted {
+  background-color: #ffdd00;
+  font-weight: bold;
+  border-color: #000;
+}

@@ -5,8 +5,11 @@ summary: ""
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
   - via-ferrata
+  - security
+  - training
+  - self-rescue
+  - rescue
 ---
-
 Security and gear discovery, knowing your equipment meet-up.
 Will be executed in a flat area or on some stairs backward for safety.
 
