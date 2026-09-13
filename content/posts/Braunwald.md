@@ -8,6 +8,7 @@ tags:
   - K3-K4
   - long
   - trek
+  - glarus
 ---
 {{< notice info>}}
 Not executed yet 🥲

@@ -9,6 +9,7 @@ tags:
   - K4
   - long
   - trek
+  - scenic
 ---
 The Sulzfluh via ferrata is a classic, demanding alpine fixed-rope climb scaling the steep south face of the 2,817-meter Sulzfluh peak in the Rätikon range from St. Antönien, Switzerland. 
 Rated K4 to C/D, it features airy traverses, vertical limestone walls, and no early exit points

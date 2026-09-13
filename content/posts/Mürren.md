@@ -7,6 +7,7 @@ tags:
   - via-ferrata
   - overhyped
   - overcrowded
+  - easy
   - not-a-climb
   - easy
   - K3

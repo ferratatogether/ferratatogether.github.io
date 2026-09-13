@@ -5,7 +5,8 @@ summary: "Nestled in the heart of the Swiss Alps, Via Ferrata Brunnistöckli (20
 cover: /img/Brunnistöckli.webp
 tags:
   - via-ferrata
-  - K2
+  - k2
+  - easy
   - short
   - no-trek
   - easy
@@ -68,12 +69,12 @@ https://a.sbbmobile.ch/s/XXXXX
 day pass +30.-  https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html 
 
 ## 🏁 Start
-2.5 hours
+15min walk up
 
 ## 🎯 End
 
 ## 🚶🏻‍♂️ Exit
-1.5 - 2 hours
+10min
 
 ## Travelling home
 by public transportation
@@ -89,7 +90,7 @@ It is recommended to join the right group before the day of the event.
 TODO
 
 ## 🚰 Water
-
+Close to station, 10min away
 
 ## 🛍️ Renting equipment:
 Please send an email now or call and reserve a via ferrata set with helmet

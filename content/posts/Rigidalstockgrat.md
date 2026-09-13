@@ -54,11 +54,23 @@ Find the turquoise Zürich Together Banner.
 
 
 ## 🚠  Cable Car
-from the main station of Engelberg, take the bus to Brunni, a short cable car followed by a chair list
+Brunni-Bahnen Engelberg AG, 6390 Engelberg, Switzerland
+
+From the main station of Engelberg, take the bus to Brunni, a short cable car followed by a chair list
 Cost 27.-
 
 ## 🗺️ GPX
-TODO
+
+I recommend doing the left path (Rigidalstock face (D/K4)) climbing up and going down using the Rigidalstock ridge (C/K3).
+Beginner will prefer doing the Rigidalstock ridge (C/K3) up and down.
+
+### Rigidalstock face (D/K4)
+
+{{< gpx-map file="/rigidalstockwand.gpx" >}}
+
+### Rigidalstock ridge (C/K3)
+
+{{< gpx-map file="/rigidalstockgrat.gpx" >}}
 
 ## 🏁 Start
 1.5 to 2h walk up, +540m T2
@@ -92,8 +104,10 @@ a small artificial lake is welcoming you beside the top of the chairlift. Even j
 ## 🛍️ Renting equipment
 
 ## 🔗 Links
-
-
+- [SAC](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/rigidalstock-1499/klettersteig/klettersteig-rigidalstockgrat-741/)
+- [Outdoor active](https://www.outdooractive.com/en/route/via-ferrata/engelberg/via-ferratas-on-the-rigidalstock-near-engelberg-titlis/800289342/#dmdtab=oax-tab1)
+- [BergFex](https://www.bergfex.com/sommer/luzern-vierwaldstaettersee/touren/klettersteig/616552,klettersteige-brunnistoeckli-und-rigidalstock/)
+- [Viva Ferrata](https://vivaferrata.ch/en/route/brunni-engelberg/rigidalstockgrat?map=8.41145%2C46.84638%2C14)
 
 ## Reviews
 

@@ -6,8 +6,10 @@ cover: /img/hexensteig.webp
 tags:
   - via-ferrata
   - easy
+  - short
   - k2
   - unique
+  - trek-up-demanding
 ---
 A via ferrata inside a mountain? Yes, it’s been there since July 2002, and as is typical of legendary figures, it remained hidden for a long time. 
 

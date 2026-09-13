@@ -5,6 +5,8 @@ summary: "The Schwarzhorn Via Ferrata near Grindelwald is a moderately difficult
 cover: /img/logo.png
 tags:
   - via-ferrata
+  - easy
+  - K1-K2
 ---
 {{< notice info>}}
 Not executed yet 🥲
