@@ -2,7 +2,7 @@
 title: "Hexensteig Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "A via ferrata inside a mountain? Yes, it’s been there since July 2002, and as is typical of legendary figures, it remained hidden for a long time. "
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/hexensteig.webp
 tags:
   - via-ferrata
   - easy

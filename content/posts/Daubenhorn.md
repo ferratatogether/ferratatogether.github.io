@@ -12,10 +12,8 @@ tags:
   - valais
   - leukerbad
 ---
- Leukerbad, Valais, Switzerland.Summit
- 
-Altitude: .
-  
+The Daubenhorn Via Ferrata in Leukerbad is the longest via ferrata in Switzerland.   Over 2,000 meters of steel cable, 216 meters of ladders, and roughly 920 to 1,000 meters of vertical elevation gain.
+   
 ## 📈 Difficulty
 ED (Extremely Difficult), rated K5 to K6.
     

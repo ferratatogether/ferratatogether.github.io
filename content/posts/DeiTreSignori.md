@@ -2,7 +2,7 @@
 title: "Dei Tre Signori Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "The Via Ferrata dei Tre Signori is a highly regarded, modern climbing route located in the Sementina Valley near Monte Carasso / Bellinzona in the canton of Ticino, Switzerland. Known for its eco-friendly construction and breathtaking views over the Piano di Magadino and Monte Tamaro, it features multiple variants suited for different experience levels"
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/deitreisignori.webp
 tags:
   - via-ferrata
   - K5

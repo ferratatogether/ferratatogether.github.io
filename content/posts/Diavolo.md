@@ -2,7 +2,7 @@
 title: "Diavolo Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "A truly spectacular route in the granite rocks of the Schöllenen gorge, albeit with plenty of grass in between. There are fascinating views down into the wild gorge and its roads. With 700 metres of wire rope, 265 iron pins and pitons, artificial footholds and two attached ladders. Not advisable when wet (grass)."
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/diavolo.webp
 tags:
   - via-ferrata
   - k2

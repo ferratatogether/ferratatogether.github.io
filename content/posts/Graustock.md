@@ -2,7 +2,7 @@
 title: "Graustock Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "The via ferrata up the Graustock is undoubtedly part of the Engelberg via ferrata paradise."
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/graustock.webp
 tags:
   - via-ferrata
   - K5

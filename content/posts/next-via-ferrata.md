@@ -1,7 +1,7 @@
 ---
-title: "Our Next via ferrata adventure"
+title: "How to find your Next via ferrata adventure"
 date: 2026-09-13T13:44:17+01:00
-summary: ""
+summary: "How to find your Next via ferrata adventure"
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
   - via-ferrata
@@ -9,7 +9,6 @@ tags:
   - locate-new-ferrata
 ---
 Here is some of the best search engine to find a new via ferrata location:
-
 - https://www.ferratago.com/
 - https://www.bergsteigen.com/touren/klettersteig/
 - https://ferrataguide.com/ferratas/map 

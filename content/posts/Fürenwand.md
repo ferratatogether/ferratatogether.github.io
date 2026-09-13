@@ -2,7 +2,7 @@
 title: "Fürenwand Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "Following 750 m up a steep exposed wall, mostly on metal bars or rods. Very airy throughout the entire route, you should not be afraid of heights on this one."
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/furrenwand.webp
 tags:
   - via-ferrata
   - K5
