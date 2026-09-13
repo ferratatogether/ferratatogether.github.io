@@ -1,5 +1,8 @@
 <iframe src="{{ .Get "src" }}" 
         width="{{ .Get "width" | default "100%" }}"
         height="{{ .Get "height" | default "600" }}"
-        allowfullscreen>
+        allowfullscreen=""
+        style="border:0;"
+        loading="lazy" 
+        referrerpolicy="strict-origin-when-cross-origin">
 </iframe>
