@@ -21,8 +21,11 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
+{{< notice tip>}} 📓 
 Reserve a room, so you can start earlier the climb
 https://www.gemmi.ch/en/
+{{< /notice >}}
+
 
 ## GPX
 {{< gpx-map file="/daubenhorn.gpx" >}}

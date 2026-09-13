@@ -84,9 +84,8 @@ info@jochpass.ch
 ## 🔗 Links
 - https://ferrataguide.com/ferrata/Graustock_Klettersteig
 
-## 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
-
 <img width="474" height="335" alt="grau2" src="https://github.com/user-attachments/assets/f6ae6bf2-bd9f-46c6-92db-2d7759c7380f" />
+
 <img width="474" height="256" alt="grau1" src="https://github.com/user-attachments/assets/ff888489-1b63-45f5-af9d-587f7c66d1a2" />
 <img width="1649" height="1500" alt="grau3" src="https://github.com/user-attachments/assets/ba056dfc-d420-4173-85d4-06fab1b856c1" />
 

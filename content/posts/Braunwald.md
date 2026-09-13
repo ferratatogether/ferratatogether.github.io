@@ -5,6 +5,9 @@ summary: "The via ferratas are located on the Eggstöcke, above the Gumen, which
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
   - via-ferrata
+  - K3-K4
+  - long
+  - trek
 ---
 The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
 The Eggstöcke can also be reached on foot from Braunwald (mountain station of the Braunwald cable car):

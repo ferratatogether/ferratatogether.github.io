@@ -52,7 +52,7 @@ The variant "Freude herrscht" is classified as K4+ in the SAC via ferrata scale.
 ## ⏱️ Duration
 2-3 hours total
 
-## Season
+## 🗓️ Season
 Typically May/June through late October (conditions permitting)
 
 ## ☀️ Weather
