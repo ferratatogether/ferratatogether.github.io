@@ -2,7 +2,7 @@
 title: "How to find your Next via ferrata adventure"
 date: 2026-09-13T13:44:17+01:00
 summary: "How to find your Next via ferrata adventure"
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/logo.png
 tags:
   - via-ferrata
   - search-engine

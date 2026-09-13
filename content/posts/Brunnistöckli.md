@@ -1,34 +1,19 @@
 ---
-title: "Braunwald Ferrata Together"
-date: 2026-01-12T9:44:17+01:00
-summary: "The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car."
-cover: /img/logo.png
+title: "Brunnistöckli Ferrata Together"
+date: 2026-09-13T16:10:17+01:00
+summary: "Nestled in the heart of the Swiss Alps, Via Ferrata Brunnistöckli (2030 m) is a breathtaking adventure that promises to challenge your limits while rewarding you with awe-inspiring views. "
+cover: /img/rigidalstockgrat.webp
 tags:
   - via-ferrata
-  - K3-K4
-  - long
-  - trek
+  - K2
+  - short
+  - no-trek
+  - easy
+  - beginner
+  - engelberg
+  - scenic
 ---
-{{< notice info>}}
-Not executed yet 🥲
-{{< /notice >}}
-
-The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
-The Eggstöcke can also be reached on foot from Braunwald (mountain station of the Braunwald cable car):
-You can see the Glärner mountains from Zurich's Quaibrücke (bridge). When the Föhn wind blows and the air is clear, 
-it even seems to be within walking distance. In fact it is not more than an hour's drive from that metropolis at the lower end of Lake
-Zurich to the wilds of Glarnerland, and there are many, many great days out to be had there - including one of Switzerland's best via 
-ferratas: the Braunwalder. The route received almost 7,000 visits in 2008; probably the Swiss wide record. This figure is known thanks 
-to an automatic passenger counter which was installed before one of the first descent sections on route. Most "ferrastis" also travel by 
-cable car, and also drop into the Berghaus. The route on the Eggstöcken is certainly one of the most beautiful in Switzerland. It consists 
-of three sections: the first two, which are quite amenable, and a final somewhat harder section. For those who have never been on a via ferrata, 
-you can hire equipment and test it out first on a new beginner route above Berghaus Gumen.
-
-Route overview:
-- Circuit Leiteregg (blue) with safety rope (difficulty approx. K3): 2.5 to 3.5 hours.
-- Tour Vorder - Mittler Eggstock (red) with safety rope (difficulty approx. K3): 2.5 to 5.5 hours
-- Tour Vorder - Hinter Eggstock (black) with safety rope (difficulty approx. K5): 5.5 to 6.5 hours
-- NEW: Leiteregg ascent (double track) as a relief route to the previous K3 route (difficulty approx. K5)
+The Via Ferrata Brunnistöckli in Engelberg, Switzerland, is an easy beginner-friendly climbing route (K2 difficulty) featuring iron rungs, two fun suspension bridges, and a 200-meter elevation gain, taking about 45 minutes to ascend. 
 
 {{< notice info>}} 👨‍⚖️
 Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
@@ -38,6 +23,22 @@ Newcomers MUST sign the waiver form, it contains detailed information about the 
 The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
+
+## Route Highlights
+The via ferrata consists of several sections, each offering its own unique challenges.
+
+Highlights include the thrilling Nepomuk Bridge, a suspension bridge that spans a dramatic gap, and the airy “Skywalk” section that provides unparalleled views of the Engelberg Valley.
+
+Suspension Bridges: Crosses two exciting rope bridges that add a great thrill without extreme exposure.
+
+Family Friendly: Perfectly secured with steel cables and rungs, making it ideal for beginners and older children.
+
+Combinations: Can be combined with the more challenging Zittergrat (K4) via ferrata right next to it or the Rigidalstock route
+
+## My notes
+Approach is very easy, light walk from chair lift 15min.
+
+Easy via ferrata, for kids and beginners, you can escape at any time on the left or right and walk down on the ground. You should still not fear heights.
 
 ## ⏱️ Duration
 7-8 hours total
@@ -98,5 +99,3 @@ Please send an email now or call and reserve a via ferrata set with helmet
 - https://glarnerland.ch/en/map/detail-poi/braunwald-via-ferratas--id--tou_s9t_fgcffgvj-igih-eggt-qbau-gsatidcaqcgc.html 
 - https://braunwald.ch/de/sommer/klettersteige.html  
 - https://adrenalin.gl/en/via-ferrata-braunwald 
-
-<img width="1357" height="960" alt="IMG_3842" src="https://github.com/user-attachments/assets/7edb1c75-3a5f-4574-9537-16789c8e182b" />

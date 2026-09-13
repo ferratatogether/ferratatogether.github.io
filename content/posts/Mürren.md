@@ -12,9 +12,13 @@ tags:
   - K3
   - murren
 ---
-This via ferrata features one short section (15m in length) of extreme exposure, where you are attached to a cliff face roughly 600 meters (2000 feet) off of the ground. This can be challenging, even if you do not have a fear of heights.
-
+{{< notice tip>}} 📓 
 Attention! this via ferrata is over hyped and over crowded, only really enjoyable if you never did ANY via ferrata before.
+{{< /notice >}}
+
+The Mürren–Gimmelwald Via Ferrata is one of Switzerland’s most spectacular alpine adventures. Stretching 2.2 km along sheer cliffs high above the Lauterbrunnen Valley, this unique route descends from Mürren to Gimmelwald, crossing ladders, rope bridges, and even a suspension bridge with breathtaking views of the Bernese Alps. Rated as moderately difficult, it’s a thrilling experience for those with a good head for heights, proper equipment, and a sense of adventure.
+
+This via ferrata features one short section (15m in length) of extreme exposure, where you are attached to a cliff face roughly 600 meters (2000 feet) off of the ground. This can be challenging, even if you do not have a fear of heights.
 
 Gloves are MANDATORY, the surface is mostly flat and you need to grab the safety line most of the time. 
 
@@ -26,6 +30,16 @@ Newcomers MUST sign the waiver form, it contains detailed information about the 
 The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
+
+## Highlights (What makes it special)
+
+The descent itself is unusual for via ferratas, so that gives a different experience compared to many which predominantly ascend.)
+
+There are sections with steel ladders, metal rungs, wire ropes securing exposed rocky parts.
+
+A tyrolienne (zip-line) is part of the route — but its use is restricted (only with a mountain guide) and when not in use the route has a bypass (rope bridge).
+
+A suspension bridge (“Nepal bridge”) toward the end provides a dramatic crossing.)
 
 ## ⏱️ Duration
 3+ hours total

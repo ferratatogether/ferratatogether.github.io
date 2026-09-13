@@ -1,0 +1,115 @@
+---
+title: "Rigidalstockgrat Ferrata Together"
+date: 2026-09-13T16:10:17+01:00
+summary: "Nestled within the breathtaking landscapes of Switzerland lies a via ferrata that promises adventure-seekers a long unforgettable journey"
+cover: /img/rigidalstockgrat.webp
+tags:
+  - via-ferrata
+  - K3
+  - K4
+  - long
+  - trek
+  - engelberg
+---
+Nestled within the breathtaking landscapes of Switzerland lies a via ferrata that promises adventure-seekers an unforgettable journey. Via Ferrata Rigidalstockgrat, often referred to as Rigidalstockgrat, is a hidden gem among the Swiss Alps’ many climbing routes. In this blog post, we’ll take you on a virtual tour of this exhilarating via ferrata, sharing all you need to know to prepare for and embark on this thrilling alpine experience. ## Understanding Via Ferrata Before we delve into the specifics of Via Ferrata Rigidalstockgrat, let’s clarify what a via ferrata is. Originating from Italian, “via ferrata” translates to “iron path.” These climbing routes are characterized by steel cables, ladders, and rungs anchored to the rock, allowing climbers to ascend steep terrain safely. Via ferratas blend the thrill of climbing with the accessibility of hiking, making them accessible to a wide range of adventurers.
+
+{{< notice tip>}} 📓 
+Time is your worst enemy! you can NOT start aroung 9:00AM and do Brunnistockli or Zittergrat and then RIgidalstockgrat! You ll have to run down to not miss the last cable car. Start Earlier
+{{< /notice >}}
+
+{{< notice info>}} 👨‍⚖️
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
+{{< /notice >}}
+
+{{< notice tip>}} 📓 
+The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+{{< /notice >}}
+
+## ⏱️ Duration
+7 hours total
+
+## 🗓️ Season
+Typically June through late October (conditions permitting)
+{{< months highlight="6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+
+## ☀️ Weather
+Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
+
+{{< weather lat="46.4958" lon="7.6732" name="Kandersteg" >}}
+
+https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
+
+## 📈 Difficulty
+K3-K4
+
+## 📍 Meeting Point
+05:45AM  Zürich HB, Main Meeting point, around the clock
+Find the turquoise Zürich Together Banner.
+
+## 🏁 Time of leaving
+5:55AM to platform 10
+
+## 🚂 Recommended train
+
+
+## 🚠  Cable Car
+from the main station of Engelberg, take the bus to Brunni, a short cable car followed by a chair list
+Cost 27.-
+
+## 🗺️ GPX
+TODO
+
+## 🏁 Start
+1.5 to 2h walk up, +540m T2
+
+## 🎯 End
++180m
+
+## 🚶🏻‍♂️ Exit
+3h walk down to chairlift
+
+## 🏡 Travelling home
+by public transportation
+
+## 💬 WhatsApp group
+
+### Ferrata Together main group
+Join the main WhatsApp group to be informed about next events (optional)
+https://links.waltercedric.com/ferratatogether
+
+### Allmenalp WhatsApp group
+Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
+It is recommended to join the right group before the day of the event.
+
+## 🚰 Water
+The route is exposed to the sun from 9:00 in summer, throughout the season. 
+No access to water for 7 hours!
+
+## 🏊 Lake
+a small artificial lake is welcoming you beside the top of the chairlift. Even just putting your feets inside is great after this long day!
+
+## 🛍️ Renting equipment
+
+## 🔗 Links
+
+
+
+
+
+
+
+
+## Reviews
+
+The uphill approach walk is really demanding, took me 2h without break from Brunnistöckli. The walk ended being more difficult than the K3 due to the steepness, small rocks limiting speed and making the road hazardous. A good self balance and sure footness is required!
+
+There is no water source on the road, I recommend to have 3 litres or more and hide the bottles on the path up to avoid transporting them to the summit and down. I was having 0.5 liter water and when back at the station drank 1.5l in one shot: I was clearly dehydrated!
+
+Reserve enough time! 2h uphill approach, 1.5h climbing, 45min climbing down and 2h walk to reach the valley. Last chair-lift at 16:30, Last cable car at 17:00 It is a lot colder than in the middle station, summit via ferrata is at 2593m, so be prepared and use a wind stopper coat.
+
+The walk is really demanding, expect to suffer a lot more than on the via ferrata! Don’t go left at the beginning of the via ferrata: on the left (Rigidalstockgrat west) this is a K4, K4.5 (a wall): it is not for beginner! you can only go uphill.
+
+Experienced climbers start with the Rigidalstockgrat west (K4-K4.5) and go down with the Rigidalstockgrat (K3). I met some experienced climbers and they said the track has changed and some part is now a K4.5. The Rigidalstockgrat is K3 and easy, You won’t fear heights.
+
+One section of this via ferrata is difficult, where there are 5 stairs, use the steel cable if you feel in danger, are panicking, with your both hands. You will have to climb this via ferrata up and then down.

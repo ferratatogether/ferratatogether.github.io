@@ -2,7 +2,7 @@
 title: "Daubenhorn"
 date: 2026-01-12T9:44:17+01:00
 summary: "The Daubenhorn Via Ferrata in Leukerbad is the longest via ferrata in Switzerland.   Over 2,000 meters of steel cable, 216 meters of ladders, and roughly 920 to 1,000 meters of vertical elevation gain."
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/logo.png
 tags:
   - via-ferrata
   - difficult
@@ -12,6 +12,10 @@ tags:
   - valais
   - leukerbad
 ---
+{{< notice info>}}
+Not executed yet 🥲
+{{< /notice >}}
+
 The Daubenhorn Via Ferrata in Leukerbad is the longest via ferrata in Switzerland.   Over 2,000 meters of steel cable, 216 meters of ladders, and roughly 920 to 1,000 meters of vertical elevation gain.
    
 ## 📈 Difficulty

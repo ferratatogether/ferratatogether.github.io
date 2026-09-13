@@ -2,7 +2,7 @@
 title: "Aletsch Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "A via ferrata in a lakeside setting, arranged with great originality and with plenty of ironwork: ideal for scrambling up the steep rock above the water. Special highlights are the giant suspension bridge and the final Tyrolienne traverse (can be bypassed if necessary)."
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: /img/logo.png
 tags:
   - via-ferrata
   - K3
@@ -10,6 +10,10 @@ tags:
   - short
   - valais
 ---
+{{< notice info>}}
+Not executed yet 🥲
+{{< /notice >}}
+
 A via ferrata in a lakeside setting, arranged with great originality and with plenty of ironwork: ideal for scrambling up the steep rock above the water. Special highlights are the giant suspension bridge and the final Tyrolienne traverse (can be bypassed if necessary).
 
 The via ferrata starts immediately from the car park above the concrete wall. Well-secured, you climb through a channel down to the water, before heading into the valley using natural and (a large number of) artificial steps, your left side attached to the wire rope, walking "au bord du lac". When the lake is full, you come very close to the (milky-green) water at several points, each time before making short climbs. The opposite bank gradually comes closer, and then you catch sight of the absolute highlight on this route, the longest via ferrata suspension bridge in the Alps. After this aerial walk high above the (ice-cold) glacier water, the route heads back along the Eastern bank. The steep rocks of the Stockflüe call for a vigorous effort, and this is followed by a few very open traverses which also force the climber slightly out from the rock face (including some with wooden safety beams); depending on the water level, the degree of clearance varies. Lastly, you have the Tyrolienne traverse, which it is now possible to bypass. One tip for this is to use the rope which pulls the pulley along as a brake.

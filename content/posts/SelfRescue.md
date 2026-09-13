@@ -1,8 +1,8 @@
 ---
 title: "Security and gear discovery meet-up"
 date: 2026-01-12T9:44:17+01:00
-summary: ""
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+summary: "Security and gear discovery, knowing your equipment meet-up."
+cover: /img/logo.png
 tags:
   - via-ferrata
   - security
