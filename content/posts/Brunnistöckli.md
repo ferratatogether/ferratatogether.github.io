@@ -2,7 +2,7 @@
 title: "Brunnistöckli Ferrata Together"
 date: 2026-09-12T16:10:17+01:00
 summary: "Nestled in the heart of the Swiss Alps, Via Ferrata Brunnistöckli (2030 m) is a breathtaking adventure that promises to challenge your limits while rewarding you with awe-inspiring views. "
-cover: /img/rigidalstockgrat.webp
+cover: /img/Brunnistöckli.webp
 tags:
   - via-ferrata
   - K2
