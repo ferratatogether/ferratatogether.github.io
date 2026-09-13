@@ -112,4 +112,23 @@ Bergbahnen Hohsaas AGSeilbahnstrasse 183910 Saas-GrundTel.: +41 27 958 15 80E-Ma
 
 WeissmieshütteFamily Carla & Roberto Arnold3910 Saas-GrundTel. +41 27 957 25 54E-Mail: huette@weissmieshuette.chwww.weissmieshuette.ch
 
+## My review
+Beginner friendly but demanding and long day 7h minimum
+
+- Very scenic, red stone, lunar, very high
+- Most beautiful we made
+- Highest via ferrata 3206m
+- Access 2h up 500m
+- Climb 600m
+- No help of iron steps, only safety cable, grab rocks and use shoes friction. Use side-pulls, stemming, and body-spreading against opposing rock faces. More a real climb than a via ferrata 
+- Exit down very demanding 2.5h+ -1100m
+- Run if you start at 9:00 to catch last cable car at 5:45, better start at 7:00
+- Impressive bridge but easy at the end
+- After bridge, on top rated K5/K6, lot of frictions and demanding
+- Before bridge on right side a K3 if you are not sure
+- No access to water for 7h
+- Less oxygen at 3200m, possible dizziness
+- 👙🩳 Nice artificial lake to put your feet on or swim after the climb if you have time
+
+## Topography
 <img width="597" height="842" alt="jegi2" src="https://github.com/user-attachments/assets/225b4f66-05bf-411c-81e7-66064919e64e" />

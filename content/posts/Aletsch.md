@@ -93,7 +93,3 @@ Enough for 3hours of low efforts
 - https://ferrataguide.com/ferrata/T%C3%A4lli_Klettersteig
 - https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/aletsch-via-ferrata
 
-## 📓 QuickStart guide
-https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
-
-  

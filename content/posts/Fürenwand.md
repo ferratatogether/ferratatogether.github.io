@@ -84,4 +84,18 @@ you can rent at the cable car station
 - https://www.instagram.com/reel/DRAN2p6DUiT/?igsh=MTkxbjhpNzNkZ2d5Yw%3D%3D
 - https://www.fuerenalp.ch/klettersteig
 
+## My review
+Beginner friendly if you master techniques
+
+- Easy access
+- Scenic
+- Vertical +700m
+- Trek in the middle of the wall
+- Last ladder 40m is rated K5, use proper technique to pass it
+- Easy exit to restaurant 15min 
+- Cable car down or trek
+- 👙🩳 very small water reservoir at the top (left path after door), good for feet or short body immersion
+
+## Topography
+
 <img width="474" height="670" alt="Image 25 08 2026 at 20 04" src="https://github.com/user-attachments/assets/7730d308-1bba-42bf-b11e-6b8874719e1b" />

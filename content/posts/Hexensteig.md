@@ -110,8 +110,16 @@ Decathlon https://rent.decathlon.ch/de/de-8754883
 - https://swissfamilyfun.com/seewlisee-alpine-lake-hike/
 - https://swissfamilyfun.com/golzernsee/
 
-📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+## My review
+- In a small village Silenen not very touristic, at the limit of confidentiality
+- Limited parking 6 cars near cable car, narrow roads or inside the village
+- Scenic and vintage cable car (sit in front row on the way back), toilets and limited drink at the top, no infrastructure for visitors
+- Exhausting steep access, +500m, 1h13
+- Easy and nice via ferrata inside a cave, but short. You can do nice pictures inside
+- Easy exit 1.5h partially on same steep path
+- 👙🩳 alpine lake 4h away or with another cable car a smaller lake but car 20min required + cable car 13 CHF + 30min walk
 
+## Topography
 <img width="1381" height="1000" alt="IMG_4038" src="https://github.com/user-attachments/assets/a174863a-45d9-403f-9e49-fb7a6d2a7882" />
 <img width="595" height="842" alt="96a6267e-b892-4a49-bf90-d8962fc28eb5" src="https://github.com/user-attachments/assets/678fcd5a-5b29-4109-a374-b08d97cb189d" />
 <img width="350" height="501" alt="00d642dd-93a8-4dc1-b2c1-0c76a20a32c8" src="https://github.com/user-attachments/assets/7335d47d-1281-4557-a20b-93c1b1461b83" />

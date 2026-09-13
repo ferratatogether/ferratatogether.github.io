@@ -74,6 +74,18 @@ https://links.waltercedric.com/deitreisignoriferratatogether
 Restaurant near cable car at the top.
 Equipment rental at Grotto Mornera to be booked at 091 825 84 38 (helmet + set CHF 30.00) Or bringing your own Via Ferrata complete set.
 
+## My review
+Beginner friendly (right path)
+
+- Scenic but not much, forest
+- Access 45min walk, 15min up then flat in the forest
+- Exit 45min flat then down
+- Cable car ticket must be reserved online
+- More some incline walls and ridge climb
+- No help of iron steps, only safety cable, easy to grab rocks and use shoes friction
+- Recommend to do right path then trek down 15min then do the left more difficult path (technically demanding, physically brutal)
+
+## Topography
 <img width="1021" height="663" alt="dei2" src="https://github.com/user-attachments/assets/31bf4fee-746d-4215-bd27-cbf754eaf788" />
 <img width="474" height="669" alt="dei1" src="https://github.com/user-attachments/assets/755aa6cf-f1ea-494d-894b-34ad1dec0931" />
 

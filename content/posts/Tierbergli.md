@@ -73,12 +73,23 @@ enough for 3+2.5 = 5.5hours of efforts
 - https://www.bergsteigen.com/touren/klettersteig/tierbergli-klettersteig/
 - https://www.komoot.com/highlight/582275
 
-📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
-
 Berggasthaus Tälli
 Mountain cabin in Innertkirchen
 www.taelli.ch
 033 975 14 10
 
+## My review
+Beginner friendly but demanding and long day
+
+- Scenic
+- Vertical but not much
+- Easy access 3min from parking (7 CHF)
+- Easy climb with some trek to make it to next sections
+- Demanding exit 45min to restaurant
+- Demanding path down T3+ of 2.5h back to parking
+- 👙🩳 small lak 15min right to the path when going down, glacier water so cold
+Easier and faster access by car then SBB
+
+## Topography
 <img width="474" height="669" alt="tierbergli" src="https://github.com/user-attachments/assets/11250a51-a081-4530-8c00-229cd3760419" />
 

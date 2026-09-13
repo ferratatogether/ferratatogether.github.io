@@ -112,7 +112,7 @@ In the afternoon, the wall is in the shadows, even if air is 17°C, wihtout wind
 No access to water for 2 hours!
 
 ## 🏊 Lake
-if we go to oschinensee (+22.50.- for cable car back and forth) in the afternoon, consider bringing towel and 
+if you finish early, possibility to go to OeschninenSee in the afternoon  (+22.50.- CHF cable car) but over crowded lake
 
 ## 🛍️ Renting equipment
 Please send an email now or call and reserve a via ferrata set with helmet for this satursday:
@@ -126,4 +126,20 @@ Renting Equipment (+25 CHF max)
 
 ## 🔗 Links
 
+
+## My Review
+Beginner friendly if no fear of heights
+
+- Scenic, cascade, view
+- Vertical 400m
+- Easy access 15min from parking and rental
+- Easy exit 15min to restaurant
+- The cable car is currently broken! Add 2h of demanding trek down
+- Lots of irons steps 900x, easy climb
+- Left path K4 “Freude Herscht” more vertical, difficult and … a bit boring but it has the Swiss flag for nice pictures
+- Right path K3 more diverse (ridge, shadow, cascade)
+- No shadow after 9:00 can be hot even with 17°C air
+- Can be overcrowded during weekends, a 1h20 “Freude Herscht” for experienced climbers can be 3 or 4h or worse, so start early before 9:00
+
+## Topography
 <img width="1240" height="1754" alt="IMG_3177" src="https://github.com/user-attachments/assets/c0e6241e-83fa-46f8-aa76-793df21a1858" />

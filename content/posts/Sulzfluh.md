@@ -123,6 +123,14 @@ If you are driving or taking the post bus up from the main valley, you can stop 
 - https://www.myswitzerland.com/en/experiences/fixed-rope-route-sulzfluh/
 - https://www.praettigau.info/en/tours/via-ferrata-partnunblick-st-antonien
 
+## My review
+- demanding trek up, up 800m
+- Climb was easy but reuire some climbing technique, you dont have everywhere irons to helpo
+- Take attention to small stones on path during climb, dont let them fall down!
+- The most beautiful landscape at the top 
+- Trek down (-1000m) is very nice and diverse but long and demanding, at some place even dangerous 
+
+## Topography
 <img width="1357" height="1920" alt="sulzfluh_topo1" src="https://github.com/user-attachments/assets/3632310f-e6df-4d4c-a35d-8a2eabaafb9f" />
 <img width="1280" height="1462" alt="sulzfluh_topo2" src="https://github.com/user-attachments/assets/078f828e-e717-4a8d-b869-8a9ea762f825" />
 <img width="1050" height="560" alt="sulzfluh_topo2" src="https://github.com/user-attachments/assets/d6a5040e-beb6-4bec-a532-9da504fa55c6" />

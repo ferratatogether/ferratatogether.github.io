@@ -1,6 +1,6 @@
 ---
 title: "Brunnistöckli Ferrata Together"
-date: 2026-09-13T16:10:17+01:00
+date: 2026-09-12T16:10:17+01:00
 summary: "Nestled in the heart of the Swiss Alps, Via Ferrata Brunnistöckli (2030 m) is a breathtaking adventure that promises to challenge your limits while rewarding you with awe-inspiring views. "
 cover: /img/rigidalstockgrat.webp
 tags:
@@ -99,3 +99,6 @@ Please send an email now or call and reserve a via ferrata set with helmet
 - https://glarnerland.ch/en/map/detail-poi/braunwald-via-ferratas--id--tou_s9t_fgcffgvj-igih-eggt-qbau-gsatidcaqcgc.html 
 - https://braunwald.ch/de/sommer/klettersteige.html  
 - https://adrenalin.gl/en/via-ferrata-braunwald 
+
+## My review 
+- Easy K2 Brunni to get a first taste of via ferrata

@@ -91,6 +91,22 @@ Mountain cabin in Innertkirchen
 www.taelli.ch
 033 975 14 10
 
+## My review
+Beginner friendly but demanding and long day 7h minimum
+
+- Very scenic
+- Nice Hütte with easy access
+- Very very easy lot of iron steps, ladder 19
+- Rated at 3h and you need them
+- Access 45min from Hütte
+- Cable car 18.- back and forth self service from parking
+- Exit 2h demanding path down at beginning, last part is +200m and total 1100m down
+- No access to water for 7h
+- Easier and faster access by car then SBB
+- Possibility to drive the Sustenpass up and down	
+- 👙🩳 River and lake 2km away right side of the road when driving to the Sustenpass.
+
+## Topography
 <img width="474" height="669" alt="talli2" src="https://github.com/user-attachments/assets/6e7d856f-f4a3-42cf-9784-50250bf6d7ed" />
 <img width="474" height="244" alt="talli1" src="https://github.com/user-attachments/assets/c03f7585-3b58-44fc-a309-7e842085d040" />
 

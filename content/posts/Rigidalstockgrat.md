@@ -1,6 +1,6 @@
 ---
 title: "Rigidalstockgrat Ferrata Together"
-date: 2026-09-13T16:10:17+01:00
+date: 2026-09-12T16:10:17+01:00
 summary: "Nestled within the breathtaking landscapes of Switzerland lies a via ferrata that promises adventure-seekers a long unforgettable journey"
 cover: /img/rigidalstockgrat.webp
 tags:
@@ -113,3 +113,15 @@ The walk is really demanding, expect to suffer a lot more than on the via ferrat
 Experienced climbers start with the Rigidalstockgrat west (K4-K4.5) and go down with the Rigidalstockgrat (K3). I met some experienced climbers and they said the track has changed and some part is now a K4.5. The Rigidalstockgrat is K3 and easy, You won’t fear heights.
 
 One section of this via ferrata is difficult, where there are 5 stairs, use the steel cable if you feel in danger, are panicking, with your both hands. You will have to climb this via ferrata up and then down.
+
+Beginner friendly but demanding and long day
+
+- Rigidalstockgrat demanding trek up of 2h
+- Left path is a light K4+
+- Right path is K3 and can be climb up and down climb
+- Recommend to do Left path up and right path down or do right path up and down
+- Attention down climbing is not so easy for some people
+- Demanding trek down of 3h
+- No access to water for 7h
+- The last cable car is too early! Don’t do Brunnistockli and Rigidalstockgrat or start very very early (not around 9:00!)
+- 👙🩳 Nice artificial lake to put your feet on or swim after the climb if you have time

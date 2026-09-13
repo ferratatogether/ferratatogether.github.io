@@ -71,5 +71,3 @@ Travelling home: by public transportation
 - https://www.myswitzerland.com/en-ch/experiences/eiger-rotstock-via-ferrata-with-a-feel-of-the-north-face/
 - https://www.alltrails.com/trail/switzerland/bern/klettersteig-rotstock-via-eigertrail
 - https://thesevereclimber.com/2013/07/22/rotstock-via-ferrata/
-
-📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA

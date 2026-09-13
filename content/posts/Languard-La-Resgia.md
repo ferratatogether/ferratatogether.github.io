@@ -95,6 +95,30 @@ Please send an email now or call and reserve a via ferrata set with helmet for t
 - https://ferrataguide.com/ferrata/Klettersteig_La_Resgia
 - https://www.bergsteigen.com/touren/klettersteig/klettersteig-la-resgia/
 
+## My review
+
+### La Resgia:
+- No easy via ferrata rental
+- Easy access in 15min T1 from bus station Pontresina, Palü
+- Well secured and easy
+- At one point K3 or K4 that rejoin later
+- Did K4, has overhand and force changing side on a ridge, original but require technique and strength
+- Nice big wood seat in the middle to enjoy the panorama 
+- Steel nest at one point require proper locking and hurt a bit the arm 
+- Going back by chair lift is 20.5.- CHF
+- 👙🩳 River and small dam at the top, head to the right path, there is a small river dam to bath into (before the one with wood fences)
+
+### Languard
+- Can be done after La Resgia 
+- Easy access 25min easy T2 slightly up but continuous 
+- Short and intense climb, lot of overhang that require upper arm strength and straight arms techniques
+- Being tall is a plus
+- Exit trek easy T1 less than 10min to restaurant a bit pricey because accessible by chair lift
+- Cold wind while seated in restaurant terrasse, don't forget a wind stopper.
+- Retour walking down or taking chair lift 
+- Going back by chair lift is 20.5.- CHF
+
+## Topography
 <img width="769" height="906" alt="La Resgia" src="https://github.com/user-attachments/assets/032160e9-a5c4-4979-814d-196a8e91db31" />
 <img width="1240" height="716" alt="La Resgia2" src="https://github.com/user-attachments/assets/ffbcc8dc-956d-460a-9778-124d305226f9" />
 <img width="1280" height="1779" alt="IMG_4387" src="https://github.com/user-attachments/assets/eaf7d906-4e11-4cef-b4e8-f1e83fa15598" />

@@ -96,6 +96,19 @@ INSPORT: +41 33 855 21 88
 - https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/muerrenbachfall-8215/klettersteig/klettersteig-muerren-1846/
 - [https://lauterbrunnen.swiss/de/entdecken/erlebnisse/klettersteig-muerren-gimmelwald.html](https://lauterbrunnen.swiss/de/entdecken/erlebnisse/klettersteig-muerren-gimmelwald.html)
 
+## My review
+Beginner friendly if no fear of heights
+
+- Ridiculously over hyped and over crowded
+- 3h but could be 5h because over crowded by total newbies and groups
+- Easy access 3min from rentals
+- 3 bridge and climb down -170m
+- Easy exit 15min and cable car back to Mürren
+- Not a climb but a trek down and walk in the wood 80% of time
+- 15min instagrammable because of depth
+- Last bridge 120m length is great
+
+## Topography
 <img width="887" height="572" alt="muerren-topo" src="https://github.com/user-attachments/assets/50f056d0-015e-457c-ac01-717ed688ee41" />
 
 

@@ -88,6 +88,16 @@ info@jochpass.ch
 ## 🔗 Links
 - https://ferrataguide.com/ferrata/Graustock_Klettersteig
 
+## My review
+- Easy access by cable car, 15min walk to chairlift to Jochpass trubsee. A short walk up of 1h
+- First 2 section are rated really low and can be boring, more a walk and light climb
+- The 3rd section is rated K5 but stays easy with proper techniques and if you are a bit tall.
+- Vertical and height are there but not overly present.
+- We miss the last section to the summit, rated A/B to the top so be careful
+- The walk back is an easy path down, above 1h, but in the middle you can lose your path, so take your time.
+- 👙🩳 Lake Trubsee after the chairlift while going back, can be really cold in september!
+
+## Topography
 <img width="474" height="335" alt="grau2" src="https://github.com/user-attachments/assets/f6ae6bf2-bd9f-46c6-92db-2d7759c7380f" />
 
 <img width="474" height="256" alt="grau1" src="https://github.com/user-attachments/assets/ff888489-1b63-45f5-af9d-587f7c66d1a2" />

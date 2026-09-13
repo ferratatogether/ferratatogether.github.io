@@ -69,5 +69,3 @@ Travelling home: by public transportation
 - https://ferrataguide.com/ferrata/Schwarzhorn-Klettersteig
 - https://www.komoot.com/highlight/589532
 
-  
-📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA

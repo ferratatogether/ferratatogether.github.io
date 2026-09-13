@@ -88,3 +88,15 @@ Call ASAP to reserve
 - https://www.bergsteigen.com/touren/klettersteig/la-farina-del-diavolo-ferrata/
 - https://www.mountainreporters.com/gebieden/midden-europa/zwitserland/adrenaline-voor-beginners-klettersteig-diavolo-in-andermatt/
 - https://www.youtube.com/watch?v=G1xWglqVZ9M
+
+## My review
+Beginner friendly K2
+
+- Very scenic
+- Very very easy, lot of pig tail and iron steps
+- Not vertical, more an inclined wall, you can walk like a dog :-)
+- Rated at 2h, finished in 1.2h if experienced, take last part optional K3
+- Easy access mostly flat 15min from main station andermatt
+- Easy exit, 15min up then down 90min in the shadow of the forest
+- Andermatt not so nice as a city
+- Shop and WC in train station
