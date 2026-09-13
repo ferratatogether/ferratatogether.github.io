@@ -19,6 +19,21 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
+## ☀️Weather
+Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
+https://www.meteoschweiz.admin.ch/lokalprognose/gibidumpass.html#forecast-tab=detail-view 
+
+## ⏱️ Duration
+2-3 hours total
+
+## 📍 Meeting Point
+05:45AM  Zürich HB, Main Meeting point, around the clock
+Find the turquoise Zürich Together Banner.
+
+## 🏁 Time of leaving
+5:55AM to platform 10
+
+## 🚂 Recommended train
 There is no transport organised, no Bus.You can travel with the organiser Cédric Walter from Zürich HB using SBB, meeting up below the Blue Engel at 6:45 sharp
 SBB Train
 Transport by train to monte-carasso or you organise your own transportation
@@ -32,14 +47,23 @@ Zürich HB  -> Monte Carasso, Urènn/Funivia
 ->Bellinzona Kante B at 08:52
 ->Monte Carasso at 09:03
 
-Cable car 
-Cable car cost CHF 21.00 both way (In case of emergency cable car staff can be reached at the following phone number +41 91 825 81 88.)
+## 🚠  Cable Car
+{{< notice info>}} 👨‍⚖️
 You must reserve your seats using this link https://www.mornera.ch/en/cable-car/.
 1. Monte-Carasso to Mornera at around 9:15
 2. Mornera to Monte-Carasso at around 17:15
+{{< /notice >}}
+
+Cable car cost CHF 21.00 both way (In case of emergency cable car staff can be reached at the following phone number +41 91 825 81 88.)
+
+{{< notice info>}} 👨‍⚖️
+If you miss your time slot, or somebody take your seat (punch it!) you'll have to wait till there is a no show or enough space in the cabin!
+This could be after 19:20 or later. A lot of locals are going down late with their garbage bag.
+{{< /notice >}}
+
 
 ## GPX
-{{< gpx-map file="/deitreisignori.gpx" >}}
+{{< gpx-map file="deitreisignori.gpx" >}}
 
 
 Via Ferrata kit rental
