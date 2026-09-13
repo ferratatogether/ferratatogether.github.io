@@ -27,25 +27,15 @@ https://www.meteoschweiz.admin.ch/lokalprognose/gibidumpass.html#forecast-tab=de
 2-3 hours total
 
 ## 📍 Meeting Point
-05:45AM  Zürich HB, Main Meeting point, around the clock
+6:45 AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
 ## 🏁 Time of leaving
-5:55AM to platform 10
+7:00AM to platform 10
 
 ## 🚂 Recommended train
-There is no transport organised, no Bus.You can travel with the organiser Cédric Walter from Zürich HB using SBB, meeting up below the Blue Engel at 6:45 sharp
-SBB Train
-Transport by train to monte-carasso or you organise your own transportation
-
-So. 03.05.2026, 1 Stunde 58 Minuten
-
-Zürich HB  -> Monte Carasso, Urènn/Funivia 
-
-->Zürich HB Gleis 8 at 07:05
-->Bellinzona Gleis 3 at 08:42
-->Bellinzona Kante B at 08:52
-->Monte Carasso at 09:03
+- 1 Stunde 58 Minuten
+- Zürich HB  -> Monte Carasso by train then take the bus to Urènn/Funivia 
 
 ## 🚠  Cable Car
 {{< notice info>}} 👨‍⚖️
@@ -62,11 +52,11 @@ This could be after 19:20 or later. A lot of locals are going down late with the
 {{< /notice >}}
 
 
-## GPX
-{{< gpx-map file="deitreisignori.gpx" >}}
+## 🗺️ GPX
+{{< gpx-map file="https://ferratatogether.github.io/deitreisignori.gpx" >}}
 
-
-Via Ferrata kit rental
+## 🛍️ Renting equipment
+Restaurant near cable car at the top.
 Equipment rental at Grotto Mornera to be booked at 091 825 84 38 (helmet + set CHF 30.00) Or bringing your own Via Ferrata complete set.
 
 <img width="1021" height="663" alt="dei2" src="https://github.com/user-attachments/assets/31bf4fee-746d-4215-bd27-cbf754eaf788" />

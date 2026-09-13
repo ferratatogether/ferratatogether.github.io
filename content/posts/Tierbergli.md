@@ -38,6 +38,8 @@ XXXAM to platform XXX
 
 ## 🚂 Recommended train 
 
+## 🗺️ GPX
+
 ## 🏁 Start
 1726m, 4min, parking 
 

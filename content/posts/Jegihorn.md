@@ -52,8 +52,8 @@ Walk T3, +480m, 1h30 to start of climb
 ## 🚠 Cable Car
 08:00 to 16:30 https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund 
 
-## GPX
-{{< gpx-map file="/jegihorn.gpx" >}}
+## 🗺️ GPX
+{{< gpx-map file="https://ferratatogether.github.io/jegihorn.gpx" >}}
 
 ## 🏁 Start 
 2800m  

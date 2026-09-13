@@ -43,8 +43,8 @@ https://a.sbbmobile.ch/s/LpBaNchl
 - Trubsee chairlift to Jochpass
 Both costs 25.- with Half Fare back and forth
 
-## GPX
-{{< gpx-map file="/graustock.gpx" >}}
+## 🗺️ GPX
+{{< gpx-map file="https://ferratatogether.github.io/graustock.gpx" >}}
 
 ## 🏁 Start
 1.5H

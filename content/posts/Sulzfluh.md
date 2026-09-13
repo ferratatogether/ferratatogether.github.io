@@ -62,6 +62,8 @@ Bus from Küblis railway station to Rüti or parking lots below Partnun (1620 me
 ## 🚠 Cable car
 None
 
+## 🗺️ GPX
+
 ## 🏁 Start 
 Approach and Via Ferrata Details: From Berghaus Alpenrösli, follow the white-blue-white alpine trail signs toward Carschinahütte. Follow sign "Klettersteig/Via Ferrata".
 The approach to the start of the Sulzfluh via ferrata from the Berghaus Alpenrösli takes about 1 to 1.5 hours of hiking, from 1770m to entry wall at roughly 2360m, so a nice exhausting walk of +600m elevation 🙄

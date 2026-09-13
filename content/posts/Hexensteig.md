@@ -34,23 +34,29 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
-⏱️ Duration 4 hours total min
+## ⏱️ Duration
+4 hours total min
 
-☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
+## ☀️Weather
+https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
 
-📈 Difficulty: K3-K4 or C-D, +90m, 1h
+## 📈 Difficulty
+K3-K4 or C-D, +90m, 1h
 
-📍 Meeting Point: 7:50AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
+## 📍 Meeting Point
+7:50AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
 
-🏁 Time of leaving: 8:05AM to platform 6
+## 🏁 Time of leaving
+8:05AM to platform 6
 
-🚂 Recommended train: 
+## 🚂 Recommended train
 - https://a.sbbmobile.ch/s/PL4hAouP
 - At Ertsfeld train station you take a bus for 6 min to Silenen Dägerlohn bus station 
 https://www.sbb.ch/en/trip?tripId=3HA.eNqllN1u2kgUx0XSLV32zlcb-qFRjVaV0oiZ8Xg8joSEMRC-P4wBw01FjfkKGGJC6qK-y96stG-Qq71K36MvUGlfYdc2EKfNai92x9LM-Y_8O-fM8RzH_oxyX6N3t4Vy8e5WTygplK6n-p__cKbmBBQyaSPFRAIxQuleikiCxJAkpSveJhQghOlBCmGW3mM5Z309suZDH6IiJCLxIcowFIiwg0SEyAHCEFPIPDcMiqGQMUkUNUAowAQJiQRKBOPu9-5_i_It9BZkBhN7shztaSrBA00gDWhJEhh9lKOf1gPBEg8y0_9nkB3dms4t27Lfguzn38aWM19O7ICnMpSC6lNJxj61OyKljwspC-ihEBMZQCACCLEw29uyenfLd3I85tU8jyDkVYX3pqo3tYqqziNeqfKIEip6BvZ2FR0qNb6e5XlN5wXK-y72PiCf0y54gS8Ua76tlnlBogIWP4ULQfcL9J5AYEo_CZ7AwdYZRkQiTKCE-b61g3PkqZZno3cFsi4qu6EqGNeN9k22mmldJNlGdKY1B21X275sdgpKoyIV22Nj2UQLF62qN1W3UjaSQr-aaw4zpmjYDXNLFptCrpYvDSoTt9kiedYlg_Y6L1-W26NaY5mpFWuypjCmJVtXyqViddZuyy3UPnZWzWGvP9ZUnLQyWfMy-aFnNMu5U9pVO9vLrrJxZJgdlZzsDHU3jffGTW-pd5fbTQMPe7UPPVYSrStxPBoz470u1c0W2Ug3E-QQ0VVXA6s-0426aU_ri8asbXSW_Y6TFE_7-fXImdnO4jo7Rc0rFzaQOnanczo1uxXVvfho26U-q5S6uj2aDwelsbucjfBKZKOOWYUXSB2Itn2amaioPL-eK01F4b5EuEQsum9g7sS_L2eQnQlQh-wciucQnkLszVw0dowkCiLcT8Hr2Lu94GgvROiJ41BQ8CQUEvjhIBDC4GkoBBDlfjkIEv8muHyOyX1w8Cz-c-yoqHFHhMaf-H-C10-9dKHXQs9ev4xFFO5IA-Cvw4i8CU1uEftRMU1rva5YYy55H437l2gP6AAI2vNReuwfgV8juyMFzPdBBBQyJ7s6MIZkBuI74UMSeB4KBl6EQgYvD-Xy2v37fITwW4FX8ZNYJMMde-0eP_b6PagWQ_TNCXz1NzJpjnI.eNqrVirLTCxWsoqO1QGz_PJLkDkhRYl5xWmpRRCx1IrknNKUVJfEktSUsNSMzOScVK_80qK81EqoCf5KVkoWpgbGBgYGSjpKLhCeqZmZCZCXAuQZGRiZ6RpY6BqDpIEWKRmYW4GVJgLZfkA6B0g7Auk8Jau80pwcHaVckMG1AJjQLks&leg=3
 - At Silenen Dägerlohn bus station you need to walk 10min to the cable car parking and meeting point  https://www.google.com/maps/dir/Silenen,+Dägerlohn,+6473+Silenen/Luftseilbahn+Chilcherberg,+Brandistrasse,+6473+Silenen/@46.7914617,8.6702083,358m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47856a174f376345:0x2a965629372f7ba2!2m2!1d8.669075!2d46.792389!1m5!1m1!1s0x47856a6c37a537ab:0x5036be3b301c124d!2m2!1d8.6737476!2d46.790847!3e2?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
 
-🚗 By Car: Silene (Canton Uri) by train, bus or car. 
+## 🚗 By Car
+Silene (Canton Uri) by train, bus or car. 
 If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car station https://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
 
 🚠 Historical cable car!
@@ -61,19 +67,30 @@ If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable
 - At the top, they are selling soft drinks for 3.-, have toilets
 - Tips: when going down, take seats in front :-)
 
-🏁 Start: exhausting 1.5h walk up to the start: 1750 m, 10% now shadows, 90% in the forest
+## 🗺️ GPX
+{{< gpx-map file="https://ferratatogether.github.io/jegihorn.gpx" >}}
 
-🎯 End: +90m, 1H 
+## 🏁 Start
+exhausting 1.5h walk up to the start: 1750 m, 10% now shadows, 90% in the forest
 
-🚶🏻‍♂️ Exit: 1.5h walk to cable car
+## 🎯 End
++90m, 1H 
 
-Travelling home: by public transportation
+## 🚶🏻‍♂️ Exit
+1.5h walk to cable car
 
-💬 WhatsApp group: https://www.shieldmylinks.com/c/hgdz4jq2
+## Travelling home
+by public transportation
 
-🚰 Water: No access to water for 4 hours!
+## 💬 WhatsApp group
 
-🏊 Alpine lake (optional): two lake in the area.
+https://www.shieldmylinks.com/c/hgdz4jq2
+
+## 🚰 Water
+No access to water for 4 hours!
+
+## 🏊 Alpine lake (optional)
+two lake in the area.
 
 From the top station of the Silenen–Chilcherberge cable car, the hike to Seewlisee (Challenging 4.5 h 10 km +-1040m) is approximately 4 to 5.3 kilometres long,  2 to 2.5 hours to reach the lake. Elevation Gain: You will need to ascend roughly 1,000 to 1,040 vertical metres.
 
