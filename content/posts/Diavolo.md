@@ -1,0 +1,86 @@
+---
+title: "Diavolo Ferrata Together"
+date: 2026-01-12T9:44:17+01:00
+summary: "A truly spectacular route in the granite rocks of the Schöllenen gorge, albeit with plenty of grass in between. There are fascinating views down into the wild gorge and its roads. With 700 metres of wire rope, 265 iron pins and pitons, artificial footholds and two attached ladders. Not advisable when wet (grass)."
+cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+tags:
+  - via-ferrata
+  - k2
+  - easy
+  - short
+  - access-trek-easy
+  - exit-trek-easy
+---
+A truly spectacular route in the granite rocks of the Schöllenen gorge, albeit with plenty of grass in between. There are fascinating views down into the wild gorge and its roads. With 700 metres of wire rope, 265 iron pins and pitons, artificial footholds and two attached ladders. Not advisable when wet (grass).
+
+{{< notice info>}}
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/KUpZWbu1Bep8QnhA7
+{{< /notice >}}
+
+{{< notice tip>}}
+The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+{{< /notice >}}
+
+## ⏱️ Duration
+3 hours total
+
+## ☀️Weather
+Weather can cancel the event a few days before or during if weather is not perfect for execution!
+https://www.meteoschweiz.admin.ch/lokalprognose/andermatt/6490.html#forecast-tab=detail-view
+
+## 📈 Difficulty
+K2-3. 
++450m. 
+Moderately difficult via ferrata, ideal for beginners. 
+
+## 📍 Meeting Point
+06:45AM  Zürich HB, Main Meeting point, around the clock
+Find the turquoise Zürich Together Banner.
+
+## 🏁 Time of leaving
+7:00AM to platform 8
+
+## 🚂 Recommended train
+https://a.sbbmobile.ch/s/kBtLhuGZ 
+
+##  🏁 Start 
+Andermatt (1436 m), station for the Furka-Oberalp-Bahn railway and terminus for the funicular coming up from Göschenen. Parking at the station. From the station at Andermatt, follow the route alongside and on the main road (route signed) through the Urner Loch into the Schöllenen gorge, turning right before you reach the Teufelsbrücke Bridge and making for the Suvorov Memorial (1,405 m).
+
+## 🎯 End
+1900m
+
+## 🚶🏻‍♂️ Exit
+1 hour On a well-signed path, first taking in a slight climb over the Tüfelstalboden, and then gently downhill to the avalanche obstructions, before zig-zagging down to the barracks area at Andermatt.
+
+## Travelling home
+by public transportation
+
+## 💬 WhatsApp group
+
+### Ferrata Together main group
+Join the main WhatsApp group to be informed about next events (optional)
+https://links.waltercedric.com/ferratatogether
+
+### Diavolo WhatsApp group
+Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
+It is recommended to join the right group before the day of the event.
+https://links.waltercedric.com/diavoloferratatogether
+
+## 🚰 Water: enough water for 2-3h of moderate efforts
+
+## 🧗 Renting equipment: (30.- for the day) Call ASAP to reserve
+Intersport Alpina Sport
+Gotthardstrasse 101
+6490 Andermatt, Uri, 
++41418871788
+info@alpina-sport.ch  
+Mo - Fr 09:00 - 12:00 13:00 - 18:00
+Sa - So 08:30 - 17:00
+Call ASAP to reserve
+
+## 🔗 Links:
+- https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/tuefelstalboden-7805/klettersteig/via-ferrata-del-diavolo-743/
+- https://www.bergsteigen.com/touren/klettersteig/la-farina-del-diavolo-ferrata/
+- https://www.mountainreporters.com/gebieden/midden-europa/zwitserland/adrenaline-voor-beginners-klettersteig-diavolo-in-andermatt/
+- https://www.youtube.com/watch?v=G1xWglqVZ9M

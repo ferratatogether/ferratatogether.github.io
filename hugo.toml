@@ -1,0 +1,154 @@
+baseURL = 'https://ferratatogether.github.io'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+title = 'Ferrata Together (Zurich Together)'
+theme = ["dream"]
+
+# enableRobotsTXT = true
+# copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Knowledge Enjoy License Agreement style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> This work adopts <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Non-Commercial-Same Share 4.0 International License Agreement</a> for licensing. The background is used <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a> on <a href="http s://www.pexels.com/zh-cn/@minan1398" target="_blank">Min An</a> <a href="https://www.pexels.com/z h-cn/photo/1454794/" target="_blank">picture</a>.'
+footerBottomText="Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended."
+
+
+# .Site.Config.Services.GoogleAnalytics.ID = ""
+
+enableRobotsTXT = true # For details, see the document under Dream author docs directory
+enableEmoji = true
+
+# Instead of defining lastmod in front matter:
+#  - use the git author date or
+#  - the file modification time
+# when displaying .Lastmod on a page.
+enableGitInfo = false
+[frontmatter]
+#lastmod = [':git', ':fileModTime']
+lastmod = [':fileModTime']
+paginate = 1
+
+[params]  
+  relativeURLs = false
+  name = "Ferrata Together (Zurich Together)"
+  headerTitle = "Ferrata Together (Zurich Together)"
+  description ="Ferrata Together (Zurich Together) organize Via Ferrata events in Switzerland"
+  motto = "A via ferrata is a protected, fixed-cable climbing route that allows people to traverse steep or difficult rocky terrain safely."
+
+  # use true for chinese
+  hasCJKLanguage = false
+  avatar = "/img/logo.png"
+  rss = true
+
+  # options
+  stickyNav = true
+  showSummaryCoverInPost = true
+  # reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
+  # collapseNavItems = ["posts", "categories", "tags"]
+  # noDefaultSummaryCover = true
+  imageZoomableInPost = true
+
+  showTableOfContents = true
+  showPrevNextPost = true
+  showTaxonomyInPost = true
+  showTaxonomyInPostTop = true
+  showTaxonomyInPostBottom = true
+
+  lightTheme = "emerald"
+  darkTheme = "forest"
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+  # VALINE_LANGUAGE = ""
+
+  siteStartYear = 1997
+
+  #favicon = "/favicon.ico"
+
+  highlightjs = true
+  highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "gruvbox-light"
+  highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  enableSearch = true
+
+  # options
+  hasTwitterEmbed = false
+  reversePostAndAside = true
+  shareInAside = true
+  fixedNav = false
+  collapsibleTags = true
+  collapseBySummary = true
+  #disableFlip = true
+  hideBackSocialLinks = true
+
+  # [params.experimental]
+  #   jsDate = true
+  #   jsDateFormat = "yyyy年MM月dd日"
+
+  [params.navItems]
+  series = { href = "/", title = "Home" }
+
+  [params.advanced]
+      customCSS = ["css/custom.css"] # files in the list will be loaded in order
+  #    customJSBefore = ["js/custom-before.js"]
+      # customJS = ["js/custom.js"]
+
+  [outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+  [taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+  # default related settings
+  [related]
+    includeNewer = true
+    threshold = 80
+    toLower = false
+  [[related.indices]]
+      applyFilter = false
+      cardinalityThreshold = 0
+      name = 'keywords'
+      pattern = ''
+      toLower = false
+      type = 'basic'
+      weight = 100
+  [[related.indices]]
+      applyFilter = false
+      cardinalityThreshold = 0
+      name = 'date'
+      pattern = ''
+      toLower = false
+      type = 'basic'
+      weight = 10
+  [[related.indices]]
+      applyFilter = false
+      cardinalityThreshold = 0
+      name = 'tags'
+      pattern = ''
+      toLower = false
+      type = 'basic'
+      weight = 80
+
+  [imaging]
+   [imaging.exif]
+    disableDate = false
+    disableLatLong = false
+    excludeFields = ''
+    includeFields = ''
+
+[build]
+  writeStats = true
+  [build.buildStats]
+    enable = true
+
+# This will minify your CSS, HTML, JS, JSON, SVGs and XML automatically.
+# https://gohugo.io/getting-started/configuration/#configure-minify
+[minify]
+  minifyOutput = true
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2

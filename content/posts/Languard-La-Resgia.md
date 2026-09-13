@@ -1,0 +1,65 @@
+---
+title: "La Resgia K4+ +270m & Languard K5 +70m Ferrata Together"
+date: 2026-01-12T9:44:17+01:00
+summary: "The via ferrata La Resgia can be easily combined with the via ferrata Languard (K5)"
+cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+tags:
+  - via-ferrata
+---
+The via ferrata La Resgia can be easily combined with the via ferrata Languard (K5)
+
+A very nice Ferrata with 2 options to choose in the middle. 1 is with overhang, quite demanding. 
+
+- https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/via-ferrata/
+- K4 https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/via-ferrata/la-resgia-via-ferrata-709/
+- K5 https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/via-ferrata/languard-via-ferrata-754/
+
+Has 382 metal steps and 620 meters of wire rope; Easy Up to 2 hours and 330m. 
+
+You MUST sign the waiver form, it contains detailed information about the difficulty and more -> XXXXXXXX
+
+⏱️ Duration 3 hours total
+
+☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/pontresina/7504.html#forecast-tab=detail-view
+
+📈 Difficulty: C-D, +250m, 3h     Ferrata: 46.4836°, 9.9168°
+
+📍 Meeting Point: 05:45AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
+
+🏁 Time of leaving: 5:55AM to platform 10
+
+🚂 Recommended train: 3h20  https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EPontresina%2C+Hotel+Pal%C3%BC%2C+Via+da+Bernina_I980198771&day=2026-09-03&time=07_00&moment=dep&trip=0_0
+
+🚗 Pontresina, Hotel Palü, Via da Bernina, 2h50 https://www.google.com/maps/dir/Zürich+HB,+Bahnhofplatz,+8001+Zürich/Hotel+Palü,+Via+da+Bernina+17,+7504+Pontresina/@46.9181073,8.6493576,135594m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5403767!2d47.3780356!1m5!1m1!1s0x47837bf0ae7bd5fb:0xa3df86b331003d17!2m2!1d9.9136371!2d46.4827499!3e0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
+
+🚠 chairlift: 
+20.50 CHF to go down back to the valley (very long ride<img width="1280" height="1779" alt="IMG_4387" src="https://github.com/user-attachments/assets/e6118939-5d1f-4be3-9f7f-4e4db40186a8" />
+)
+https://www.google.com/maps/place/Sesselbahn+Alp+Languard/@46.4910248,9.9039727,534m/data=!3m1!1e3!4m14!1m7!3m6!1s0x47837d0fb40149a3:0xf0c75ea3bf32b22a!2sSesselbahn+Alp+Languard!8m2!3d46.4910248!4d9.906553!16s%2Fg%2F11tf81rtmg!3m5!1s0x47837d0fb40149a3:0xf0c75ea3bf32b22a!8m2!3d46.4910248!4d9.906553!16s%2Fg%2F11tf81rtmg?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
+
+🅿️ Parking: 46.4813°, 9.9151°
+Attention: 3.- CHF per hour!
+
+🏁 Start 15min walk +120m
+
+🎯 End: 2328m Alp Languard 
+
+🚶🏻‍♂️ Exit: 45min to 1H -390m T1 https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/mountain-hiking/descent-from-la-resgia-languard-ferrata-868/
+
+Travelling home: by public transportation
+
+💬 WhatsApp group: https://links.waltercedric.com/Languard-La-Resgia
+
+🚰 Water: The route is exposed to the sun from 9:00, throughout the season. No access to water for 2-3 hours!
+
+🏊Lake: at the top, 5 min walk and you can take a litle swim behind the small dam in the rivier. 
+
+🛍️ Renting equipment: Please send an email now or call and reserve a via ferrata set with helmet for this satursday: There's a rental service directly with the valley station (Luftseilbahn Kandersteg-Allmenalp Allmenbahnstrasse 23 CH-3718 Kandersteg) of the cable car, opening hours 08.30 – 17.00 h. https://www.allmenalp.ch/en/experience/climbing.html Renting Equipment (+25 CHF max)
+
+🔗 Links:
+- https://ferrataguide.com/ferrata/Klettersteig_La_Resgia
+- https://www.bergsteigen.com/touren/klettersteig/klettersteig-la-resgia/
+
+<img width="769" height="906" alt="La Resgia" src="https://github.com/user-attachments/assets/032160e9-a5c4-4979-814d-196a8e91db31" />
+<img width="1240" height="716" alt="La Resgia2" src="https://github.com/user-attachments/assets/ffbcc8dc-956d-460a-9778-124d305226f9" />
+<img width="1280" height="1779" alt="IMG_4387" src="https://github.com/user-attachments/assets/eaf7d906-4e11-4cef-b4e8-f1e83fa15598" />
