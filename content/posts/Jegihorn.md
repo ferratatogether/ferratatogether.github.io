@@ -66,6 +66,14 @@ base station of the Hohsaas gondola in Saas-Grund, T3, 1h30, +480m https://www.s
 by public transportation
 
 ## 💬 WhatsApp group
+
+### Ferrata Together main group
+Join the main WhatsApp group to be informed about next events (optional)
+https://links.waltercedric.com/ferratatogether
+
+### Allmenalp WhatsApp group
+Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
+It is recommended to join the right group before the day of the event.
 https://www.shieldmylinks.com/c/ex0yz82t
 
 ## 🚰 Water

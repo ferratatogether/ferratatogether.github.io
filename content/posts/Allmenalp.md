@@ -52,6 +52,9 @@ The variant "Freude herrscht" is classified as K4+ in the SAC via ferrata scale.
 ## ⏱️ Duration
 2-3 hours total
 
+## Season
+Typically May/June through late October (conditions permitting)
+
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
@@ -77,7 +80,8 @@ After the climb, we can use the cable car to avoid a trek down back to the valle
 15 min on car road from Kandersteg train station, 10min more from rental (cable car building)
 
 ## 🎯 End
- 
+370 m of via ferrata climbing (550 m total ascent from the valley)
+
 ## 🚶🏻‍♂️ Exit
 15min walk steep to restaurant, toilets and cable car  
 
@@ -96,7 +100,9 @@ It is recommended to join the right group before the day of the event.
 https://links.waltercedric.com/allmenalpferratatogether
 
 ## 🚰 Water
-The route is exposed to the sun from 9:00, throughout the season. No access to water for 2 hours!
+The route is exposed to the sun from 9:00 in summer, throughout the season. 
+In the afternoon, the wall is in the shadows, even if air is 17°C, wihtout wind it get really hot (feel like 25°C)
+No access to water for 2 hours!
 
 ## 🏊 Lake
 if we go to oschinensee (+22.50.- for cable car back and forth) in the afternoon, consider bringing towel and 
