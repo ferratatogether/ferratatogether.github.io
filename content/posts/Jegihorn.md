@@ -5,26 +5,43 @@ summary: "At 3,206 metres above sea level at its highest, the Jegihorn is the hi
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
   - via-ferrata
+  - K3
+  - K4
+  - long
+
 ---
 At 3,206 metres above sea level at its highest, the Jegihorn is the highest Via Ferrata in the Western Alps. 1,000 metres of steel cable, 400 anchor points, and a stomach-churning suspension bridge, several ladders  secure the path.
 
-You MUST sign the waiver form, it contains detailed information about the difficulty and more -> https://forms.gle/qqHSogNNw1DJexwp8
+{{< notice info>}}
+Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/qqHSogNNw1DJexwp8
+{{< /notice >}}
 
-⏱️ Duration 7-8 hours total
+{{< notice tip>}}
+The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+{{< /notice >}}
 
-☀️Weather: 
+## ⏱️ Duration
+ 7-8 hours total
+
+## ☀️ Weather
+Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 2700m https://www.meteoschweiz.admin.ch/lokalprognose/weissmieshuette-sac.html#forecast-tab=detail-view
 And city 
 https://www.meteoschweiz.admin.ch/lokalprognose/saas-grund/3910.html#forecast-tab=detail-view
 
-📈 Difficulty: K3-K4, +400m, 3h
+## 📈 Difficulty
+K3-K4, +400m, 3h
 
-📍 Meeting Point:  05:45AM  Zürich HB, Main Meeting point, around the clock
+## 📍 Meeting Point
+05:45AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-🏁 Time of leaving:  5:55AM to platform 10
+## 🏁 Time of leaving
+5:55AM to platform 10
 
-🚂 Recommended train:  https://a.sbbmobile.ch/s/Fr3OKmQv 
+## 🚂 Recommended train
+https://a.sbbmobile.ch/s/Fr3OKmQv 
 ￼
 Train Zürich HB to Visp
 Train Visp to Saas Grund
@@ -32,20 +49,30 @@ Bus Saas Grund to Saas Grund Cable car
 Saas Grund Cable car to Kreuzboden
 Walk T3, +480m, 1h30 to start of climb
 
-🚠  08:00 to 16:30 https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund 
+## 🚠 Cable Car
+08:00 to 16:30 https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund 
 
-🏁 Start 2800m  base station of the Hohsaas gondola in Saas-Grund, T3, 1h30, +480m https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/mountain-hiking/approach-to-the-jegihorn-via-ferrata-991/ 
-🎯 End:  3206m  https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/panorama-jegihorn-via-ferrata-728/ 
-🚶🏻‍♂️ Exit: 2 hours trek down, need catching the last gondola down from Kreuzboden saves 1,100 metres of further descent.
+## 🏁 Start 
+2800m  
+base station of the Hohsaas gondola in Saas-Grund, T3, 1h30, +480m https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/mountain-hiking/approach-to-the-jegihorn-via-ferrata-991/ 
 
-Travelling home: by public transportation
+## 🎯 End
+3206m  https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/panorama-jegihorn-via-ferrata-728/ 
 
-💬 WhatsApp group: 
+## 🚶🏻‍♂️ Exit
+2 hours trek down, need catching the last gondola down from Kreuzboden saves 1,100 metres of further descent.
+
+## Travelling home
+by public transportation
+
+## 💬 WhatsApp group
 https://www.shieldmylinks.com/c/ex0yz82t
 
-🚰 Water: The south-facing route is exposed to the sun all day, throughout the season. No access to water for 7-8 hours!
+## 🚰 Water
+The south-facing route is exposed to the sun all day, throughout the season. No access to water for 7-8 hours!
 
-🛍️ Renting equipment: Please send an email now or call and reserve a via ferrata set with helmet for this satursday:
+## 🛍️ Renting equipment
+Please send an email now or call and reserve a via ferrata set with helmet for this satursday:
 ￼
 INTERSPORT Zurbriggen
 Saastalstrasse 241
@@ -56,11 +83,13 @@ It is close to the Bus stop and cable car.
 <img width="736" height="1600" alt="jegi1" src="https://github.com/user-attachments/assets/07d5714b-086f-4f8c-b582-366c02945ccd" />
 
 
-🔗 Links:www.off-the-trail.de/jegihorn 
+## 🔗 Links
+www.off-the-trail.de/jegihorn 
 - https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/
 - https://www.bergsteigen.com/touren/klettersteig/jegihorn-klettersteig/
 
-📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+## 📓 QuickStart guide
+https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
 https://www.shieldmylinks.com/c/p9x7z0nm
 
