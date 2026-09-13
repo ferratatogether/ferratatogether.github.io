@@ -83,7 +83,7 @@ by public transportation
 Join the main WhatsApp group to be informed about next events (optional)
 https://links.waltercedric.com/ferratatogether
 
-### Allmenalp WhatsApp group
+### Brunnistöckli WhatsApp group
 Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
 It is recommended to join the right group before the day of the event.
 TODO
