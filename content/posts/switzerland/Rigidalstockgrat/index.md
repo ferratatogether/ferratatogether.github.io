@@ -10,6 +10,7 @@ tags:
   - long
   - trek
   - engelberg
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K3/K4" 

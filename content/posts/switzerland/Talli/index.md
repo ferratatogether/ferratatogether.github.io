@@ -8,6 +8,7 @@ tags:
   - K3
   - long
   - sustenpass
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K3" 

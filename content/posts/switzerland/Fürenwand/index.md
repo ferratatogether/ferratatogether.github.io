@@ -7,6 +7,7 @@ tags:
   - via-ferrata
   - K5
   - engelberg
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K5" 

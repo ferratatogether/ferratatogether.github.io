@@ -7,6 +7,7 @@ tags:
   - via-ferrata
   - K4
   - K5
+  - switzerland
 ---
 The via ferrata La Resgia can be easily combined with the via ferrata Languard (K5)
 

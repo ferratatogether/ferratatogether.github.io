@@ -10,6 +10,7 @@ tags:
   - k2
   - unique
   - trek-up-demanding
+  - switzerland
 ---
 A via ferrata inside a mountain? Yes, it’s been there since July 2002, and as is typical of legendary figures, it remained hidden for a long time. 
 
@@ -128,6 +129,7 @@ Decathlon https://rent.decathlon.ch/de/de-8754883
 - Scenic and vintage cable car (sit in front row on the way back), toilets and limited drink at the top, no infrastructure for visitors
 - Exhausting steep access, +500m, 1h13
 - Easy and nice via ferrata inside a cave, but short. You can do nice pictures inside
+- You don’t need a pulley, a fix pulley is installed for the short zip line
 - Easy exit 1.5h partially on same steep path
 - 👙🩳 alpine lake 4h away or with another cable car a smaller lake but car 20min required + cable car 13 CHF + 30min walk
 

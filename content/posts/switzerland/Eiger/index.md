@@ -5,6 +5,7 @@ summary: "The 260 meter high route is suitable for people who are used to via fe
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
   - via-ferrata
+  - switzerland
 ---
 The 260 meter high route is suitable for people who are used to via ferrata climbing and for
 experienced hikers with a head for heights. Be advised to only do via ferrata climbing when

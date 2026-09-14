@@ -9,6 +9,7 @@ tags:
   - training
   - self-rescue
   - rescue
+  - switzerland
 ---
 {{< notice info>}}
 Not executed yet 🥲

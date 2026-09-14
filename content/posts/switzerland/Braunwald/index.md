@@ -10,6 +10,7 @@ tags:
   - long
   - trek
   - glarus
+  - switzerland
 ---
 {{< notice info>}}
 Not executed yet 🥲

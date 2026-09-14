@@ -9,6 +9,7 @@ tags:
   - K3+
   - K4
   - K6
+  - switzerland
 ---
 The Via Farinetta leads through the wild and mysterious Salentze Gorge, from which the thermal water for the thermal baths in Saillon also originates.
 

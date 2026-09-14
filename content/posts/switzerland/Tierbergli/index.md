@@ -10,6 +10,7 @@ tags:
   - K3
   - trek
   - scenic
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K3/K5-K6" 

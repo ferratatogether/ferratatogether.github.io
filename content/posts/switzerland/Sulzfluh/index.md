@@ -6,10 +6,12 @@ Rated K4 to C/D, it features airy traverses, vertical limestone walls, and no ea
 cover: /img/sulzfluh.webp
 tags:
   - via-ferrata
-  - K4
+  - K4-K5
+  - difficult-very-difficult
   - long
   - trek
   - scenic
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K4/K4+" 

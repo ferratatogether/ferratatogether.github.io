@@ -9,9 +9,9 @@ tags:
   - overcrowded
   - easy
   - not-a-climb
-  - easy
   - K3
   - murren
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K3" 

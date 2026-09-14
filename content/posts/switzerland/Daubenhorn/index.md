@@ -11,6 +11,7 @@ tags:
   - K5-K6
   - valais
   - leukerbad
+  - switzerland
 ---
 {{< notice info>}}
 Not executed yet 🥲

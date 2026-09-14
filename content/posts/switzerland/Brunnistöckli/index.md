@@ -13,6 +13,7 @@ tags:
   - beginner
   - engelberg
   - scenic
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K2" 

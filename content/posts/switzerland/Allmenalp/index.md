@@ -10,6 +10,7 @@ tags:
   - k4+
   - easy
   - short
+  - switzerland
 ---
 {{< viaferratacard difficulty="K4/K4+" duration="2-3h" vertical="370m" 
 location="Kandersteg"

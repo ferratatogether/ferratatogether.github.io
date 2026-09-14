@@ -7,6 +7,7 @@ tags:
   - via-ferrata
   - K5
   - K3
+  - switzerland
 ---
 # Via Media
 {{< viaferratacard 

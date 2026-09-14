@@ -7,6 +7,7 @@ tags:
   - via-ferrata
   - easy
   - K3
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K3" 

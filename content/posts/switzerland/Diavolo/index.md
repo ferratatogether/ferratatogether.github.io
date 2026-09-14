@@ -11,6 +11,7 @@ tags:
   - access-trek-easy
   - exit-trek-easy
   - no-trek
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K2/K3" 

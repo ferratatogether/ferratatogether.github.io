@@ -10,6 +10,7 @@ tags:
   - long
   - valais
   - saas-grund
+  - switzerland
 ---
 {{< viaferratacard 
 difficulty="K3/K5-K6" 

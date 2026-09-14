@@ -9,6 +9,7 @@ tags:
   - K4
   - short
   - valais
+  - switzerland
 ---
 {{< notice info>}}
 Not executed yet 🥲
