@@ -37,7 +37,9 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
 ## ☀️Weather
 Weather can cancel the event a few days before or during if weather is not perfect for execution!
-https://www.meteoschweiz.admin.ch/lokalprognose/andermatt/6490.html#forecast-tab=detail-view
+{{< meteoswiss lat="46.6474" long="8.5917" name="Diavolo" >}}
+
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/andermatt/6490.html#forecast-tab=detail-view)
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)

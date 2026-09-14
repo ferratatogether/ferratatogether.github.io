@@ -35,8 +35,12 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
 ## ☀️ Weather
-Weather can cancel/abort/shorten  the event if weather is not perfect for execution!
-https://www.meteoschweiz.admin.ch/lokalprognose/sustenpass.html#forecast-tab=detail-view
+Weather can cancel/abort/shorten  the event a few days before if weather is not perfect for execution!
+Gadmen area
+{{< meteoswiss lat="46.702056" long="8.414223" name="Tierbergli" >}}
+Source:
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/sustenpass.html#forecast-tab=detail-view)
+
 
 ## 📍 Meeting Point
 XXXXAM  Zürich HB, Main Meeting point, around the clock

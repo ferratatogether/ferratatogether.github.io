@@ -41,7 +41,7 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 
 {{< meteoswiss lat="46.735" long="9.941667" name="Schwarzhorn" >}}
 Source:
- https://www.meteoschweiz.admin.ch/lokalprognose/schwarzhorn.html#forecast-tab=detail-view
+ - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/schwarzhorn.html#forecast-tab=detail-view)
 
 ## 📍 Meeting Point
 6:40AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.

@@ -43,8 +43,8 @@ Typically June through late October (conditions permitting)
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!
 {{< meteoswiss lat="47.0126" long="9.8394" name="Sulzfluh" >}}
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/sulzfluh.html#forecast-tab=detail-view)
 
-https://www.meteoschweiz.admin.ch/lokalprognose/sulzfluh.html#forecast-tab=detail-view
 
 ## 📍 Meeting Point
 6:40AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.

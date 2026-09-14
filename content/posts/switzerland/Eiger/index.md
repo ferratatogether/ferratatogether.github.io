@@ -32,8 +32,10 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 ⏱️ Duration 3-4 hours total
 
 ☀️Weather: 
-- https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
-- https://www.meteoschweiz.admin.ch/lokalprognose/eiger.html#forecast-tab=detail-view
+Weather can cancel the event a few days before or during if weather is not perfect for execution!
+{{< meteoswiss lat="46.5763" long="7.9904" name="Eiger" >}}
+
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/eiger.html#forecast-tab=detail-view) 
 
 📈 Difficulty: K3, +450m, -450m
 

@@ -48,8 +48,8 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< meteoswiss lat="46.1890073" long="8.9980977" name="Monte Carasso" >}}
 
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
-* https://www.bergfex.com/sommer/monte-carasso/wetter/
-* https://www.meteoschweiz.admin.ch/lokalprognose/monte-carasso/6513.html#forecast-tab=detail-view
+* [BergFex](https://www.bergfex.com/sommer/monte-carasso/wetter/)
+* [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/monte-carasso/6513.html#forecast-tab=detail-view)
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)

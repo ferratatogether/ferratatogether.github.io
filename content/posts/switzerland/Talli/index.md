@@ -37,10 +37,11 @@ Weather can cancel/abort/shorten  the event a few days before if weather is not 
 Gadmen area
 {{< meteoswiss lat="46.7455" long="8.3248" name="Tällistock" >}}
 Source:
-https://www.meteoschweiz.admin.ch/lokalprognose/taellistock.html#forecast-tab=detail-view 
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/taellistock.html#forecast-tab=detail-view)
+
 
 ## 📈 Difficulty
-K3, +500m, 3h https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/klettersteig/taelli-klettersteig-848/
+K3, +500m, 3h [SAC Link](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/klettersteig/taelli-klettersteig-848/)
 
 ## 📍 Meeting Point
 XXXXAM  Zürich HB, Main Meeting point, around the clock
@@ -74,7 +75,7 @@ https://a.sbbmobile.ch/s/Gb6VKwsU
 https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/zustieg-zum-taelli-klettersteig-849/
 
 ## 🚶🏻‍♂️ Exit
-https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/abstieg-vom-taelli-klettersteig-zur-taellihuette-oder-engstlenalp-850/
+[SAC Link](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/abstieg-vom-taelli-klettersteig-zur-taellihuette-oder-engstlenalp-850/)
 
 ## Travelling home: by public transportation
 

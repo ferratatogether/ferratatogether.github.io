@@ -54,9 +54,10 @@ A tyrolienne (zip-line) is part of the route — but its use is restricted (only
 A suspension bridge (“Nepal bridge”) toward the end provides a dramatic crossing.)
 
 ## ☀️ Weather
+Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 {{< meteoswiss lat="46.559" long="7.892" name="Mürren" >}}
 Source:
-[https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view](https://www.meteoschweiz.admin.ch/lokalprognose/muerren/3825.html#forecast-tab=detail-view)
+[MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/muerren/3825.html#forecast-tab=detail-view)
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)

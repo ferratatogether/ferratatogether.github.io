@@ -41,7 +41,11 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 4 hours total min
 
 ## ☀️Weather
-https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
+Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
+
+{{< meteoswiss lat="46.7919" long="8.6694" name="Silenen" >}}
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/silenen/6473.html#forecast-tab=detail-view)
+
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)

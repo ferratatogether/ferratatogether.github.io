@@ -38,8 +38,9 @@ https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/passerelle-a-farinet-1
 
 ## ☀️Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
+{{< meteoswiss lat="46.1718" long="7.1849" name="Saillon" >}}
 
-[https://www.meteoschweiz.admin.ch/lokalprognose/XXXXXX.html#forecast-tab=detail-view](https://www.meteoschweiz.admin.ch/lokalprognose/saillon/1913.html#forecast-tab=detail-view)
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/saillon/1913.html#forecast-tab=detail-view)
 
 ## 📈 Difficulty
 K3-K6, +900m

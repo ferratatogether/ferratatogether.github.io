@@ -33,7 +33,7 @@ Typically June through late October (conditions permitting)
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 {{< meteoswiss lat="46.380024" long="7.628834" name="Leukerbad" >}}
 Source:
-https://www.meteoschweiz.admin.ch/lokalprognose/leukerbad/3954.html#forecast-tab=detail-view
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/leukerbad/3954.html#forecast-tab=detail-view)
 
 {{< notice info>}} 👨‍⚖️
 Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9

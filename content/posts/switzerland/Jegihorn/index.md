@@ -36,9 +36,11 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
-2700m https://www.meteoschweiz.admin.ch/lokalprognose/weissmieshuette-sac.html#forecast-tab=detail-view
+{{< meteoswiss lat="46.15167" long="7.97028" name="Jegihorn" >}}
+
+[MeteoSwiss 2700m ](https://www.meteoschweiz.admin.ch/lokalprognose/weissmieshuette-sac.html#forecast-tab=detail-view)
 And city 
-https://www.meteoschweiz.admin.ch/lokalprognose/saas-grund/3910.html#forecast-tab=detail-view
+[MeteoSwiss city](https://www.meteoschweiz.admin.ch/lokalprognose/saas-grund/3910.html#forecast-tab=detail-view)
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)

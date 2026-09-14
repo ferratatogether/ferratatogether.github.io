@@ -64,7 +64,7 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 
 {{< meteoswiss lat="46.4958" long="7.6732" name="Kandersteg" >}}
 Source:
-https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view)
 
 ## 📈 Difficulty
 K3-K4, +400m, 3h
