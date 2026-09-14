@@ -10,6 +10,10 @@ tags:
   - self-rescue
   - rescue
 ---
+{{< notice info>}}
+Not executed yet 🥲
+{{< /notice >}}
+
 Security and gear discovery, knowing your equipment meet-up.
 Will be executed in a flat area or on some stairs backward for safety.
 

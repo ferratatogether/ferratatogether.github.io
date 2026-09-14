@@ -13,6 +13,17 @@ tags:
   - K3
   - murren
 ---
+{{< viaferratacard 
+difficulty="K3" 
+duration="4h" 
+durationclimb="3h" 
+vertical="-160hm" 
+top="xxxx"
+start="xxxx"
+location="Mürren"
+trekup="3min"
+trekdown="15min">}}
+
 {{< notice tip>}} 📓 
 Attention! this via ferrata is over hyped and over crowded, only really enjoyable if you never did ANY via ferrata before.
 {{< /notice >}}
@@ -42,10 +53,9 @@ A tyrolienne (zip-line) is part of the route — but its use is restricted (only
 
 A suspension bridge (“Nepal bridge”) toward the end provides a dramatic crossing.)
 
-## ⏱️ Duration
-3+ hours total
-
 ## ☀️ Weather
+{{< meteoswiss lat="46.559" long="7.892" name="Mürren" >}}
+Source:
 [https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view](https://www.meteoschweiz.admin.ch/lokalprognose/muerren/3825.html#forecast-tab=detail-view)
 
 ## 🗓️ Season
@@ -67,11 +77,6 @@ K3, -170m, nt really a climb, more a walk 80% in the forest. 3 bridges.
 ## 🚠 Cable car
 After the via ferrata or a 1h30 walk on road up for free
 
-## 🏁 Start
-3min from rental (intersport) 
-
-## 🎯 End
-
 ## 🚶🏻‍♂️ Exit
 15min walk steep to toilets, water, restaurant and cable car
 
@@ -80,6 +85,14 @@ by public transportation
 
 ## 💬 WhatsApp group
 
+### Ferrata Together main group
+Join the main WhatsApp group to be informed about next events (optional)
+[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+
+### Allmenalp WhatsApp group
+Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
+It is recommended to join the right group before the day of the event.
+https://links.waltercedric.com/muerrenferratatogether
 
 ## 🚰 Water
 The route is mostly in the shadows, throughout the season. No access to water for 3+ hours!

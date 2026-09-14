@@ -14,6 +14,17 @@ tags:
   - engelberg
   - scenic
 ---
+{{< viaferratacard 
+difficulty="K2" 
+duration="1h" 
+durationclimb="30min" 
+vertical="400hm" 
+top="xxxx"
+start="xxxx"
+location="Engelberg"
+trekup="15min"
+trekdown="15min">}}
+
 The Via Ferrata Brunnistöckli in Engelberg, Switzerland, is an easy beginner-friendly climbing route (K2 difficulty) featuring iron rungs, two fun suspension bridges, and a 200-meter elevation gain, taking about 45 minutes to ascend. 
 
 {{< notice info>}} 👨‍⚖️
@@ -41,19 +52,16 @@ Approach is very easy, light walk from chair lift 15min.
 
 Easy via ferrata, for kids and beginners, you can escape at any time on the left or right and walk down on the ground. You should still not fear heights.
 
-## ⏱️ Duration
-7-8 hours total
-
 ## ☀️Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
-[2700m https://www.meteoschweiz.admin.ch/lokalprognose/weissmieshuette-sac.html#forecast-tab=detail-view](https://www.meteoschweiz.admin.ch/lokalprognose/braunwald/8784.html#forecast-tab=detail-view)
+
+{{< meteoswiss lat="46.8506" long="8.4178" name="Engelberg" >}}
+Source:
+https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
-
-## 📈 Difficulty
-K3-K4, +400m, 3h
 
 ## 📍 Meeting Point
 05:45AM  Zürich HB, Main Meeting point, around the clock
@@ -66,15 +74,6 @@ XXXAM to platform 10
 https://a.sbbmobile.ch/s/XXXXX 
 
 ## 🚠  Cable car 
-day pass +30.-  https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html 
-
-## 🏁 Start
-15min walk up
-
-## 🎯 End
-
-## 🚶🏻‍♂️ Exit
-10min
 
 ## Travelling home
 by public transportation
@@ -82,12 +81,12 @@ by public transportation
 ## 💬 WhatsApp group
 ### Ferrata Together main group
 Join the main WhatsApp group to be informed about next events (optional)
-https://links.waltercedric.com/ferratatogether
+[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
 
 ### Brunnistöckli WhatsApp group
 Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
 It is recommended to join the right group before the day of the event.
-TODO
+[WhatsApp group Brunnistöckli 🔗](https://links.waltercedric.com/rigidalstockgratferratatogether)
 
 ## 🚰 Water
 Close to station, 10min away

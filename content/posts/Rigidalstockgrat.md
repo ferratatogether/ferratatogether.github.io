@@ -84,11 +84,12 @@ by public transportation
 
 ### Ferrata Together main group
 Join the main WhatsApp group to be informed about next events (optional)
-https://links.waltercedric.com/ferratatogether
+[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
 
 ### Rigidalstockgrat WhatsApp group
 Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
 It is recommended to join the right group before the day of the event.
+https://links.waltercedric.com/rigidalstockgratferratatogether
 
 ## 🚰 Water
 The route is exposed to the sun from 9:00 in summer, throughout the season. 

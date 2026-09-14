@@ -80,7 +80,7 @@ https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstie
 ## 💬 WhatsApp group
 ### Ferrata Together main group
 Join the main WhatsApp group to be informed about next events (optional)
-https://links.waltercedric.com/ferratatogether
+[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
 
 ### Allmenalp WhatsApp group
 Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.

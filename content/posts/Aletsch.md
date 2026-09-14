@@ -83,7 +83,7 @@ by public transportation
 ## 💬 WhatsApp group
 ### Ferrata Together main group
 Join the main WhatsApp group to be informed about next events (optional)
-https://links.waltercedric.com/ferratatogether
+[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
 
 ### Aletsch WhatsApp group
 Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.

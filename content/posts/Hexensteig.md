@@ -93,7 +93,14 @@ by public transportation
 
 ## 💬 WhatsApp group
 
-https://www.shieldmylinks.com/c/hgdz4jq2
+### Ferrata Together main group
+Join the main WhatsApp group to be informed about next events (optional)
+[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+
+### Hexensteig WhatsApp group
+Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
+It is recommended to join the right group before the day of the event.
+[Hexensteig WhatsApp group](https://links.waltercedric.com/hexensteigferratatogether)
 
 ## 🚰 Water
 No access to water for 4 hours!
@@ -110,10 +117,10 @@ Not possible close to start, or around. I recommend from the one joining us to r
 Decathlon https://rent.decathlon.ch/de/de-8754883
 
 🔗 Links:
-- https://www.bergsteigen.com/touren/klettersteig/hexensteig-silenen/
-- https://ferrataguide.com/ferrata/Hexensteig_D
-- https://swissfamilyfun.com/seewlisee-alpine-lake-hike/
-- https://swissfamilyfun.com/golzernsee/
+- [Bergsteigen](https://www.bergsteigen.com/touren/klettersteig/hexensteig-silenen/) 
+- [Ferrata Guide](https://ferrataguide.com/ferrata/Hexensteig_D)
+- [Swiss family Fun Seewlisee](https://swissfamilyfun.com/seewlisee-alpine-lake-hike/)
+- [Swiss family Fun Golzernsee](https://swissfamilyfun.com/golzernsee/) 
 
 ## My review
 - In a small village Silenen not very touristic, at the limit of confidentiality

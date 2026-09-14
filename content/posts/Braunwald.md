@@ -6,6 +6,7 @@ cover: /img/logo.png
 tags:
   - via-ferrata
   - K3-K4
+  - K5
   - long
   - trek
   - glarus
@@ -13,6 +14,17 @@ tags:
 {{< notice info>}}
 Not executed yet 🥲
 {{< /notice >}}
+
+{{< viaferratacard 
+difficulty="K3/K5" 
+duration="7h" 
+durationclimb="3h" 
+vertical="400hm" 
+top="2700m"
+start="xxxx"
+location="Glarus"
+trekup="2.5h"
+trekdown="1.5h">}}
 
 The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
 The Eggstöcke can also be reached on foot from Braunwald (mountain station of the Braunwald cable car):
@@ -40,19 +52,16 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
-## ⏱️ Duration
-7-8 hours total
-
 ## ☀️Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
-[2700m https://www.meteoschweiz.admin.ch/lokalprognose/weissmieshuette-sac.html#forecast-tab=detail-view](https://www.meteoschweiz.admin.ch/lokalprognose/braunwald/8784.html#forecast-tab=detail-view)
+
+{{< meteoswiss lat="46.939" long="8.994" name="Braunwald" >}}
+Source:
+[2700m Braunwald](https://www.meteoschweiz.admin.ch/lokalprognose/braunwald/8784.html#forecast-tab=detail-view)
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
-
-## 📈 Difficulty
-K3-K4, +400m, 3h
 
 ## 📍 Meeting Point
 05:45AM  Zürich HB, Main Meeting point, around the clock
@@ -67,21 +76,13 @@ https://a.sbbmobile.ch/s/XXXXX
 ## 🚠  Cable car 
 day pass +30.-  https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html 
 
-## 🏁 Start
-2.5 hours
-
-## 🎯 End
-
-## 🚶🏻‍♂️ Exit
-1.5 - 2 hours
-
 ## Travelling home
 by public transportation
 
 ## 💬 WhatsApp group
 ### Ferrata Together main group
 Join the main WhatsApp group to be informed about next events (optional)
-https://links.waltercedric.com/ferratatogether
+[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
 
 ### Allmenalp WhatsApp group
 Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
@@ -89,7 +90,7 @@ It is recommended to join the right group before the day of the event.
 TODO
 
 ## 🚰 Water
-
+No access
 
 ## 🛍️ Renting equipment:
 Please send an email now or call and reserve a via ferrata set with helmet
