@@ -26,12 +26,11 @@ trekdown="2:30h, -1000m, T3">}}
 Impressive views of the Gwächtenhorn, Sustenhorn, and the Gadmertal valley open up time and again. Just before the final stretch to the Tierbergli Hut, the panorama widens—and your gaze falls upon the mighty Steingletscher: a true highlight of this tour!
 
 {{< notice info>}} 👨‍⚖️
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/8socXzMdySKBFfAYA
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 
-The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
-https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
 ## ☀️ Weather
@@ -40,7 +39,6 @@ Gadmen area
 {{< meteoswiss lat="46.702056" long="8.414223" name="Tierbergli" >}}
 Source:
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/sustenpass.html#forecast-tab=detail-view)
-
 
 ## 📍 Meeting Point
 XXXXAM  Zürich HB, Main Meeting point, around the clock

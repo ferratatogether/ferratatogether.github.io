@@ -9,8 +9,12 @@ tags:
   - locate-new-ferrata
 ---
 Here is some of the best search engine to find a new via ferrata location:
-- https://www.ferratago.com/
-- https://www.bergsteigen.com/touren/klettersteig/
-- https://ferrataguide.com/ferratas/map 
-- https://www.via-ferrata.de/klettersteig-karte/
-- https://www.outdooractive.com/en/via-ferratas/switzerland/via-ferratas-in-switzerland/1443353/
+- [ferratago](https://www.ferratago.com/)
+- [bergsteigen](https://www.bergsteigen.com/touren/klettersteig/)
+- [ferrata guide](https://ferrataguide.com/ferratas/map)
+- [myferrata.ch](https://www.myferrata.ch/klettersteige/verzeichnis/)
+- [www.via-ferrata.de](https://www.via-ferrata.de/klettersteig-karte/)
+- [outdooractive](https://www.outdooractive.com/en/via-ferratas/switzerland/via-ferratas-in-switzerland/1443353/)
+- [FerrataGuide](https://www.FerrataGuide.com) 
+- [rocjumper](https://www.rocjumper.com)
+- [deandar](https://www.deandar.com)

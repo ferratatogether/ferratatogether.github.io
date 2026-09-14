@@ -28,12 +28,11 @@ The Sulzfluh via ferrata is a classic, demanding alpine fixed-rope climb scaling
 Rated K4 to C/D, it features airy traverses, vertical limestone walls, and no early exit points
 
 {{< notice info>}} 👨‍⚖️
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 
-The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
-https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
 ## 🗓️ Season
@@ -129,17 +128,18 @@ lake located right on your descent path from the climb: Partnunsee (Lake Partnun
 ## 🛍️ Renting equipment
 You can rent directly at Berghaus Alpenrössli/Sulzfluh. It is located in Partnun (St. Antönien), right at the starting area for
 the approach hike. 30.-
-- https://www.sulzfluh.ch/de/klettersteige-der-sulzfluh-mietmaterial
-- https://www.praettigau.info/en/node/7285/berghaus-sulzfluh-0
+- [Sulzfluh.ch](https://www.sulzfluh.ch/de/klettersteige-der-sulzfluh-mietmaterial)
+- [praettigau.info](https://www.praettigau.info/en/node/7285/berghaus-sulzfluh-0)
 
 If you are driving or taking the post bus up from the main valley, you can stop at Rätikon Sport AG in Küblis
 - Industriestrasse 1, 7240 Küblis (right by the turn-off toward St. Antönien).
 - CHF 25.00 for the rental set (discounted to CHF 20.00 if you have a local regional guest card)
 
 ## 🔗 Links
-- https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/sulzfluh-1911/mountain-hiking/approach-to-the-sulzfluh-via-ferrata-857/
-- https://www.myswitzerland.com/en/experiences/fixed-rope-route-sulzfluh/
-- https://www.praettigau.info/en/tours/via-ferrata-partnunblick-st-antonien
+- [SAC](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/sulzfluh-1911/mountain-hiking/approach-to-the-sulzfluh-via-ferrata-857/)
+- [myswitzerland.com](https://www.myswitzerland.com/en/experiences/fixed-rope-route-sulzfluh/)
+- [praettigau.info](https://www.praettigau.info/en/tours/via-ferrata-partnunblick-st-antonien)
+- [graubuenden.ch](https://www.graubuenden.ch/en/tours/via-ferrata-partnunblick-st-antonien)
 
 ## ⭐️ My review
 - demanding trek up, up 800m

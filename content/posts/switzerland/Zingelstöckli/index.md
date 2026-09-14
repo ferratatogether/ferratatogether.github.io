@@ -15,6 +15,14 @@ Duration:
 About 30 min approach, 
 1 to 1.5 hours on the wire, and a marked hiking descentLocation & Access: Starts at Urnerboden (Switzerland's largest alpine pasture), reached via the Klausen Pass. Free parking is available near the village church.
 
+{{< notice info>}} 👨‍⚖️
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+{{< /notice >}}
+
+{{< notice tip>}} 📓 
+The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+{{< /notice >}}
+
 ## Links
 - [Hikr](https://www.hikr.org/tour/post111920.html)
 - [glarnerland.ch] (https://glarnerland.ch/en/map/detail-poi/klettersteig-zingelstockli-urnerboden--id--tou_s9t_dbaiabtf-segu-ebgs-jaqh-jqsciagddrab.html)

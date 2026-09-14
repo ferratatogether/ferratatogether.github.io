@@ -24,12 +24,11 @@ trekdown="+260m -1060m T4">}}
 A scenic and impressive via ferrata in classic style, totalling 14 ladders, iron bars, pins and steel cables for security. The main difficulties are encountered in the lowest section. For the return path, conditions are very important.
 
 {{< notice info>}} 👨‍⚖️
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 
-The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
-https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
 ## ☀️ Weather 

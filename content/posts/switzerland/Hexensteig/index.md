@@ -29,12 +29,11 @@ To start the via ferrata, you’ll cross a mini-gorge via a zip line. After that
 As you exit the “Hexenhäuschen,” there’s another spot to rest. If you continue climbing for about 10 minutes to the Pfaffen, you’ll be rewarded with a picnic area offering panoramic views. The return route follows the white-blue-white-marked alpine hiking trail downhill.
 
 {{< notice info>}} 👨‍⚖️
-Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 
-The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
-https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
+The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
 ## ⏱️ Duration
@@ -45,7 +44,6 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 
 {{< meteoswiss lat="46.7919" long="8.6694" name="Silenen" >}}
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/silenen/6473.html#forecast-tab=detail-view)
-
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)
@@ -77,6 +75,13 @@ If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable
 - Could be busy with waiting time.
 - At the top, they are selling soft drinks for 3.-, have toilets
 - Tips: when going down, take seats in front :-)
+
+## 🅿️ Parking
+Parking is limited at the cable car station
+[alternative location](https://maps.app.goo.gl/uehGS3EmVLq5RZJB8?g_st=ic) to park for free your car
+
+## 🚠 Cable Car
+[Cable car location](https://maps.app.goo.gl/Tpa13H8QZGaSsA9p9?g_st=ic)
 
 ## 🗺️ Map
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2360.0086555446283!2d8.712553684505965!3d46.911689061292066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478547bbc433fb3b%3A0xf9b3e7f1ff13152e!2sKlettersteig%20Fruttst%C3%A4g%C3%A4!5e1!3m2!1sen!2sch!4v1789324234232!5m2!1sen!2sch" >}}
