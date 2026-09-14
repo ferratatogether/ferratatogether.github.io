@@ -36,7 +36,9 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
-https://www.meteoschweiz.admin.ch/lokalprognose/titlis.html#forecast-tab=detail-view 
+
+{{< meteoswiss lat="46.802063" long="8.449038" name="Fürenwand" >}}
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/titlis.html#forecast-tab=detail-view)
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)

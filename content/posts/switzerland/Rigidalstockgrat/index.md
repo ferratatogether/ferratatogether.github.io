@@ -47,7 +47,7 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 
 {{< meteoswiss lat="46.8410" long="8.4106" name="Brunnihuette" >}}
 Source:
-https://www.meteoschweiz.admin.ch/lokalprognose/brunnihuette-sac.html#forecast-tab=detail-view
+- [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/brunnihuette-sac.html#forecast-tab=detail-view)
 
 ## 📍 Meeting Point
 05:45AM  Zürich HB, Main Meeting point, around the clock
