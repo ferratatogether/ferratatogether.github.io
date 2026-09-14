@@ -8,6 +8,17 @@ tags:
   - K5
   - engelberg
 ---
+{{< viaferratacard 
+difficulty="K5" 
+duration="4h" 
+durationclimb="3h" 
+vertical="xxxx" 
+top="2662m"
+start="2310m"
+location="Engelberg"
+trekup="2207m, 1h30, T2"
+trekdown="1h30, T3+">}}
+
 The via ferrata up the Graustock is undoubtedly part of the Engelberg via ferrata paradise. The start of the route can also be conveniently reached from Engstlenalp. The southeast ridge of the Graustock offers a mix of mountain hiking and very steep climbing. From the summit and along the entire ridge, there are beautiful views down into the Engelberg Valley, over Lakes Trüebsee and Engstlensee, and across to the glacier-covered slopes of the Titlis. All in all, it is a highly rewarding yet quite challenging mountain tour, featuring extensive hiking terrain alongside some demanding via ferrata sections.
 
 {{< notice info>}} 👨‍⚖️
@@ -19,9 +30,6 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
-## ⏱️ Duration
-4.5 hours total
-
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 https://www.meteoblue.com/de/wetter/woche/graustock_schweiz_6936332?day=2
@@ -29,9 +37,6 @@ https://www.meteoblue.com/de/wetter/woche/graustock_schweiz_6936332?day=2
 ## 🗓️ Season
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
-
-## 📈 Difficulty
-K5, total 4.5h
 
 ## 📍 Meeting Point
 6:50AM Zürich HB, Main Meeting point, around the clock
@@ -50,15 +55,6 @@ Both costs 25.- with Half Fare back and forth
 
 ## 🗺️ GPX
 {{< gpx-map file="https://ferratatogether.github.io/graustock.gpx" >}}
-
-## 🏁 Start
-1.5H
-
-## 🎯 End
-2662m
-
-## 🚶🏻‍♂️ Exit
-1h30
 
 ## Travelling home
 by public transportation

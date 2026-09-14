@@ -14,6 +14,17 @@ tags:
 Not executed yet 🥲
 {{< /notice >}}
 
+{{< viaferratacard 
+difficulty="K3/K4" 
+duration="4h" 
+durationclimb="3h" 
+vertical="+56m -55m" 
+top="xxxx"
+start="xxxx"
+location="Valais"
+trekup="10min"
+trekdown="10min">}}
+
 A via ferrata in a lakeside setting, arranged with great originality and with plenty of ironwork: ideal for scrambling up the steep rock above the water. Special highlights are the giant suspension bridge and the final Tyrolienne traverse (can be bypassed if necessary).
 
 The via ferrata starts immediately from the car park above the concrete wall. Well-secured, you climb through a channel down to the water, before heading into the valley using natural and (a large number of) artificial steps, your left side attached to the wire rope, walking "au bord du lac". When the lake is full, you come very close to the (milky-green) water at several points, each time before making short climbs. The opposite bank gradually comes closer, and then you catch sight of the absolute highlight on this route, the longest via ferrata suspension bridge in the Alps. After this aerial walk high above the (ice-cold) glacier water, the route heads back along the Eastern bank. The steep rocks of the Stockflüe call for a vigorous effort, and this is followed by a few very open traverses which also force the climber slightly out from the rock face (including some with wooden safety beams); depending on the water level, the degree of clearance varies. Lastly, you have the Tyrolienne traverse, which it is now possible to bypass. One tip for this is to use the rope which pulls the pulley along as a brake.
@@ -26,9 +37,6 @@ Newcomers MUST sign the waiver form, it contains detailed information about the 
 The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
-
-## ⏱️ Duration
-3 hours, Variation in height: Negligible +56m -55m
 
 ## ☀️Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
@@ -52,7 +60,7 @@ Find the turquoise Zürich Together Banner.
 https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EBlatten+b.+Naters+%28Belalpbahn%29_I8530235&day=2026-08-22&time=07_00&moment=dep&trip=0_1
 To reach the Aletsch Via Ferrata (located around the Gibidum Reservoir at the Massa Gorge) via public transport, take a train to Brig station, catch the local Postbus (Route 624) to Blatten bei Naters (20min), and walk about 1 kilometer northeast to the reservoir. The entire trip from Zürich takes roughly 3.5 hours
 
-## 🚗 
+## 🚗 By Car
 
 ## 🅿️ Parking 
 Parking lot at the Gibidum reservoir outside the village of Blatten near Naters (1482m)
@@ -65,9 +73,6 @@ Blatten (1,327 m) is reached from Brig-Naters via a mountain road. It is possibl
 
 ## 🎯 End
 Stausee Gibidum (artificial lake, approx. 1480 m)
-
-## 🚶🏻‍♂️ Exit
-10min
 
 ## 🚶🏻‍♂️ Trek
 optional to go to Blausee, 3987 Riederalp or Bettmersee 
