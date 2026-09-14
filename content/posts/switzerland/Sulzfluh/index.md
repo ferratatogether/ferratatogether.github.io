@@ -78,6 +78,8 @@ None
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2355.6643054146166!2d9.837155711250682!3d47.01026762884734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4784ad2138385001%3A0x431d7e98ad62590c!2sKlettersteig%20Sulzfluh!5e1!3m2!1sen!2sch!4v1789373305325!5m2!1sen!2sch" >}}
 
 ## 🗺️ GPX
+{{< gpx-map file="/sulzfluh.gpx" >}}
+
 
 ## 🏁 Start 
 Approach and Via Ferrata Details: From Berghaus Alpenrösli, follow the white-blue-white alpine trail signs toward Carschinahütte. Follow sign "Klettersteig/Via Ferrata".
@@ -89,7 +91,7 @@ The approach to the start of the Sulzfluh via ferrata from the Berghaus Alpenrö
 ## 🚶🏻‍♂️ Exit
 After descending on a red-white sign-posted normal path, always follow path to the right side of the hill, it may turn blue-white but will be again later red-white. Always follow sign to Tilisuna-Hütte. You're gonna see the lake on your right and will walk toward it and later close to it.
 
-## Travelling home
+## 🏠 Travelling home
 From Alpenrössli, you will for sure have miss the alpine bus..., you can rent a bike for 10.-, but choose one that brake properly, you can now ride down back to St Antonien Platz (5.3km, 18min, don't go too fast, one turn on a bridge at the beginning is hazardous).
 Follow the road down, at the first intersection go to the right, to reach St. Antönien, Platz. You can give the bike back at St. Antönien, Platz (self service)
 
