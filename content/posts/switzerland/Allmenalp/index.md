@@ -55,7 +55,6 @@ The variant "Freude herrscht" is classified as K4+ in the SAC via ferrata scale.
 * Gloves are MANDATORY, the surface is mostly flat and you need to grab the safety line most of the time. You can buy gloves for 7.- at the cable car station
 {{< /notice >}}
 
-
 ## 🗓️ Season
 Typically 16 May/June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}

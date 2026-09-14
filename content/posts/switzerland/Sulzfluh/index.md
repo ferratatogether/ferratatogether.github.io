@@ -36,6 +36,10 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
+## 🗓️ Season
+Typically June through late October (conditions permitting)
+{{< months highlight="6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!
 {{< meteoswiss lat="47.0126" long="9.8394" name="Sulzfluh" >}}

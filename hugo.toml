@@ -8,7 +8,6 @@ theme = ["dream"]
 # copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Knowledge Enjoy License Agreement style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> This work adopts <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Non-Commercial-Same Share 4.0 International License Agreement</a> for licensing. The background is used <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a> on <a href="http s://www.pexels.com/zh-cn/@minan1398" target="_blank">Min An</a> <a href="https://www.pexels.com/z h-cn/photo/1454794/" target="_blank">picture</a>.'
 footerBottomText="Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended."
 
-
 # .Site.Config.Services.GoogleAnalytics.ID = ""
 
 enableRobotsTXT = true # For details, see the document under Dream author docs directory
@@ -85,7 +84,9 @@ paginate = 1
   #   jsDateFormat = "yyyy年MM月dd日"
 
   [params.navItems]
-  series = { href = "/", title = "Home" }
+    quickguide = { href = "https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA", target = "_blank", icon = "book", title = "Quick Start Guide" }
+    advancedguide = { href = "https://docs.google.com/document/d/1DlwYLguZtEandi8OJXAx1lN8TRAW05mX1F5DioEo9GE/edit?usp=sharing", target = "_blank", icon = "book", title = "Advanced Guide" }
+    FAQ = { href = "https://docs.google.com/document/d/1YhEtmZ--_Py2u39Vuc1vpGOgYMyvXoZcdSAGDRZo0Ho/edit?usp=sharing", target = "_blank", icon = "book", title = "FAQ" }
 
   [params.advanced]
       customCSS = ["css/custom.css"] # files in the list will be loaded in order
