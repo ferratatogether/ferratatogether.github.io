@@ -9,6 +9,17 @@ tags:
   - long
   - sustenpass
 ---
+{{< viaferratacard 
+difficulty="K3" 
+duration="7h"
+durationclimb="3h" 
+vertical="+500m" 
+top="2555m"
+start="1726m, 1,5h, +330m T3+"
+location="Sustenpass"
+trekup="1h, +200m"
+trekdown="+260m -1060m T4">}}
+
 A scenic and impressive via ferrata in classic style, totalling 14 ladders, iron bars, pins and steel cables for security. The main difficulties are encountered in the lowest section. For the return path, conditions are very important.
 
 {{< notice info>}} 👨‍⚖️
@@ -19,9 +30,6 @@ Newcomers MUST sign the waiver form, it contains detailed information about the 
 The QuickStart guide is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
-
-## ⏱️ Duration
-6.5/7 hours total
 
 ## ☀️ Weather 
 Weather can cancel/abort/shorten  the event a few days before if weather is not perfect for execution!
@@ -39,7 +47,7 @@ Find the turquoise Zürich Together Banner.
 ## 🏁 Time of leaving
 XXXAM to platform XXX
 
-## 🚗 
+## 🚗 By Cars
 1h 52 min from Zürich to Tällibahn Bergstation, Grimselstrasse 19, 3862 Innertkirchen
 
 ## 🅿️ Parking 
@@ -61,13 +69,10 @@ https://a.sbbmobile.ch/s/Gb6VKwsU
 {{< gpx-map file="https://ferratatogether.github.io/taelli.gpx" >}}
 
 ## 🏁 Start
-1726m, 1,5h, +330m T3+ https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/zustieg-zum-taelli-klettersteig-849/
-
-## 🎯 End
-2555m, 3h, +500m, K3
+https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/zustieg-zum-taelli-klettersteig-849/
 
 ## 🚶🏻‍♂️ Exit
-2.5 hours trek down, +260m -1060m T4, via satteli back to TälliHütte https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/abstieg-vom-taelli-klettersteig-zur-taellihuette-oder-engstlenalp-850/
+https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/abstieg-vom-taelli-klettersteig-zur-taellihuette-oder-engstlenalp-850/
 
 ## Travelling home: by public transportation
 

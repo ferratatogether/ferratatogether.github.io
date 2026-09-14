@@ -1,6 +1,6 @@
 ---
 title: "Graustock Ferrata Together"
-date: 2026-01-12T9:44:17+01:00
+date: 2026-09-05T9:44:17+01:00
 summary: "The via ferrata up the Graustock is undoubtedly part of the Engelberg via ferrata paradise."
 cover: /img/graustock.webp
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Rigidalstockgrat Ferrata Together"
-date: 2026-09-12T16:10:17+01:00
+date: 2026-06-14T16:10:17+01:00
 summary: "Nestled within the breathtaking landscapes of Switzerland lies a via ferrata that promises adventure-seekers a long unforgettable journey"
 cover: /img/rigidalstockgrat.webp
 tags:

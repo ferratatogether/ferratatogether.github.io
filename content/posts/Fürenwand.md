@@ -1,6 +1,6 @@
 ---
 title: "Fürenwand Ferrata Together"
-date: 2026-01-12T9:44:17+01:00
+date: 2026-06-13T9:44:17+01:00
 summary: "Following 750 m up a steep exposed wall, mostly on metal bars or rods. Very airy throughout the entire route, you should not be afraid of heights on this one."
 cover: /img/furrenwand.webp
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Tierbergli Ferrata Together"
-date: 2026-01-12T9:44:17+01:00
+date: 2026-07-04T9:44:17+01:00
 summary: "Impressive views of the Gwächtenhorn, Sustenhorn, and the Gadmertal valley open up time and again. Just before the final stretch to the Tierbergli Hut, the panorama widens—and your gaze falls upon the mighty Steingletscher: a true highlight of this tour!"
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
@@ -11,6 +11,17 @@ tags:
   - trek
   - scenic
 ---
+{{< viaferratacard 
+difficulty="K3/K5-K6" 
+duration="7h" 
+durationclimb="3h" 
+vertical="+500m" 
+top="2555m"
+start="1726m, 4min, parking"
+location="Saas-Grund"
+trekup="2h, +600m"
+trekdown="2:30h, -1000m, T3">}}
+
 Impressive views of the Gwächtenhorn, Sustenhorn, and the Gadmertal valley open up time and again. Just before the final stretch to the Tierbergli Hut, the panorama widens—and your gaze falls upon the mighty Steingletscher: a true highlight of this tour!
 
 {{< notice info>}} 👨‍⚖️
@@ -22,15 +33,9 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
-## ⏱️ Duration 
-6.5/7 hours total
-
 ## ☀️ Weather
 Weather can cancel/abort/shorten  the event if weather is not perfect for execution!
 https://www.meteoschweiz.admin.ch/lokalprognose/sustenpass.html#forecast-tab=detail-view
-
-## 📈 Difficulty
-K3, +500m, 3h
 
 ## 📍 Meeting Point
 XXXXAM  Zürich HB, Main Meeting point, around the clock
@@ -41,16 +46,11 @@ XXXAM to platform XXX
 
 ## 🚂 Recommended train 
 
+## 🗺️ MAP
+{{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2368.7956765302497!2d8.412568775672318!3d46.711814049338265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4785638ebf0a624d%3A0xc3ef0a20bef598de!2sVia%20ferrata%20Tierbergli!5e1!3m2!1sen!2sch!4v1789372468415!5m2!1sen!2sch" >}}
+
 ## 🗺️ GPX
-
-## 🏁 Start
-1726m, 4min, parking 
-
-## 🎯 End
-2555m, 3h
-
-## 🚶🏻‍♂️ Exit
-2-2.5 hours trek down T3
+{{< gpx-map file="/tierbergli.gpx" >}}
 
 ## Travelling home
 by public transportation

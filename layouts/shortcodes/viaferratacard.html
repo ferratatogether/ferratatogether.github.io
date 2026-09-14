@@ -1,0 +1,93 @@
+<div class="via-ferrata-card" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1rem; padding: 1rem; background: #f9f9f9; border-left: 4px solid #4a5568; border-radius: 4px; margin: 1rem 0;">
+  
+  {{ if .Get "difficulty" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">🧗</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Difficulty</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "difficulty" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "duration" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">⏱️</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Total Duration</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "duration" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "durationclimb" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">⏱️</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Climb Duration</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "durationclimb" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "start" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">🏁</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Start</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "start" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "top" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">⛰️</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Top</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "top" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "vertical" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">📈</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Vert. Gain</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "vertical" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "location" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">📍</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Location</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "location" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "trekup" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">↗️</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Access</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "trekup" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+    {{ if .Get "trekdown" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">↘️</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Exit</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "trekdown" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+</div>

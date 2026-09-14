@@ -1,6 +1,6 @@
 ---
 title: "Almenalp Ferrata Together"
-date: 2026-09-13T9:44:17+01:00
+date: 2026-06-07T9:44:17+01:00
 summary: "The Allmenalp Via Ferrata is one of the best in Switzerland. Climb iron pegs, cable bridges and traverse above the spectacular Allmenalp waterfall."
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
@@ -11,6 +11,11 @@ tags:
   - easy
   - short
 ---
+{{< viaferratacard difficulty="K4/K4+" duration="2-3h" vertical="370m" 
+location="Kandersteg"
+trekup="20min"
+trekdown="15min">}}
+
 {{< notice warning>}}Cable is broken, this add 2h steep trek down back to the valley{{< /notice >}}
 
 {{< notice info>}} 👨‍⚖️
@@ -49,8 +54,6 @@ The variant "Freude herrscht" is classified as K4+ in the SAC via ferrata scale.
 * Gloves are MANDATORY, the surface is mostly flat and you need to grab the safety line most of the time. You can buy gloves for 7.- at the cable car station
 {{< /notice >}}
 
-## ⏱️ Duration
-2-3 hours total
 
 ## 🗓️ Season
 Typically 16 May/June through late October (conditions permitting)
@@ -79,10 +82,8 @@ https://a.sbbmobile.ch/s/u3qOIzZM
 After the climb, we can use the cable car to avoid a trek down back to the valley.
 14.- CHF down to the valley or you’ll have to trek 2h down. https://www.allmenalp.ch/en/cable-car/prices.html
 
-## 🗺️ MAP
-
+## 🗺️ GPX
 {{< gpx-map file="/allmenalp.gpx" >}}
-
 
 ## 🏁 Start
 15 min on car road from Kandersteg train station, 10min more from rental (cable car building)

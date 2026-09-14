@@ -1,6 +1,6 @@
 ---
 title: "Mürren Ferrata Together"
-date: 2026-01-12T9:44:17+01:00
+date: 2025-10-12T9:44:17+01:00
 summary: "A K3 ideal for beginners, this via ferrata features one short section (15m in length) of extreme exposure, where you are attached to a cliff face roughly 600 meters (2000 feet) off of the ground. This can be challenging, even if you do not have a fear of heights."
 cover: /img/muerren.webp
 tags:
