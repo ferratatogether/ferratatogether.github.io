@@ -30,8 +30,8 @@ Typically June through late October (conditions permitting)
 
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
-{{< daubenhorn >}}
-or use 
+{{< meteoswiss lat="46.380024" long="7.628834" name="Leukerbad" >}}
+Source:
 https://www.meteoschweiz.admin.ch/lokalprognose/leukerbad/3954.html#forecast-tab=detail-view
 
 {{< notice info>}} 👨‍⚖️

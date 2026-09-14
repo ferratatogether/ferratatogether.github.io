@@ -34,8 +34,9 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 ## ☀️ Weather 
 Weather can cancel/abort/shorten  the event a few days before if weather is not perfect for execution!
 Gadmen area
-{{< talli >}}
-Top hill  https://www.meteoschweiz.admin.ch/lokalprognose/taellistock.html#forecast-tab=detail-view 
+{{< meteoswiss lat="46.7455" long="8.3248" name="Tällistock" >}}
+Source:
+https://www.meteoschweiz.admin.ch/lokalprognose/taellistock.html#forecast-tab=detail-view 
 
 ## 📈 Difficulty
 K3, +500m, 3h https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/klettersteig/taelli-klettersteig-848/

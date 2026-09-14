@@ -1,0 +1,189 @@
+{{ $lat := .Get "lat" | default "47.3769" }}
+{{ $lon := .Get "lon" | default "8.5417" }}
+{{ $locationName := .Get "name" | default "Zürich" }}
+{{ $id :=  "weather-$locationName" }}
+
+<style>
+        :root {
+            --bg-color: #f4f7f6;
+            --card-bg: #ffffff;
+            --text-main: #333333;
+            --text-muted: #666666;
+            --accent-blue: #0076c0;
+            --border-color: #e2e8f0;
+        }
+
+        .weather-widget {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            max-width: 650px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            color: var(--text-main);
+        }
+
+        .widget-header {
+            font-size: 1.25rem;
+            font-weight: bold;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--border-color);
+            color: var(--accent-blue);
+        }
+
+        .day-container {
+            margin-bottom: 20px;
+        }
+
+        .day-title {
+            font-weight: 600;
+            font-size: 1.05rem;
+            margin-bottom: 10px;
+            background-color: var(--bg-color);
+            padding: 6px 12px;
+            border-radius: 6px;
+        }
+
+        .hourly-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+        }
+
+        .hour-card {
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+            background-color: #fff;
+        }
+
+        .hour-time {
+            font-weight: bold;
+            font-size: 0.9rem;
+            margin-bottom: 6px;
+        }
+
+        .weather-icon {
+            font-size: 1.75rem;
+            margin: 5px 0;
+        }
+
+        .metric {
+            font-size: 0.85rem;
+            margin: 4px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+        }
+
+        .temp {
+            font-weight: 600;
+            color: #d9534f;
+        }
+
+        .rain {
+            color: #337ab7;
+        }
+
+        .wind {
+            color: #5cb85c;
+            font-size: 0.8rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="weather-widget">
+    <div class="widget-header">🇨🇭 MeteoSwiss Forecast ({{ $locationName }})</div>
+    <div id="forecast-target">Loading forecast data...</div>
+</div>
+
+<script>
+     const FETCH_URL = `https://api.open-meteo.com/v1/forecast?latitude={{ $lat }}&longitude={{ $lon }}&hourly=temperature_2m,precipitation,cloud_cover,wind_speed_10m&forecast_days=3&timezone=Europe%2FZurich`;
+
+    // Map cloud cover percentages to functional emoji weather icons
+    function getWeatherEmoji(cloudCover, precipitation) {
+        if (precipitation > 0.2) return '🌧️';
+        if (cloudCover < 20) return '☀️';
+        if (cloudCover < 50) return '⛅';
+        if (cloudCover < 85) return '🌥️';
+        return '☁️';
+    }
+
+    async function fetchForecast() {
+        try {
+            console.log("URL is", FETCH_URL);
+            const response = await fetch(FETCH_URL);
+            if (!response.ok) throw new Error('Network response failure');
+            
+            const data = await response.json();
+            renderWidget(data);
+        } catch (error) {
+            document.getElementById('forecast-target').innerText = 'Failed to load weather data.';
+            console.error('Error fetching data:', error);
+        }
+    }
+
+    function renderWidget(data) {
+        const target = document.getElementById('forecast-target');
+        target.innerHTML = '';
+
+        const hourly = data.hourly;
+        const targetHours = ['10:00', '12:00', '14:00', '16:00'];
+        
+        // Group data arrays chronologically by unique dates
+        const daysMap = {};
+
+        hourly.time.forEach((timeStr, index) => {
+            const dateObj = new Date(timeStr);
+            const dateKey = dateObj.toLocaleDateString('en-CH', { weekday: 'long', day: 'numeric', month: 'short' });
+            const hourKey = dateObj.toLocaleTimeString('en-CH', { hour: '2-digit', minute: '2-digit' });
+
+            if (targetHours.includes(hourKey)) {
+                if (!daysMap[dateKey]) {
+                    daysMap[dateKey] = [];
+                }
+                daysMap[dateKey].push({
+                    time: hourKey,
+                    temp: hourly.temperature_2m[index],
+                    rain: hourly.precipitation[index],
+                    clouds: hourly.cloud_cover[index],
+                    wind: hourly.wind_speed_10m[index]
+                });
+            }
+        });
+
+        // Generate the widget HTML template output dynamically
+        for (const [dayName, hoursData] of Object.entries(daysMap)) {
+            const dayDiv = document.createElement('div');
+            dayDiv.className = 'day-container';
+
+            let hourlyHtml = '';
+            hoursData.forEach(h => {
+                const icon = getWeatherEmoji(h.clouds, h.rain);
+                hourlyHtml += `
+                    <div class="hour-card">
+                        <div class="hour-time">${h.time}</div>
+                        <div class="weather-icon" title="Cloud cover: ${h.clouds}%">${icon}</div>
+                        <div class="metric temp">${Math.round(h.temp)}°C</div>
+                        <div class="metric rain">💧 ${h.rain.toFixed(1)} mm</div>
+                        <div class="metric wind">💨 ${Math.round(h.wind)} km/h</div>
+                    </div>
+                `;
+            });
+
+            dayDiv.innerHTML = `
+                <div class="day-title">${dayName}</div>
+                <div class="hourly-grid">${hourlyHtml}</div>
+            `;
+            target.appendChild(dayDiv);
+        }
+    }
+
+    // Initialize widget data fetch sequence
+    fetchForecast();
+</script>
