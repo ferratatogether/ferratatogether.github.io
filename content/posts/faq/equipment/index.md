@@ -3,7 +3,7 @@
 title: "Buying your Via Ferrata equipment"
 date: 2026-09-14T16:00:00+01:00
 summary: "Buying your Via Ferrata equipment"
-cover: /img/logo.png
+cover: /img/header.png
 tags:
   - via-ferrata
   - security

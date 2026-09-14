@@ -127,7 +127,7 @@ lake located right on your descent path from the climb: Partnunsee (Lake Partnun
 
 ## 🛍️ Renting equipment
 You can rent directly at Berghaus Alpenrössli/Sulzfluh. It is located in Partnun (St. Antönien), right at the starting area for
-the approach hike. 30.-
+the approach hike. 30.- Call them and write them an email, they may not respond but at least you are on the safe side.
 - [Sulzfluh.ch](https://www.sulzfluh.ch/de/klettersteige-der-sulzfluh-mietmaterial)
 - [praettigau.info](https://www.praettigau.info/en/node/7285/berghaus-sulzfluh-0)
 
@@ -142,11 +142,11 @@ If you are driving or taking the post bus up from the main valley, you can stop 
 - [graubuenden.ch](https://www.graubuenden.ch/en/tours/via-ferrata-partnunblick-st-antonien)
 
 ## ⭐️ My review
-- demanding trek up, up 800m
-- Climb was easy but reuire some climbing technique, you dont have everywhere irons to helpo
-- Take attention to small stones on path during climb, dont let them fall down!
-- The most beautiful landscape at the top 
-- Trek down (-1000m) is very nice and diverse but long and demanding, at some place even dangerous 
+- Demanding trek up, up 800m
+- Climb was easy but require some climbing techniques, you do not have everywhere irons to help you.
+- Take attention to small stones on path during climb, do not let them fall down!
+- The most beautiful landscape at the top of all Ferrata in Switzerland.
+- Trek down (-1000m) is very nice and diverse but long and demanding, at some place even dangerous, extra attention required.
 
 ## 🗺️ Topography
 ![Sulzfluh topography](/img/sulzfluh-left.webp)
