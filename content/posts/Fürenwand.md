@@ -8,6 +8,17 @@ tags:
   - K5
   - engelberg
 ---
+{{< viaferratacard 
+difficulty="K5" 
+duration="2h" 
+durationclimb="3h" 
+vertical="750hm" 
+top="xxx"
+start="xxx"
+location="Engelberg"
+trekup="30min"
+trekdown="30min 🚠">}}
+
 Following 750 m up a steep exposed wall, mostly on metal bars or rods. Very airy throughout the entire route, you should not be afraid of heights on this one.
 
 {{< notice info>}} 👨‍⚖️
@@ -47,12 +58,6 @@ Yes to go back to start.
 
 ## 🗺️ GPX
 TODO
-
-## 🏁 Start
-Hike 30min from Engelberg valley station of Fürrenalp cable car
-
-## 🎯 End
-
 
 ## 🚶🏻‍♂️ Exit
 From Fürenalp summit → trail to Engelberg (1h) or cable car down

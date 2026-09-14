@@ -12,7 +12,18 @@ tags:
   - exit-trek-easy
   - no-trek
 ---
-A truly spectacular route in the granite rocks of the Schöllenen gorge, albeit with plenty of grass in between. There are fascinating views down into the wild gorge and its roads. With 700 metres of wire rope, 265 iron pins and pitons, artificial footholds and two attached ladders. Not advisable when wet (grass).
+{{< viaferratacard 
+difficulty="K2/K3" 
+duration="2h" 
+durationclimb="3h" 
+vertical="450hm" 
+top="1900m"
+start="1450m"
+location="Andermatt"
+trekup="15min"
+trekdown="1h">}}
+
+A truly spectacular route in the granite rocks of the Schöllenen gorge, albeit with plenty of grass in between. There are fascinating views down into the wild gorge and its roads. With 700 metres of wire rope, 265 iron pins and pitons, artificial footholds and two attached ladders. Not advisable when wet (grass). Moderately difficult via ferrata, ideal for beginners. 
 
 {{< notice info>}} 👨‍⚖️
 Newcomers MUST sign the waiver form, it contains detailed information about the risks difficulty and more -> https://forms.gle/phYLQZ5mvnNeuR9N9
@@ -23,9 +34,6 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
-## ⏱️ Duration
-3 hours total
-
 ## ☀️Weather
 Weather can cancel the event a few days before or during if weather is not perfect for execution!
 https://www.meteoschweiz.admin.ch/lokalprognose/andermatt/6490.html#forecast-tab=detail-view
@@ -33,11 +41,6 @@ https://www.meteoschweiz.admin.ch/lokalprognose/andermatt/6490.html#forecast-tab
 ## 🗓️ Season
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
-
-## 📈 Difficulty
-K2-3. 
-+450m. 
-Moderately difficult via ferrata, ideal for beginners. 
 
 ## 📍 Meeting Point
 06:45AM  Zürich HB, Main Meeting point, around the clock
@@ -51,9 +54,6 @@ https://a.sbbmobile.ch/s/kBtLhuGZ
 
 ##  🏁 Start 
 Andermatt (1436 m), station for the Furka-Oberalp-Bahn railway and terminus for the funicular coming up from Göschenen. Parking at the station. From the station at Andermatt, follow the route alongside and on the main road (route signed) through the Urner Loch into the Schöllenen gorge, turning right before you reach the Teufelsbrücke Bridge and making for the Suvorov Memorial (1,405 m).
-
-## 🎯 End
-1900m
 
 ## 🚶🏻‍♂️ Exit
 1 hour On a well-signed path, first taking in a slight climb over the Tüfelstalboden, and then gently downhill to the avalanche obstructions, before zig-zagging down to the barracks area at Andermatt.

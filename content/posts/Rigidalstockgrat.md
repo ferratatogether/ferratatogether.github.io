@@ -11,6 +11,17 @@ tags:
   - trek
   - engelberg
 ---
+{{< viaferratacard 
+difficulty="K3/K4" 
+duration="7h" 
+durationclimb="3h" 
+vertical="180hm" 
+top="2593m"
+start="2413m"
+location="Engelberg"
+trekup="1873m, 2h, +540m, T2"
+trekdown="3h, -540m T2">}}
+
 Nestled within the breathtaking landscapes of Switzerland lies a via ferrata that promises adventure-seekers an unforgettable journey. Via Ferrata Rigidalstockgrat, often referred to as Rigidalstockgrat, is a hidden gem among the Swiss Alps’ many climbing routes. In this blog post, we’ll take you on a virtual tour of this exhilarating via ferrata, sharing all you need to know to prepare for and embark on this thrilling alpine experience. ## Understanding Via Ferrata Before we delve into the specifics of Via Ferrata Rigidalstockgrat, let’s clarify what a via ferrata is. Originating from Italian, “via ferrata” translates to “iron path.” These climbing routes are characterized by steel cables, ladders, and rungs anchored to the rock, allowing climbers to ascend steep terrain safely. Via ferratas blend the thrill of climbing with the accessibility of hiking, making them accessible to a wide range of adventurers.
 
 {{< notice tip>}} 📓 
@@ -26,9 +37,6 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
-## ⏱️ Duration
-7 hours total
-
 ## 🗓️ Season
 Typically June through late October (conditions permitting)
 {{< months highlight="6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
@@ -40,9 +48,6 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 
 https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
 
-## 📈 Difficulty
-K3-K4
-
 ## 📍 Meeting Point
 05:45AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
@@ -51,7 +56,7 @@ Find the turquoise Zürich Together Banner.
 5:55AM to platform 10
 
 ## 🚂 Recommended train
-
+XXXX
 
 ## 🚠  Cable Car
 Brunni-Bahnen Engelberg AG, 6390 Engelberg, Switzerland
@@ -71,15 +76,6 @@ Beginner will prefer doing the Rigidalstock ridge (C/K3) up and down.
 ### Rigidalstock ridge (C/K3)
 
 {{< gpx-map file="/rigidalstockgrat.gpx" >}}
-
-## 🏁 Start
-1.5 to 2h walk up, +540m T2
-
-## 🎯 End
-+180m
-
-## 🚶🏻‍♂️ Exit
-3h walk down to chairlift
 
 ## 🏡 Travelling home
 by public transportation

@@ -11,6 +11,17 @@ tags:
   - valais
   - saas-grund
 ---
+{{< viaferratacard 
+difficulty="K3/K5-K6" 
+duration="7h" 
+durationclimb="3h" 
+vertical="400hm" 
+top="3206m"
+start="2800m"
+location="Saas-grund"
+trekup="15min"
+trekdown="1h">}}
+
 At 3,206 metres above sea level at its highest, the Jegihorn is the highest Via Ferrata in the Western Alps. 1,000 metres of steel cable, 400 anchor points, and a stomach-churning suspension bridge, several ladders  secure the path.
 
 {{< notice info>}} 👨‍⚖️
@@ -22,9 +33,6 @@ The QuickStart guide is a good start to learn how to execute via ferrata in safe
 https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 {{< /notice >}}
 
-## ⏱️ Duration
- 7-8 hours total
-
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 2700m https://www.meteoschweiz.admin.ch/lokalprognose/weissmieshuette-sac.html#forecast-tab=detail-view
@@ -34,9 +42,6 @@ https://www.meteoschweiz.admin.ch/lokalprognose/saas-grund/3910.html#forecast-ta
 ## 🗓️ Season
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
-
-## 📈 Difficulty
-K3-K4, +400m, 3h
 
 ## 📍 Meeting Point
 05:45AM  Zürich HB, Main Meeting point, around the clock
@@ -100,7 +105,6 @@ Saastalstrasse 241
  zurbriggensport@bluewin.ch
 It is close to the Bus stop and cable car.
 <img width="736" height="1600" alt="jegi1" src="https://github.com/user-attachments/assets/07d5714b-086f-4f8c-b582-366c02945ccd" />
-
 
 ## 🔗 Links
 - www.off-the-trail.de/jegihorn 
