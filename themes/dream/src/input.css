@@ -1,6 +1,24 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss' source(none);
+
+@source "input.css";
+@source "../layouts";
+
+@plugin '@tailwindcss/typography';
+@plugin "daisyui" {
+  themes: emerald --default, forest --prefersdark;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@config '../tailwind.config.js';
+
+html {
+  scroll-behavior: smooth;
+}
+
+#disqus_thread iframe[src*='ads-iframe'] {
+  display: none;
+}
 
 #dream-global-bg {
   position: fixed;
@@ -64,23 +82,52 @@
 }
 
 #TableOfContents {
-  @apply sticky top-24 overflow-y-auto;
+  @apply sticky top-24;
 
-  /* 6 + 1 rem */
+  /* top-24 + 1rem */
   max-height: calc(100vh - 7rem);
+  overflow-y: auto;
+
+  /* Prevent long headings (e.g. CJK titles) from making the TOC wider than
+     its grid column and overlapping the article (#411 / #412) */
+  max-width: 100%;
+}
+
+@supports (-moz-appearance: none) {
+  #TableOfContents {
+    position: initial;
+  }
 }
 
 #TableOfContents ul {
   @apply menu menu-sm;
 }
 
+.mermaid-panzoom {
+  @apply relative border border-transparent rounded-box;
+}
+
+.mermaid-panzoom:hover,
+.mermaid-panzoom:focus-within {
+  @apply border-base-300;
+}
+
+.mermaid-panzoom > .mermaid {
+  @apply overflow-hidden;
+}
+
+.mermaid-panzoom-reset {
+  @apply absolute z-1 right-2 bottom-2 opacity-0 pointer-events-none transition-opacity duration-150 ease-in-out;
+}
+
+.mermaid-panzoom:hover .mermaid-panzoom-reset,
+.mermaid-panzoom:focus-within .mermaid-panzoom-reset {
+  @apply opacity-100 pointer-events-auto;
+}
+
 .dream-alert {
   > .heading {
     @apply flex items-center gap-1 text-sm font-medium;
-  }
-
-  ion-icon {
-    font-size: 1rem;
   }
 
   &.note {
