@@ -33,7 +33,11 @@ https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
-https://www.meteoblue.com/de/wetter/woche/graustock_schweiz_6936332?day=2
+
+{{< meteoswiss lat="46.78785" long="8.36885" name="Graustock" >}}
+Source:
+- https://www.meteoschweiz.admin.ch/lokalprognose/engelberg/6390.html#forecast-tab=detail-view
+- https://www.meteoblue.com/de/wetter/woche/graustock_schweiz_6936332?day=2
 
 ## 🗓️ Season
 Typically June through late October (conditions permitting)

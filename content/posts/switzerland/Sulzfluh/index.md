@@ -84,8 +84,12 @@ None
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2355.6643054146166!2d9.837155711250682!3d47.01026762884734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4784ad2138385001%3A0x431d7e98ad62590c!2sKlettersteig%20Sulzfluh!5e1!3m2!1sen!2sch!4v1789373305325!5m2!1sen!2sch" >}}
 
 ## 🗺️ GPX
-{{< gpx-map file="/sulzfluh.gpx" >}}
 
+### With Cave via ferrata
+{{< gpx-map file="sulzfluh-dom.gpx" >}}
+
+### Shorter path to start
+{{< gpx-map file="/sulzfluh.gpx" >}}
 
 ## 🏁 Start 
 Approach and Via Ferrata Details: From Berghaus Alpenrösli, follow the white-blue-white alpine trail signs toward Carschinahütte. Follow sign "Klettersteig/Via Ferrata".

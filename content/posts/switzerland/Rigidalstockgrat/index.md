@@ -45,9 +45,9 @@ Typically June through late October (conditions permitting)
 ## ☀️ Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
-{{< meteoswiss lat="46.8506" long="8.4178" name="Engelberg" >}}
+{{< meteoswiss lat="46.8410" long="8.4106" name="Brunnihuette" >}}
 Source:
-https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
+https://www.meteoschweiz.admin.ch/lokalprognose/brunnihuette-sac.html#forecast-tab=detail-view
 
 ## 📍 Meeting Point
 05:45AM  Zürich HB, Main Meeting point, around the clock

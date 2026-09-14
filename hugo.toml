@@ -22,7 +22,10 @@ enableGitInfo = true
 lastmod = [':git', ':fileModTime']
 paginate = 1
 
-[params]  
+utterancesRepo = "ferratatogether/ferratatogether.github.io"
+utterancesStyle = "github-light"
+
+[params] 
   relativeURLs = false
   name = "Ferrata Together (Zurich Together)"
   headerTitle = "Ferrata Together (Zurich Together)"
@@ -153,7 +156,10 @@ paginate = 1
     ordered = false
     startLevel = 2
 
-# use hugo mod get -u   to update all module
+# use 
+# https://github.com/ravelzh/hugo-gpx-module
+# 
+# hugo mod get -u      to update all module
 [module]
   [[module.imports]]
     path = "github.com/ravelzh/hugo-gpx-module"
