@@ -86,8 +86,11 @@ Parking is limited at the cable car station
 ## 🗺️ Map
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2360.0086555446283!2d8.712553684505965!3d46.911689061292066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478547bbc433fb3b%3A0xf9b3e7f1ff13152e!2sKlettersteig%20Fruttst%C3%A4g%C3%A4!5e1!3m2!1sen!2sch!4v1789324234232!5m2!1sen!2sch" >}}
 
-## 🗺️ GPX
-{{< gpx-map file="https://ferratatogether.github.io/jegihorn.gpx" >}}
+## 🗺️ GPX Hike
+{{< gpx-map file="./hexensteig-hike.gpx" >}}
+
+## 🗺️ GPX full trip
+{{< gpx-map file="./hexensteig.gpx" >}}
 
 ## 🏁 Start
 exhausting 1.5h walk up to the start: 1750 m, 10% now shadows, 90% in the forest

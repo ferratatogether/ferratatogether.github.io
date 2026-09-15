@@ -67,8 +67,11 @@ https://a.sbbmobile.ch/s/Gb6VKwsU
 ## 🗺️ Map
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21753.79253015729!2d8.309152590393133!3d46.747659974526506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478f8991e35d08d9%3A0xc7fc8f0350b00422!2sT%C3%A4llistock!5e1!3m2!1sen!2sch!4v1789324083560!5m2!1sen!2sch" >}}
 
-## 🗺️ GPX
-{{< gpx-map file="https://ferratatogether.github.io/taelli.gpx" >}}
+## 🗺️ GPX full trip
+{{< gpx-map file="taelli.gpx" >}}
+
+## 🗺️ GPX exit path to Hütte
+{{< gpx-map file="taelli-hike-exit.gpx" >}}
 
 ## 🏁 Start
 https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/zustieg-zum-taelli-klettersteig-849/
