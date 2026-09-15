@@ -71,11 +71,11 @@ Beginner will prefer doing the Rigidalstock ridge (C/K3) up and down.
 
 ### Rigidalstock face (D/K4)
 
-{{< gpx-map file="/rigidalstockwand.gpx" >}}
+{{< gpx-map file="rigidalstockwand.gpx" >}}
 
 ### Rigidalstock ridge (C/K3)
 
-{{< gpx-map file="/rigidalstockgrat.gpx" >}}
+{{< gpx-map file="rigidalstockgrat.gpx" >}}
 
 ## 🏡 Travelling home
 by public transportation

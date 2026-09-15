@@ -67,7 +67,7 @@ To reach the Aletsch Via Ferrata (located around the Gibidum Reservoir at the Ma
 Parking lot at the Gibidum reservoir outside the village of Blatten near Naters (1482m)
 
 ## 🗺️ MAP
-{{< gpx-map file="/aletsch.gpx" >}}
+{{< gpx-map file="aletsch.gpx" >}}
 
 ## 🏁 Start
 Blatten (1,327 m) is reached from Brig-Naters via a mountain road. It is possible to drive further, to the artificial lake of the Gibidum-Stausee (1,436 m), where there is parking.

@@ -53,7 +53,7 @@ XXXAM to platform XXX
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2368.7956765302497!2d8.412568775672318!3d46.711814049338265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4785638ebf0a624d%3A0xc3ef0a20bef598de!2sVia%20ferrata%20Tierbergli!5e1!3m2!1sen!2sch!4v1789372468415!5m2!1sen!2sch" >}}
 
 ## 🗺️ GPX
-{{< gpx-map file="/tierbergli.gpx" >}}
+{{< gpx-map file="tierbergli.gpx" >}}
 
 ## Travelling home
 by public transportation

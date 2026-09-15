@@ -10,6 +10,8 @@ tags:
   - equipment
   - FAQ
 ---
+
+## Where to buy your via ferrata equipment?
 You can get your Via Ferrata kit in any shop (in alphabetical order): 
 
 - Aliexpress/Temu: beware of fake products, not recommended, may be good, may be bad but don't take any risks.
@@ -46,12 +48,39 @@ Most manufacturers place a lifespan of 5 to 10 years on via ferrata lanyards and
 
 After a fall, or when it is too old, take a scissor and cut it into parts, this avoids that it is retrieved from the garbage and sold used somewhere. You can most of the time keep metallic carabiners (near infinite lifespan if no wear)
 
-## Storage
+## Storing your via ferrata equipment
 Improper storage of via ferrata gear can degrade materials, compromising your safety during a climb. Key risks include damage from moisture, UV radiation, and chemical exposure. Store in a dry, well-ventilated area away from damp basement walls. 
 
 Let gear dry naturally before packing it away. Keep equipment in a dark place, such as a gear closet, drawer, or storage bag, out of direct sunlight. Keep in a cool environment with stable temperatures. Avoid storing gear in hot attics or car trunks.
 
-## Buying a resting lanyard
+## Buying a via ferrata helmet
+You need to rent or buy a dedicated climbing helmet!
+
+You never ever remove your helmet while climbing, a rock fall can happen anytime.
+
+Bike/eBike helmets are not rated for climbing, they are designed for horizontal impacts in road crashes, so  completely different from climbing dangers. Bike helmet strap will also snap during a climbing fall, because they are designed to break more easily to prevent strangulation in a crash (150 to 200N max)
+
+Climbing helmets are safety-certified using specific international standards. These standards define what ratings a helmet must meet and how it is tested for impact, penetration, and retention strength.
+
+EN 12492 (Europe) is the main standard for mountaineering and climbing helmets in Europe.
+A helmet that passes EN 12492 is certified for:
+- Impact protection (top, front, side, rear)
+- Penetration resistance
+- Chinstrap strength
+- Retention system performance
+- Ventilation requirements
+
+On dangerous trek back, like T3, T4 you can also keep your helmet to limit injuries in case of fall.
+
+## Buying a via ferrata gloves 
+Gloves are a MUST, in most places, the mountain is flat and you need to grab the cable.
+
+Gloves can never be rented, you either:
+- Bring them from home with you, e.g. garden leather gloves
+- Buy them cheap at Do it Garden, Migros, …  prefer leather gloves.
+- Buy them (around 7 CHF …) when renting your equipment at the rental company.
+
+## Buying a via ferrata resting lanyard
 Fix or adjustable for more convenience and confort, Budget around 40.- (without a carabiner)
 
 You can also use them with a PETZL Reverso to rappel down, on Zip line.
@@ -68,7 +97,6 @@ A NOT too big Wear-out Webbing: Via ferrata lanyard uses folded and stitched web
 Rest Loop: A short loop attached directly next to the absorber block to clip a dedicated resting carabiner so you can hang and rest safely without misusing the main lanyard arms. While nice you can only rest with it if the hook is really close to your belly.
 
 ### Nice to have
-
 Integrated Swivel (Spinner): A small axis joint near the harness that stops the elastic arms from twisting together as you turn and clip. It does not always work, add some weight too.
 Choosing the right carabiners: prefer palm-squeeze / ergonomic Levers
 

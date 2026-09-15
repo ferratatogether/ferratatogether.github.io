@@ -58,7 +58,7 @@ https://a.sbbmobile.ch/s/LpBaNchl
 Both costs 25.- with Half Fare back and forth
 
 ## 🗺️ GPX
-{{< gpx-map file="https://ferratatogether.github.io/graustock.gpx" >}}
+{{< gpx-map file="graustock.gpx" >}}
 
 ## Travelling home
 by public transportation

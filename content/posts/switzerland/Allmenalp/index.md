@@ -83,7 +83,7 @@ After the climb, we can use the cable car to avoid a trek down back to the valle
 14.- CHF down to the valley or you’ll have to trek 2h down. https://www.allmenalp.ch/en/cable-car/prices.html
 
 ## 🗺️ GPX
-{{< gpx-map file="/allmenalp.gpx" >}}
+{{< gpx-map file="allmenalp.gpx" >}}
 
 ## 🏁 Start
 15 min on car road from Kandersteg train station, 10min more from rental (cable car building)

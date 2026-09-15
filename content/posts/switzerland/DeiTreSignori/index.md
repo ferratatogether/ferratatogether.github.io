@@ -80,7 +80,7 @@ This could be after 19:20 or later. A lot of locals are going down late with the
 {{< /notice >}}
 
 ## 🗺️ GPX
-{{< gpx-map file="https://ferratatogether.github.io/deitreisignori.gpx" >}}
+{{< gpx-map file="deitreisignori.gpx" >}}
 
 ## 💬 WhatsApp group
 

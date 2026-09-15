@@ -58,7 +58,7 @@ https://www.gemmi.ch/en/
 ## 🚠  Cable Car
 
 ## 🗺️ GPX
-{{< gpx-map file="/daubenhorn.gpx" >}}
+{{< gpx-map file="daubenhorn.gpx" >}}
 
 ## 🏁 Start
 

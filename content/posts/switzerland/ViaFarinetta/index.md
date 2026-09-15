@@ -54,8 +54,7 @@ XXXAM to platform XXX
 ## 🚂 Recommended train
 	
 ## 🗺️ GPX
-{{< gpx-map file="/via-farinetta.gpx" >}}
-
+{{< gpx-map file="via-farinetta.gpx" >}}
 
 ## 🏁 Start
 0:20 h, 80 m, T1
