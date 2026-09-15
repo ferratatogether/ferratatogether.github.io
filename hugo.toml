@@ -22,8 +22,7 @@ enableGitInfo = true
 lastmod = [':git', ':fileModTime']
 paginate = 1
 
-utterancesRepo = "ferratatogether/ferratatogether.github.io"
-utterancesStyle = "github-light"
+
 
 [params] 
   relativeURLs = false
@@ -31,6 +30,9 @@ utterancesStyle = "github-light"
   headerTitle = "Ferrata Together (Zurich Together)"
   description ="Ferrata Together (Zurich Together) organize Via Ferrata events in Switzerland"
   motto = "A via ferrata is a protected, fixed-cable climbing route that allows people to traverse steep or difficult rocky terrain safely."
+
+  utterancesRepo = "ferratatogether/ferratatogether.github.io"
+  utterancesStyle = "github-light"
 
   # use true for chinese
   hasCJKLanguage = false
@@ -44,9 +46,9 @@ utterancesStyle = "github-light"
   # collapseNavItems = ["posts", "categories", "tags"]
   # noDefaultSummaryCover = true
   imageZoomableInPost = true
-
   showTableOfContents = true
   showPrevNextPost = true
+  
   showTaxonomyInPost = true
   showTaxonomyInPostTop = true
   showTaxonomyInPostBottom = true
