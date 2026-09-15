@@ -28,7 +28,7 @@ The Sulzfluh via ferrata is a classic, demanding alpine fixed-rope climb scaling
 Rated K4 to C/D, it features airy traverses, vertical limestone walls, and no early exit points
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 

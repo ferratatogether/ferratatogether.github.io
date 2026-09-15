@@ -14,7 +14,7 @@ tags:
 The Via Farinetta leads through the wild and mysterious Salentze Gorge, from which the thermal water for the thermal baths in Saillon also originates.
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 

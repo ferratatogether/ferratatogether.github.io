@@ -30,7 +30,7 @@ Time is your worst enemy! you can NOT start aroung 9:00AM and do Brunnistockli o
 {{< /notice >}}
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 

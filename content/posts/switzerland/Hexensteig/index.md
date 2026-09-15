@@ -29,7 +29,7 @@ To start the via ferrata, you’ll cross a mini-gorge via a zip line. After that
 As you exit the “Hexenhäuschen,” there’s another spot to rest. If you continue climbing for about 10 minutes to the Pfaffen, you’ll be rewarded with a picnic area offering panoramic views. The return route follows the white-blue-white-marked alpine hiking trail downhill.
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 

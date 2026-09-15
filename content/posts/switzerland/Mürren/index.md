@@ -35,7 +35,7 @@ This via ferrata features one short section (15m in length) of extreme exposure,
 Gloves are MANDATORY, the surface is mostly flat and you need to grab the safety line most of the time. 
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 

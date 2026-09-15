@@ -16,7 +16,7 @@ About 30 min approach,
 1 to 1.5 hours on the wire, and a marked hiking descentLocation & Access: Starts at Urnerboden (Switzerland's largest alpine pasture), reached via the Klausen Pass. Free parking is available near the village church.
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 

@@ -21,7 +21,7 @@ ferrata! Rockfalls – as always around the Eiger! – cannot be ruled out!
 - Kleine Scheidegg – Eigergletscher and back can also be done by mountain train.
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 

@@ -20,7 +20,7 @@ A very nice Ferrata with 2 options to choose in the middle. 1 is with overhang, 
 Has 382 metal steps and 620 meters of wire rope; Easy Up to 2 hours and 330m. 
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 

@@ -28,7 +28,7 @@ The Schwarzhorn Via Ferrata near Grindelwald is a moderately difficult (K3) alpi
 Airily staggered aluminum ladders on steep vertical rock faces and an exposed ridge traverse
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 

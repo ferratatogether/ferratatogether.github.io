@@ -23,7 +23,7 @@ trekdown="30min 🚠">}}
 Following 750 m up a steep exposed wall, mostly on metal bars or rods. Very airy throughout the entire route, you should not be afraid of heights on this one.
 
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more -> 
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
 
 {{< notice tip>}} 📓 
