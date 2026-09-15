@@ -1,7 +1,7 @@
 ---
 title: "Braunwald Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
-summary: "The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car."
+summary: "The Braunwald via ferrata (Eggstöcke Klettersteig) features three separate sections that increase significantly in technical demand, allowing climbers to pick a route according to their skill level. The total route progresses along a highly panoramic, exposed mountain ridge across four distinct peaks"
 cover: /img/logo.png
 tags:
   - via-ferrata
@@ -12,10 +12,6 @@ tags:
   - glarus
   - switzerland
 ---
-{{< notice info>}}
-Not executed yet 🥲
-{{< /notice >}}
-
 {{< viaferratacard 
 difficulty="K3/K5" 
 duration="7h" 
@@ -24,25 +20,32 @@ vertical="400hm"
 top="2700m"
 start="2120m"
 location="Glarus"
-trekup="1901m, 30min (Gumen station)"
+trekup="1901m, 30min"
 trekdown="45min/2h">}}
 
-The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
-The Eggstöcke can also be reached on foot from Braunwald (mountain station of the Braunwald cable car):
-You can see the Glärner mountains from Zurich's Quaibrücke (bridge). When the Föhn wind blows and the air is clear, 
-it even seems to be within walking distance. In fact it is not more than an hour's drive from that metropolis at the lower end of Lake
-Zurich to the wilds of Glarnerland, and there are many, many great days out to be had there - including one of Switzerland's best via 
-ferratas: the Braunwalder. The route received almost 7,000 visits in 2008; probably the Swiss wide record. This figure is known thanks 
-to an automatic passenger counter which was installed before one of the first descent sections on route. Most "ferrastis" also travel by 
-cable car, and also drop into the Berghaus. The route on the Eggstöcken is certainly one of the most beautiful in Switzerland. It consists 
-of three sections: the first two, which are quite amenable, and a final somewhat harder section. For those who have never been on a via ferrata, 
-you can hire equipment and test it out first on a new beginner route above Berghaus Gumen.
+## ℹ️ Route overview
 
-Route overview:
-- Circuit Leiteregg (blue) with safety rope (difficulty approx. K3): 2.5 to 3.5 hours.
-- Tour Vorder - Mittler Eggstock (red) with safety rope (difficulty approx. K3): 2.5 to 5.5 hours
-- Tour Vorder - Hinter Eggstock (black) with safety rope (difficulty approx. K5): 5.5 to 6.5 hours
-- NEW: Leiteregg ascent (double track) as a relief route to the previous K3 route (difficulty approx. K5)
+The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
+
+### Circuit Leiteregg
+
+(blue) with safety rope - K3 -  2.5 to 3.5h.
+
+Great entry point for beginners with a head for heights. Features steep ladders and exposed chimneys with solid iron stirrups. Includes the spectacular 16-metre Charlotte Bridge suspension bridge. 
+
+### Leiteregg ascent 
+(double track) as a relief route to the previous K3 route (difficulty approx. K5)
+A new, highly challenging K5 / Grade D/E variation exists at Leiteregg for experts.
+
+### Tour Vorder
+Mittler Eggstock (red) - K3 - 2.5 to 5.5h
+
+A scenic, airy ridge traverse. Requires solid stamina but maintains very secure footing with consistent cable lines. Ends at the Mittler Eggstock plateau near a small emergency bivouac box. You can exit down to Gumen from here if you want to skip the final wall.
+
+### Tour Vorder
+Hinter Eggstock (black) with safety rope K5 -  5.5 to 6.5h
+
+Strictly for experts. A short but extremely physical 80-metre vertical ascent. Demands significant upper-body strength, absolute composure, and rock experience. Features a steep, slightly overhanging crux that must be navigated with careful technique.
 
 {{< notice info>}} 👨‍⚖️
 Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more
@@ -52,7 +55,8 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## ☀️ Weather
+## ☀️ Weather
+
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
 {{< meteoswiss lat="46.939" long="8.994" name="Braunwald" >}}
@@ -70,7 +74,6 @@ Typically June through late October (conditions permitting)
 Find the turquoise Zürich Together Banner.
 
 ## 🏁 Time of leaving
-
 XXXAM to platform 10
 
 ## 🚂 Recommended train
@@ -78,9 +81,9 @@ XXXAM to platform 10
 To reach the Braunwald via ferrata by train, take the Swiss Federal Railways (SBB) network directly to the Linthal Braunwaldbahn station, which sits right next to the funicular valley station
 https://a.sbbmobile.ch/s/XXXXX 
 
- Exit the train at Linthal Braunwaldbahn (do not miss it and stay on until the final Linthal terminal station). The train platform is connected directly to the funicular base station via a short, covered walkway.
+Exit the train at Linthal Braunwaldbahn (do not miss it and stay on until the final Linthal terminal station). The train platform is connected directly to the funicular base station via a short, covered walkway.
 
-## 🚠 Cable cars 
+## 🚠 Cable cars
 
 - [Get a day pass](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) for +30.- CHF
 - Board the Braunwaldbahn funicular (Braunwaldbahn, Stachelbergweg 2, 8783 Linthal) for a 7-minute ride up to Braunwald village.
@@ -117,7 +120,7 @@ TODO
 ## 🚰 Water
 No access
 
-## 🛍️ Renting equipment:
+## 🛍️ Renting equipment
 Please send an email now or call and reserve a via ferrata set with helmet
 
 www.braunwald.ch/klettersteige
@@ -152,4 +155,3 @@ Noticing defects? contact immediately:
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## 🎥 Video
-{{< youtube ffalh7JR20Y >}}
