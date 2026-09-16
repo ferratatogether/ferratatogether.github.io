@@ -98,7 +98,7 @@ enough for 7-8h of efforts
 - https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/berggasthaus-taelli-2147000263/
 - https://ferrataguide.com/ferrata/T%C3%A4lli_Klettersteig
 
-## Contact
+## 🛟 Contacts
 Berggasthaus Tälli
 Mountain cabin in Innertkirchen
 www.taelli.ch
