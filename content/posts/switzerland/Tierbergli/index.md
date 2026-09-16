@@ -67,6 +67,10 @@ When in the parking Umpol, you cross a bridge, and after 5min youre at [the star
 ## 🚗 By Car
 It is **faster and easier** to take the car to join the start of this via ferrata in Sustenpass.
 
+{{< notice info>}}
+Please take note of road closures at the start of winter, for the latest information on the Susten Pass road, visit [www.tcs.ch](https://www.tcs.ch) and [www.alpen-paesse.ch](https://www.alpen-paesse.ch) 
+{{< /notice >}}
+
 ## 🅿️ Parking
 You must pay 7.- to take a private road up to the highest parking ([Parking Umpol](https://maps.app.goo.gl/szowUVPffgrvBCRZ8)). If you want to avoid that you'll need to walk up [from the free parking of Berghotel & Restaurant Steingletscher at 1865m](https://maps.app.goo.gl/AbRxx4ucZJhvx2y27) 45min on open raod to the start near the parking Umpol (2100m).
 
@@ -126,6 +130,7 @@ Summer season – June 4 to September/October 2026 (depending on snow conditions
 ## ⭐️ My review
 Beginner friendly but demanding and long day
 
+- Easier and faster access by car then SBB
 - Scenic
 - Vertical but not much
 - Easy access 3min from parking (7 CHF)
@@ -133,7 +138,6 @@ Beginner friendly but demanding and long day
 - Demanding exit 45min to restaurant
 - Demanding path down T3+ of 2.5h back to parking
 - 👙🩳 small lak 15min right to the path when going down, glacier water so cold
-Easier and faster access by car then SBB
 
 ## 🗺️ Topography
 ![Tierbergli-via-ferrata-topography](topo.png)

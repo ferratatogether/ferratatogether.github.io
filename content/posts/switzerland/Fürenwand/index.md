@@ -54,6 +54,7 @@ Find the turquoise Zürich Together Banner.
 5:55AM to platform 10
 
 ## 🚂 Recommended train
+I recommend https://a.sbbmobile.ch/s/SD8RUtqh meet me at 6:55 sharp below blue angel in Zurich main station
 
 ## 🚠  Cable Car
 Yes to go back to start.
@@ -85,7 +86,17 @@ No access to water for 2 hours!
 A small reservoir at the top on the right path leading to the restaurant, big enough for 4-5 persons
 
 ## 🛍️ Renting equipment
-you can rent at the cable car station
+Via ferrata sets with helmets can be rented at the Fürenalp valley station. We recommend reserving via ferrata sets by telephone on 041 637 20 94 (opening hours 8:30 - 17:30) or by e-mail. 
+
+A limited number of via ferrata sets (helmet, climbing harness, slings) are available.
+
+Send an email to: 
+- [info@fuerenalp.ch](mailto:info@fuerenalp.ch) or
+- [bahn@fuerenalp.ch](mailto:bahn@fuerenalp.ch) 
+to reserve now, we will be there around 10:00
+
+- Cost via ferrata set complete: CHF 25.00
+- Cost via ferrata set slings: CHF 15.00
 
 ## 🔗 Links
 - https://www.instagram.com/reel/DRAN2p6DUiT/?igsh=MTkxbjhpNzNkZ2d5Yw%3D%3D
