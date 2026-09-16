@@ -38,7 +38,6 @@ Gadmen area
 Source:
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/taellistock.html#forecast-tab=detail-view)
 
-
 ## 📈 Difficulty
 K3, +500m, 3h [SAC Link](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/klettersteig/taelli-klettersteig-848/)
 
@@ -49,20 +48,26 @@ Find the turquoise Zürich Together Banner.
 ## 🏁 Time of leaving
 XXXAM to platform XXX
 
-## 🚗 By Cars
-1h 52 min from Zürich to Tällibahn Bergstation, Grimselstrasse 19, 3862 Innertkirchen
+## 🚗 By Car
+It is **faster and easier** to take the car to join the start of this via ferrata in Sustenpass.
+1h52min from Zürich to [Gadmen Tällibahn, Grimselstrasse 19, 3862 Innertkirchen](https://maps.app.goo.gl/RKbtvK73UCJBX78M9)
 
 ## 🅿️ Parking 
-is free - up to 50 cars - Sustenstrasse 190, 3863 Innertkirchen
+[Located beside the Tällibahn](https://maps.app.goo.gl/AGnXi8PmDybjG3cN7), it is free - up to 50 cars - Sustenstrasse 190, 3863 Innertkirchen - 1174m
 
 ## 🚂 Recommended train
-3h 15 min  
-06:10 platform 6
-9:10 arrival at Tällibahn
-https://a.sbbmobile.ch/s/Gb6VKwsU
+- 3h 15 min  
+- 06:10 platform 6
+- 9:10 arrival at Tällibahn
+- https://a.sbbmobile.ch/s/Gb6VKwsU
 
 ## 🚠 Cable car
-07:00 to 21:30 - 18.- CHF back and forth -  https://www.grimselwelt.ch/bahnen/taellibahn/ 
+Tällibahn cable car has a capacity of 8 people, or 4 people seated. It ascends to an altitude of 1714 meters, covering a vertical gain of 540 meters in 7 minutes. The route is 1236 meters long. The cable car belongs to the Oberhasli power company and was opened in 1957. Tickets can be purchased online, at the Grimseltor Tourist Center in Innertkirchen, and at the ticket machines (cashless only) at the valley and mountain stations of the Tällibahn.
+
+- Self service cable car
+- Operating from 07:00 to 21:30 
+- 18.- CHF back and forth
+- [Tällibahn](https://www.grimselwelt.ch/bahnen/taellibahn/) 
 
 ## 🗺️ Map
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21753.79253015729!2d8.309152590393133!3d46.747659974526506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478f8991e35d08d9%3A0xc7fc8f0350b00422!2sT%C3%A4llistock!5e1!3m2!1sen!2sch!4v1789324083560!5m2!1sen!2sch" >}}
@@ -74,7 +79,7 @@ https://a.sbbmobile.ch/s/Gb6VKwsU
 {{< gpx-map file="taelli-hike-exit.gpx" >}}
 
 ## 🏁 Start
-https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/zustieg-zum-taelli-klettersteig-849/
+[SAC Link](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/zustieg-zum-taelli-klettersteig-849/)
 
 ## 🚶🏻‍♂️ Exit
 [SAC Link](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/abstieg-vom-taelli-klettersteig-zur-taellihuette-oder-engstlenalp-850/)
@@ -86,10 +91,9 @@ https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstie
 Join the main WhatsApp group to be informed about next events (optional)
 [WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
 
-### Allmenalp WhatsApp group
+### Tälli WhatsApp group
 Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
 It is recommended to join the right group before the day of the event.
-https://www.shieldmylinks.com/c/f85pvlkl
 
 ## 🚰 Water
 enough for 7-8h of efforts
@@ -99,10 +103,12 @@ enough for 7-8h of efforts
 - https://ferrataguide.com/ferrata/T%C3%A4lli_Klettersteig
 
 ## 🛟 Contacts
-Berggasthaus Tälli
-Mountain cabin in Innertkirchen
-www.taelli.ch
-033 975 14 10
+
+### Berggasthaus Tälli
+Absolutely stunning location, beautiful views, friendly people and affordable.
+- Mountain cabin in Innertkirchen
+- [www.taelli.ch](https://www.taelli.ch)
+- Phone 033 975 14 10
 
 ## ⭐️ My review
 Beginner friendly but demanding and long day 7h minimum
