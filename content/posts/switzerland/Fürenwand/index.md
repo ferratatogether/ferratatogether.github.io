@@ -91,7 +91,7 @@ you can rent at the cable car station
 - https://www.instagram.com/reel/DRAN2p6DUiT/?igsh=MTkxbjhpNzNkZ2d5Yw%3D%3D
 - https://www.fuerenalp.ch/klettersteig
 
-## My review
+## ⭐️ My review
 Beginner friendly if you master techniques
 
 - Easy access
@@ -103,9 +103,8 @@ Beginner friendly if you master techniques
 - Cable car down or trek
 - 👙🩳 very small water reservoir at the top (left path after door), good for feet or short body immersion
 
-## ⭐️ My review
-
 ## 🗺️ Topography
+![Furrenwand-via-ferrata-topography](topo.png)
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

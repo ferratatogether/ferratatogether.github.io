@@ -121,7 +121,7 @@ Bergbahnen Hohsaas AGSeilbahnstrasse 183910 Saas-GrundTel.: +41 27 958 15 80E-Ma
 
 WeissmieshütteFamily Carla & Roberto Arnold3910 Saas-GrundTel. +41 27 957 25 54E-Mail: huette@weissmieshuette.chwww.weissmieshuette.ch
 
-## My review
+## ⭐️ My review
 Beginner friendly but demanding and long day 7h minimum
 
 - Very scenic, red stone, lunar, very high
@@ -139,9 +139,9 @@ Beginner friendly but demanding and long day 7h minimum
 - Less oxygen at 3200m, possible dizziness
 - 👙🩳 Nice artificial lake to put your feet on or swim after the climb if you have time
 
-## ⭐️ My review
-
 ## 🗺️ Topography
+![Jegihorn-via-ferrata-topography1](topo1.jpg)
+![Jegihorn-via-ferrata-topography2](topo2.jpg)
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

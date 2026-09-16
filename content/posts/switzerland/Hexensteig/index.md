@@ -68,7 +68,8 @@ K3-K4 or C-D, +90m, 1h
 Silene (Canton Uri) by train, bus or car. 
 If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car station https://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
 
-🚠 Historical cable car!
+## 🚠 Historical cable car!
+[Cable car location](https://maps.app.goo.gl/Tpa13H8QZGaSsA9p9?g_st=ic)
 - 7.00 to 21.00 in evening, costs 14.- both way (cash, card or Twint), 
 - up to 4 people (or 320 kg) per trip.
 - Top of cable car at 1159m https://www.chilcherbergen.ch/ 
@@ -77,11 +78,8 @@ If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable
 - Tips: when going down, take seats in front :-)
 
 ## 🅿️ Parking
-Parking is limited at the cable car station
+Attention: Parking is limited at the cable car station: max 6 cars
 [alternative location](https://maps.app.goo.gl/uehGS3EmVLq5RZJB8?g_st=ic) to park for free your car
-
-## 🚠 Cable Car
-[Cable car location](https://maps.app.goo.gl/Tpa13H8QZGaSsA9p9?g_st=ic)
 
 ## 🗺️ Map
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2360.0086555446283!2d8.712553684505965!3d46.911689061292066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478547bbc433fb3b%3A0xf9b3e7f1ff13152e!2sKlettersteig%20Fruttst%C3%A4g%C3%A4!5e1!3m2!1sen!2sch!4v1789324234232!5m2!1sen!2sch" >}}
@@ -125,17 +123,17 @@ From the top station of the Silenen–Chilcherberge cable car, the hike to Seewl
 
 Golzernsee take Luftseilbahn Golzern. From the top of the Bristen-Golzern cable car, it’s an easy walk on a smooth dirt path to the lake, about 30 mins. It’s mostly an obstacle-free path,
 
-🛍️ Renting equipment: 
+## 🛍️ Renting equipment
 Not possible close to start, or around. I recommend from the one joining us to rent their Via Ferrata set at Transa.ch or
 Decathlon https://rent.decathlon.ch/de/de-8754883
 
-🔗 Links:
+## 🔗 Links
 - [Bergsteigen](https://www.bergsteigen.com/touren/klettersteig/hexensteig-silenen/) 
 - [Ferrata Guide](https://ferrataguide.com/ferrata/Hexensteig_D)
 - [Swiss family Fun Seewlisee](https://swissfamilyfun.com/seewlisee-alpine-lake-hike/)
 - [Swiss family Fun Golzernsee](https://swissfamilyfun.com/golzernsee/) 
 
-## My review
+## ⭐️ My review
 - In a small village Silenen not very touristic, at the limit of confidentiality
 - Limited parking 6 cars near cable car, narrow roads or inside the village
 - Scenic and vintage cable car (sit in front row on the way back), toilets and limited drink at the top, no infrastructure for visitors
@@ -145,9 +143,8 @@ Decathlon https://rent.decathlon.ch/de/de-8754883
 - Easy exit 1.5h partially on same steep path
 - 👙🩳 alpine lake 4h away or with another cable car a smaller lake but car 20min required + cable car 13 CHF + 30min walk
 
-## ⭐️ My review
-
 ## 🗺️ Topography
+![Hexensteig-via-ferrata-topography](topo.jpg)
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

@@ -131,7 +131,7 @@ Renting Equipment (+25 CHF max)
 - [SAC](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/allmenalp-8207/klettersteig/klettersteig-kandersteg-allmenalp-1840/)
 - [VIVA Ferrata](https://vivaferrata.ch/en/route/kandersteg/via-ferrata-kandersteg-allmenalp?map=7.65326%2C46.49072%2C14)
 
-## My Review
+## ⭐️ My review
 Beginner friendly if no fear of heights
 
 - Scenic, cascade, view
@@ -145,9 +145,8 @@ Beginner friendly if no fear of heights
 - No shadow after 9:00 can be hot even with 17°C air
 - Can be overcrowded during weekends, a 1h20 “Freude Herscht” for experienced climbers can be 3 or 4h or worse, so start early before 9:00
 
-## ⭐️ My review
-
 ## 🗺️ Topography
+![Allmenalp-via-ferrata-topography](topo.png)
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

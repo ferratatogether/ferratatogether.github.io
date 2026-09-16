@@ -104,7 +104,7 @@ Mountain cabin in Innertkirchen
 www.taelli.ch
 033 975 14 10
 
-## My review
+## ⭐️ My review
 Beginner friendly but demanding and long day 7h minimum
 
 - Very scenic
@@ -119,9 +119,8 @@ Beginner friendly but demanding and long day 7h minimum
 - Possibility to drive the Sustenpass up and down	
 - 👙🩳 River and lake 2km away right side of the road when driving to the Sustenpass.
 
-## ⭐️ My review
-
 ## 🗺️ Topography
+![Tierbergli-via-ferrata-topography](topo.png)
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

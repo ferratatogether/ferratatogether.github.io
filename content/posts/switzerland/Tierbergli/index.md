@@ -81,7 +81,7 @@ Mountain cabin in Innertkirchen
 www.taelli.ch
 033 975 14 10
 
-## My review
+## ⭐️ My review
 Beginner friendly but demanding and long day
 
 - Scenic
@@ -93,9 +93,8 @@ Beginner friendly but demanding and long day
 - 👙🩳 small lak 15min right to the path when going down, glacier water so cold
 Easier and faster access by car then SBB
 
-## ⭐️ My review
-
 ## 🗺️ Topography
+![Tierbergli-via-ferrata-topography](topo.png)
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
