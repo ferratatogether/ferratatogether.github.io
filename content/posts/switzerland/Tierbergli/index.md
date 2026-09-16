@@ -2,7 +2,7 @@
 title: "Tierbergli Ferrata Together"
 date: 2026-07-04T9:44:17+01:00
 summary: "Impressive views of the Gwächtenhorn, Sustenhorn, and the Gadmertal valley open up time and again. Just before the final stretch to the Tierbergli Hut, the panorama widens—and your gaze falls upon the mighty Steingletscher: a true highlight of this tour!"
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: cover.webp
 tags:
   - via-ferrata
   - long
@@ -13,13 +13,13 @@ tags:
   - switzerland
 ---
 {{< viaferratacard 
-difficulty="K3/K5-K6" 
+difficulty="K3" 
 duration="7h" 
 durationclimb="3h" 
 vertical="+500m" 
 top="2555m"
 start="1726m, 4min, parking"
-location="Saas-Grund"
+location="Sustenpass"
 trekup="2h, +600m"
 trekdown="2:30h, -1000m, T3">}}
 
