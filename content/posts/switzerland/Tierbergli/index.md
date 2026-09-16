@@ -25,6 +25,8 @@ trekdown="2:30h, -1000m, T3">}}
 
 Impressive views of the Gwächtenhorn, Sustenhorn, and the Gadmertal valley open up time and again. Just before the final stretch to the Tierbergli Hut, the panorama widens—and your gaze falls upon the mighty Steingletscher: a true highlight of this tour!
 
+The Tierbergli is a high-alpine via ferrata (rated K3 to K4) that tops out at 2,795 meters. Because it finishes directly at a glacier hut, the descent down the normal mountain trail often crosses snow slopes or icy patches, even in mid-summer. Depending on the current conditions, crampons and an ice axe may be required for the descent. Always check the current track conditions with the Tierberglihütte before heading up.
+
 {{< notice info>}} 👨‍⚖️
 Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
 {{< /notice >}}
@@ -48,6 +50,8 @@ Find the turquoise Zürich Together Banner.
 XXXAM to platform XXX
 
 ## 🚂 Recommended train
+https://a.sbbmobile.ch/s/Eta68VPo
+
 Duration: 4.5H
 
 **Train from Zürich HB:** Take the inter-city or regional train connection heading south towards Interlaken Ost (with a quick transfer typically required in Bern or Spiez depending on the exact morning departure). 
@@ -77,6 +81,9 @@ When in the parking Umpol, you cross a bridge, and after 5min youre at [the star
 ## Travelling home
 by public transportation or by car (fastest)
 
+- https://a.sbbmobile.ch/s/bIm0rjZ4 
+- https://a.sbbmobile.ch/s/iGbcofnC
+
 ## 💬 WhatsApp group
 ### Ferrata Together main group
 Join the main WhatsApp group to be informed about next events (optional)
@@ -94,6 +101,7 @@ Tierbergli has lot of shadows (north face), carry at least 2 liter of water and 
 Not possible close to start, or around. I recommend from the one joining us to rent their Via Ferrata set at [Transa.ch](https://www.transa.ch) or [Decathlon](https://rent.decathlon.ch/de/de-8754883) 
 
 ## 🔗 Links:
+- [Flyer](https://tierbergli.ch/wp-content/uploads/2021/01/klettersteig-flyer.pdf)
 - [ferrataguide](https://ferrataguide.com/ferrata/Klettersteig_Tierbergli)
 - [bergsteigen.com](https://www.bergsteigen.com/touren/klettersteig/tierbergli-klettersteig/)
 - [komoot.com](https://www.komoot.com/highlight/582275)
@@ -132,3 +140,6 @@ Easier and faster access by car then SBB
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+## 🎥 Video
+{{< youtube zPTltFEsYXM >}}
