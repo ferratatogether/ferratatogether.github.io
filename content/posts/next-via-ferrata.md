@@ -8,7 +8,12 @@ tags:
   - search-engine
   - locate-new-ferrata
 ---
+
+You can propose new location for the week end into our WhatsApp group:
+[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+
 Here is some of the best search engine to find a new via ferrata location:
+
 - [ferratago](https://www.ferratago.com/)
 - [bergsteigen](https://www.bergsteigen.com/touren/klettersteig/)
 - [ferrata guide](https://ferrataguide.com/ferratas/map)
