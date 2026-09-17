@@ -10,7 +10,7 @@ tags:
   - switzerland
 ---
 {{< viaferratacard 
-difficulty="K3" 
+difficulty="K2-K3" 
 duration="7h, 10,5km" 
 durationclimb="1.5h, 900m" 
 vertical="350hm" 
@@ -49,31 +49,35 @@ Source:
 6:55AM to platform 31
 
 ## 🚂 Recommended train: 
-[SBB](https://a.sbbmobile.ch/s/eUiFjeQxhttps://a.sbbmobile.ch/s/eUiFjeQx)
+To get to the Schwarzhorn via ferrata (above Grindelwald) from Zurich by train, take an SBB train from Zürich HB to Interlaken Ost (via Bern), transfer to the regional train to Grindelwald, take local bus line 121 to the Firstbahn gondola, and ride up to First to begin the hike. Total travel time is around 3.5 to 4 hours one-way.
 
-To get from Zürich HB to the Schwarzhorn via ferrata (Klettersteig), take a train to Interlaken Ost, transfer to Grindelwald, ride the First gondola, and hike 1.5 to 2 hours to the base. The total travel time from Zurich to the trailhead is roughly 3.1h
+- Zürich HB to Interlaken Ost: Board the intercity train via Bern or Lucerne. Change trains at Interlaken Ost.
+- Interlaken Ost to Grindelwald: Catch the Berner Oberland-Bahn (BOB) regional train directly to Grindelwald station.- Grindelwald to Firstbahn: Walk a short distance from the Grindelwald station to the local bus stop and take Bus 121 (direction: Oberer Gletscher) straight to the Grindelwald Firstbahn stop.
+- Gondola to First: Ride the Grindelwald-First Gondola up to the top station at First, which serves as the base for the approach
 
 ## 🚗 By Car
-Bern - follow the A8 to Interlaken and via Lütschental to Grindelwald.
+Drive from Zürich to Grindelwald via Lucerne and the Brünig Pass (approx. 2.5 hours, ~130 km).
+Take the A1/A4 out of Zürich, head toward Lucerne, and continue on the A8 over the Brünig Pass toward Interlaken/Grindelwald.Exit: Follow signs through Interlaken to Grindelwald.
 
 ## 🅿️ Parking
+Park your car at the valley station of the Firstbahn in Grindelwald
 46.624°, 8.0429°
 
 ## 🚠 Cable car
 Back and forth ticket 38 CHF with GA or Half Fare, 76 CHF without anything
-- 08:00 to 18:00 https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?to=First
+- 08:00 to 18:00 [timetable](https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?to=First)
 - https://www.jungfrau.ch/de-ch/grindelwaldfirst
-- https://grindelwald.swiss/de/map/detail/grindelwald-first-b8e09f4c-b0e7-439b-a1fa-fb0285e72279.html
-<img width="535" height="720" alt="grindenwald" src="https://github.com/user-attachments/assets/16213952-27ed-4fdd-b71b-27249ff176ae" />
+- [Grindelwald-First Gondola](https://grindelwald.swiss/de/map/detail/grindelwald-first-b8e09f4c-b0e7-439b-a1fa-fb0285e72279.html)
 
-## 🏁 Start
-Take the gondola from Grindelwald to First, hike via Chrinnenboden and Grossi Chrinne to the start of the ferrata (approx. 1.5 to 2 hours) 46.6827°, 8.0679° 2400m 
+## 🏁 Approach Hike
+From the First top station, hike down slightly and follow the trail across green meadows toward Chrinnenboden and on to the base of the ridge at Grosse Chrinne (about 1.5 to 2 hours of walking). 46.6827°, 8.0679° 2400m 
 
 ## 🎯 End
 Takes about 1 to 1.5 hours up steel cables and vertical ladders to reach the peak at 2928-meter.  With views of the Bernese peaks and Lake Thun and Lake Brienz.
 
 ## 🚶🏻‍♂️ Exit
-T3, +90m, -860m, 1h45min. A panoramic trail continues to Grosse Scheidegg, from where the post bus takes us back to Grindelwald. https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/schwarzhoren-schwarzhorn-be-1741/mountain-hiking/descent-from-schwarzhorn-via-the-south-ridge-795/
+T3, +90m, -860m, 1h45min. A panoramic trail continues to Grosse Scheidegg, from where the post bus takes us back to Grindelwald. 
+- [SAC](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/schwarzhoren-schwarzhorn-be-1741/mountain-hiking/descent-from-schwarzhorn-via-the-south-ridge-795/)
 
 ## Travelling home 
 by public transportation
