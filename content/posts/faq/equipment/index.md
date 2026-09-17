@@ -70,7 +70,9 @@ A helmet that passes EN 12492 is certified for:
 - Retention system performance
 - Ventilation requirements
 
+{{< notice tip>}}
 On dangerous trek back, like T3, T4 you can also keep your helmet to limit injuries in case of fall.
+{{< /notice >}}
 
 ## Buying a via ferrata gloves 
 Gloves are a MUST, in most places, the mountain is flat and you need to grab the cable.
@@ -80,25 +82,36 @@ Gloves can never be rented, you either:
 - Buy them cheap at Do it Garden, Migros, …  prefer leather gloves.
 - Buy them (around 7 CHF …) when renting your equipment at the rental company.
 
+{{< notice tip>}}
+On dangerous trek back, like T3, T4 you can also keep your gloves to limit hand injuries in case of fall.
+{{< /notice >}}
+
 ## Buying a via ferrata resting lanyard
-Fix or adjustable for more convenience and confort, Budget around 40.- (without a carabiner)
+Fix or adjustable for more convenience and confort, budget around 40.- for a PETZL adjustable resting lanyard (without a carabiner).
 
 You can also use them with a PETZL Reverso to rappel down, on Zip line.
 
 ## Buying via ferrata lanyard
 Choose carefully your set and prefer one that has:
 
-Elasticated Webbing: Stretches out when pulled and retracts close to the body, preventing the arms from snagging on rocks or the cable.
+**Elasticated Webbing**
+Stretches out when pulled and retracts close to the body, preventing the arms from snagging on rocks or the cable.
 
-Palm-squeeze / Ergonomic Levers: Unlocks when you squeeze the back of the gate with your palm, great for frequent one-handed clipping.
+P**alm-squeeze / Ergonomic Levers**
+Unlocks when you squeeze the back of the gate with your palm, great for frequent one-handed clipping.
 
-A NOT too big Wear-out Webbing: Via ferrata lanyard uses folded and stitched webbing inside a zipper pouch that rips open progressively during a fall to cushion impact. An example of a brand with a huge wear-out bag is Rocket Empire but there are others. They are bulky and heavy and difficult to remove from your harness.
+**A NOT too big Wear-out Webbing**
+Via ferrata lanyard uses folded and stitched webbing inside a zipper pouch that rips open progressively during a fall to cushion impact. An example of a brand with a huge wear-out bag is Rocket Empire but there are others. They are bulky and heavy and difficult to remove from your harness.
 
-Rest Loop: A short loop attached directly next to the absorber block to clip a dedicated resting carabiner so you can hang and rest safely without misusing the main lanyard arms. While nice you can only rest with it if the hook is really close to your belly.
+**Rest Loop (optional)**
+A short loop attached directly next to the absorber block to clip a dedicated resting carabiner so you can hang and rest safely without misusing the main lanyard arms. While nice you can only rest with it if the hook is really close to your belly.
 
 ### Nice to have
-Integrated Swivel (Spinner): A small axis joint near the harness that stops the elastic arms from twisting together as you turn and clip. It does not always work, add some weight too.
-Choosing the right carabiners: prefer palm-squeeze / ergonomic Levers
+**Integrated Swivel (Spinner)**
+A small axis joint near the harness that stops the elastic arms from twisting together as you turn and clip. It does not always work, add some weight too.
+
+**Choosing the right carabiners**
+I would recommend and prefer palm-squeeze / ergonomic Levers
 
 It is mainly a matter of taste and how fast you wanna clip to the safety line.
 
@@ -133,39 +146,40 @@ For via ferrata, you want a moderately stiff, semi-rigid sole rather than a full
 - Edge precision: A stiffer forefoot allows you to stand securely on small rock ledges or steel steps using just the tip of your toe.
 - The "Climbing Zone": Look for a smooth, sticky rubber patch under the toes (common in approach shoes) for maximum friction on bare rock.
 
-Choosing the Right Level of Rigidity
+**Choosing the Right Level of Rigidity**
 - Too soft (regular sneakers or standard trail runners): Your feet will cramp and tire quickly on metal rungs, and the rubber lacks edge grip. 
 - Just right (technical approach shoes or light alpine mid-boots): Offers torsional rigidity (resisting twist), a sticky rubber outsole, and a supportive midsole.
 - Too stiff (heavy, full-shank mountaineering boots): Uncomfortable and clumsy for regular walking unless you are crossing steep snowfields or glaciers.
 
-### La Sportiva Trango TRK
+### Common shoes
+#### La Sportiva Trango TRK
 The La Sportiva Trango TRK (often mistyped as TRX) boots are technical trekking and backpacking bootsengineered specifically for demanding off-road trails, forest hikes, and long multi-day treks carrying a heavy backpack.
 While they inherit their aggressive aesthetic and structural technology from La Sportiva's iconic Trango alpine mountaineering family, the TRK model specifically bridges the gap between pure mountaineering and long-distance backpacking. 
 
-#### Core Intent & Intended Use
-* Backpacking & Trekking: Built to provide walking comfort and foot stability when hauling heavy multi-day packs over rough, unpaved terrain. 
-* Via Ferrata & Scrambling: The Vibram sole is explicitly designed with a smooth "Climbing Zone" at the toe. This makes them excellent for stepping on metal rungs, ladders, and technical rock edges.
-* Mixed Mountain Weather: Equipped with a waterproof, highly breathable GORE-TEX Performance Comfort membrane to handle changing mountain conditions, mud, and stream crossings.
+##### Core Intent & Intended Use
+* **Backpacking & Trekking:** Built to provide walking comfort and foot stability when hauling heavy multi-day packs over rough, unpaved terrain. 
+* **Via Ferrata & Scrambling:** The Vibram sole is explicitly designed with a smooth "Climbing Zone" at the toe. This makes them excellent for stepping on metal rungs, ladders, and technical rock edges.
+* **Mixed Mountain Weather:** Equipped with a waterproof, highly breathable GORE-TEX Performance Comfort membrane to handle changing mountain conditions, mud, and stream crossings.
 
 #### Key Technical Features
-* 3D Flex System: A proprietary ankle hinge that allows for natural forward flexing while maintaining lateral support and stability on uneven ground. 
-* Vibram Mulaz Outsole: Features deep lugs for loose dirt and an integrated Impact Brake System to reduce joint fatigue and improve traction during steep downhills. 
-* Lightweight Durability: Available in both high-wear synthetic fabric and traditional leather variations. They cut down on the heavy, clumsy bulk of a traditional mountaineering boot while retaining a highly protective rubber rand. 
+* **3D Flex System:** A proprietary ankle hinge that allows for natural forward flexing while maintaining lateral support and stability on uneven ground. 
+* **Vibram Mulaz Outsole:** Features deep lugs for loose dirt and an integrated Impact Brake System to reduce joint fatigue and improve traction during steep downhills. 
+* **Lightweight Durability:** Available in both high-wear synthetic fabric and traditional leather variations. They cut down on the heavy, clumsy bulk of a traditional mountaineering boot while retaining a highly protective rubber rand. 
 
 ### La Sportiva Aequilibrium ST GTX
 The La Sportiva Aequilibrium ST GTX is a lightweight, technical mountaineering boot engineered for fast-and-light alpine progression, glacier crossings, and technical mountain terrain. 
 While the Trango TRK is primarily a rugged trekking boot with climbing capabilities, the Aequilibrium ST GTXis a true step up into the alpine mountaineering class, designed specifically to handle high-altitude environments where snow and ice require the use of crampons. 
 
 #### Core Intent & Intended Use
-* Fast & Light Mountaineering: Tailored for alpinists who need to cover technical terrain quickly without dragging heavy, traditional mountain boots. 
-* Glacier Crossings: Built to navigate steep ice and snow slopes safely.
-* High-Altitude Via Ferrata: Excellent for continuous, advanced iron paths where maximum underfoot rigidity and precise toe-edging are required. 
+* **Fast & Light Mountaineering:** Tailored for alpinists who need to cover technical terrain quickly without dragging heavy, traditional mountain boots. 
+* **Glacier Crossings:** Built to navigate steep ice and snow slopes safely.
+* **High-Altitude Via Ferrata:** Excellent for continuous, advanced iron paths where maximum underfoot rigidity and precise toe-edging are required. 
 
 #### Key Technical Differences from the Trango TRK
-* Crampon Compatibility: Unlike the Trango TRK, the Aequilibrium features a rigid TPU lip on the heel, making it explicitly compatible with semi-automatic (hybrid) crampons for winter or glacial use.
-* Carbon-Injected Shank: It utilizes a hybrid carbon-nylon weave in the insole. This provides high longitudinal stiffness for front-pointing on ice or rock edges while remaining lightweight.
-* Double Heel™ Technology: The rear of the sole features a distinctive, pronounced double-wedge geometry. This dramatically increases the braking effect on steep downhills and forces a much smoother roll of the foot.
-* Vibram® SpringLug Tech: The outsole encapsulates a low-density polyurethane foam core inside a rugged rubber shell. This provides maximum cushioning and shock absorption on hard rock surfaces without requiring thick, heavy rubber layers. 
+* **Crampon Compatibility:** Unlike the Trango TRK, the Aequilibrium features a rigid TPU lip on the heel, making it explicitly compatible with semi-automatic (hybrid) crampons for winter or glacial use.
+* **Carbon-Injected Shank:** It utilizes a hybrid carbon-nylon weave in the insole. This provides high longitudinal stiffness for front-pointing on ice or rock edges while remaining lightweight.
+* **Double Heel™ Technology:** The rear of the sole features a distinctive, pronounced double-wedge geometry. This dramatically increases the braking effect on steep downhills and forces a much smoother roll of the foot.
+* **Vibram® SpringLug Tech:** The outsole encapsulates a low-density polyurethane foam core inside a rugged rubber shell. This provides maximum cushioning and shock absorption on hard rock surfaces without requiring thick, heavy rubber layers. 
 
 #### Is it good for Via Ferrata?
 Yes, but it is specialized. If your via ferratas involve alpine approaches, crossing snow patches, or require maximum support underfoot, this boot is exceptional. However, if your routes are lower altitude, warm, and entirely on dry rock, a low-cut approach shoe will feel much lighter and more nimble. 
