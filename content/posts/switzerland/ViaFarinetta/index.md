@@ -45,19 +45,30 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 K3-K6, +900m
 
 ## 📍 Meeting Point
-XXXXAM  Zürich HB, Main Meeting point, around the clock
+6:40 Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
 🏁 Time of leaving
-XXXAM to platform XXX
+6:55AM to platform 31
 
 ## 🚂 Recommended train
+
+[Train at 6:02 from Zurich HB](https://www.sbb.ch/en?stops=Z%C3%BCrich+HB_I8503000%7ESaillon%2C+St-Laurent_I8571012&day=2026-09-18&time=06_00&moment=dep&trip=-1_0&)
+
+[Train at 7:02 from Zurich HB](https://www.sbb.ch/en?stops=Z%C3%BCrich+HB_I8503000%7ESaillon%2C+St-Laurent_I8571012&day=2026-09-18&time=07_00&moment=dep&trip=0_0)
+
+To get to the Via Farinetta via ferrata in Saillon from Zurich, take the main SBB train line toward Valais to Riddes or Martigny, switch to regional bus 311 to the Saillon St-Laurent stop, and walk 25 minutes upstream along the Salentze riverbed.
+
+Train from Zurich HB: Board an InterCity (IC1) train toward Brig, typically transferring at Visp or Lausanne depending on the hourly schedule, or take a direct/fewer-transfer connection heading down the Rhône Valley to Riddes or Martigny station. (Total train time is roughly 2.5 to 3 hours)
+
+Bus connection: From Riddes CFF, Martigny CFF, or Sion CFF, catch the PostBus 311 directly to the Saillon St-Laurent bus stop. Check live connections on the SBB Timetable
 	
 ## 🗺️ GPX
 {{< gpx-map file="via-farinetta.gpx" >}}
 
-## 🏁 Start
+## 🏁 Approach walk
 0:20 h, 80 m, T1
+From the Saillon St-Laurent stop, walk toward the Salentze Bridge, cross over, and follow the white signs and local path markers upstream along the river toward the gorge to reach the start of the route.
 
 ## 🎯 End
 2555m, 3h

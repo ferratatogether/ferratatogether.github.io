@@ -70,16 +70,17 @@ Typically June through late October (conditions permitting)
 
 ## 📍 Meeting Point
 
-05:45AM  Zürich HB, Main Meeting point, around the clock
+07:25AM Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
 ## 🏁 Time of leaving
-XXXAM to platform 10
+7:35AM to platform 11
 
 ## 🚂 Recommended train
 
 To reach the Braunwald via ferrata by train, take the Swiss Federal Railways (SBB) network directly to the Linthal Braunwaldbahn station, which sits right next to the funicular valley station
-https://a.sbbmobile.ch/s/XXXXX 
+
+[SBB Train from Zürich HB to Linthal Braunwaldbahn](https://www.sbb.ch/en?stops=Z%C3%BCrich+HB_I8503000%7ELinthal+Braunwaldbahn_I8503240&day=2026-09-20&time=07_00&moment=dep&trip=0_0)
 
 Exit the train at Linthal Braunwaldbahn (do not miss it and stay on until the final Linthal terminal station). The train platform is connected directly to the funicular base station via a short, covered walkway.
 
