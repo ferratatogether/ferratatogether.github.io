@@ -1,8 +1,8 @@
 ---
 title: "Braunwald Ferrata Together"
-date: 2026-01-12T9:44:17+01:00
+date: 2026-09-17T20:00:17+01:00
 summary: "The Braunwald via ferrata (Eggstöcke Klettersteig) features three separate sections that increase significantly in technical demand, allowing climbers to pick a route according to their skill level. The total route progresses along a highly panoramic, exposed mountain ridge across four distinct peaks"
-cover: /img/logo.png
+cover: cover.png
 tags:
   - via-ferrata
   - K3-K4
@@ -27,9 +27,11 @@ trekdown="45min/2h">}}
 
 The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
 
+The time you spend climbing depends entirely on which of the three interconnected circuits you choose:
+
 ### Circuit Leiteregg
 
-(blue) with safety rope - K3 -  2.5 to 3.5h.
+(blue) with safety rope - K3 -  2.5 to 3.5h. Catch an early morning train, tackle the Short (Leiteregg) circuit, and you can easily be back in Zurich by mid-afternoon.
 
 Great entry point for beginners with a head for heights. Features steep ladders and exposed chimneys with solid iron stirrups. Includes the spectacular 16-metre Charlotte Bridge suspension bridge. 
 
@@ -56,7 +58,6 @@ The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks
 {{< /notice >}}
 
 ## ☀️ Weather
-
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
 {{< meteoswiss lat="46.939" long="8.994" name="Braunwald" >}}
@@ -80,32 +81,35 @@ Find the turquoise Zürich Together Banner.
 
 To reach the Braunwald via ferrata by train, take the Swiss Federal Railways (SBB) network directly to the Linthal Braunwaldbahn station, which sits right next to the funicular valley station
 
-[SBB Train from Zürich HB to Linthal Braunwaldbahn](https://www.sbb.ch/en?stops=Z%C3%BCrich+HB_I8503000%7ELinthal+Braunwaldbahn_I8503240&day=2026-09-20&time=07_00&moment=dep&trip=0_0)
+[SBB Train 08:12 from Zürich HB to Linthal Braunwaldbahn](https://www.sbb.ch/en?stops=Z%C3%BCrich+HB_I8503000%7ELinthal+Braunwaldbahn_I8503240&day=2026-09-20&time=07_00&moment=dep&trip=0_1)
 
 Exit the train at Linthal Braunwaldbahn (do not miss it and stay on until the final Linthal terminal station). The train platform is connected directly to the funicular base station via a short, covered walkway.
 
 ## 🚠 Cable cars
+25–30 minutes each way (Funicular+chairlift)
 
 - [Get a day pass](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) for +30.- CHF
 - Board the Braunwaldbahn funicular (Braunwaldbahn, Stachelbergweg 2, 8783 Linthal) for a 7-minute ride up to Braunwald village.
 - Walk through the car-free village and take the Gumen combination chairlift up to the Berggasthaus Gumen (1,901 m), which serves as the start of the trail to the via ferrata.
 
 ## 🚗 By Car
-
 To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to the valley station in Linthal, park your vehicle, take the Braunwaldbahn funicular  up to the car-free village of Braunwald, and proceed via the local lifts to the Gumen starting point
 
 ## 🅿️ Parking
-
 Use the large open-air and covered parking facilities directly at the Linthal valley station
 
 ## 🗺️ MAP
+{{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758.3795015553615!2d8.975794776356691!3d46.960662071137996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47853038b6718ad7%3A0x6819beabe9d2d959!2sBraunwalder%20Klettersteig!5e1!3m2!1sen!2sch!4v1789676929809!5m2!1sen!2sch" >}}
 
 ## 🗺️ GPX
+{{< gpx-map file="braunwald-long.gpx" >}}
 
 ## 🏁 Start
 Follow the marked alpine path from Berggasthaus Gumen diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point at about 2,120 m (approx. 30–45 minute hike)
 
 ## Travelling home
+If you take on the Medium or Long circuits, expect to spend the entire day out, returning to Zurich in the evening
+
 by public transportation
 
 ## 💬 WhatsApp group
@@ -122,9 +126,10 @@ TODO
 No access
 
 ## 🛍️ Renting equipment
-Please send an email now or call and reserve a via ferrata set with helmet
+Please [send an email](https://www.braunwald.ch/klettersteige) now or call and reserve a via ferrata set with helmet
 
-www.braunwald.ch/klettersteige
+or
+[Kessler Sport AG](https://www.kesslersport.ch/cms-klettersteige.asp)
 
 ## Donation
 Account details for bank transfers:
@@ -147,6 +152,7 @@ Noticing defects? contact immediately:
 - [adrenalin.gl](https://adrenalin.gl/en/via-ferrata-braunwald)
 
 ## ⭐️ My review
+- Will be executed on 20 Sept 2026
 
 ## 🗺️ Topography
 ![braunwald-klettersteig-topo](topo/braunwald-klettersteig-topo-schweiz-ferrata2.avif)

@@ -92,6 +92,9 @@ It is recommended to join the right group before the day of the event.
 ## 🚰 Water
 Enough for 3 hours of efforts
 
+## Contacts
+- [Office du Tourisme de Saillon](http://www.saillon.ch/tourisme/home.aspx)
+
 ## 🔗 Links:
 - https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/passerelle-a-farinet-12215/via-ferrata/
 - https://www.bergsteigen.com/touren/klettersteig/via-farinetta/
