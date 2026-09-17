@@ -14,6 +14,8 @@ tags:
 ---
 A via ferrata inside a mountain? Yes, it’s been there since July 2002, and as is typical of legendary figures, it remained hidden for a long time. 
 
+The route travels through a deep, narrow rock cleft system inside the mountain's cracks. While no headlamp is required due to incoming daylight, the atmosphere feels moody and claustrophobic to some.
+
 The via ferrata is located in a deep crevice on the Pfaffen, above the upper station of the Chilcherberge Openair Cable Car. 
 
 The route runs entirely inside the mountain, along tree trunks and clamps, and you use a zip line to cover the approximately 80 Hm, encountering witches and black holes along the way. 
@@ -21,6 +23,8 @@ The route runs entirely inside the mountain, along tree trunks and clamps, and y
 A magnificent mountain adventure that begins with a fantastic open-air ride on the cable car, which dates back to 1974. The ascent is not possible in strong winds of 60 km/h or more, and even in normal wind conditions, it’s an experience in itself.
 
 The via ferrata has challenging sections. The wall overhangs in places. This is especially true in wet conditions and due to the sometimes large gaps between the metal rungs. It is therefore not suitable for inexperienced climbers or children.
+
+There is very little actual contact with the natural rock. Your hands are almost entirely on steel cables or artificial ring grips, and your feet are on wooden logs or metal brackets, requiring solid upper-body and arm strength.
 
 The approach follows the hiking trail toward Seewli. Soon you’ll reach a forest with tree trunks as straight as a ruler. At a fork, do not turn left; instead, follow the trail straight ahead uphill. After the blue sign marked “Hexensteig,” continue on to the second rock crevice—that’s where the start of the via ferrata is located. 
 
@@ -65,10 +69,12 @@ K3-K4 or C-D, +90m, 1h
 - At Silenen Dägerlohn bus station [you need to walk 10min to the cable car parking and meeting point](https://www.google.com/maps/dir/Silenen,+Dägerlohn,+6473+Silenen/Luftseilbahn+Chilcherberg,+Brandistrasse,+6473+Silenen/@46.7914617,8.6702083,358m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47856a174f376345:0x2a965629372f7ba2!2m2!1d8.669075!2d46.792389!1m5!1m1!1s0x47856a6c37a537ab:0x5036be3b301c124d!2m2!1d8.6737476!2d46.790847!3e2?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D)  
 
 ## 🚗 By Car
-Silene (Canton Uri) by train, bus or car. 
+To reach the Hexensteig via ferrata by car from Gland, drive northeast via the A1 and A2 motorways toward Gotthard/Altdorf/Silenen in Canton Uri (approx. 150 km, 1 hour 45 minutes). Exit the A2 at Amsteg/Silenen, drive to Silenen village, and park near the local church or designated spots below, then take the Luftseilbahn Chilcherberge open-air cable car up to begin your hike to the route.
 If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car station https://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
 
 ## 🚠 Historical cable car!
+From Silenen, ride the small open-air Luftseilbahn Chilcherberge cable car up to the Chilcherberge mountain station. Note that it is a small self-service cabin where you call the operator via an intercom at the bottom, and cash (or TWINT if supported) is recommended for the roughly CHF 7–10 single ticket. You'll pay at the top of the station.
+
 [Cable car location](https://maps.app.goo.gl/Tpa13H8QZGaSsA9p9?g_st=ic)
 - 7.00 to 21.00 in evening, costs 14.- both way (cash, card or Twint), 
 - up to 4 people (or 320 kg) per trip.
@@ -78,7 +84,7 @@ If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable
 - Tips: when going down, take seats in front :-)
 
 ## 🅿️ Parking
-Attention: Parking is limited at the cable car station: max 6 cars
+Park your car in the public spaces near the village church, as direct parking right at the tiny lower cable car station is extremely limited or unavailable (max 6 cars).
 [alternative location](https://maps.app.goo.gl/uehGS3EmVLq5RZJB8?g_st=ic) to park for free your car
 
 ## 🗺️ Map
@@ -91,13 +97,13 @@ Attention: Parking is limited at the cable car station: max 6 cars
 {{< gpx-map file="./hexensteig.gpx" >}}
 
 ## 🏁 Start
-exhausting 1.5h walk up to the start: 1750 m, 10% now shadows, 90% in the forest
+From the Chilcherberge top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
 
 ## 🎯 End
 +90m, 1H 
 
 ## 🚶🏻‍♂️ Exit
-1.5h walk to cable car
+1.5h walk down to the cable car
 
 ## Travelling home
 by public transportation
