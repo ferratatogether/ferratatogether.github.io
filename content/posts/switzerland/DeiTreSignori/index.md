@@ -119,3 +119,9 @@ Beginner friendly (right path)
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
+## 📆 Ferrata Together log
+Ferrata Together visits:
+| Date | Number of people |
+|----------|--------------------|
+| 6 Sept 2026 | 4 |
+| 3 Mai 2026 | 1 |

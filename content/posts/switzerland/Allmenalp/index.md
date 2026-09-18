@@ -150,3 +150,13 @@ Beginner friendly if no fear of heights
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+## 📆 Ferrata Together log
+Ferrata Together visits:
+| Date | Number of people |
+|----------|--------------------|
+| 14 August 2026 | 4 |
+| 7 June 2026 | 3 |
+| 23 Mai 2026 | 19 |
+| 2025 | 9 |
+| 2025 | 12 |

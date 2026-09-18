@@ -133,3 +133,9 @@ Beginner friendly but demanding and long day 7h minimum
 
 ## 🎥 Video
 {{< youtube ZbbZ8fWHUn8 >}}
+
+## 📆 Ferrata Together log
+Ferrata Together visits:
+| Date | Number of people |
+|----------|--------------------|
+| 23 August 2026 | 2 |

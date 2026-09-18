@@ -156,3 +156,9 @@ If you are driving or taking the post bus up from the main valley, you can stop 
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+## 📆 Ferrata Together log
+Ferrata Together visits:
+| Date | Number of people |
+|----------|--------------------|
+| 12 sept 2026 | 4 |
