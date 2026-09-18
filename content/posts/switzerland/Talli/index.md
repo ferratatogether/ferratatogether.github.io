@@ -140,3 +140,4 @@ Ferrata Together visits:
 | Date | Number of people |
 |----------|--------------------|
 | 23 August 2026 | 2 |
+| 19 Sept 2026 | 6 |
