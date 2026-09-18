@@ -10,7 +10,19 @@ tags:
   - K4
   - K6
   - switzerland
+  - ViaFarinetta
 ---
+{{< viaferratacard 
+difficulty="K3/k4/K6" 
+duration="4h" 
+durationclimb="2h45min, 335m" 
+vertical="350hm" 
+top="841m"
+start="536m"
+location="Valais"
+trekup="25min"
+trekdown="-350m, 50min, T1">}}
+
 The Via Farinetta leads through the wild and mysterious Salentze Gorge, from which the thermal water for the thermal baths in Saillon also originates.
 
 {{< notice info>}} 👨‍⚖️
@@ -40,6 +52,10 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 {{< meteoswiss lat="46.1718" long="7.1849" name="Saillon" >}}
 
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/saillon/1913.html#forecast-tab=detail-view)
+
+## 🗓️ Season
+Typically March through november (conditions permitting)
+{{< months highlight="3,4,5,6,7,8,9,10,11" class="month-list" activeClass="highlighted" >}}
 
 ## 📈 Difficulty
 K3-K6, +900m
@@ -71,7 +87,7 @@ Bus connection: From Riddes CFF, Martigny CFF, or Sion CFF, catch the PostBus 31
 From the Saillon St-Laurent stop, walk toward the Salentze Bridge, cross over, and follow the white signs and local path markers upstream along the river toward the gorge to reach the start of the route.
 
 ## 🎯 End
-2555m, 3h
+841m
 
 ## 🚶🏻‍♂️ Exit
 0:50 h, 350 m, T1
@@ -106,3 +122,9 @@ Enough for 3 hours of efforts
 
 ## 🌄 Gallery
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+## 📆 Ferrata Together log
+Ferrata Together visits:
+| Date | Number of people |
+|----------|--------------------|
+| x | x |
