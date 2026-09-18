@@ -94,6 +94,7 @@ Join the main WhatsApp group to be informed about next events (optional)
 ### Tälli WhatsApp group
 Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
 It is recommended to join the right group before the day of the event.
+[Tälli WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/talliferratatogether)
 
 ## 🚰 Water
 enough for 7-8h of efforts
