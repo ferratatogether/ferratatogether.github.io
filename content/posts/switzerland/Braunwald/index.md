@@ -25,6 +25,7 @@ location="Glarus"
 trekup="1901m, 30min"
 trekdown="25min">}}
 
+## Location
 {{< swiss-map highlight="GL" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
 {{< notice info>}} 👨‍⚖️
@@ -147,7 +148,7 @@ To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to th
 
 Use the large open-air and covered parking facilities directly at the Linthal valley station. The parking use [ParkingPay](https://parkingpay.ch) and not EasyPark. You can pay with twint.
 
-## Start 🏁
+## approach hike 🏁
 
 From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point.
 
@@ -155,7 +156,7 @@ From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past
 - End of the approach hike: 2120m
 - It can take approx. 30 to 45min for 219Hm
 
-## Exit 🚶🏻‍♂️
+## Exit hike 🚶🏻‍♂️
 see [**Tschingel exit - K3 - 1h**](#tschingel-exit-K3-1h)
 
 ## Travelling home 🏠
@@ -228,3 +229,10 @@ Noticing defects? contact immediately:
 ## MAP 🗺️
 
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758.3795015553615!2d8.975794776356691!3d46.960662071137996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47853038b6718ad7%3A0x6819beabe9d2d959!2sBraunwalder%20Klettersteig!5e1!3m2!1sen!2sch!4v1789676929809!5m2!1sen!2sch" >}}
+
+## 📆 Ferrata Together log
+
+Ferrata Together visits:
+| Date | Number of people |
+|----------|--------------------|
+| 20 Sept 2026 | 9 |

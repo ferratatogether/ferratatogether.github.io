@@ -12,14 +12,18 @@ tags:
   - short
   - switzerland
 ---
-{{< viaferratacard difficulty="K4/K4+" duration="2-3h" vertical="370m" 
+{{< viaferratacard
+difficulty="K4/K4+" 
+duration="3h" 
+durationclimb="2h" 
+vertical="370m" 
+top="1700m"
 location="Kandersteg"
 trekup="20min"
 trekdown="15min">}}
 
+## Location
 {{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
-
-{{< notice warning>}}Cable is now fixed{{< /notice >}}
 
 {{< notice info>}} 👨‍⚖️
 Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
@@ -80,14 +84,14 @@ Find the turquoise Zürich Together Banner.
 ## Recommended train 🚂
 https://a.sbbmobile.ch/s/u3qOIzZM
 
-## 🚠  Cable Car
-After the climb, we can use the cable car to avoid a trek down back to the valley.
+## Cable Car 🚠
+After the climb, we can use the cable car to avoid a trek down (+2h, steep) back to the valley.
 14.- CHF down to the valley or you’ll have to trek 2h down. https://www.allmenalp.ch/en/cable-car/prices.html
 
 ## GPX 🗺️
 {{< gpx-map file="allmenalp.gpx" >}}
 
-## Start 🏁
+## Approach trek 🏁
 
 15 min on car road from Kandersteg train station, 10min more from rental (cable car building)
 
@@ -95,9 +99,9 @@ After the climb, we can use the cable car to avoid a trek down back to the valle
 
 370 m of via ferrata climbing (550 m total ascent from the valley)
 
-## Exit 🚶🏻‍♂️
+## Exit trek 🚶🏻‍♂️
 
-15min walk steep to restaurant, toilets and cable car  
+15min walk steep to restaurant, toilets and cable car back to the valley.
 
 ## Travelling home 🏡
 
@@ -116,7 +120,7 @@ The route is exposed to the sun from 9:00 in summer, throughout the season.
 In the afternoon, the wall is in the shadows, even if air is 17°C, wihtout wind it get really hot (feel like 25°C)
 No access to water for 2 hours!
 
-## 🏊 Lake
+## Lake 🏊
 if you finish early, possibility to go to OeschninenSee in the afternoon  (+22.50.- CHF cable car) but over crowded lake
 
 ## Renting equipment 🛍️
