@@ -34,49 +34,48 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## ☀️Weather
+## Weather ☀️
 Weather can cancel the event a few days before or during if weather is not perfect for execution!
 {{< meteoswiss lat="46.6474" long="8.5917" name="Diavolo" >}}
 
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/andermatt/6490.html#forecast-tab=detail-view)
 
-## 🗓️ Season
+## Season 🗓️
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## 📍 Meeting Point
+## Meeting Point 📍
 06:45AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 7:00AM to platform 8
 
-## 🚂 Recommended train
+## Recommended train 🚂
 https://a.sbbmobile.ch/s/kBtLhuGZ 
 
-##  🏁 Start 
+##  Start 🏁
 Andermatt (1436 m), station for the Furka-Oberalp-Bahn railway and terminus for the funicular coming up from Göschenen. Parking at the station. From the station at Andermatt, follow the route alongside and on the main road (route signed) through the Urner Loch into the Schöllenen gorge, turning right before you reach the Teufelsbrücke Bridge and making for the Suvorov Memorial (1,405 m).
 
-## 🚶🏻‍♂️ Exit
+## Exit 🚶🏻‍♂️
 1 hour On a well-signed path, first taking in a slight climb over the Tüfelstalboden, and then gently downhill to the avalanche obstructions, before zig-zagging down to the barracks area at Andermatt.
 
-## Travelling home
+## Travelling home 🏠
 by public transportation
 
-## 💬 WhatsApp group
+## WhatsApp group 💬 
 
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/diavoloferratatogether" 
+>}}
 
-### Diavolo WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://links.waltercedric.com/diavoloferratatogether
+## Water 🚰
+Enough water for 2-3h of moderate efforts
 
-## 🚰 Water: enough water for 2-3h of moderate efforts
+## Renting equipment 🧗
 
-## 🧗 Renting equipment: (30.- for the day) Call ASAP to reserve
+(30.- for the day) Call ASAP to reserve
 Intersport Alpina Sport
 Gotthardstrasse 101
 6490 Andermatt, Uri, 
@@ -86,13 +85,13 @@ Mo - Fr 09:00 - 12:00 13:00 - 18:00
 Sa - So 08:30 - 17:00
 Call ASAP to reserve
 
-## 🔗 Links:
+## Links 🔗
 - https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/tuefelstalboden-7805/klettersteig/via-ferrata-del-diavolo-743/
 - https://www.bergsteigen.com/touren/klettersteig/la-farina-del-diavolo-ferrata/
 - https://www.mountainreporters.com/gebieden/midden-europa/zwitserland/adrenaline-voor-beginners-klettersteig-diavolo-in-andermatt/
 - https://www.youtube.com/watch?v=G1xWglqVZ9M
 
-## ⭐️ My review
+## My review ⭐️
 Beginner friendly K2
 
 - Very scenic
@@ -104,7 +103,7 @@ Beginner friendly K2
 - Andermatt not so nice as a city
 - Shop and WC in train station
 
-## 🗺️ Topography
+## Topography 🗺️ 
 
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

@@ -33,7 +33,7 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## ☀️ Weather
+## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 {{< meteoswiss lat="46.15167" long="7.97028" name="Jegihorn" >}}
 
@@ -41,18 +41,18 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 And city 
 [MeteoSwiss city](https://www.meteoschweiz.admin.ch/lokalprognose/saas-grund/3910.html#forecast-tab=detail-view)
 
-## 🗓️ Season
+## Season 🗓️
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## 📍 Meeting Point
+## Meeting Point 📍
 05:45AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 5:55AM to platform 10
 
-## 🚂 Recommended train
+## Recommended train 🚂
 https://a.sbbmobile.ch/s/Fr3OKmQv 
 ￼
 Train Zürich HB to Visp
@@ -64,40 +64,38 @@ Walk T3, +480m, 1h30 to start of climb
 ## 🚠 Cable Car
 08:00 to 16:30 https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund 
 
-## 🗺️ Map
+## Map 🗺️
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2393.1704989106906!2d7.970957275637942!3d46.153891887158856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478f4598bf0deee7%3A0x658f62718bccb73e!2sKlettersteig%20J%C3%A4gihorn%20(Jegihorn)!5e1!3m2!1sen!2sch!4v1789324440451!5m2!1sen!2sch" >}}
 
-## 🗺️ GPX
+## GPX 🗺️
 {{< gpx-map file="jegihorn.gpx" >}}
 
-## 🏁 Start 
+## Start 🏁 
 2800m  
 base station of the Hohsaas gondola in Saas-Grund, T3, 1h30, +480m https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/mountain-hiking/approach-to-the-jegihorn-via-ferrata-991/ 
 
-## 🎯 End
+## End 🎯
 3206m  https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/panorama-jegihorn-via-ferrata-728/ 
 
-## 🚶🏻‍♂️ Exit
+## Exit 🚶🏻‍♂️
+
 2 hours trek down, need catching the last gondola down from Kreuzboden saves 1,100 metres of further descent.
 
 ## Travelling home
 by public transportation
 
-## 💬 WhatsApp group
+## WhatsApp group 💬 
 
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/hexensteigferratatogether" 
+>}}
 
-### Allmenalp WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://www.shieldmylinks.com/c/ex0yz82t
+## Water 🚰
 
-## 🚰 Water
 The south-facing route is exposed to the sun all day, throughout the season. No access to water for 7-8 hours!
 
-## 🛍️ Renting equipment
+## Renting equipment 🛍️
 Please send an email now or call and reserve a via ferrata set with helmet for this satursday:
 ￼
 INTERSPORT Zurbriggen
@@ -108,7 +106,7 @@ Saastalstrasse 241
 It is close to the Bus stop and cable car.
 <img width="736" height="1600" alt="jegi1" src="https://github.com/user-attachments/assets/07d5714b-086f-4f8c-b582-366c02945ccd" />
 
-## 🔗 Links
+## Links 🔗
 - www.off-the-trail.de/jegihorn 
 - https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/
 - https://www.bergsteigen.com/touren/klettersteig/jegihorn-klettersteig/
@@ -121,7 +119,7 @@ Bergbahnen Hohsaas AGSeilbahnstrasse 183910 Saas-GrundTel.: +41 27 958 15 80E-Ma
 
 WeissmieshütteFamily Carla & Roberto Arnold3910 Saas-GrundTel. +41 27 957 25 54E-Mail: huette@weissmieshuette.chwww.weissmieshuette.ch
 
-## ⭐️ My review
+## My review ⭐️
 Beginner friendly but demanding and long day 7h minimum
 
 - Very scenic, red stone, lunar, very high
@@ -139,10 +137,12 @@ Beginner friendly but demanding and long day 7h minimum
 - Less oxygen at 3200m, possible dizziness
 - 👙🩳 Nice artificial lake to put your feet on or swim after the climb if you have time
 
-## 🗺️ Topography
+## Topography 🗺️
+
 ![Jegihorn-via-ferrata-topography1](topo1.jpg)
 ![Jegihorn-via-ferrata-topography2](topo2.jpg)
 
-## 🌄 Gallery
+## Gallery 🌄
+
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 

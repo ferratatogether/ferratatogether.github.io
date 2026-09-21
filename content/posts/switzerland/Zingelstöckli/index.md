@@ -23,7 +23,15 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
+## WhatsApp group 💬 
+
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="" 
+>}}
+
 ## Links
+
 - [Hikr](https://www.hikr.org/tour/post111920.html)
 - [glarnerland.ch] (https://glarnerland.ch/en/map/detail-poi/klettersteig-zingelstockli-urnerboden--id--tou_s9t_dbaiabtf-segu-ebgs-jaqh-jqsciagddrab.html)
 - [viapeaks] (https://viapeaks.com/via/zingelstockli-klettersteig-urnerboden), 
@@ -32,9 +40,9 @@ The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks
 - [6] (https://www.via-ferrata.de/klettersteige/topo/klettersteig-zingelstoeckli-via-ursi-urnerboden)
 - https://www.bergsteigen.com/touren/klettersteig/zingelstoeckli-klettersteig/
 
-## ⭐️ My review
+## My review ⭐️
 
-## 🗺️ Topography
+## Topography 🗺️ 
 
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

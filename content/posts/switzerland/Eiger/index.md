@@ -42,7 +42,8 @@ Weather can cancel the event a few days before or during if weather is not perfe
 
 🏁 Time of leaving: 5:55AM to platform 10
 
-🚂 Recommended train: https://a.sbbmobile.ch/s/XXXXXXXX
+🚂 Recommended train
+https://a.sbbmobile.ch/s/XXXXXXXX
 
 🚠 Gondola from Grindelwald Terminal to Eigergletscher Station.
 
@@ -55,7 +56,12 @@ After about 45 minutes, we reach the start at 2,400 m above sea level.
 
 Travelling home: by public transportation
 
-💬 WhatsApp group: https://www.shieldmylinks.com/c/XXXXXX
+💬 WhatsApp group:
+
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="" 
+>}}
 
 🚰 Water: No access to water for 3-4 hours!
 
@@ -73,9 +79,9 @@ Travelling home: by public transportation
 - https://www.alltrails.com/trail/switzerland/bern/klettersteig-rotstock-via-eigertrail
 - https://thesevereclimber.com/2013/07/22/rotstock-via-ferrata/
 
-## ⭐️ My review
+## My review ⭐️
 
-## 🗺️ Topography
+## Topography 🗺️ 
 
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

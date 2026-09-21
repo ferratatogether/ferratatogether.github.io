@@ -27,29 +27,29 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## ⏱️ Duration 
+## Duration ⏱️ 
 3 hours total
 
-## ☀️ Weather
+## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 {{< meteoswiss lat="46.4916" long="9.9046" name="Pontresina" >}}
 
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/pontresina/7504.html#forecast-tab=detail-view)
 
-## 🗓️ Season
+## Season 🗓️
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## 📈 Difficulty
+## Difficulty 📈 
 C-D, +250m, 3h Ferrata: 46.4836°, 9.9168°
 
-## 📍 Meeting Point
+## Meeting Point 📍
 05:45AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 5:55AM to platform 10
 
-## 🚂 Recommended train
+## Recommended train 🚂
 3h20  https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EPontresina%2C+Hotel+Pal%C3%BC%2C+Via+da+Bernina_I980198771&day=2026-09-03&time=07_00&moment=dep&trip=0_0
 
 ## 🚗 Pontresina, Hotel Palü, Via da Bernina, 2h50
@@ -64,41 +64,38 @@ https://www.google.com/maps/place/Sesselbahn+Alp+Languard/@46.4910248,9.9039727,
 46.4813°, 9.9151°
 Attention: 3.- CHF per hour!
 
-## 🏁 Start 
+## Start 🏁 
 15min walk +120m
 
-## 🎯 End
+## End 🎯
 2328m Alp Languard 
 
-## 🚶🏻‍♂️ Exit
+## Exit 🚶🏻‍♂️
 45min to 1H -390m T1 https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/mountain-hiking/descent-from-la-resgia-languard-ferrata-868/
 
 Travelling home: by public transportation
 
-## 💬 WhatsApp group: 
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+## WhatsApp group 💬 
 
-### Allmenalp WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://links.waltercedric.com/Languard-La-Resgia
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/Languard-La-Resgia" 
+>}}
 
-## 🚰 Water
+## Water 🚰 
 The route is exposed to the sun from 9:00, throughout the season. No access to water for 2-3 hours!
 
 ## 🏊 Lake
 at the top, 5 min walk and you can take a litle swim behind the small dam in the rivier. 
 
-## 🛍️ Renting equipment
+## Renting equipment 🛍️
 Please send an email now or call and reserve a via ferrata set with helmet for this satursday: There's a rental service directly with the valley station (Luftseilbahn Kandersteg-Allmenalp Allmenbahnstrasse 23 CH-3718 Kandersteg) of the cable car, opening hours 08.30 – 17.00 h. https://www.allmenalp.ch/en/experience/climbing.html Renting Equipment (+25 CHF max)
 
-## 🔗 Links
+## Links 🔗
 - https://ferrataguide.com/ferrata/Klettersteig_La_Resgia
 - https://www.bergsteigen.com/touren/klettersteig/klettersteig-la-resgia/
 
-## My review
+## My review ⭐️
 
 ### La Resgia:
 - No easy via ferrata rental
@@ -121,10 +118,8 @@ Please send an email now or call and reserve a via ferrata set with helmet for t
 - Retour walking down or taking chair lift 
 - Going back by chair lift is 20.5.- CHF
 
-## ⭐️ My review
+## Topography 🗺️ 
 
-## 🗺️ Topography
-
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 

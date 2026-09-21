@@ -43,29 +43,34 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## ☀️Weather
+## Weather ☀️
 {{< meteoswiss lat="46.1890073" long="8.9980977" name="Monte Carasso" >}}
 
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 * [BergFex](https://www.bergfex.com/sommer/monte-carasso/wetter/)
 * [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/monte-carasso/6513.html#forecast-tab=detail-view)
 
-## 🗓️ Season
+## Season 🗓️
+
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## 📍 Meeting Point
+## Meeting Point 📍
+
 6:45 AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
+
 7:00AM to platform 10
 
-## 🚂 Recommended train
+## Recommended train 🚂
+
 - 1 Stunde 58 Minuten
 - Zürich HB  -> Monte Carasso by train then take the bus to Urènn/Funivia 
 
-## 🚠  Cable Car
+## Cable Car 🚠
+
 {{< notice info>}} 👨‍⚖️
 You must reserve your seats using this link https://www.mornera.ch/en/cable-car/.
 1. Monte-Carasso to Mornera at around 9:15
@@ -79,21 +84,17 @@ If you miss your time slot, or somebody take your seat (punch it!) you'll have t
 This could be after 19:20 or later. A lot of locals are going down late with their garbage bag.
 {{< /notice >}}
 
-## 🗺️ GPX
+## GPX 🗺️
 {{< gpx-map file="deitreisignori.gpx" >}}
 
-## 💬 WhatsApp group
+## WhatsApp group 💬
 
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/deitreisignoriferratatogether" 
+>}}
 
-### Allmenalp WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://links.waltercedric.com/deitreisignoriferratatogether
-
-## 🛍️ Renting equipment
+## Renting equipment 🛍️
 Restaurant near cable car at the top.
 Equipment rental at Grotto Mornera to be booked at 091 825 84 38 (helmet + set CHF 30.00) Or bringing your own Via Ferrata complete set.
 
@@ -112,14 +113,16 @@ Beginner friendly (right path)
 - [Ticino](https://www.ticino.ch/de/commons/details/Via-Ferrata-dei-Tre-Signori/83778.html)
 - [Mornera](https://www.mornera.ch/my-product/via-ferrata-dei-tre-signori/)
 
-## ⭐️ My review
+## My review ⭐️
 
-## 🗺️ Topography
+## Topography 🗺️ 
 
-## 🌄 Gallery
+## Gallery 🌄
+
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## 📆 Ferrata Together log
+
 Ferrata Together visits:
 | Date | Number of people |
 |----------|--------------------|

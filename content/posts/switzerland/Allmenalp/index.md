@@ -54,61 +54,62 @@ The variant "Freude herrscht" is classified as K4+ in the SAC via ferrata scale.
 * Gloves are MANDATORY, the surface is mostly flat and you need to grab the safety line most of the time. You can buy gloves for 7.- at the cable car station
 {{< /notice >}}
 
-## 🗓️ Season
+## Season 🗓️
 Typically 16 May/June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## ☀️ Weather
+## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
 {{< meteoswiss lat="46.4958" long="7.6732" name="Kandersteg" >}}
 Source:
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view)
 
-## 📈 Difficulty
+## Difficulty 📈 
 K3-K4, +400m, 3h
 
-## 📍 Meeting Point
+## Meeting Point 📍
 05:45AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 5:55AM to platform 10
 
-## 🚂 Recommended train
+## Recommended train 🚂
 https://a.sbbmobile.ch/s/u3qOIzZM
 
 ## 🚠  Cable Car
 After the climb, we can use the cable car to avoid a trek down back to the valley.
 14.- CHF down to the valley or you’ll have to trek 2h down. https://www.allmenalp.ch/en/cable-car/prices.html
 
-## 🗺️ GPX
+## GPX 🗺️
 {{< gpx-map file="allmenalp.gpx" >}}
 
-## 🏁 Start
+## Start 🏁
+
 15 min on car road from Kandersteg train station, 10min more from rental (cable car building)
 
-## 🎯 End
+## End 🎯
+
 370 m of via ferrata climbing (550 m total ascent from the valley)
 
-## 🚶🏻‍♂️ Exit
+## Exit 🚶🏻‍♂️
+
 15min walk steep to restaurant, toilets and cable car  
 
-## 🏡 Travelling home
+## Travelling home 🏡
+
 by public transportation
 
-## 💬 WhatsApp group
+## Ferrata Together WhatsApp groups 💬
 
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/allmenalpferratatogether" 
+>}}
 
-### Allmenalp WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://links.waltercedric.com/allmenalpferratatogether
+## Water 🚰 
 
-## 🚰 Water
 The route is exposed to the sun from 9:00 in summer, throughout the season. 
 In the afternoon, the wall is in the shadows, even if air is 17°C, wihtout wind it get really hot (feel like 25°C)
 No access to water for 2 hours!
@@ -116,7 +117,7 @@ No access to water for 2 hours!
 ## 🏊 Lake
 if you finish early, possibility to go to OeschninenSee in the afternoon  (+22.50.- CHF cable car) but over crowded lake
 
-## 🛍️ Renting equipment
+## Renting equipment 🛍️
 Please send an email now or call and reserve a via ferrata set with helmet for this satursday:
 There's a rental service directly with the valley station (Luftseilbahn Kandersteg-Allmenalp Allmenbahnstrasse 23 CH-3718 Kandersteg) of the cable car, opening hours 08.30 – 17.00 h. https://www.allmenalp.ch/en/experience/climbing.html
 Renting Equipment (+25 CHF max)
@@ -126,12 +127,12 @@ Renting Equipment (+25 CHF max)
 * only harness: CHF 10
 * material to buy: gloves CHF 5 
 
-## 🔗 Links
+## Links 🔗
 - [Allmenalp via ferrata official page](https://www.allmenalp.ch/en/experience/climbing.html)
 - [SAC](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/allmenalp-8207/klettersteig/klettersteig-kandersteg-allmenalp-1840/)
 - [VIVA Ferrata](https://vivaferrata.ch/en/route/kandersteg/via-ferrata-kandersteg-allmenalp?map=7.65326%2C46.49072%2C14)
 
-## ⭐️ My review
+## My review ⭐️
 Beginner friendly if no fear of heights
 
 - Scenic, cascade, view
@@ -145,10 +146,10 @@ Beginner friendly if no fear of heights
 - No shadow after 9:00 can be hot even with 17°C air
 - Can be overcrowded during weekends, a 1h20 “Freude Herscht” for experienced climbers can be 3 or 4h or worse, so start early before 9:00
 
-## 🗺️ Topography
+## Topography 🗺️ 
 ![Allmenalp-via-ferrata-topography](topo.png)
 
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## 📆 Ferrata Together log

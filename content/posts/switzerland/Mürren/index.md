@@ -52,59 +52,55 @@ A tyrolienne (zip-line) is part of the route — but its use is restricted (only
 
 A suspension bridge (“Nepal bridge”) toward the end provides a dramatic crossing.)
 
-## ☀️ Weather
+## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 {{< meteoswiss lat="46.559" long="7.892" name="Mürren" >}}
 Source:
 [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/muerren/3825.html#forecast-tab=detail-view)
 
-## 🗓️ Season
+## Season 🗓️
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## 📈 Difficulty
+## Difficulty 📈 
 K3, -170m, nt really a climb, more a walk 80% in the forest. 3 bridges.
 
-## 📍 Meeting Point
+## Meeting Point 📍
 05:45AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 5:55AM to platform 10
 
-## 🚂 Recommended train
+## Recommended train 🚂
 6:02 Platform 10 https://a.sbbmobile.ch/s/FTVOE29
 
 ## 🚠 Cable car
 After the via ferrata or a 1h30 walk on road up for free
 
-## 🚶🏻‍♂️ Exit
+## Exit 🚶🏻‍♂️
 15min walk steep to toilets, water, restaurant and cable car
 
 ## Travelling home
 by public transportation
 
-## 💬 WhatsApp group
+## WhatsApp group 💬 
 
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/muerrenferratatogether" 
+>}}
 
-### Allmenalp WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://links.waltercedric.com/muerrenferratatogether
-
-## 🚰 Water
+## Water 🚰 
 The route is mostly in the shadows, throughout the season. No access to water for 3+ hours!
 
-## 🛍️ Renting equipment
+## Renting equipment 🛍️
 (35.- without gloves) Please send an email now or call and reserve a via ferrata set 
 The via ferrata set (incl. helmet and harness) can be reserved in advance at intersport (50m from start of via ferrata)
 You are responsible to organise your own rental, https://intersport-muerren.ch/bikes-via-ferrata/?lang=en call them and reserve a few days before:
 info@intersport-muerren.ch
 INSPORT: +41 33 855 21 88
 
-## 🔗 Links:
+## Links 🔗:
 - [https://muerren.swiss/de/destination/ueber-muerren/klettersteig.html](https://muerren.swiss/de/destination/ueber-muerren/klettersteig.html)
 - https://outdoor.ch/en/outdoor-activities/via-ferrata-muerren/
 - https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/muerrenbachfall-8215/klettersteig/klettersteig-muerren-1846/
@@ -122,11 +118,11 @@ Beginner friendly if no fear of heights
 - 15min instagrammable because of depth
 - Last bridge 120m length is great
 
-## ⭐️ My review
+## My review ⭐️
 
-## 🗺️ Topography
+## Topography 🗺️ 
 
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 

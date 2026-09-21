@@ -37,71 +37,69 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 {{< notice tip>}} 📓 
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
-## ☀️Weather
+
+## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 {{< meteoswiss lat="46.25847" long="7.94045" name="Gibidumpass" >}}
 
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/gibidumpass.html#forecast-tab=detail-view)
 
-## 🗓️ Season
+## Season 🗓️
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## 📈 Difficulty
+## Difficulty 📈 
 K3-4. 3 hours Technically only a moderately difficult route, and the west bank is somewhat lacking in variety. By contrast, there is plenty of variety on the inward route, with some short steep passages, traverses which force the climber slightly out from the rock face, and the two highlights mentioned above. Important: pay close attention to the information board at the starting-point, which explains precisely how to use the Tyrolienne traverse. After your "journey into space", first secure yourself again to the via ferrata, and only then unclip yourself from the rope pulley!
 
-## 📍 Meeting Point:  
+## Meeting Point 📍
 7:15AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 7:30 to platform 15
 
-## 🚂 Recommended train
+## Recommended train 🚂
 https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EBlatten+b.+Naters+%28Belalpbahn%29_I8530235&day=2026-08-22&time=07_00&moment=dep&trip=0_1
 To reach the Aletsch Via Ferrata (located around the Gibidum Reservoir at the Massa Gorge) via public transport, take a train to Brig station, catch the local Postbus (Route 624) to Blatten bei Naters (20min), and walk about 1 kilometer northeast to the reservoir. The entire trip from Zürich takes roughly 3.5 hours
 
-## 🚗 By Car
+## By Car 🚗
 
-## 🅿️ Parking 
+## Parking 🅿️ 
 Parking lot at the Gibidum reservoir outside the village of Blatten near Naters (1482m)
 
-## 🗺️ GPX
+## GPX 🗺️
 {{< gpx-map file="aletsch.gpx" >}}
 
-## 🏁 Start
+## Start 🏁
 Blatten (1,327 m) is reached from Brig-Naters via a mountain road. It is possible to drive further, to the artificial lake of the Gibidum-Stausee (1,436 m), where there is parking.
 
-## 🎯 End
+## End 🎯
 Stausee Gibidum (artificial lake, approx. 1480 m)
 
-## 🚶🏻‍♂️ Trek
+## Trek 🚶🏻‍♂️
 optional to go to Blausee, 3987 Riederalp or Bettmersee 
 
-## 🏡 Travelling home
+## Travelling home 🏡
 by public transportation
 
-## 💬 WhatsApp group
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+## Ferrata Together WhatsApp groups 💬
 
-### Aletsch WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-TODO
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="" 
+>}}
 
-## 🚰 Water
+## Water 🚰 
 Enough for 3hours of low efforts
 
-## 🔗 Links
+## Links 🔗
 - https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/berggasthaus-taelli-2147000263/
 - https://ferrataguide.com/ferrata/T%C3%A4lli_Klettersteig
 - https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/aletsch-via-ferrata
 
-## ⭐️ My review
+## My review ⭐️
 
-## 🗺️ Topography
+## Topography 🗺️ 
 
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

@@ -37,25 +37,25 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## 🗓️ Season
+## Season 🗓️
 Typically June through late October (conditions permitting)
 {{< months highlight="6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## ☀️ Weather
+## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
 {{< meteoswiss lat="46.8410" long="8.4106" name="Brunnihuette" >}}
 Source:
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/brunnihuette-sac.html#forecast-tab=detail-view)
 
-## 📍 Meeting Point
+## Meeting Point 📍
 05:45AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 5:55AM to platform 10
 
-## 🚂 Recommended train
+## Recommended train 🚂
 XXXX
 
 ## 🚠  Cable Car
@@ -64,7 +64,7 @@ Brunni-Bahnen Engelberg AG, 6390 Engelberg, Switzerland
 From the main station of Engelberg, take the bus to Brunni, a short cable car followed by a chair list
 Cost 27.-
 
-## 🗺️ GPX
+## GPX 🗺️
 
 I recommend doing the left path (Rigidalstock face (D/K4)) climbing up and going down using the Rigidalstock ridge (C/K3).
 Beginner will prefer doing the Rigidalstock ridge (C/K3) up and down.
@@ -77,36 +77,32 @@ Beginner will prefer doing the Rigidalstock ridge (C/K3) up and down.
 
 {{< gpx-map file="rigidalstockgrat.gpx" >}}
 
-## 🏡 Travelling home
+## Travelling home 🏡
 by public transportation
 
-## 💬 WhatsApp group
+## WhatsApp group 💬 
 
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/rigidalstockgratferratatogether" 
+>}}
 
-### Rigidalstockgrat WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://links.waltercedric.com/rigidalstockgratferratatogether
-
-## 🚰 Water
+## Water 🚰 
 The route is exposed to the sun from 9:00 in summer, throughout the season. 
 No access to water for 7 hours!
 
 ## 🏊 Lake
 a small artificial lake is welcoming you beside the top of the chairlift. Even just putting your feets inside is great after this long day!
 
-## 🛍️ Renting equipment
+## Renting equipment 🛍️
 
-## 🔗 Links
+## Links 🔗
 - [SAC](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/rigidalstock-1499/klettersteig/klettersteig-rigidalstockgrat-741/)
 - [Outdoor active](https://www.outdooractive.com/en/route/via-ferrata/engelberg/via-ferratas-on-the-rigidalstock-near-engelberg-titlis/800289342/#dmdtab=oax-tab1)
 - [BergFex](https://www.bergfex.com/sommer/luzern-vierwaldstaettersee/touren/klettersteig/616552,klettersteige-brunnistoeckli-und-rigidalstock/)
 - [Viva Ferrata](https://vivaferrata.ch/en/route/brunni-engelberg/rigidalstockgrat?map=8.41145%2C46.84638%2C14)
 
-## ⭐️ My review
+## My review ⭐️
 
 The uphill approach walk is really demanding, took me 2h without break from Brunnistöckli. The walk ended being more difficult than the K3 due to the steepness, small rocks limiting speed and making the road hazardous. A good self balance and sure footness is required!
 
@@ -132,10 +128,10 @@ Beginner friendly but demanding and long day
 - The last cable car is too early! Don’t do Brunnistockli and Rigidalstockgrat or start very very early (not around 9:00!)
 - 👙🩳 Nice artificial lake to put your feet on or swim after the climb if you have time
 
-## 🗺️ Topography
+## Topography 🗺️ 
 ![Rigidalstockgrat-via-ferrata-topography](topo.jpg)
 
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## 📆 Ferrata Together log

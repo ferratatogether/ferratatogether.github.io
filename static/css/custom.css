@@ -20,3 +20,82 @@
   font-weight: bold;
   border-color: #000;
 }
+
+
+.wa-container {
+  margin: 2rem 0;
+  font-family: inherit;
+}
+.wa-title {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+.wa-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+.wa-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8fafc;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+.wa-desc {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+  color: #475569;
+  text-align: center;
+  transition: color 0.3s ease;
+}
+.wa-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  background-color: #25D366; /* Official WhatsApp Green */
+  color: white !important;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none !important;
+  font-weight: 600;
+  transition: background-color 0.2s ease;
+}
+.wa-btn:hover {
+  background-color: #128C7E;
+}
+.wa-icon {
+  flex-shrink: 0;
+}
+
+/* ==========================================================================
+   Dark Mode Variants (Auto System & Forced Classes)
+   ========================================================================== */
+
+/* 1. Automatically matches user's system dark mode preference */
+@media (prefers-color-scheme: dark) {
+  .wa-card {
+    background-color: #1e293b;
+    border-color: #334155;
+  }
+  .wa-desc {
+    color: #cbd5e1;
+  }
+}
+
+/* 2. Matches forced shortcode parameter (mode="dark") or standard theme dark-class setups */
+.wa-container.dark .wa-card, 
+.dark .wa-container .wa-card {
+  background-color: #1e293b;
+  border-color: #334155;
+}
+.wa-container.dark .wa-desc, 
+.dark .wa-container .wa-desc {
+  color: #cbd5e1;
+}

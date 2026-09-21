@@ -35,21 +35,21 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## ☀️ Weather
+## Weather ☀️
 Weather can cancel/abort/shorten  the event a few days before if weather is not perfect for execution!
 Gadmen area
 {{< meteoswiss lat="46.702056" long="8.414223" name="Tierbergli" >}}
 Source:
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/sustenpass.html#forecast-tab=detail-view)
 
-## 📍 Meeting Point
+## Meeting Point 📍
 XXXXAM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 XXXAM to platform XXX
 
-## 🚂 Recommended train
+## Recommended train 🚂
 https://a.sbbmobile.ch/s/Eta68VPo
 
 Duration: 4.5H
@@ -64,7 +64,7 @@ Duration: 4.5H
 
 When in the parking Umpol, you cross a bridge, and after 5min youre at [the start of the Via Ferrata](https://maps.app.goo.gl/Pih8J2cLKeTeaqRG7).
 
-## 🚗 By Car
+## By Car 🚗
 It is **faster and easier** to take the car to join the start of this via ferrata in Sustenpass.
 
 {{< notice info>}}
@@ -76,10 +76,10 @@ You must pay 7.- to take a private road up to the highest parking ([Parking Umpo
 
 When in the parking Umpol, you cross a bridge, and after 5min youre at [the start of the Via Ferrata](https://maps.app.goo.gl/Pih8J2cLKeTeaqRG7).
 
-## 🗺️ MAP
+## Map 🗺️
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2368.7956765302497!2d8.412568775672318!3d46.711814049338265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4785638ebf0a624d%3A0xc3ef0a20bef598de!2sVia%20ferrata%20Tierbergli!5e1!3m2!1sen!2sch!4v1789372468415!5m2!1sen!2sch" >}}
 
-## 🗺️ GPX
+## GPX 🗺️
 {{< gpx-map file="tierbergli.gpx" >}}
 
 ## Travelling home
@@ -88,23 +88,21 @@ by public transportation or by car (fastest)
 - https://a.sbbmobile.ch/s/bIm0rjZ4 
 - https://a.sbbmobile.ch/s/iGbcofnC
 
-## 💬 WhatsApp group
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+## WhatsApp group 💬 
 
-### Allmenalp WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://links.waltercedric.com/tierbergliferratatogether
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/tierbergliferratatogether" 
+>}}
 
-## 🚰 Water
+## Water 🚰 
+
 Tierbergli has lot of shadows (north face), carry at least 2 liter of water and warm clothes. After exiting the via ferrata, a Berghutte is only 35min away (still an exhausting walk up)
 
-## 🛍️ Renting equipment
+## Renting equipment 🛍️
 Not possible close to start, or around. I recommend from the one joining us to rent their Via Ferrata set at [Transa.ch](https://www.transa.ch) or [Decathlon](https://rent.decathlon.ch/de/de-8754883) 
 
-## 🔗 Links:
+## Links 🔗:
 - [Flyer](https://tierbergli.ch/wp-content/uploads/2021/01/klettersteig-flyer.pdf)
 - [ferrataguide](https://ferrataguide.com/ferrata/Klettersteig_Tierbergli)
 - [bergsteigen.com](https://www.bergsteigen.com/touren/klettersteig/tierbergli-klettersteig/)
@@ -127,7 +125,7 @@ Summer season – June 4 to September/October 2026 (depending on snow conditions
 
 [tierbergli](https://tierbergli.ch)
 
-## ⭐️ My review
+## My review ⭐️
 Beginner friendly but demanding and long day
 
 - Easier and faster access by car then SBB
@@ -139,10 +137,10 @@ Beginner friendly but demanding and long day
 - Demanding path down T3+ of 2.5h back to parking
 - 👙🩳 small lak 15min right to the path when going down, glacier water so cold
 
-## 🗺️ Topography
+## Topography 🗺️ 
 ![Tierbergli-via-ferrata-topography](topo.png)
 
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## 🎥 Video

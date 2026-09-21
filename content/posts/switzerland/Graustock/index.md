@@ -30,7 +30,7 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## ☀️ Weather
+## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
 {{< meteoswiss lat="46.78785" long="8.36885" name="Graustock" >}}
@@ -38,45 +38,41 @@ Source:
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/engelberg/6390.html#forecast-tab=detail-view)
 - [MeteoBlue](https://www.meteoblue.com/de/wetter/woche/graustock_schweiz_6936332?day=2)
 
-## 🗓️ Season
+## Season 🗓️
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## 📍 Meeting Point
+## Meeting Point 📍
 6:50AM Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 7:10 to platform 9
 
-## 🚂 Recommended train
+## Recommended train 🚂
 https://a.sbbmobile.ch/s/LpBaNchl
 
-## 🚠 Cable car: 
+## Cable car 🚠
 - Engelberg cable car to Trubsee
 - Trubsee chairlift to Jochpass
 Both costs 25.- with Half Fare back and forth
 
-## 🗺️ GPX
+## GPX 🗺️
 {{< gpx-map file="graustock.gpx" >}}
 
 ## Travelling home
 by public transportation
 
-## 💬 WhatsApp group
+## WhatsApp group 💬 
 
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/allmenalpferratatogether" 
+>}}
 
-### Allmenalp WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://links.waltercedric.com/allmenalpferratatogether
+## Water 🚰 
 
-## 🚰 Water
-
-## 🛍️ Renting equipment
+## Renting equipment 🛍️
 The via ferrata kit can be hired from Titlis Rent at the valley station or from Berghaus Jochpass.
 Call to reserve a kit now, number is limited:
 
@@ -86,10 +82,10 @@ CH-6390 Engelberg
 +41 41 637 11 87
 info@jochpass.ch
 
-## 🔗 Links
+## Links 🔗
 - https://ferrataguide.com/ferrata/Graustock_Klettersteig
 
-## My review
+## My review ⭐️
 - Easy access by cable car, 15min walk to chairlift to Jochpass trubsee. A short walk up of 1h
 - First 2 section are rated really low and can be boring, more a walk and light climb
 - The 3rd section is rated K5 but stays easy with proper techniques and if you are a bit tall.
@@ -98,11 +94,9 @@ info@jochpass.ch
 - The walk back is an easy path down, above 1h, but in the middle you can lose your path, so take your time.
 - 👙🩳 Lake Trubsee after the chairlift while going back, can be really cold in september!
 
-## ⭐️ My review
+## Topography 🗺️ 
 
-## 🗺️ Topography
-
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 

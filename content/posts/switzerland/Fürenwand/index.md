@@ -30,62 +30,58 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## ⏱️ Duration
+## Duration ⏱️
 2-3 hours total
 
-## ☀️ Weather
+## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
 {{< meteoswiss lat="46.802063" long="8.449038" name="Fürenwand" >}}
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/titlis.html#forecast-tab=detail-view)
 
-## 🗓️ Season
+## Season 🗓️
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## 📈 Difficulty
+## Difficulty 📈 
 K5, The hanging ladder at the top is a real deal 🤩
 
-## 📍 Meeting Point
+## Meeting Point 📍
 05:45AM  Zürich HB, Main Meeting point, around the clock
 Find the turquoise Zürich Together Banner.
 
-## 🏁 Time of leaving
+## Time of leaving 🏁
 5:55AM to platform 10
 
-## 🚂 Recommended train
+## Recommended train 🚂
 I recommend https://a.sbbmobile.ch/s/SD8RUtqh meet me at 6:55 sharp below blue angel in Zurich main station
 
-## 🚠  Cable Car
+## Cable Car 🚠 
 Yes to go back to start.
 
-## 🗺️ GPX
+## GPX 🗺️
 TODO
 
-## 🚶🏻‍♂️ Exit
+## Exit 🚶🏻‍♂️
 From Fürenalp summit → trail to Engelberg (1h) or cable car down
 
-## 🏡 Travelling home
+## Travelling home 🏡
 by public transportation
 
-## 💬 WhatsApp group
+## WhatsApp group 💬 
 
-### Ferrata Together main group
-Join the main WhatsApp group to be informed about next events (optional)
-[WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
+{{< whatsapp-groups 
+  link1="https://links.waltercedric.com/ferratatogether" 
+  link2="https://links.waltercedric.com/allmenalpferratatogether" 
+>}}
 
-### Allmenalp WhatsApp group
-Every via ferrata climb will have its own WhatsApp group, mainly for sharing pictures, coordinating meeting points and communications.
-It is recommended to join the right group before the day of the event.
-https://links.waltercedric.com/allmenalpferratatogether
-
-## 🚰 Water
+## Water 🚰 
 No access to water for 2 hours!
 
-## 🏊 Lake
+## Lake 🏊
 A small reservoir at the top on the right path leading to the restaurant, big enough for 4-5 persons
 
-## 🛍️ Renting equipment
+## Renting equipment 🛍️ 
 Via ferrata sets with helmets can be rented at the Fürenalp valley station. We recommend reserving via ferrata sets by telephone on 041 637 20 94 (opening hours 8:30 - 17:30) or by e-mail. 
 
 A limited number of via ferrata sets (helmet, climbing harness, slings) are available.
@@ -98,11 +94,11 @@ to reserve now, we will be there around 10:00
 - Cost via ferrata set complete: CHF 25.00
 - Cost via ferrata set slings: CHF 15.00
 
-## 🔗 Links
+## Links 🔗
 - https://www.instagram.com/reel/DRAN2p6DUiT/?igsh=MTkxbjhpNzNkZ2d5Yw%3D%3D
 - https://www.fuerenalp.ch/klettersteig
 
-## ⭐️ My review
+## My review ⭐️
 Beginner friendly if you master techniques
 
 - Easy access
@@ -114,9 +110,9 @@ Beginner friendly if you master techniques
 - Cable car down or trek
 - 👙🩳 very small water reservoir at the top (left path after door), good for feet or short body immersion
 
-## 🗺️ Topography
+## Topography 🗺️ 
 ![Furrenwand-via-ferrata-topography](topo.png)
 
-## 🌄 Gallery
+## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
