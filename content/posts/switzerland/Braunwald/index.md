@@ -15,9 +15,9 @@ tags:
 {{< viaferratacard 
 difficulty="K3/K5" 
 duration="7h" 
-durationclimb="3h/4h" 
-vertical="400hm" 
-top="2700m"
+durationclimb="4/5/6/7h" 
+vertical="450hm" 
+top="2455"
 start="2120m"
 location="Glarus"
 trekup="1901m, 30min"
@@ -29,28 +29,30 @@ The via ferratas are located on the Eggstöcke, above the Gumen, which you can r
 
 It could be really busy and lead to waiting time, 8000 - 10000 visitors estimated per year.
 
+You must start early enough to not miss the last chairlift at 17:00 to 17:30
+
 The time you spend climbing depends entirely on which of the three interconnected circuits you choose:
 
-### Circuit Leiteregg - K3
+### Circuit Leiteregg - K3 - 2,310m
 
-(blue) with safety rope - K3 -  Total time 2.5 to 3.5h. Catch an early morning train, tackle the Short (Leiteregg) circuit, and you can easily be back in Zurich by mid-afternoon.
+First Stage (blue) with safety rope - K3 -  Total time 2.5 to 3.5h. Catch an early morning train, tackle the Short (Leiteregg) circuit, and you can easily be back in Zurich by mid-afternoon.
 
 Great entry point for beginners with a head for heights. Features steep ladders and exposed chimneys with solid iron stirrups. Includes the spectacular 16-metre Charlotte Bridge suspension bridge. 
 
-### Leiteregg ascent - K5
+### Leiteregg ascent - K5 - 2,449m
 
-(double track) as a relief route to the previous K3 route (difficulty approx. K5), go to the left to find the start.
+Alternative first Stage (double track) as a relief route to the previous K3 route (difficulty approx. K5), go to the left to find the start.
 A new, highly challenging K5 / Grade D/E variation exists at Leiteregg for experts. Well secured with enough irons and steps, has small overhang that can be easily overcome with good cliping and feets techniques.
 
-### Tour Vorder - K3
+### Tour Vorder - K3 - 2,420m
 
-Mittler Eggstock (red) - K3 - Total time 2.5 to 5.5h
+Second Stage Mittler Eggstock (red) - K3 - Total time 2.5 to 5.5h
 
 A scenic, airy ridge traverse. Requires solid stamina but maintains very secure footing with consistent cable lines. Ends at the Mittler Eggstock plateau near a small emergency bivouac box. You can exit down to Gumen from here if you want to skip the final wall.
 
-### Tour Vorder - K5
+### Tour Vorder - K5 - 2,455m
 
-Hinter Eggstock (black) with safety rope K5 -  Total time 5.5 to 6.5h
+Final Summit Hinter Eggstock (black) with safety rope K5 -  Total time 5.5 to 6.5h
 
 Strictly for experts. A short but extremely physical 80-metre vertical ascent. Demands significant upper-body strength, absolute composure, and rock experience. Features a steep, slightly overhanging crux that must be navigated with careful technique.
 
@@ -83,10 +85,9 @@ Typically June through late October (conditions permitting)
 
 ## Time of leaving 🏁 
 
-08:00AM to platform 10
-Train Leave at 08:12
+- 08:00AM to platform 10 train Leave at 08:12
 
-Recommended is to taker an earlier train through, so you have more reserve time for the last K5 (optional) and enough time to reach the chairlift.
+Recommended is to take an earlier train through, so you have more reserve time for the last K5 (optional) and enough time to reach the chairlift.
 
 ## Recommended train 🚂 
 
@@ -102,9 +103,10 @@ Exit the train at Linthal Braunwaldbahn (do not miss it and stay on until the fi
 
 You'll have first to take the funicular that is located in the SBB train station. Board the Braunwaldbahn funicular (Braunwaldbahn, Stachelbergweg 2, 8783 Linthal) for a 7-minute ride up to Braunwald village.
 
-- With GA it is free to go to braunwald
+- With a GA it is free to go to braunwald, but you'll have to pay for the chairlift anyway a day ticket 30.-
 - With Half fare, you'll a discount and pay for the day ticket 35.-
-- [Get a day pass](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) for +30.- CHF
+- [Get a day pass](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) for +35.- CHF
+- A GA Duo has proven twice to not work through the first checkpoint, ask for help and you will get through for free (add some delays to get to the desk if the queue is important)
 
 ## Chairlift to Gumen
 [Walk through for 16min/900m](https://maps.app.goo.gl/BvKUCgqszxhVuHog9) the car-free village and take the Gumen combination chairlift up to the Berggasthaus Gumen (1,901 m), which serves as the start of the trail to the via ferrata.
@@ -127,14 +129,14 @@ To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to th
 
 ## Parking 🅿️
 
-Use the large open-air and covered parking facilities directly at the Linthal valley station
+Use the large open-air and covered parking facilities directly at the Linthal valley station. The parking use [ParkingPay](https://parkingpay.ch) and not EasyPark. You can pay with twint.
 
 ## Start 🏁
-Follow the marked alpine path from Berggasthaus Gumen diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point.
+From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point.
 
 - Start of the hike 1901m (Berggasthaus Gumen)
 - End of the approach hike: 2120m
-- It can take approx. 30 to 45min for 219m
+- It can take approx. 30 to 45min for 219Hm
 
 ## Exit 🚶🏻‍♂️
 If you do not finish with the last K5 part, the climb down will take more or less one hour, it is easier to climb backward and just look where to put your feets.
