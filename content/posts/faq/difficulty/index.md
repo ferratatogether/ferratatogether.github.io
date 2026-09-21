@@ -12,6 +12,8 @@ Via ferrata difficulty levels are primarily categorized into global alpine scale
 
 Depending on the region, routes are graded using a few standardized systems: the Schall Scale (Letters A-F), the Hüsler Scale (K1-K6), or the French System (F to ED).
 
+{{< difficulty >}}
+
 ## A / Easy
 ### Path
 - Easy, challenging parts secured, well marked

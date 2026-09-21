@@ -14,6 +14,8 @@ tags:
   - eastern-switzerland
   - glarnerland
 ---
+{{< toc-mobile >}}
+
 {{< viaferratacard 
 difficulty="K3/K5" 
 duration="7h" 

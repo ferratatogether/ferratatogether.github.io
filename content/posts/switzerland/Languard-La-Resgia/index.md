@@ -9,6 +9,7 @@ tags:
   - K5
   - switzerland
 ---
+{{< toc-mobile >}}
 
 {{< swiss-map highlight="GR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 

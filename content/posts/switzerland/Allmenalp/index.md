@@ -12,6 +12,8 @@ tags:
   - short
   - switzerland
 ---
+{{< toc-mobile >}}
+
 {{< viaferratacard
 difficulty="K4/K4+" 
 duration="3h" 

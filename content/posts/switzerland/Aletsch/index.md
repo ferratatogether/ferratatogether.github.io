@@ -11,6 +11,8 @@ tags:
   - valais
   - switzerland
 ---
+{{< toc-mobile >}}
+
 {{< swiss-map highlight="VS" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
 {{< notice info>}}

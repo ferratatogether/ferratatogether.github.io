@@ -12,6 +12,8 @@ tags:
   - saas-grund
   - switzerland
 ---
+{{< toc-mobile >}}
+
 {{< viaferratacard 
 difficulty="K3/K5-K6" 
 duration="7h" 

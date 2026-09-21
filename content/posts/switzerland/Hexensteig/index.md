@@ -12,6 +12,7 @@ tags:
   - trek-up-demanding
   - switzerland
 ---
+{{< toc-mobile >}}
 
 {{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 

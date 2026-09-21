@@ -9,6 +9,8 @@ tags:
   - K3
   - switzerland
 ---
+{{< toc-mobile >}}
+
 {{< viaferratacard 
 difficulty="K2-K3" 
 duration="7h, 10,5km" 

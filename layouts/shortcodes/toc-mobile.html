@@ -1,0 +1,91 @@
+
+<div class="mobile-toc-container">
+    <button class="mobile-toc-toggle" onclick="toggleMobileToc()" aria-expanded="false" aria-controls="mobile-toc-menu">
+        <span class="toc-icon">☰</span> Table of Contents
+    </button>
+    <div id="mobile-toc-menu" class="mobile-toc-menu">
+        {{ .Page.TableOfContents }}
+    </div>
+</div>
+
+<style>
+    /* 1. Hide completely on desktop screens (min-width: 769px) */
+    @media screen and (min-width: 769px) {
+        .mobile-toc-container {
+            display: none !important;
+        }
+    }
+
+    /* 2. Mobile-specific styling */
+    @media screen and (max-width: 768px) {
+        .mobile-toc-container {
+            margin: 1.5rem 0;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            background-color: #f8fafc;
+            font-family: sans-serif;
+        }
+        .mobile-toc-toggle {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            background: none;
+            border: none;
+            text-align: left;
+            font-weight: 600;
+            font-size: 1rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #1e293b;
+        }
+        .mobile-toc-menu {
+            display: none; /* Hidden by default, toggled via JS */
+            padding: 0 1rem 1rem 1rem;
+            border-top: 1px solid #e2e8f0;
+        }
+        /* Style Hugo's built-in markdown list output */
+        .mobile-toc-menu nav ul {
+            list-style-type: none;
+            padding-left: 1rem;
+            margin: 0.5rem 0;
+        }
+        .mobile-toc-menu nav > ul {
+            padding-left: 0;
+        }
+        .mobile-toc-menu a {
+            color: #2563eb;
+            text-decoration: none;
+            display: inline-block;
+            padding: 0.25rem 0;
+        }
+        .mobile-toc-menu a:hover {
+            text-decoration: underline;
+        }
+    }
+</style>
+
+<script>
+    function toggleMobileToc() {
+        const menu = document.getElementById('mobile-toc-menu');
+        const button = document.querySelector('.mobile-toc-toggle');
+        const isExpanded = button.getAttribute('aria-expanded') === 'true';
+        
+        if (isExpanded) {
+            menu.style.display = 'none';
+            button.setAttribute('aria-expanded', 'false');
+        } else {
+            menu.style.display = 'block';
+            button.setAttribute('aria-expanded', 'true');
+        }
+    }
+
+    // Auto-close menu when a mobile user clicks an anchor link
+    document.querySelectorAll('#mobile-toc-menu a').forEach(link => {
+        link.addEventListener('click', () => {
+            document.getElementById('mobile-toc-menu').style.display = 'none';
+            document.querySelector('.mobile-toc-toggle').setAttribute('aria-expanded', 'false');
+        });
+    });
+</script>
+

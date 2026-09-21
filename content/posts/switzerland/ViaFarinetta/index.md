@@ -12,6 +12,8 @@ tags:
   - switzerland
   - ViaFarinetta
 ---
+{{< toc-mobile >}}
+
 {{< viaferratacard 
 difficulty="K3/k4/K6" 
 duration="4h" 

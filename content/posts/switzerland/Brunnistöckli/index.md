@@ -15,6 +15,8 @@ tags:
   - scenic
   - switzerland
 ---
+{{< toc-mobile >}}
+
 {{< viaferratacard 
 difficulty="K2" 
 duration="1h" 

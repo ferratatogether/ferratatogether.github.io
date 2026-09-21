@@ -9,6 +9,7 @@ tags:
   - K4-K5
   - Uri
 ---
+{{< toc-mobile >}}
 
 {{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 

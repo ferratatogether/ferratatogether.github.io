@@ -7,6 +7,7 @@ tags:
   - via-ferrata
   - switzerland
 ---
+{{< toc-mobile >}}
 
 {{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 

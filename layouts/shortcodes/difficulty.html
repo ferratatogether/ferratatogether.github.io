@@ -1,0 +1,111 @@
+<div class="ferrata-table-container">
+  <table class="ferrata-table">
+    <thead>
+      <tr>
+        <th>Difficulty Level</th>
+        <th>Austrian (Schall)</th>
+        <th>German/Swiss (Hüsler)</th>
+        <th>French / Alpine</th>
+        <th>Terrain Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="level-easy">
+        <td><strong>Easy</strong></td>
+        <td>A</td>
+        <td>K1</td>
+        <td>F (Facile)</td>
+        <td>Flat to inclined walking terrain. Secured paths with ladders or cables used mostly for balance. Accessible to beginners.</td>
+      </tr>
+      <tr class="level-moderate">
+        <td><strong>Moderate</strong></td>
+        <td>B</td>
+        <td>K2</td>
+        <td>PD (Peu Difficile)</td>
+        <td>Steeper, more exposed rock terrain. Requires some arm strength. Handholds and footholds are readily available.</td>
+      </tr>
+      <tr class="level-difficult">
+        <td><strong>Difficult</strong></td>
+        <td>C</td>
+        <td>K3</td>
+        <td>AD (Assez Difficile)</td>
+        <td>Steep to vertical rock walls. Requires good physical fitness and upper body strength. Prolonged exposed sections.</td>
+      </tr>
+      <tr class="level-very-diff">
+        <td><strong>Very Difficult</strong></td>
+        <td>D</td>
+        <td>K4</td>
+        <td>D (Difficile)</td>
+        <td>Vertical to overhanging sections. Often very exposed with sparse iron rungs. Requires high physical strength and experience.</td>
+      </tr>
+      <tr class="level-extreme">
+        <td><strong>Extremely Difficult</strong></td>
+        <td>E</td>
+        <td>K5</td>
+        <td>TD (Très Difficile)</td>
+        <td>Long, consistently overhanging sections. Demands extreme arm strength, flawless technique, and high mental resilience.</td>
+      </tr>
+      <tr class="level-ultra">
+        <td><strong>Ultra Difficult</strong></td>
+        <td>F</td>
+        <td>K6</td>
+        <td>ED (Extrem. Difficile)</td>
+        <td>Almost entirely overhanging, athletic, and highly physical. Reserved strictly for expert climbers with specialized training.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<style>
+  .ferrata-table-container {
+    overflow-x: auto;
+    margin: 1.5rem 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border-radius: 0.5rem;
+    border: 1px solid #e2e8f0;
+  }
+  .ferrata-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-family: system-ui, -apple-system, sans-serif;
+    font-size: 0.95rem;
+  }
+  .ferrata-table th {
+    background-color: #1e293b;
+    color: #ffffff;
+    padding: 0.75rem 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+  }
+  .ferrata-table td {
+    padding: 1rem;
+    border-bottom: 1px solid #e2e8f0;
+    vertical-align: middle;
+  }
+  .ferrata-table tbody tr:last-child td {
+    border-bottom: none;
+  }
+  
+  /* Color Coding for Difficulty Levels */
+  .level-easy { background-color: #f0fdf4; color: #166534; }
+  .level-easy td:first-child { border-left: 4px solid #22c55e; }
+  
+  .level-moderate { background-color: #fefce8; color: #713f12; }
+  .level-moderate td:first-child { border-left: 4px solid #eab308; }
+  
+  .level-difficult { background-color: #fff7ed; color: #9a3412; }
+  .level-difficult td:first-child { border-left: 4px solid #f97316; }
+  
+  .level-very-diff { background-color: #fef2f2; color: #991b1b; }
+  .level-very-diff td:first-child { border-left: 4px solid #ef4444; }
+  
+  .level-extreme { background-color: #faf5ff; color: #6b21a8; }
+  .level-extreme td:first-child { border-left: 4px solid #a855f7; }
+  
+  .level-ultra { background-color: #f8fafc; color: #0f172a; }
+  .level-ultra td:first-child { border-left: 4px solid #334155; }
+</style>
+

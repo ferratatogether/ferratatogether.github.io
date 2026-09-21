@@ -9,7 +9,7 @@ tags:
   - K3
   - switzerland
 ---
-
+{{< toc-mobile >}}
 
 {{< swiss-map highlight="TI" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 

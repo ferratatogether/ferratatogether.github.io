@@ -13,6 +13,8 @@ tags:
   - no-trek
   - switzerland
 ---
+{{< toc-mobile >}}
+
 {{< viaferratacard 
 difficulty="K2/K3" 
 duration="2h" 
