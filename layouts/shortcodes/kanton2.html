@@ -1,0 +1,38 @@
+{{/* Normalize requested parameter */}}
+{{- $activeKanton := lower (.Get 0 | default (.Get "name")) -}}
+
+{{- $allCantons := .Site.Data.cantons -}}
+{{- $activeData := index $allCantons $activeKanton -}}
+
+{{/* Custom Styling Variables */}}
+{{- $fill := .Get "fill" | default "#e74c3c" -}}         {{/* Active Canton Color */}}
+{{- $stroke := .Get "stroke" | default "#ffffff" -}}     {{/* Active Border Color */}}
+{{- $bgFill := .Get "bgFill" | default "#eaede0" -}}     {{/* Switzerland Background Map Color */}}
+{{- $bgStroke := .Get "bgStroke" | default "#ffffff" -}} {{/* Static Border Color */}}
+{{- $maxWidth := .Get "width" | default "500px" -}}
+
+{{- if $activeData -}}
+  <div class="swiss-map-wrapper" style="max-width: {{ $maxWidth }}; width: 100%; display: inline-block;">
+    <svg 
+      xmlns="http://w3.org" 
+      viewBox="0 0 100 65" 
+      role="img" 
+      aria-label="Map highlighting Canton {{ $activeData.name }}"
+      style="width: 100%; height: auto; display: block;" 
+    >
+      <g>
+        {{- range $code, $data := $allCantons -}}
+          <path 
+            d="{{ $data.path }}" 
+            fill="{{ if eq $code $activeKanton }}{{ $fill }}{{ else }}{{ $bgFill }}{{ end }}" 
+            stroke="{{ if eq $code $activeKanton }}{{ $stroke }}{{ else }}{{ $bgStroke }}{{ end }}" 
+            stroke-width="{{ if eq $code $activeKanton }}0.5{{ else }}0.2{{ end }}" 
+            stroke-linejoin="round"
+          />
+        {{- end -}}
+      </g>
+    </svg>
+  </div>
+{{- else -}}
+  {{- errorf "Kanton '%s' not recognized in data/cantons.json." $activeKanton -}}
+{{- end -}}

@@ -24,6 +24,8 @@ location="Andermatt"
 trekup="15min"
 trekdown="1h">}}
 
+{{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 A truly spectacular route in the granite rocks of the Schöllenen gorge, albeit with plenty of grass in between. There are fascinating views down into the wild gorge and its roads. With 700 metres of wire rope, 265 iron pins and pitons, artificial footholds and two attached ladders. Not advisable when wet (grass). Moderately difficult via ferrata, ideal for beginners. 
 
 {{< notice info>}} 👨‍⚖️

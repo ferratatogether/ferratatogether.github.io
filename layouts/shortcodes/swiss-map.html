@@ -1,0 +1,144 @@
+{{ $highlight := .Get "highlight" | upper }}
+{{ $activeColor := .Get "activeColor" | default "#D52B1E" }}
+{{ $baseColor := .Get "baseColor" | default "#F8FAFC" }}
+{{ $hoverColor := .Get "hoverColor" | default "#E2E8F0" }}
+{{ $strokeColor := .Get "strokeColor" | default "#94A3B8" }}
+{{ $strokeWidth := .Get "strokeWidth" | default "0.6" }}
+
+<div class="detailed-swiss-map-wrapper" style="position: relative; width: 100%; max-width: 900px; margin: 2rem auto;">
+  <div id="swiss-svg-container" class="swiss-svg-layer"></div>
+</div>
+
+<style>
+  #swiss-svg-container svg {
+    width: 100%;
+    height: auto;
+    filter: drop-shadow(0px 10px 25px rgba(15, 23, 42, 0.05));
+  }
+  /* Elegant transition styling applied globally across vector paths */
+  .swiss-canton-target {
+    transition: fill 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Dictionary tracking all variations inside Wikimedia's ID, class, and metadata text attributes
+    const cantonMap = {
+      "ZH": ["ZÜRICH", "ZURICH", "ZH"],
+      "BE": ["BERN", "BERNE", "BE"],
+      "LU": ["LUZERN", "LUCERNE", "LU"],
+      "UR": ["URI", "UR"],
+      "SZ": ["SCHWYZ", "SZ"],
+      "OW": ["OBWALDEN", "OW"],
+      "NW": ["NIDWALDEN", "NW"],
+      "GL": ["GLARUS", "GL"],
+      "ZG": ["ZUG", "ZG"],
+      "FR": ["FREIBURG", "FRIBOURG", "FR"],
+      "SO": ["SOLOTHURN", "SO"],
+      "BS": ["BASEL-STADT", "BALE-VILLE", "BS"],
+      "BL": ["BASEL-LANDSCHAFT", "BALE-CAMPAGNE", "BL"],
+      "SH": ["SCHAFFHAUSEN", "SCHAFFHOUSE", "SH"],
+      "AR": ["APPENZELL AUSSERRHODEN", "APPENZELL RHODES-EXTÉRIEURES", "AR"],
+      "AI": ["APPENZELL INNERRHODEN", "APPENZELL RHODES-INTÉRIEURES", "AI"],
+      "SG": ["ST. GALLEN", "SAINT-GALL", "SG"],
+      "GR": ["GRAUBÜNDEN", "GRISONS", "GRIGIONI", "GR"],
+      "AG": ["AARGAU", "ARGOVIE", "AG"],
+      "TG": ["THURGAU", "THURGOVIE", "TG"],
+      "TI": ["TICINO", "TESSIN", "TI"],
+      "VD": ["VAUD", "VD"],
+      "VS": ["WALLIS", "VALAIS", "VS"],
+      "NE": ["NEUCHÂTEL", "NEUCHATEL", "NE"],
+      "GE": ["GENF", "GENÈVE", "GENEVE", "GE"],
+      "JU": ["JURA", "JU"]
+    };
+
+    const targetCanton = "{{ $highlight }}";
+    const activeNames = cantonMap[targetCanton] || [targetCanton];
+
+    fetch('/img/switzerland-cantons.svg')
+      .then(response => response.text())
+      .then(data => {
+        const container = document.getElementById('swiss-svg-container');
+        container.innerHTML = data;
+        
+        const svg = container.querySelector('svg');
+        if (!svg) return;
+
+        // Clean out default embedded height layouts to make it responsive
+        // svg.removeAttribute('style');
+        // svg.removeAttribute('height');
+        // svg.setAttribute('width', '100%');
+
+        // Step 1: Flatten out all graphic layers (<g>) to avoid CSS blockages
+        svg.querySelectorAll('g').forEach(g => {
+        //   g.removeAttribute('style');
+        //   g.removeAttribute('fill');
+        });
+
+        // Step 2: Query all physical paths, fragments, and shapes
+        const allPaths = svg.querySelectorAll('path, polygon, polyline, circle, rect');
+
+        allPaths.forEach(el => {
+          // Gather contextual search identifiers from the element or its parent group
+          const titleEl = el.querySelector('title');
+          const parentTitleEl = el.parentElement && el.parentElement.tagName === 'g' ? el.parentElement.querySelector('title') : null;
+          
+          let identity = "";
+          if (titleEl) identity += " " + titleEl.textContent;
+          if (parentTitleEl) identity += " " + parentTitleEl.textContent;
+          if (el.getAttribute('id')) identity += " " + el.getAttribute('id');
+          if (el.parentElement && el.parentElement.getAttribute('id')) identity += " " + el.parentElement.getAttribute('id');
+          if (el.getAttribute('class')) identity += " " + el.getAttribute('class');
+
+          identity = identity.toUpperCase();
+
+          // Step 3: Isolate water bodies (Lakes / Rivers)
+          const isWater = identity.includes("SEE") || identity.includes("LAKE") || 
+                          identity.includes("LAC") || identity.includes("WATER") || 
+                          identity.includes("EAU") || identity.includes("RHEIN") || 
+                          identity.includes("AAR") || identity.includes("LIMMAT") || 
+                          identity.includes("RHONE");
+
+          if (isWater) {
+            // Apply a semi-translucent fresh sky blue so that land masses can fill completely underneath them
+            return; // cedric
+
+            el.removeAttribute('style');
+            el.setAttribute('fill', '#BAE6FD');
+            el.style.setProperty('fill', '#BAE6FD', 'important');
+            el.style.setProperty('stroke', '#E0F2FE', 'important');
+            el.style.setProperty('stroke-width', '0.4px', 'important');
+            el.style.setProperty('pointer-events', 'none', 'important');
+            return;
+          }
+
+          // Step 4: Reset and assign standard canvas lines to land elements
+          //el.removeAttribute('style');
+          //el.removeAttribute('fill');
+          el.classList.add('swiss-canton-target');
+          /// cedricel.style.setProperty('stroke', '{{ $strokeColor }}', 'important');
+          // cedric el.style.setProperty('stroke-width', '{{ $strokeWidth }}px', 'important');
+
+          // Check if this specific shape matches our current selection parameters
+          const isSelected = activeNames.some(name => identity.includes(name));
+
+          if (isSelected) {
+            el.style.setProperty('fill', '{{ $activeColor }}', 'important');
+          } else {
+           // cedric el.style.setProperty('fill', '{{ $baseColor }}', 'important');
+
+            // Apply interactive hover feedback to related land fragments
+            // el.addEventListener('mouseenter', () => {
+            //   el.style.setProperty('fill', '{{ $hoverColor }}', 'important');
+            // });
+            // el.addEventListener('mouseleave', () => {
+            //   el.style.setProperty('fill', '{{ $baseColor }}', 'important');
+            // });
+          }
+        });
+      })
+      .catch(err => console.error('Error rendering beautiful Wikimedia Swiss map layers:', err));
+  });
+</script>

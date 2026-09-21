@@ -23,6 +23,8 @@ location="Sustenpass"
 trekup="2h, +600m"
 trekdown="2:30h, -1000m, T3">}}
 
+{{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 Impressive views of the Gwächtenhorn, Sustenhorn, and the Gadmertal valley open up time and again. Just before the final stretch to the Tierbergli Hut, the panorama widens—and your gaze falls upon the mighty Steingletscher: a true highlight of this tour!
 
 The Tierbergli is a high-alpine via ferrata (rated K3 to K4) that tops out at 2,795 meters. Because it finishes directly at a glacier hut, the descent down the normal mountain trail often crosses snow slopes or icy patches, even in mid-summer. Depending on the current conditions, crampons and an ice axe may be required for the descent. Always check the current track conditions with the Tierberglihütte before heading up.

@@ -20,6 +20,8 @@ location="Engelberg"
 trekup="30min"
 trekdown="30min 🚠">}}
 
+{{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 Following 750 m up a steep exposed wall, mostly on metal bars or rods. Very airy throughout the entire route, you should not be afraid of heights on this one.
 
 {{< notice info>}} 👨‍⚖️

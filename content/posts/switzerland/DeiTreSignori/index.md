@@ -9,6 +9,10 @@ tags:
   - K3
   - switzerland
 ---
+
+
+{{< swiss-map highlight="TI" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 # Via Media
 {{< viaferratacard 
 difficulty="K3" 

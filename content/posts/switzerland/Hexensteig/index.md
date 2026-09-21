@@ -12,6 +12,9 @@ tags:
   - trek-up-demanding
   - switzerland
 ---
+
+{{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 A via ferrata inside a mountain? Yes, it’s been there since July 2002, and as is typical of legendary figures, it remained hidden for a long time. 
 
 The route travels through a deep, narrow rock cleft system inside the mountain's cracks. While no headlamp is required due to incoming daylight, the atmosphere feels moody and claustrophobic to some.

@@ -1,0 +1,31 @@
+{{- $kantonKey := lower (.Get 0 | default (.Get "name")) -}}
+{{- $cantonData := index .Site.Data.cantons $kantonKey -}}
+
+{{- $fill := .Get "fill" | default "#1f78b4" -}}
+{{- $stroke := .Get "stroke" | default "#ffffff" -}}
+{{- $maxWidth := .Get "width" | default "400px" -}}
+
+{{- if $cantonData -}}
+  <div class="swiss-kanton-map-container" style="max-width: {{ $maxWidth }}; width: 100%; display: inline-block;">
+    <svg 
+      xmlns="http://w3.org" 
+      viewBox="{{ $cantonData.viewBox }}" 
+      role="img" 
+      aria-label="Map of Canton {{ $cantonData.name }}"
+      style="width: 100%; height: auto;" 
+    >
+      <!-- scale(1, -1) flips the vertical orientation back into standard map alignments -->
+      <g transform="scale(1, -1) translate(0, -93.5)">
+        <path 
+          d="{{ $cantonData.path }}" 
+          fill="{{ $fill }}" 
+          stroke="{{ $stroke }}" 
+          stroke-width="0.01" 
+          stroke-linejoin="round"
+        />
+      </g>
+    </svg>
+  </div>
+{{- else -}}
+  {{- errorf "Kanton '%s' could not be resolved in data/cantons.json." $kantonKey -}}
+{{- end -}}

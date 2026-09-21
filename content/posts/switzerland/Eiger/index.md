@@ -7,6 +7,9 @@ tags:
   - via-ferrata
   - switzerland
 ---
+
+{{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 The 260 meter high route is suitable for people who are used to via ferrata climbing and for
 experienced hikers with a head for heights. Be advised to only do via ferrata climbing when
 equipped with necessary gear. The key spot is the vertical step immediately after the start of the

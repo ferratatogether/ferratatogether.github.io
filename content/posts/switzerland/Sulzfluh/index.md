@@ -24,6 +24,8 @@ location="Partnun"
 trekup="2h, +867m"
 trekdown="2h, -1000m">}}
 
+{{< swiss-map highlight="GR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 The Sulzfluh via ferrata is a classic, demanding alpine fixed-rope climb scaling the steep south face of the 2,817-meter Sulzfluh peak in the Rätikon range from St. Antönien, Switzerland. 
 Rated K4 to C/D, it features airy traverses, vertical limestone walls, and no early exit points
 

@@ -9,6 +9,9 @@ tags:
   - K5
   - switzerland
 ---
+
+{{< swiss-map highlight="GR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 The via ferrata La Resgia can be easily combined with the via ferrata Languard (K5)
 
 A very nice Ferrata with 2 options to choose in the middle. 1 is with overhang, quite demanding. 

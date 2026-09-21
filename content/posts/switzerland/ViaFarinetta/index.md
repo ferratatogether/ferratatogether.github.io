@@ -23,6 +23,8 @@ location="Valais"
 trekup="25min"
 trekdown="-350m, 50min, T1">}}
 
+{{< swiss-map highlight="VS" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 The Via Farinetta leads through the wild and mysterious Salentze Gorge, from which the thermal water for the thermal baths in Saillon also originates.
 
 {{< notice info>}} 👨‍⚖️

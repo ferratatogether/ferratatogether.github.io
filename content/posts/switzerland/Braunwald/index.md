@@ -11,6 +11,8 @@ tags:
   - trek
   - glarus
   - switzerland
+  - eastern-switzerland
+  - glarnerland
 ---
 {{< viaferratacard 
 difficulty="K3/K5" 
@@ -22,6 +24,8 @@ start="2120m"
 location="Glarus"
 trekup="1901m, 30min"
 trekdown="25min">}}
+
+{{< swiss-map highlight="GL" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
 {{< notice info>}} 👨‍⚖️
 Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more
@@ -65,11 +69,14 @@ Final Summit Hinter Eggstock (black) with safety rope K5 -  Total time 5.5 to 6.
 Strictly for experts. A short but extremely physical 80-metre vertical ascent. Demands significant upper-body strength, absolute composure, and rock experience. Features a steep, slightly overhanging crux that must be navigated with careful technique.
 
 ### Tschingel exit - K3 - 1h
+
 If you do not finish with the last K5 part, the climb down will take more or less one hour, it is easier to climb backward and just look where to put your feets.
 
 The descent may be crowded, and you may lost some time waiting, especially when close to the last double ladder.
 
-**Attention:** we saw a huge rock falling last time, the size of a person head, this zone may be secured but don't stay too long in this part.
+{{< notice warning>}} 
+We saw a huge rock falling last time on the right side of the Tschingel, it's size was bigger than a person head, this zone may be secured but don't stay too long in this part of the climb, and also while trekking back on the path. Keep your helmet till the chairlift!
+{{< /notice >}}
 
 After the end of the via ferrata, if you run fast, you can reach the chairlift and Berggasthaus Gumen in 15min, a more real number is more 25-30min walk.
 
@@ -88,19 +95,19 @@ Typically June through late October (conditions permitting)
 
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## Meeting Point 📍 
+## Meeting Point 📍
 
 07:45 AM Zürich HB, Main Meeting point, around the clock, find the turquoise Zürich Together Banner.
 
-## Time of leaving 🏁 
+## Time of leaving 🏁
 
 - 08:00AM to platform 10 train Leave at 08:12
 
 Recommended is to take an earlier train through, so you have more reserve time for the last K5 (optional) and enough time to reach the chairlift.
 
-## Recommended train 🚂 
+## Recommended train 🚂
 
-To reach the Braunwald via ferrata by train, take the Swiss Federal Railways (SBB) network directly to the Linthal Braunwaldbahn station, which sits right next to the funicular valley station
+To reach the Braunwald via ferrata by train, take the Swiss Federal Railways (SBB) network directly to the [Linthal Braunwaldbahn station](https://maps.app.goo.gl/piD9NXXSC639UZGk7), which sits right next to the funicular valley station.
 
 SBB Train 08:12 from Zürich HB to Linthal Braunwaldbahn [Link](https://www.sbb.ch/en?stops=Z%C3%BCrich+HB_I8503000%7ELinthal+Braunwaldbahn_I8503240&day=2026-09-20&time=07_00&moment=dep&trip=0_1)
 

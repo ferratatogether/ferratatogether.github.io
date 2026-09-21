@@ -20,6 +20,8 @@ location="Grindelwald"
 trekup="2h"
 trekdown="T3, +90m, -860m, 1h45min">}}
 
+{{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 {{< notice info>}}
 Not executed yet 🥲
 {{< /notice >}}

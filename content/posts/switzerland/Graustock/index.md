@@ -20,6 +20,8 @@ location="Engelberg"
 trekup="2207m, 1h30, T2"
 trekdown="1h30, T3+" >}}
 
+{{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 The via ferrata up the Graustock is undoubtedly part of the Engelberg via ferrata paradise. The start of the route can also be conveniently reached from Engstlenalp. The southeast ridge of the Graustock offers a mix of mountain hiking and very steep climbing. From the summit and along the entire ridge, there are beautiful views down into the Engelberg Valley, over Lakes Trüebsee and Engstlensee, and across to the glacier-covered slopes of the Titlis. All in all, it is a highly rewarding yet quite challenging mountain tour, featuring extensive hiking terrain alongside some demanding via ferrata sections.
 
 {{< notice info>}} 👨‍⚖️

@@ -21,6 +21,8 @@ location="Sustenpass"
 trekup="1h, +200m"
 trekdown="+260m -1060m T4">}}
 
+{{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 A scenic and impressive via ferrata in classic style, totalling 14 ladders, iron bars, pins and steel cables for security. The main difficulties are encountered in the lowest section. For the return path, conditions are very important.
 
 {{< notice info>}} 👨‍⚖️

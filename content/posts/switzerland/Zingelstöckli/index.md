@@ -9,6 +9,9 @@ tags:
   - K4-K5
   - Uri
 ---
+
+{{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 The Zingelstöckli via ferrata is a demanding K4–K5 sports climbing route located above Urnerboden in Switzerland. It features a 300-meter cable length and about 200 meters of vertical gain, offering experienced climbers steep rock walls, an aluminum ladder crux, and stunning alpine views. 
 
 Duration: 

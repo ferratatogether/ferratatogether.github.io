@@ -26,6 +26,8 @@ location="Engelberg"
 trekup="15min"
 trekdown="15min">}}
 
+{{< swiss-map highlight="OW" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 The Via Ferrata Brunnistöckli in Engelberg, Switzerland, is an easy beginner-friendly climbing route (K2 difficulty) featuring iron rungs, two fun suspension bridges, and a 200-meter elevation gain, taking about 45 minutes to ascend. 
 
 {{< notice info>}} 👨‍⚖️

@@ -24,6 +24,8 @@ location="Mürren"
 trekup="3min"
 trekdown="15min">}}
 
+{{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 {{< notice tip>}} 📓 
 Attention! this via ferrata is over hyped and over crowded, only really enjoyable if you never did ANY via ferrata before.
 {{< /notice >}}

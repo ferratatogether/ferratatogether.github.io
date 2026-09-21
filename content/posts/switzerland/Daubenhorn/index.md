@@ -13,6 +13,8 @@ tags:
   - leukerbad
   - switzerland
 ---
+{{< swiss-map highlight="VS" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
 {{< notice info>}}
 Not executed yet 🥲
 {{< /notice >}}

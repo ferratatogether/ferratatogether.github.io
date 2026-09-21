@@ -17,7 +17,9 @@ location="Kandersteg"
 trekup="20min"
 trekdown="15min">}}
 
-{{< notice warning>}}Cable is broken, this add 2h steep trek down back to the valley{{< /notice >}}
+{{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
+{{< notice warning>}}Cable is now fixed{{< /notice >}}
 
 {{< notice info>}} 👨‍⚖️
 Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
