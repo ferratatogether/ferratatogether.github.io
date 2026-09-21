@@ -26,8 +26,13 @@ location="Partnun"
 trekup="2h, +867m"
 trekdown="2h, -1000m">}}
 
+## Location
 {{< swiss-map highlight="GR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
+## Flyover
+{{< video flyover-sulzfluh-via-ferrata.mp4 >}}
+
+## Route overview ℹ️
 The Sulzfluh via ferrata is a classic, demanding alpine fixed-rope climb scaling the steep south face of the 2,817-meter Sulzfluh peak in the Rätikon range from St. Antönien, Switzerland. 
 Rated K4 to C/D, it features airy traverses, vertical limestone walls, and no early exit points
 
@@ -87,14 +92,7 @@ None
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2355.6643054146166!2d9.837155711250682!3d47.01026762884734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4784ad2138385001%3A0x431d7e98ad62590c!2sKlettersteig%20Sulzfluh!5e1!3m2!1sen!2sch!4v1789373305325!5m2!1sen!2sch" >}}
 
 ## GPX 🗺️
-### Hike from top to Alpenrössli
-{{< gpx-map file="sulzfluh-hike-exit.gpx" >}}
-
-### With Cave via ferrata
-{{< gpx-map file="sulzfluh-dom.gpx" >}}
-
-### Shorter path to start
-{{< gpx-map file="sulzfluh.gpx" >}}
+{{< gpx-map file="sulzfluh-done.gpx" >}}
 
 ## Start 🏁 
 Approach and Via Ferrata Details: From Berghaus Alpenrösli, follow the white-blue-white alpine trail signs toward Carschinahütte. Follow sign "Klettersteig/Via Ferrata".

@@ -38,8 +38,8 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## Flyover
-{{< video flyover.mp4 >}}
+## Braunwald via ferrata flyover
+{{< video flyover-braunwald-via-ferrata.mp4 >}}
 
 ## Route overview ℹ️
 

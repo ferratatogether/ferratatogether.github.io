@@ -25,8 +25,13 @@ location="Saas-grund"
 trekup="15min"
 trekdown="1h">}}
 
+## Location
 {{< swiss-map highlight="VS" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
+## Flyover
+{{< video flyover-jegihorn-via-ferrata.mp4 >}}
+
+## Route overview ℹ️
 At 3,206 metres above sea level at its highest, the Jegihorn is the highest Via Ferrata in the Western Alps. 1,000 metres of steel cable, 400 anchor points, and a stomach-churning suspension bridge, several ladders  secure the path.
 
 {{< notice info>}} 👨‍⚖️
