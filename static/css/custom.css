@@ -99,3 +99,22 @@
 .dark .wa-container .wa-desc {
   color: #cbd5e1;
 }
+
+
+
+/* Hide the mobile TOC by default on desktops and tablets */
+.mobile-only-toc {
+    display: none !important;
+}
+
+/* Show the mobile TOC ONLY on screens narrower than 991px */
+@media screen and (max-width: 991px) {
+    .mobile-only-toc {
+        display: block !important;
+        margin: 2rem 0;
+        padding: 1rem;
+        background: rgba(0, 0, 0, 0.03); /* Light background to make it stand out */
+        border-radius: 8px;
+    }
+
+}

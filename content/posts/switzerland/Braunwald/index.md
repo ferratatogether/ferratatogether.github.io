@@ -17,11 +17,11 @@ difficulty="K3/K5"
 duration="7h" 
 durationclimb="4/5/6/7h" 
 vertical="450hm" 
-top="2455"
+top="2455m"
 start="2120m"
 location="Glarus"
 trekup="1901m, 30min"
-trekdown="45min/2h">}}
+trekdown="25min">}}
 
 {{< notice info>}} 👨‍⚖️
 Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more
@@ -63,6 +63,15 @@ A scenic, airy ridge traverse. Requires solid stamina but maintains very secure 
 Final Summit Hinter Eggstock (black) with safety rope K5 -  Total time 5.5 to 6.5h
 
 Strictly for experts. A short but extremely physical 80-metre vertical ascent. Demands significant upper-body strength, absolute composure, and rock experience. Features a steep, slightly overhanging crux that must be navigated with careful technique.
+
+### Tschingel exit - K3 - 1h
+If you do not finish with the last K5 part, the climb down will take more or less one hour, it is easier to climb backward and just look where to put your feets.
+
+The descent may be crowded, and you may lost some time waiting, especially when close to the last double ladder.
+
+**Attention:** we saw a huge rock falling last time, the size of a person head, this zone may be secured but don't stay too long in this part.
+
+After the end of the via ferrata, if you run fast, you can reach the chairlift and Berggasthaus Gumen in 15min, a more real number is more 25-30min walk.
 
 ## Weather ☀️
 
@@ -140,14 +149,7 @@ From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past
 - It can take approx. 30 to 45min for 219Hm
 
 ## Exit 🚶🏻‍♂️
-
-If you do not finish with the last K5 part, the climb down will take more or less one hour, it is easier to climb backward and just look where to put your feets.
-
-The descent may be crowded, and you may lost some time waiting, especially when close to the last double ladder.
-
-**Attention:** we saw a huge rock falling last time, the size of a person head, this zone may be secured but don't stay too long in this part.
-
-After the end of the via ferrata, if you run fast, you can reach the chairlift and Berggasthaus Gumen in 15min, a more real number is more 25-30min walk.
+see [**Tschingel exit - K3 - 1h**](#tschingel-exit-K3-1h)
 
 ## Travelling home 🏠
 
