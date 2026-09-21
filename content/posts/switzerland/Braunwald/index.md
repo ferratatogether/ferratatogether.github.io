@@ -23,7 +23,7 @@ location="Glarus"
 trekup="1901m, 30min"
 trekdown="45min/2h">}}
 
-## ℹ️ Route overview
+## Route overview ℹ️
 
 The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
 
@@ -31,26 +31,26 @@ It could be really busy and lead to waiting time, 8000 - 10000 visitors estimate
 
 The time you spend climbing depends entirely on which of the three interconnected circuits you choose:
 
-### Circuit Leiteregg
+### Circuit Leiteregg - K3
 
-(blue) with safety rope - K3 -  2.5 to 3.5h. Catch an early morning train, tackle the Short (Leiteregg) circuit, and you can easily be back in Zurich by mid-afternoon.
+(blue) with safety rope - K3 -  Total time 2.5 to 3.5h. Catch an early morning train, tackle the Short (Leiteregg) circuit, and you can easily be back in Zurich by mid-afternoon.
 
 Great entry point for beginners with a head for heights. Features steep ladders and exposed chimneys with solid iron stirrups. Includes the spectacular 16-metre Charlotte Bridge suspension bridge. 
 
-### Leiteregg ascent
+### Leiteregg ascent - K5
 
 (double track) as a relief route to the previous K3 route (difficulty approx. K5), go to the left to find the start.
 A new, highly challenging K5 / Grade D/E variation exists at Leiteregg for experts. Well secured with enough irons and steps, has small overhang that can be easily overcome with good cliping and feets techniques.
 
-### Tour Vorder
+### Tour Vorder - K3
 
-Mittler Eggstock (red) - K3 - 2.5 to 5.5h
+Mittler Eggstock (red) - K3 - Total time 2.5 to 5.5h
 
 A scenic, airy ridge traverse. Requires solid stamina but maintains very secure footing with consistent cable lines. Ends at the Mittler Eggstock plateau near a small emergency bivouac box. You can exit down to Gumen from here if you want to skip the final wall.
 
-### Tour Vorder
+### Tour Vorder - K5
 
-Hinter Eggstock (black) with safety rope K5 -  5.5 to 6.5h
+Hinter Eggstock (black) with safety rope K5 -  Total time 5.5 to 6.5h
 
 Strictly for experts. A short but extremely physical 80-metre vertical ascent. Demands significant upper-body strength, absolute composure, and rock experience. Features a steep, slightly overhanging crux that must be navigated with careful technique.
 
