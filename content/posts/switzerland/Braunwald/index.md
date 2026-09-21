@@ -27,6 +27,8 @@ trekdown="45min/2h">}}
 
 The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
 
+It could be really busy and lead to waiting time, 8000 - 10000 visitors estimated per year.
+
 The time you spend climbing depends entirely on which of the three interconnected circuits you choose:
 
 ### Circuit Leiteregg
@@ -107,8 +109,6 @@ You'll have first to take the funicular that is located in the SBB train station
 ## Chairlift to Gumen
 [Walk through for 16min/900m](https://maps.app.goo.gl/BvKUCgqszxhVuHog9) the car-free village and take the Gumen combination chairlift up to the Berggasthaus Gumen (1,901 m), which serves as the start of the trail to the via ferrata.
 
-
-
 The GA won't let you go up for free with the chairlift to Gumen, you'll have to pay a day ticket anyway (30.-)
 
 The [Kombibahn Gumen](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) (Gumen combined chairlift and gondola lift) in Braunwald operates daily during the summer season (June 6 to October 18, 2026) from 08:45 to 12:30 and 13:30 to 16:30, with continuous operation until 17:00 during peak periods and high guest volume.
@@ -158,13 +158,15 @@ If you take on the Medium or Long circuits, expect to spend the entire day out, 
 
 ## Water 🚰
 
-No access
+No access during the via ferrata, but you can access WC, and drinks at the before or at the end of your climb.
 
 ## Renting equipment 🛍️
 
 Please [send an email](https://www.braunwald.ch/klettersteige) now or call and reserve a via ferrata set with helmet
 
-or
+or use 
+From 06. JUNI 2026 to 18. OKTOBER 2027 (Operating time of Kombibahn Gumen)
+![alt text](kessler.jpeg)
 [Kessler Sport AG](https://www.kesslersport.ch/cms-klettersteige.asp)
 
 ## Donation 💶
