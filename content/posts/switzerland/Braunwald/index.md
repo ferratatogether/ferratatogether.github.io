@@ -23,11 +23,19 @@ location="Glarus"
 trekup="1901m, 30min"
 trekdown="45min/2h">}}
 
+{{< notice info>}} 👨‍⚖️
+Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more
+{{< /notice >}}
+
+{{< notice tip>}} 📓 
+The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
+{{< /notice >}}
+
 ## Route overview ℹ️
 
 The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
 
-It could be really busy and lead to waiting time, 8000 - 10000 visitors estimated per year.
+This via ferrata can be really busy and lead to more waiting time, approximately 8000/10000 visitors estimated per year.
 
 You must start early enough to not miss the last chairlift at 17:00 to 17:30
 
@@ -55,14 +63,6 @@ A scenic, airy ridge traverse. Requires solid stamina but maintains very secure 
 Final Summit Hinter Eggstock (black) with safety rope K5 -  Total time 5.5 to 6.5h
 
 Strictly for experts. A short but extremely physical 80-metre vertical ascent. Demands significant upper-body strength, absolute composure, and rock experience. Features a steep, slightly overhanging crux that must be navigated with careful technique.
-
-{{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more
-{{< /notice >}}
-
-{{< notice tip>}} 📓 
-The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
-{{< /notice >}}
 
 ## Weather ☀️
 
@@ -108,7 +108,8 @@ You'll have first to take the funicular that is located in the SBB train station
 - [Get a day pass](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) for +35.- CHF
 - A GA Duo has proven twice to not work through the first checkpoint, ask for help and you will get through for free (add some delays to get to the desk if the queue is important)
 
-## Chairlift to Gumen
+### Gumen combined cable car
+
 [Walk through for 16min/900m](https://maps.app.goo.gl/BvKUCgqszxhVuHog9) the car-free village and take the Gumen combination chairlift up to the Berggasthaus Gumen (1,901 m), which serves as the start of the trail to the via ferrata.
 
 The GA won't let you go up for free with the chairlift to Gumen, you'll have to pay a day ticket anyway (30.-)
@@ -116,22 +117,22 @@ The GA won't let you go up for free with the chairlift to Gumen, you'll have to 
 The [Kombibahn Gumen](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) (Gumen combined chairlift and gondola lift) in Braunwald operates daily during the summer season (June 6 to October 18, 2026) from 08:45 to 12:30 and 13:30 to 16:30, with continuous operation until 17:00 during peak periods and high guest volume.
 
 ### Operating Hours & Schedule Details
+
 - **Standard Hours:** 08:45 AM – 12:30 PM and 1:30 PM – 4:30 PM daily.
-Lunch Break: Operations pause between 12:30 PM and 1:30 PM, though the break is skipped if visitor volume is high.
-
+- **Lunch Break:** Operations pause between 12:30 PM and 1:30 PM, though the break is skipped if visitor volume is high.
 - **Extended Hours (October 1–18, 2026):** Open continuously from 08:30 AM to 5:00 PM (running on a 30-minute rhythm, weather permitting).
-
-**Weather Clause:** High winds, heavy rain, or very low guest numbers can cause temporary suspension or closure.
+- **Weather Clause:** High winds, heavy rain, or very low guest numbers can cause temporary suspension or closure.
 
 ## By Car 🚗 🚗
 
-To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to the valley station in Linthal, park your vehicle, take the Braunwaldbahn funicular  up to the car-free village of Braunwald, and proceed via the local lifts to the Gumen starting point
+To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to the [**Linthal Braunwaldbahn station**](#gumen-combined-cable-car), park your vehicle, take the [**Braunwaldbahn funicular**](#braunwaldbahn-funicular) up to the car-free village of Braunwald, and proceed via the Gumen combined cable car to the Gumen starting point.
 
 ## Parking 🅿️
 
 Use the large open-air and covered parking facilities directly at the Linthal valley station. The parking use [ParkingPay](https://parkingpay.ch) and not EasyPark. You can pay with twint.
 
 ## Start 🏁
+
 From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point.
 
 - Start of the hike 1901m (Berggasthaus Gumen)
@@ -139,6 +140,7 @@ From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past
 - It can take approx. 30 to 45min for 219Hm
 
 ## Exit 🚶🏻‍♂️
+
 If you do not finish with the last K5 part, the climb down will take more or less one hour, it is easier to climb backward and just look where to put your feets.
 
 The descent may be crowded, and you may lost some time waiting, especially when close to the last double ladder.
