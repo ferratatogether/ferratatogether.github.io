@@ -38,6 +38,9 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
+## Flyover
+{{< video flyover.mp4 >}}
+
 ## Route overview ℹ️
 
 The via ferratas are located on the Eggstöcke, above the Gumen, which you can reach comfortably with the Gumen combined cable car.
@@ -135,7 +138,7 @@ The GA won't let you go up for free with the chairlift to Gumen, you'll have to 
 
 The [Kombibahn Gumen](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) (Gumen combined chairlift and gondola lift) in Braunwald operates daily during the summer season (June 6 to October 18, 2026) from 08:45 to 12:30 and 13:30 to 16:30, with continuous operation until 17:00 during peak periods and high guest volume.
 
-### Operating Hours & Schedule Details
+#### Operating Hours & Schedule Details
 
 - **Standard Hours:** 08:45 AM – 12:30 PM and 1:30 PM – 4:30 PM daily.
 - **Lunch Break:** Operations pause between 12:30 PM and 1:30 PM, though the break is skipped if visitor volume is high.

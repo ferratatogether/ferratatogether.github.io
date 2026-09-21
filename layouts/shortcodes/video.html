@@ -1,22 +1,17 @@
-<div class="container">
-    <div id="player-wrapper" class="{{ .Get 1 }}"></div>
-  </div>
 
-  <script
-    type="text/javascript"
-    src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"
-  >
-  </script>
+<div class="video-container {{- with .Get "class" }} {{ . }}{{- end }}">
+  <video 
+    controls 
+    {{- if or (.Get "autoplay") (eq (.Get "autoplay") "true") }} autoplay muted playsinline{{ end }}
+    {{- if or (.Get "loop") (eq (.Get "loop") "true") }} loop{{ end }}
+    {{- if or (.Get "muted") (eq (.Get "muted") "true") }} muted{{ end }}
+    {{- with .Get "poster" }} poster="{{ . }}"{{ end }}
+    {{- with .Get "width" }} width="{{ . }}"{{ end }}
+    {{- with .Get "height" }} height="{{ . }}"{{ end }}
+    preload="auto">
+    
+    <source src="{{ .Get "src" | default (.Get 0) }}" type="video/{{ .Get "type" | default "mp4" }}">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-  <script>
-    var playerElement = document.getElementById("player-wrapper");
-
-    var player = new Clappr.Player({
-      source: {{ .Get 0 }},
-      mute: true,
-      height: 360,
-      width: 640
-    });
-
-    player.attachTo(playerElement);
-  </script>
