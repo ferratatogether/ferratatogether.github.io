@@ -1,0 +1,11 @@
+media: media
+content:
+  - name: posts
+    label: posts
+    type: collection
+    path: posts
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
