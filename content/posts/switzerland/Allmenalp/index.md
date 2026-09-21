@@ -91,7 +91,7 @@ After the climb, we can use the cable car to avoid a trek down (+2h, steep) back
 14.- CHF down to the valley or you’ll have to trek 2h down. https://www.allmenalp.ch/en/cable-car/prices.html
 
 ## GPX 🗺️
-{{< gpx-map file="allmenalp.gpx" >}}
+{{< gpx-map file="gpx/allmenalp.gpx" >}}
 
 ## Approach trek 🏁
 
@@ -103,7 +103,15 @@ After the climb, we can use the cable car to avoid a trek down (+2h, steep) back
 
 ## Exit trek 🚶🏻‍♂️
 
-15min walk steep to restaurant, toilets and cable car back to the valley.
+### Using cable car
+15min walk steep to restaurant, toilets and cable car.
+Take the cable car back down to the valley, then walk to the train station. 
+
+### Hiking back
+Alternatively, you can hike back down via the trail passing through Ryharts and Schneitböde (1¼ hours).
+{{< gpx-map file="gpx/allmenalp-trek-back.gpx" >}}
+https://s.geo.admin.ch/gop8redxu68c
+
 
 ## Travelling home 🏡
 

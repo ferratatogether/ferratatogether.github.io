@@ -142,7 +142,7 @@ The [Kombibahn Gumen](https://sportbahnen-braunwald.ch/de/informationen/sommer/b
 - **Extended Hours (October 1–18, 2026):** Open continuously from 08:30 AM to 5:00 PM (running on a 30-minute rhythm, weather permitting).
 - **Weather Clause:** High winds, heavy rain, or very low guest numbers can cause temporary suspension or closure.
 
-## By Car 🚗 🚗
+## By Car 🚗
 
 To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to the [**Linthal Braunwaldbahn station**](#gumen-combined-cable-car), park your vehicle, take the [**Braunwaldbahn funicular**](#braunwaldbahn-funicular) up to the car-free village of Braunwald, and proceed via the Gumen combined cable car to the Gumen starting point.
 
@@ -209,8 +209,11 @@ Noticing defects? contact immediately:
 - [adrenalin.gl](https://adrenalin.gl/en/via-ferrata-braunwald)
 
 ## My review ⭐️
-
-- Will be executed on 20 Sept 2026
+- Overall an easy via ferrata for experienced climbers
+- The huge number of climbers on the wall can increase the time and difficulty: using a resting lanyard can help reduce the fatigue.
+- The K5 at the beginning is easy too, but do not forgve any cliping mistake or bad techniques.
+- Start early enough if you wann ado the last K5
+- Do not under estimate the time to climb down the K3
 
 ## Topography 🗺️
 
