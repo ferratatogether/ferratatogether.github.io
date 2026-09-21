@@ -37,8 +37,8 @@ Great entry point for beginners with a head for heights. Features steep ladders 
 
 ### Leiteregg ascent
 
-(double track) as a relief route to the previous K3 route (difficulty approx. K5)
-A new, highly challenging K5 / Grade D/E variation exists at Leiteregg for experts.
+(double track) as a relief route to the previous K3 route (difficulty approx. K5), go to the left to find the start.
+A new, highly challenging K5 / Grade D/E variation exists at Leiteregg for experts. Well secured with enough irons and steps, has small overhang that can be easily overcome with good cliping and feets techniques.
 
 ### Tour Vorder
 
@@ -84,6 +84,8 @@ Typically June through late October (conditions permitting)
 08:00AM to platform 10
 Train Leave at 08:12
 
+Recommended is to taker an earlier train through, so you have more reserve time for the last K5 (optional) and enough time to reach the chairlift.
+
 ## Recommended train 🚂 
 
 To reach the Braunwald via ferrata by train, take the Swiss Federal Railways (SBB) network directly to the Linthal Braunwaldbahn station, which sits right next to the funicular valley station
@@ -94,11 +96,30 @@ Exit the train at Linthal Braunwaldbahn (do not miss it and stay on until the fi
 
 ## Cable cars 🚠
 
-25–30 minutes each way (Funicular+chairlift)
+### Braunwaldbahn funicular
 
+You'll have first to take the funicular that is located in the SBB train station. Board the Braunwaldbahn funicular (Braunwaldbahn, Stachelbergweg 2, 8783 Linthal) for a 7-minute ride up to Braunwald village.
+
+- With GA it is free to go to braunwald
+- With Half fare, you'll a discount and pay for the day ticket 35.-
 - [Get a day pass](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) for +30.- CHF
-- Board the Braunwaldbahn funicular (Braunwaldbahn, Stachelbergweg 2, 8783 Linthal) for a 7-minute ride up to Braunwald village.
-- Walk through the car-free village and take the Gumen combination chairlift up to the Berggasthaus Gumen (1,901 m), which serves as the start of the trail to the via ferrata.
+
+## Chairlift to Gumen
+[Walk through for 16min/900m](https://maps.app.goo.gl/BvKUCgqszxhVuHog9) the car-free village and take the Gumen combination chairlift up to the Berggasthaus Gumen (1,901 m), which serves as the start of the trail to the via ferrata.
+
+
+
+The GA won't let you go up for free with the chairlift to Gumen, you'll have to pay a day ticket anyway (30.-)
+
+The [Kombibahn Gumen](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) (Gumen combined chairlift and gondola lift) in Braunwald operates daily during the summer season (June 6 to October 18, 2026) from 08:45 to 12:30 and 13:30 to 16:30, with continuous operation until 17:00 during peak periods and high guest volume.
+
+### Operating Hours & Schedule Details
+- **Standard Hours:** 08:45 AM – 12:30 PM and 1:30 PM – 4:30 PM daily.
+Lunch Break: Operations pause between 12:30 PM and 1:30 PM, though the break is skipped if visitor volume is high.
+
+- **Extended Hours (October 1–18, 2026):** Open continuously from 08:30 AM to 5:00 PM (running on a 30-minute rhythm, weather permitting).
+
+**Weather Clause:** High winds, heavy rain, or very low guest numbers can cause temporary suspension or closure.
 
 ## By Car 🚗 🚗
 
@@ -109,20 +130,30 @@ To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to th
 Use the large open-air and covered parking facilities directly at the Linthal valley station
 
 ## Start 🏁
+Follow the marked alpine path from Berggasthaus Gumen diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point.
 
-Follow the marked alpine path from Berggasthaus Gumen diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point at about 2,120 m (approx. 30–45 minute hike)
+- Start of the hike 1901m (Berggasthaus Gumen)
+- End of the approach hike: 2120m
+- It can take approx. 30 to 45min for 219m
+
+## Exit 🚶🏻‍♂️
+If you do not finish with the last K5 part, the climb down will take more or less one hour, it is easier to climb backward and just look where to put your feets.
+
+The descent may be crowded, and you may lost some time waiting, especially when close to the last double ladder.
+
+**Attention:** we saw a huge rock falling last time, the size of a person head, this zone may be secured but don't stay too long in this part.
+
+After the end of the via ferrata, if you run fast, you can reach the chairlift and Berggasthaus Gumen in 15min, a more real number is more 25-30min walk.
 
 ## Travelling home 🏠
 
 If you take on the Medium or Long circuits, expect to spend the entire day out, returning to Zurich in the evening
 
-by public transportation
-
 ## WhatsApp group 💬
 
 {{< whatsapp-groups 
   link1="https://links.waltercedric.com/ferratatogether" 
-  link2="https://whatsapp.com" 
+  link2="https://links.waltercedric.com/braunwald-ferratatogether" 
 >}}
 
 ## Water 🚰
