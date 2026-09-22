@@ -230,5 +230,93 @@
     "difficulty": "K3",
     "summary": "A remote, high-altitude route tracing along the edges of the wild Greina Plateau. Offers isolation, rolling panoramic views, and a traditional alpine landscape experience.",
     "url": "/posts/switzerland/greina/"
+  },
+  {
+    "name": "Via Ferrata Historic Sulzfluh (Partnun)",
+    "lat": 47.0145,
+    "lon": 9.8392,
+    "difficulty": "K4",
+    "summary": "A classic alpine wall climb tracking up the limestone face of the Sulzfluh on the Austrian border. Features a long, exhausting 750 meters of continuous vertical cable work.",
+    "url": "/via-ferrata/sulzfluh/"
+  },
+  {
+    "name": "Via Ferrata Partnunblick",
+    "lat": 47.0211,
+    "lon": 9.8455,
+    "difficulty": "K5",
+    "summary": "A newer, highly demanding companion route to the Sulzfluh. Very short but packed with strenuous overhangs, extreme exposures, and minimal steel structural steps.",
+    "url": "/via-ferrata/partnunblick/"
+  },
+  {
+    "name": "Via Ferrata Albigna (Bregaglia)",
+    "lat": 46.3312,
+    "lon": 9.6455,
+    "difficulty": "K3",
+    "summary": "Located in the Italian-speaking valleys of Graubünden near the Albigna Dam. Features excellent granite grip, minimal crowds, and high alpine environments accessible by cableway.",
+    "url": "/via-ferrata/albigna/"
+  },
+  {
+    "name": "Via Ferrata del Tremorgio (Rodi-Fiesso)",
+    "lat": 46.4831,
+    "lon": 8.7214,
+    "difficulty": "K5",
+    "summary": "An athletic, very vertical mountain path near a striking volcanic-style alpine lake. Demands proper hand-over-hand pulling power across technical gneiss formations.",
+    "url": "/via-ferrata/tremorgio/"
+  },
+  {
+    "name": "Via Ferrata dei Tre Signori (Monte Lema)",
+    "lat": 46.0461,
+    "lon": 8.8315,
+    "difficulty": "K4",
+    "summary": "A sharp, ridge-running route along the Italian border. Combines traditional mountain hiking with demanding, exposed steps over rock blocks high above Lake Maggiore.",
+    "url": "/via-ferrata/deitresignori/"
+  },
+  {
+    "name": "Via Ferrata Caslano",
+    "lat": 45.9622,
+    "lon": 8.8841,
+    "difficulty": "K2",
+    "summary": "A mini lake-level via ferrata looping around the scenic Monte Caslano peninsula. A quick, low-exposure traverse that is excellent for family outings.",
+    "url": "/via-ferrata/caslano/"
+  },
+  {
+    "name": "Via Ferrata Le Moléson 'Le Face' (Gruyères)",
+    "lat": 46.5511,
+    "lon": 7.0214,
+    "difficulty": "K5",
+    "summary": "The direct companion to the standard Moléson route. Takes a sharp line directly up the overhanging main pillar, offering severe, dizzying exposure.",
+    "url": "/via-ferrata/moleson-face/"
+  },
+  {
+    "name": "Via Ferrata Plan Praz (Leysin)",
+    "lat": 46.3452,
+    "lon": 7.0124,
+    "difficulty": "K4",
+    "summary": "A great, athletic limestone route in the Vaud Alps. Filled with vertical chimneys, tight cracks, and a challenging overhang that tests your foot placement.",
+    "url": "/via-ferrata/leysin-planpraz/"
+  },
+  {
+    "name": "Via Ferrata Tour d'Aï (Leysin)",
+    "lat": 46.3621,
+    "lon": 7.0195,
+    "difficulty": "K3",
+    "summary": "Ascends a stunning natural breach inside the massive Tour d'Aï rock tower. Ends directly on a high summit plateau overlooking Lake Geneva.",
+    "url": "/via-ferrata/tour-dai/"
+  },
+  {
+    "name": "Via Ferrata Rochers de Naye (Montreux)",
+    "lat": 46.4325,
+    "lon": 6.9745,
+    "difficulty": "K5",
+    "summary": "Extremely technical and highly restricted route tracking up a severe crack system. Offers dizzying, birds-eye vertical views looking straight down into Lake Geneva.",
+    "url": "/via-ferrata/rochers-de-naye/"
+  },
+  {
+    "name": "Via Ferrata Tête de Taffignon (St-Maurice)",
+    "lat": 46.2114,
+    "lon": 7.0014,
+    "difficulty": "K4",
+    "summary": "A historic military valley fort pass route. Climbs dense limestone walls using tight rungs, leading into subterranean tunnel shafts and defensive bunkers.",
+    "url": "/via-ferrata/taffignon/"
   }
 ]
