@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Via Ferrata Fürenwand (Engelberg)",
+    "lat": 46.8122,
+    "lon": 8.4414,
+    "difficulty": "K5",
+    "summary": "Exposed, ultra-vertical alpine face climbing with a dramatic wire ladder exit. Spectacular views of Mount Titlis.",
+    "url": "/via-ferrata/furenwand/"
+  },
+  {
+    "name": "Via Ferrata Diavolo (Andermatt)",
+    "lat": 46.6472,
+    "lon": 8.5919,
+    "difficulty": "K3",
+    "summary": "Historic, scenic route traveling straight through Schöllenen Gorge over the iconic Devil's Bridge monuments.",
+    "url": "/via-ferrata/diavolo/"
+  },
+  {
+    "name": "Via Ferrata Jägihorn (Saas-Fee)",
+    "lat": 46.1365,
+    "lon": 7.9547,
+    "difficulty": "K4",
+    "summary": "The highest via ferrata in the Western Alps, reaching 3,206m. Features an optional 4-cable suspension bridge.",
+    "url": "https://example.com"
+  }
+]

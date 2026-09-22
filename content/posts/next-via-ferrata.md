@@ -8,8 +8,6 @@ tags:
   - search-engine
   - locate-new-ferrata
 ---
-{{< swiss-map highlight="ZH" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
-
 You can propose new location for the week end into our WhatsApp group:
 [WhatsApp Ferrata Together 🔗](https://links.waltercedric.com/ferratatogether)
 

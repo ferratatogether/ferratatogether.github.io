@@ -488,3 +488,18 @@
     display: none; /* Hides QR image on mobile since they can't scan their own screen */
   }
 }
+
+
+
+/* Force map container display */
+  #swiss-osm-map {
+    height: 500px !important;
+  }
+  /* Prevent Hugo theme styles from hiding Leaflet graphics */
+  #swiss-osm-map img.leaflet-tile {
+    max-width: none !important;
+    max-height: none !important;
+  }
+  .leaflet-container {
+    background: #f4f4f4 !important;
+  }

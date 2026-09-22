@@ -184,12 +184,12 @@ No access for the duration of the via ferrata.
 
 Get water or drinks at
 - Braunwald Bahn station (public WC)
-- Resdtaurants on the way
+- Restaurants on the way
 - Berggasthaus Gumen (1901m)
 
 ## WC 🚾 🚽
 - Braunwald Bahn station (public WC)
-- Resdtaurants on the way
+- Restaurants on the way
 - Berggasthaus Gumen (1901m)
 
 ## Renting equipment 🛍️
