@@ -101,25 +101,29 @@ Typically June through late October (conditions permitting)
 
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## Meeting Point 📍
+## Meeting point 📍
 
-07:45 AM Zürich HB, Main Meeting point, around the clock, find the turquoise Zürich Together Banner.
-
-## Time of leaving 🏁
-
-- 08:00AM to platform 10 train Leave at 08:12
+{{< meetup meetTime="07:45" leaveTime="8:00" platform="10" >}}
 
 Recommended is to take an earlier train through, so you have more reserve time for the last K5 (optional) and enough time to reach the chairlift.
 
-## Recommended train 🚂
+## Recommended train 🚂
+
+{{< sbb start="Zürich HB" 
+destination="Linthal Braunwaldbahn station" 
+time="07:12" 
+platform="10" 
+duration="1h30min" 
+train="IC 8" 
+date="2026-09-20"
+sbbUrl="https://www.sbb.ch/en?stops=Z%C3%BCrich+HB_I8503000%7ELinthal+Braunwaldbahn_I8503240&day=2026-09-20&time=07_00&moment=dep&trip=0_1"
+ >}}
 
 To reach the Braunwald via ferrata by train, take the Swiss Federal Railways (SBB) network directly to the [Linthal Braunwaldbahn station](https://maps.app.goo.gl/piD9NXXSC639UZGk7), which sits right next to the funicular valley station.
 
-SBB Train 08:12 from Zürich HB to Linthal Braunwaldbahn [Link](https://www.sbb.ch/en?stops=Z%C3%BCrich+HB_I8503000%7ELinthal+Braunwaldbahn_I8503240&day=2026-09-20&time=07_00&moment=dep&trip=0_1)
-
 Exit the train at Linthal Braunwaldbahn (do not miss it and stay on until the final Linthal terminal station). The train platform is connected directly to the funicular base station via a short, covered walkway.
 
-## Cable cars 🚠
+## Cable cars 🚠
 
 ### Braunwaldbahn funicular
 
@@ -153,7 +157,7 @@ To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to th
 
 Use the large open-air and covered parking facilities directly at the Linthal valley station. The parking use [ParkingPay](https://parkingpay.ch) and not EasyPark. You can pay with twint.
 
-## approach hike 🏁
+## Approach hike 🏁
 
 From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point.
 

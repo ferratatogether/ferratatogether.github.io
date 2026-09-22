@@ -28,7 +28,7 @@ trekdown="1h">}}
 ## Location
 {{< swiss-map highlight="VS" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
-## Flyover
+## Flyover Jegihorn via ferrata
 {{< video flyover-jegihorn-via-ferrata.mp4 >}}
 
 ## Route overview ℹ️
@@ -54,15 +54,22 @@ And city
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## Meeting Point 📍
-05:45AM  Zürich HB, Main Meeting point, around the clock
-Find the turquoise Zürich Together Banner.
 
-## Time of leaving 🏁
-5:55AM to platform 10
+## Meeting point 📍
+
+{{< meetup meetTime="05:45" leaveTime="5:55" platform="10" >}}
 
 ## Recommended train 🚂
-https://a.sbbmobile.ch/s/Fr3OKmQv 
+
+{{< sbb start="Zürich HB" 
+destination="Kreuzboden" 
+time="06:02" 
+platform="10" 
+duration="4h08min" 
+train="IC 8" 
+date="2026-08-08"
+sbbUrl="https://a.sbbmobile.ch/s/Fr3OKmQv"
+ >}}
 ￼
 Train Zürich HB to Visp
 Train Visp to Saas Grund
@@ -71,7 +78,9 @@ Saas Grund Cable car to Kreuzboden
 Walk T3, +480m, 1h30 to start of climb
 
 ## 🚠 Cable Car
-08:00 to 16:30 https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund 
+08:00 to 16:30 
+
+[Timetable of cable car](https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund)
 
 ## Map 🗺️
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2393.1704989106906!2d7.970957275637942!3d46.153891887158856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478f4598bf0deee7%3A0x658f62718bccb73e!2sKlettersteig%20J%C3%A4gihorn%20(Jegihorn)!5e1!3m2!1sen!2sch!4v1789324440451!5m2!1sen!2sch" >}}

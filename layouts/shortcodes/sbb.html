@@ -1,0 +1,34 @@
+{{ $start := .Get "start" }}
+{{ $destination := .Get "destination" }}
+{{ $time := .Get "time" }}
+{{ $platform := .Get "platform" }}
+{{ $duration := .Get "duration" }}
+{{ $train := .Get "train" | default "Train" }}
+{{ $date := .Get "date" | default (now.Format "2006-01-02") }}
+{{ $sbbUrl := .Get "sbbUrl" }}
+
+<div class="sbb-card">
+  <div class="sbb-header">
+    <span class="sbb-badge">Duration </span>
+    <span class="sbb-time">{{ $duration }}</span>
+  </div>
+  <div class="sbb-header">
+    <span class="sbb-badge">{{ $train }}</span>
+    <span class="sbb-time">{{ $time }}</span>
+  </div>
+  <div class="sbb-route">
+    <div class="sbb-point">
+      <span class="sbb-label">From</span>
+      <strong>{{ $start }}</strong>
+      {{ with $platform }}<small class="sbb-platform">Pl. {{ . }}</small>{{ end }}
+    </div>
+    <div class="sbb-arrow">→</div>
+    <div class="sbb-point">
+      <span class="sbb-label">To</span>
+      <strong>{{ $destination }}</strong>
+    </div>
+  </div>
+  <div class="sbb-footer">
+    <a href="{{ $sbbUrl }}" target="_blank" rel="noopener">View in SBB portal</a>
+  </div>
+</div>

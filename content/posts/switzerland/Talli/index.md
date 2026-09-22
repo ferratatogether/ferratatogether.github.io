@@ -50,12 +50,21 @@ Source:
 ## Difficulty 📈 
 K3, +500m, 3h [SAC Link](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/klettersteig/taelli-klettersteig-848/)
 
-## Meeting Point 📍
-XXXXAM  Zürich HB, Main Meeting point, around the clock
-Find the turquoise Zürich Together Banner.
+## Meeting point 📍
 
-## Time of leaving 🏁
-XXXAM to platform XXX
+{{< meetup meetTime="07:45" leaveTime="8:00" platform="10" >}}
+
+## Recommended train 🚂
+
+{{< sbb start="Zürich HB" 
+destination="Gadmen, Tällibahn" 
+time="06:10"
+duration="3h15min" 
+platform="10" 
+train="IR 70" 
+date="2026-09-12"
+sbbUrl="https://www.sbb.ch/de?stops=Zürich+HB_I8503000~Gadmen,+Tällibahn_I8582258&day=2026-09-12&time=07_00"
+ >}}
 
 ## By Car 🚗
 It is **faster and easier** to take the car to join the start of this via ferrata in Sustenpass.
@@ -93,7 +102,9 @@ Tällibahn cable car has a capacity of 8 people, or 4 people seated. It ascends 
 ## Exit 🚶🏻‍♂️
 [SAC Link](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/abstieg-vom-taelli-klettersteig-zur-taellihuette-oder-engstlenalp-850/)
 
-## Travelling home: by public transportation
+## Travelling home 🏠
+
+by public transportation
 
 ## WhatsApp group 💬 
 

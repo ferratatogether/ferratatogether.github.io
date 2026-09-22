@@ -1,0 +1,29 @@
+<div class="meetup-card" style="border: 1px solid #ddd; padding: 20px; border-radius: 8px; max-width: 500px; font-family: sans-serif; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">  
+  <div style="margin-bottom: 12px;">
+    <strong>🕒 Meeting Time:</strong> {{ .Get "meetTime" }}
+  </div>
+  
+  <div style="margin-bottom: 12px;">
+    <strong>🚉 Train Departure:</strong> {{ .Get "leaveTime" }}
+  </div>
+  
+  <div style="margin-bottom: 16px;">
+    <strong>🛤️ Platform:</strong> Track {{ .Get "platform" }}
+  </div>
+  
+  <div style="margin-top: 15px;">
+    <strong>📍 Meeting Point Location:</strong>
+    <p style="font-size: 0.9em; color: #666; margin: 5px 0 10px 0;">
+        Zurich Main Station (HB) Main Hall — Under the "L'Ange Protecteur" Guardian Angel statue.</p>
+        <img src="/img/ange.jpg" width="425px">
+    
+    <!-- OpenStreetMap Embed for Zurich HB Meeting Point -->
+<iframe width="425"
+    height="350"
+    src="https://www.openstreetmap.org/export/embed?bbox=8.53854149580002%2C47.377302429506784%2C8.54155093431473%2C47.37883900099943&amp;layer=mapnik&amp;marker=47.37807072085049%2C8.540046215057373" 
+    style="border: 1px solid black">
+</iframe>
+ <br/>
+ <small><a href="https://www.openstreetmap.org/?mlat=47.378071&amp;mlon=8.540046#map=19/47.378071/8.540046">View Larger Map</a></small>
+</div>
+</div>

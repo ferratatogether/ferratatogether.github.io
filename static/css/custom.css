@@ -118,3 +118,73 @@
     }
 
 }
+
+
+.sbb-card {
+  border: 1px solid #e0e0e0;
+  border-left: 5px solid #eb0000;
+  border-radius: 6px;
+  padding: 16px;
+  margin: 20px 0;
+  background: #fafafa;
+  font-family: inherit;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+}
+.sbb-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.sbb-badge {
+  background: #eb0000;
+  color: #fff;
+  padding: 2px 8px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  border-radius: 4px;
+}
+.sbb-time {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #333;
+}
+.sbb-route {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  gap: 8px;
+}
+.sbb-point {
+  display: flex;
+  flex-direction: column;
+}
+.sbb-label {
+  font-size: 0.75rem;
+  color: #77ns;
+  text-transform: uppercase;
+}
+.sbb-platform {
+  font-size: 0.8rem;
+  color: #555;
+  margin-top: 2px;
+}
+.sbb-arrow {
+  font-size: 1.2rem;
+  color: #999;
+}
+.sbb-footer {
+  border-top: 1px solid #eee;
+  padding-top: 8px;
+  text-align: right;
+  font-size: 0.9rem;
+}
+.sbb-footer a {
+  color: #eb0000;
+  text-decoration: none;
+  font-weight: 600;
+}
+.sbb-footer a:hover {
+  text-decoration: underline;
+}

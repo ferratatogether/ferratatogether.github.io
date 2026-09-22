@@ -25,7 +25,13 @@ location="Engelberg"
 trekup="1873m, 2h, +540m, T2"
 trekdown="3h, -540m T2">}}
 
+## Location
 {{< swiss-map highlight="OW" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
+## Flyover Rigidalstockgrat via ferrata
+{{< video flyover-rigidalstockgrat-via-ferrata.mp4 >}}
+
+## Route overview ℹ️
 
 Nestled within the breathtaking landscapes of Switzerland lies a via ferrata that promises adventure-seekers an unforgettable journey. Via Ferrata Rigidalstockgrat, often referred to as Rigidalstockgrat, is a hidden gem among the Swiss Alps’ many climbing routes. In this blog post, we’ll take you on a virtual tour of this exhilarating via ferrata, sharing all you need to know to prepare for and embark on this thrilling alpine experience. ## Understanding Via Ferrata Before we delve into the specifics of Via Ferrata Rigidalstockgrat, let’s clarify what a via ferrata is. Originating from Italian, “via ferrata” translates to “iron path.” These climbing routes are characterized by steel cables, ladders, and rungs anchored to the rock, allowing climbers to ascend steep terrain safely. Via ferratas blend the thrill of climbing with the accessibility of hiking, making them accessible to a wide range of adventurers.
 
@@ -75,13 +81,14 @@ Beginner will prefer doing the Rigidalstock ridge (C/K3) up and down.
 
 ### Rigidalstock face (D/K4)
 
-{{< gpx-map file="rigidalstockwand.gpx" >}}
+{{< gpx-map file="gpx/rigidalstockwand.gpx" >}}
 
 ### Rigidalstock ridge (C/K3)
 
-{{< gpx-map file="rigidalstockgrat.gpx" >}}
+{{< gpx-map file="gpx/rigidalstockgrat.gpx" >}}
 
 ## Travelling home 🏡
+
 by public transportation
 
 ## WhatsApp group 💬 

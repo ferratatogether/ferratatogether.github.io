@@ -12,6 +12,10 @@ tags:
   - K3
   - murren
   - switzerland
+  - Bern
+  - Interlaken-Oberhasli
+  - Lauterbrunnen
+
 ---
 {{< toc-mobile >}}
 
@@ -26,7 +30,13 @@ location="Mürren"
 trekup="3min"
 trekdown="15min">}}
 
+## Location
 {{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
+## Flyover Mürren via ferrata
+
+
+## Route overview ℹ️
 
 {{< notice tip>}} 📓 
 Attention! this via ferrata is over hyped and over crowded, only really enjoyable if you never did ANY via ferrata before.
