@@ -1,3 +1,8 @@
+ {{- $country := lower (.Get 0 | default (.Get "country")) -}}
+ {{- $countryData := index site.Data $country -}}
+ {{ $lat := .Get "lat" }}
+ {{ $long := .Get "long" }}
+
  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -104,7 +109,7 @@
     }).addTo(map);
 
     var locations = [
-      {{ range $index, $element := .Site.Data.ferratas }}
+      {{ range $index, $element := $countryData }}
         {{ if $index }},{{ end }}
         {
           name: "{{ $element.name | safeJS }}",
@@ -197,7 +202,7 @@
       if (visibleBounds.length > 0) {
         map.flyToBounds(visibleBounds, { padding: [40, 40], duration: 0.5 });
       } else {
-        map.flyTo([46.8182, 8.2275], 8);
+        map.flyTo([{{ $lat }}, {{ $long }}], 8);
       }
     }
 
@@ -211,7 +216,7 @@
     if (initialBounds.length > 0) {
       map.fitBounds(initialBounds, { padding: [40, 40] });
     } else {
-      map.setView([46.8182, 8.2275], 8);
+      map.setView([{{ $lat }}, {{ $long }}], 8);
     }
 
     setTimeout(function() {

@@ -8,4 +8,4 @@ tags:
   - switzerland
 ---
 
-{{< osm-map >}}
+{{< osm-map country="switzerland" lat="46.8182" long="8.2275">}}
