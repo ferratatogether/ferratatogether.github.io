@@ -4,23 +4,231 @@
     "lat": 46.8122,
     "lon": 8.4414,
     "difficulty": "K5",
-    "summary": "Exposed, ultra-vertical alpine face climbing with a dramatic wire ladder exit. Spectacular views of Mount Titlis.",
-    "url": "/via-ferrata/furenwand/"
+    "summary": "An ultra-vertical, exposed alpine face climb requiring immense endurance. Features a dramatic wire ladder exit near the top with breathtaking views of Mount Titlis.",
+    "url": "/posts/switzerland/fürenwand/"
   },
   {
     "name": "Via Ferrata Diavolo (Andermatt)",
     "lat": 46.6472,
     "lon": 8.5919,
     "difficulty": "K3",
-    "summary": "Historic, scenic route traveling straight through Schöllenen Gorge over the iconic Devil's Bridge monuments.",
-    "url": "/via-ferrata/diavolo/"
+    "summary": "A highly scenic, historic route tracking straight up through the rugged Schöllenen Gorge. Provides unique alpine vantage points directly over the iconic Devil's Bridge monuments.",
+    "url": "/posts/switzerland/diavolo/"
   },
   {
     "name": "Via Ferrata Jägihorn (Saas-Fee)",
     "lat": 46.1365,
     "lon": 7.9547,
     "difficulty": "K4",
-    "summary": "The highest via ferrata in the Western Alps, reaching 3,206m. Features an optional 4-cable suspension bridge.",
-    "url": "https://example.com"
+    "summary": "The highest official via ferrata in the Western Alps, topping out at a staggering 3,206 meters. Highlights include an optional, adrenaline-pumping 4-cable suspension bridge.",
+    "url": "/posts/switzerland/jaegihorn/"
+  },
+  {
+    "name": "Via Ferrata Daubenhorn (Leukerbad)",
+    "lat": 46.3811,
+    "lon": 7.6253,
+    "difficulty": "K6",
+    "summary": "The longest and toughest via ferrata in Switzerland. Carved directly into a massive 1,000-meter rock face, this route demands excellent physical conditioning and features a cave traverse.",
+    "url": "/posts/switzerland/daubenhorn/"
+  },
+  {
+    "name": "Via Ferrata Braunwald (Glarus)",
+    "lat": 46.9421,
+    "lon": 9.0214,
+    "difficulty": "K3",
+    "summary": "A fantastic multi-stage route divided into three separate sections (ranging K3 to K5). Ideal for refining skills, it features a famous 40-meter suspension bridge.",
+    "url": "/posts/switzerland/braunwald/"
+  },
+  {
+    "name": "Via Ferrata Mürren-Gimmelwald",
+    "lat": 46.5594,
+    "lon": 7.8922,
+    "difficulty": "K3",
+    "summary": "Unlike most routes, this one travels downwards along the sheer cliffs of the Lauterbrunnen Valley. Expect extreme exposure under your feet, zip lines, and a massive suspension bridge.",
+    "url": "/posts/switzerland/mürren/"
+  },
+  {
+    "name": "Via Ferrata Tichadigis (Andeer)",
+    "lat": 46.6042,
+    "lon": 9.4231,
+    "difficulty": "K4",
+    "summary": "Located deep within the Graubünden region, this technical route works up steep pine woodlands into highly exposed vertical slabs. Offers great, technical athletic movements.",
+    "url": "/posts/switzerland/tichadigis/"
+  },
+  {
+    "name": "Via Ferrata San Salvatore (Lugano)",
+    "lat": 45.9769,
+    "lon": 8.9482,
+    "difficulty": "K4",
+    "summary": "A short but crisp North-face workout tracking up Lugano's landmark mountain. Rewards climbers with uncompromised, panoramic, Mediterranean-style vistas over Lake Lugano.",
+    "url": "/posts/switzerland/san-salvatore/"
+  },
+  {
+    "name": "Via Ferrata de la Face (Verbier)",
+    "lat": 46.0964,
+    "lon": 7.2286,
+    "difficulty": "K5",
+    "summary": "A challenging modern route containing athletic overhanging sections, minimal natural footholds, and intense physical arm pump. Designed strictly for seasoned mountain veterans.",
+    "url": "/posts/switzerland/face-verbier/"
+  },
+  {
+    "name": "Via Ferrata Gabi Simpson (Simplon)",
+    "lat": 46.1952,
+    "lon": 8.0315,
+    "difficulty": "K2",
+    "summary": "A lower-altitude route navigating along the historic Simplon Pass cliffs. A great introductory climb with steady foot placements, beautiful gorge views, and minimal sustained fatigue.",
+    "url": "/posts/switzerland/gabi-simpson/"
+  },
+  {
+    "name": "Via Ferrata Moléson (Fribourg)",
+    "lat": 46.5492,
+    "lon": 7.0175,
+    "difficulty": "K4",
+    "summary": "Ascends the bold North face of Le Moléson peak. Features very steady cables but steep, vertical dropoffs that test your head for heights. Finishes right at a panoramic summit restaurant.",
+    "url": "/posts/switzerland/moleson/"
+  },
+  {
+    "name": "Via Ferrata Brunni Schonegg (Engelberg)",
+    "lat": 46.8395,
+    "lon": 8.4111,
+    "difficulty": "K2",
+    "summary": "Perfect beginner-friendly alpine itinerary located directly opposite the Fürenwand. Highly secure, well-stepped with steel rungs, and incredibly family-friendly.",
+    "url": "/posts/switzerland/Brunnistöckli/"
+  },
+  {
+    "name": "Via Ferrata ViaFarinetta / ßFarinet Gorge (Saillon)",
+    "lat": 46.1731,
+    "lon": 7.1824,
+    "difficulty": "K5",
+    "summary": "Divided into progressive sectors traveling deep inside a narrow river canyon. The final optional overhang section is famously intense, passing directly beneath a historic footbridge.",
+    "url": "/posts/switzerland/viafarinetta/"
+  },
+  {
+    "name": "Via Ferrata Allmenalp (Kandersteg)",
+    "lat": 46.4912,
+    "lon": 7.6611,
+    "difficulty": "K4",
+    "summary": "One of Switzerland's most creative routes, ascending a thundering 350-meter waterfall. Includes unique features like a high-wire Nepalese bridge and turning ladders.",
+    "url": "/posts/switzerland/allmenalp/"
+  },
+  {
+    "name": "Via Ferrata Rigidalstock (Engelberg)",
+    "lat": 46.8451,
+    "lon": 8.4239,
+    "difficulty": "K3",
+    "summary": "An excellent mid-tier mountain route combining traditional alpine ridge walking with vertical, cabled crag scaling. Climbs directly to a rewarding summit cross at 2,593m.",
+    "url": "/posts/switzerland/rigidalstockgrat/"
+  },
+  {
+    "name": "Via Ferrata Gemsstock (Andermatt)",
+    "lat": 46.6322,
+    "lon": 8.6114,
+    "difficulty": "K5",
+    "summary": "High alpine ridge route reaching nearly 3,000m. Highly exposed scramble over sharp granite teeth requiring cold-weather alpine experience and excellent footwork.",
+    "url": "/posts/switzerland/gemsstock/"
+  },
+  {
+    "name": "Via Ferrata Tälli (Meiringen)",
+    "lat": 46.7461,
+    "lon": 8.3419,
+    "difficulty": "K3",
+    "summary": "The pioneer of Swiss via ferratas. A massive, classical alpine wall traverse across the Gadmen Valley, heavily secured with ladders across natural ledge systems.",
+    "url": "/posts/switzerland/tälli/"
+  },
+  {
+    "name": "Via Ferrata Tierbergli (Susten Pass)",
+    "lat": 46.7188,
+    "lon": 8.4215,
+    "difficulty": "K4",
+    "summary": "An exquisite high-alpine route ending at the Tierbergli alpine hut. Climbs through smooth glacier-carved granite slabs right alongside active ice falls.",
+    "url": "/posts/switzerland/tierbergli/"
+  },
+  {
+    "name": "Via Ferrata Schwarzhorn (Grindelwald)",
+    "lat": 46.6853,
+    "lon": 8.0825,
+    "difficulty": "K3",
+    "summary": "Accessible via the First cable car, this long alpine ridge climb features steep iron ladders culminating in panoramic views over the Eiger, Mönch, and Jungfrau peaks.",
+    "url": "/posts/switzerland/schwarzhorn/"
+  },
+  {
+    "name": "Via Ferrata Eiger Rotstock",
+    "lat": 46.5815,
+    "lon": 8.0124,
+    "difficulty": "K3",
+    "summary": "Climb right on the edge of the world's most famous rock face. This historic, medium-difficulty route puts you directly on the flank of the legendary Eiger North Face.",
+    "url": "/posts/switzerland/eiger/"
+  },
+  {
+    "name": "Via Ferrata Kandersteg-Oeschinensee",
+    "lat": 46.4955,
+    "lon": 7.7121,
+    "difficulty": "K3",
+    "summary": "A gorge-based climb routing along a rushing glacial stream from the iconic Oeschinensee lake. Moderate steepness makes it a highly scenic intermediate option.",
+    "url": "/posts/switzerland/oeschinensee/"
+  },
+  {
+    "name": "Via Ferrata Nax (Espace Mont-Noble)",
+    "lat": 46.2235,
+    "lon": 7.4241,
+    "difficulty": "K3",
+    "summary": "The via ferrata of the 'Belvédère'. Offering absolute verticality but plenty of iron rungs, it yields an expansive, clear view over the Rhone Valley layout.",
+    "url": "/posts/switzerland/nax/"
+  },
+  {
+    "name": "Via Ferrata Mauvoisin Gorge",
+    "lat": 46.0352,
+    "lon": 7.3485,
+    "difficulty": "K4",
+    "summary": "Split into two segments (Saxifrage and Tichodrome). It tracks through a spectacular deep gorge directly under the massive, towering Mauvoisin concrete dam wall.",
+    "url": "/posts/switzerland/mauvoisin/"
+  },
+  {
+    "name": "Via Ferrata Evolène",
+    "lat": 46.1092,
+    "lon": 7.4912,
+    "difficulty": "K5",
+    "summary": "A physically punishing, highly athletic route with several severely overhanging sections. Demands great upper-body strength and dynamic cable-clipping technique.",
+    "url": "/posts/switzerland/evolene/"
+  },
+  {
+    "name": "Via Ferrata Aletsch (Gibidum Dam)",
+    "lat": 46.3685,
+    "lon": 7.9714,
+    "difficulty": "K3",
+    "summary": "Looping completely around the Gibidum reservoir canyon at the foot of the Great Aletsch Glacier. Famous for its long, bouncy 80-meter Nepalese suspension bridge.",
+    "url": "/posts/switzerland/aletsch/"
+  },
+  {
+    "name": "Via Ferrata Gornergrat (Zermatt)",
+    "lat": 45.9925,
+    "lon": 7.7684,
+    "difficulty": "K4",
+    "summary": "A striking modern panorama route facing the iconic pyramid peak of the Matterhorn. Blends steep, technical vertical columns with exceptional mountain geometry.",
+    "url": "/posts/switzerland/gornergrat/"
+  },
+  {
+    "name": "Via Ferrata Belalp-Riederalp",
+    "lat": 46.3821,
+    "lon": 7.9942,
+    "difficulty": "K3",
+    "summary": "A scenic canyon traverse across the Massa Gorge. Requires careful stepping along rocky ledges and spans a massive suspension bridge over active white-water flows.",
+    "url": "/posts/switzerland/massa-gorge/"
+  },
+  {
+    "name": "Via Ferrata Pinut (Flims)",
+    "lat": 46.8435,
+    "lon": 9.2941,
+    "difficulty": "K1",
+    "summary": "The oldest documented via ferrata in Switzerland (renovated). A historic, incredibly gentle route ascending natural terraces and caves. Ideal for absolute beginners.",
+    "url": "/posts/switzerland/pinut/"
+  },
+  {
+    "name": "Via Ferrata Greina (Piz da la Margna)",
+    "lat": 46.6115,
+    "lon": 8.9124,
+    "difficulty": "K3",
+    "summary": "A remote, high-altitude route tracing along the edges of the wild Greina Plateau. Offers isolation, rolling panoramic views, and a traditional alpine landscape experience.",
+    "url": "/posts/switzerland/greina/"
   }
 ]

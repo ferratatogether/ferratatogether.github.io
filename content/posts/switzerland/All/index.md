@@ -8,6 +8,4 @@ tags:
   - switzerland
 ---
 
-## All Via Ferrata in Switzerland
-
 {{< osm-map >}}
