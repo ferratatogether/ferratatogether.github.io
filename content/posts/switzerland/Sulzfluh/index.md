@@ -53,16 +53,24 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 {{< meteoswiss lat="47.0126" long="9.8394" name="Sulzfluh" >}}
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/sulzfluh.html#forecast-tab=detail-view)
 
+## Meeting point 📍
 
-## Meeting Point 📍
-6:40AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
-
-## Time of leaving 🏁
-6:55AM to platform 31
+{{< meetup meetTime="06:10" leaveTime="6:30" platform="9" >}}
 
 ## Recommended train 🚂
+
+{{< sbb start="Zürich HB" 
+destination="St. Antönien, Partnun Sulzfluh" 
+time="06:38"
+duration="2h24min" 
+platform="9" 
+train="IC 3" 
+date="2026-09-12"
+sbbUrl="https://a.sbbmobile.ch/s/rGc6SpQI"
+ >}}
+
 To reach the Sulzfluh via ferrata by public transport:
-- Use SBB https://a.sbbmobile.ch/s/rGc6SpQI
+- Use SBB 
 - AND
 - reserve a seat in local Bus Alpin using https://www.luzein.ch/de/bus-alpin/st-antoenien-sagaris-partnun-alpenroesli
 

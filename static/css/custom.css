@@ -160,11 +160,13 @@
   display: flex;
   flex-direction: column;
 }
+
 .sbb-label {
   font-size: 0.75rem;
   color: #77ns;
   text-transform: uppercase;
 }
+
 .sbb-platform {
   font-size: 0.8rem;
   color: #555;

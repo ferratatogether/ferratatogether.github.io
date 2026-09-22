@@ -47,17 +47,24 @@ Source:
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## Meeting Point 📍
-6:50AM Zürich HB, Main Meeting point, around the clock
-Find the turquoise Zürich Together Banner.
+## Meeting point 📍
 
-## Time of leaving 🏁
-7:10 to platform 9
+{{< meetup meetTime="06:50" leaveTime="7:10" platform="9" >}}
 
 ## Recommended train 🚂
-https://a.sbbmobile.ch/s/LpBaNchl
+
+{{< sbb start="Zürich HB" 
+destination="Trübsee" 
+time="06:38"
+duration="2h20min" 
+platform="9" 
+train="IR 70" 
+date="2026-09-12"
+sbbUrl="https://a.sbbmobile.ch/s/LpBaNchl"
+ >}}
 
 ## Cable car 🚠
+
 - Engelberg cable car to Trubsee
 - Trubsee chairlift to Jochpass
 Both costs 25.- with Half Fare back and forth
