@@ -51,30 +51,30 @@ You must start early enough to not miss the last chairlift at 17:00 to 17:30
 
 The time you spend climbing depends entirely on which of the three interconnected circuits you choose:
 
-### Circuit Leiteregg - K3 - 2,310m
+### Circuit Leiteregg - K3 - 2,310m 🏔️
 
 First Stage (blue) with safety rope - K3 -  Total time 2.5 to 3.5h. Catch an early morning train, tackle the Short (Leiteregg) circuit, and you can easily be back in Zurich by mid-afternoon.
 
 Great entry point for beginners with a head for heights. Features steep ladders and exposed chimneys with solid iron stirrups. Includes the spectacular 16-metre Charlotte Bridge suspension bridge. 
 
-### Leiteregg ascent - K5 - 2,449m
+### Leiteregg ascent - K5 - 2,449m 🏔️
 
 Alternative first Stage (double track) as a relief route to the previous K3 route (difficulty approx. K5), go to the left to find the start.
 A new, highly challenging K5 / Grade D/E variation exists at Leiteregg for experts. Well secured with enough irons and steps, has small overhang that can be easily overcome with good cliping and feets techniques.
 
-### Tour Vorder - K3 - 2,420m
+### Tour Vorder - K3 - 2,420m 🏔️
 
 Second Stage Mittler Eggstock (red) - K3 - Total time 2.5 to 5.5h
 
 A scenic, airy ridge traverse. Requires solid stamina but maintains very secure footing with consistent cable lines. Ends at the Mittler Eggstock plateau near a small emergency bivouac box. You can exit down to Gumen from here if you want to skip the final wall.
 
-### Tour Vorder - K5 - 2,455m
+### Tour Vorder - K5 - 2,455m 🏔️
 
 Final Summit Hinter Eggstock (black) with safety rope K5 -  Total time 5.5 to 6.5h
 
 Strictly for experts. A short but extremely physical 80-metre vertical ascent. Demands significant upper-body strength, absolute composure, and rock experience. Features a steep, slightly overhanging crux that must be navigated with careful technique.
 
-### Tschingel exit - K3 - 1h
+### Tschingel exit - K3 - 1h 🏔️
 
 If you do not finish with the last K5 part, the climb down will take more or less one hour, it is easier to climb backward and just look where to put your feets.
 
@@ -180,8 +180,17 @@ If you take on the Medium or Long circuits, expect to spend the entire day out, 
 >}}
 
 ## Water 🚰
+No access for the duration of the via ferrata.
 
-No access during the via ferrata, but you can access WC, and drinks at the before or at the end of your climb.
+Get water or drinks at
+- Braunwald Bahn station (public WC)
+- Resdtaurants on the way
+- Berggasthaus Gumen (1901m)
+
+## WC 🚾 🚽
+- Braunwald Bahn station (public WC)
+- Resdtaurants on the way
+- Berggasthaus Gumen (1901m)
 
 ## Renting equipment 🛍️
 
@@ -193,19 +202,22 @@ From 06. JUNI 2026 to 18. OKTOBER 2027 (Operating time of Kombibahn Gumen)
 [Kessler Sport AG](https://www.kesslersport.ch/cms-klettersteige.asp)
 
 ## Donation 💶
+Maintaining the Via Ferrata Braunwald cost from 10k to 20k per year because of rocks falling, winter, thunder, ...
 
-Account details for bank transfers:
-- Glarner Kantonalbank
-- Verein Trendsport Braunwald
-- 8750 Glarus
-- Postal account: 87-62-5
-- IBAN: CH 71 0077 3801 0344 3260 3
+{{< bank-donations 
+    organization="Verein Trendsport Braunwald" 
+    bank="Glarner Kantonalbank" 
+    address="8750 Glarus" 
+    postal="87-62-5" 
+    iban="CH71 0077 3801 0344 3260 3" 
+>}}
 
 ## Defects ⛓️‍💥
 
-Noticing defects? contact immediately:
-- Walti Kessler Tel. +41 79 612 81 83 or 
-- André Reithebuch +41 79 280 52 54.
+Noticing some defects during the climb? contact immediately:
+
+{{< contact-call name="Walti Kessler" phone="+41 79 612 81 83" >}}
+{{< contact-call name="André Reithebuch" phone="+41 79 280 52 54" >}}
 
 ## Links 🔗
 
@@ -218,8 +230,8 @@ Noticing defects? contact immediately:
 ## My review ⭐️
 - Overall an easy via ferrata for experienced climbers
 - The huge number of climbers on the wall can increase the time and difficulty: using a resting lanyard can help reduce the fatigue.
-- The K5 at the beginning is easy too, but do not forgve any cliping mistake or bad techniques.
-- Start early enough if you wann ado the last K5
+- The K5 at the beginning is easy too, but do not forgive any cliping mistakes or bad techniques.
+- Start early enough if you wanna do the last K5
 - Do not under estimate the time to climb down the K3
 
 ## Topography 🗺️
@@ -245,6 +257,6 @@ Noticing defects? contact immediately:
 ## 📆 Ferrata Together log
 
 Ferrata Together visits:
-| Date | Number of people |
+| Date | Number of people | Organizer |
 |----------|--------------------|
-| 20 Sept 2026 | 9 |
+| 20 Sept 2026 | 9 | Cédric Walter |

@@ -165,6 +165,6 @@ If you are driving or taking the post bus up from the main valley, you can stop 
 
 ## 📆 Ferrata Together log
 Ferrata Together visits:
-| Date | Number of people |
+| Date | Number of people | Organizer |
 |----------|--------------------|
-| 12 sept 2026 | 4 |
+| 12 sept 2026 | 4 | Cédric Walter |

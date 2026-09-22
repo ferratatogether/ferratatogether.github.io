@@ -117,20 +117,26 @@ Not possible close to start, or around. I recommend from the one joining us to r
 - [bergsteigen.com](https://www.bergsteigen.com/touren/klettersteig/tierbergli-klettersteig/)
 - [komoot.com](https://www.komoot.com/highlight/582275)
 
-## 🛟 Contacts
-### Berghotel & Restaurant Steingletscher (1865m)
-- Sustenstrasse 365, 3863 Steingletscher
-- http://www.sustenpass.ch/
-- +41 (0) 339751222
+## Contacts 🛟
 
-### Tierbergli Hütte (2795m)
-- +41 (0) 33 971 27 82
-- info@tierbergli.ch
-- https://tierbergli.ch/huette/
+{{< contact-call 
+    name="Berghotel & Restaurant Steingletscher (1865m)" 
+    phone="+41 (0) 339751222" 
+    website="http://www.sustenpass.ch/" 
+    address="Sustenstrasse 365, 3863 Steingletscher" 
+>}}
+
+{{< contact-call 
+    name="Tierbergli Hütte (2795m)" 
+    phone="+41 (0) 33 971 27 82" 
+    email="info@tierbergli.ch"
+    website="https://tierbergli.ch/huette/" 
+    address="Sustenstrasse 365, 3863 Steingletscher" 
+    text="Winter season – March 21 to May 17, 2026 / Summer season – June 4 to September/October 2026 (depending on snow conditions)"
+>}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2369.225418224392!2d8.411640875671706!3d46.702022050004956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47856372cdbc2339%3A0x843f29bfd3f2e495!2sTierberglih%C3%BCtte%20SAC!5e1!3m2!1sen!2sch!4v1789561740916!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-Winter season – March 21 to May 17, 2026
-Summer season – June 4 to September/October 2026 (depending on snow conditions)
+
 
 [tierbergli](https://tierbergli.ch)
 

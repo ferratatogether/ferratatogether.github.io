@@ -154,7 +154,7 @@ Beginner friendly but demanding and long day 7h minimum
 
 ## 📆 Ferrata Together log
 Ferrata Together visits:
-| Date | Number of people |
+| Date | Number of people | Organizer |
 |----------|--------------------|
-| 23 August 2026 | 2 |
-| 19 Sept 2026 | 8 |
+| 23 August 2026 | 2 | Cédric Walter |
+| 19 Sept 2026 | 8  | Cédric Walter |

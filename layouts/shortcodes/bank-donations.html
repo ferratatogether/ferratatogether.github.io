@@ -1,0 +1,44 @@
+<div class="donation-card">
+  <div class="donation-header">
+    <span class="donation-icon">&#128179;</span>
+    <div>
+      <h4 class="donation-title">{{ .Get "organization" }}</h4>
+      <p class="donation-subtitle">{{ .Get "bank" }}</p>
+    </div>
+  </div>
+  
+  <div class="donation-body">
+    <div class="donation-row">
+      <span class="donation-label">Address:</span>
+      <span class="donation-value">{{ .Get "address" }}</span>
+    </div>
+    {{ if .Get "postal" }}
+    <div class="donation-row">
+      <span class="donation-label">Postal Account:</span>
+      <span class="donation-value">{{ .Get "postal" }}</span>
+    </div>
+    {{ end }}
+    <div class="donation-row iban-row">
+      <span class="donation-label">IBAN:</span>
+      <div class="iban-container">
+        <code id="iban-text">{{ .Get "iban" }}</code>
+        <button class="copy-btn" onclick="copyIBAN()" title="Copy IBAN">Copy</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function copyIBAN() {
+  const iban = document.getElementById('iban-text').innerText;
+  navigator.clipboard.writeText(iban).then(() => {
+    const btn = document.querySelector('.copy-btn');
+    btn.innerText = 'Copied!';
+    btn.classList.add('copied');
+    setTimeout(() => {
+      btn.innerText = 'Copy';
+      btn.classList.remove('copied');
+    }, 2000);
+  });
+}
+</script>

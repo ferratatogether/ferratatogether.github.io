@@ -1,0 +1,27 @@
+<div class="twint-box">
+  <div class="twint-header">
+    <!-- Official TWINT Brand Colors Icon Placeholder -->
+    <div class="twint-logo-badge">
+      <span class="twint-logo-t">t</span>wint
+    </div>
+    <div class="twint-header-text">
+      <h4 class="twint-title">{{ .Get "title" | default "Spenden mit TWINT" }}</h4>
+      <p class="twint-subtitle">{{ .Get "purpose" }}</p>
+    </div>
+  </div>
+
+  <div class="twint-content">
+    <!-- Desktop: Scan QR Code -->
+    <div class="twint-qr-section">
+      <img src="{{ .Get "qr_image" | relURL }}" alt="TWINT QR Code" class="twint-qr-img">
+      <p class="twint-instruction">QR-Code mit der TWINT App scannen</p>
+    </div>
+
+    <!-- Mobile: Pay Link Button -->
+    <div class="twint-action-section">
+      <a href="{{ .Get "pay_url" }}" class="twint-btn" target="_blank" rel="noopener">
+        <span class="twint-btn-icon">&#128241;</span> Direkt in der App öffnen
+      </a>
+    </div>
+  </div>
+</div>

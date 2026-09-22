@@ -1,0 +1,46 @@
+<div class="contact-card-horizontal">
+  <!-- Core Name Profile -->
+  <span class="contact-name">{{ .Get "name" }}</span>
+
+  <!-- Phone Link (Optional) -->
+  {{ if .Get "phone" }}
+    <span class="contact-divider">&#8226;</span>
+    <a href="tel:{{ .Get "phone" | urlize }}" class="contact-link" title="Call {{ .Get "name" }}">
+      <span class="contact-icon">&#128222;</span>{{ .Get "phone" }}
+    </a>
+  {{ end }}
+
+  {{ if .Get "email" }}
+    <span class="contact-divider">&#8226;</span>
+    <a href="mailto:{{ .Get "email" }}" class="contact-link" title="Email {{ .Get "name" }}">
+      <span class="contact-icon">&#128231;</span>{{ .Get "email" }}
+    </a>
+  {{ end }}
+
+  <!-- Webpage Link (Optional) -->
+  {{ if .Get "website" }}
+    <span class="contact-divider">&#8226;</span>
+    <!-- Removes https:// or http:// dynamically for a cleaner display text -->
+    {{ $webDisplay := replaceRE "^https?://(www\\.)?" "" (.Get "website") }}
+    <!-- Trims trailing slashes for visual elegance -->
+    {{ $webDisplay = replaceRE "/$" "" $webDisplay }}
+    <a href="{{ .Get "website" | safeURL }}" class="contact-link" target="_blank" rel="noopener" title="Visit Website">
+      <span class="contact-icon">&#127760;</span>{{ $webDisplay }}
+    </a>
+  {{ end }}
+
+  <!-- Physical Address (Optional) -->
+  {{ if .Get "address" }}
+    <span class="contact-divider">&#8226;</span>
+    <span class="contact-text">
+      <span class="contact-icon">&#128205;</span>{{ .Get "address" }}
+    </span>
+  {{ end }}
+
+    <!-- Free Text Block (Optional) -->
+  {{ if .Get "text" }}
+    <div class="contact-free-text">
+      {{ .Get "text" | markdownify }}
+    </div>
+  {{ end }}
+</div>
