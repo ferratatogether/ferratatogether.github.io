@@ -110,19 +110,32 @@ by public transportation
 >}}
 
 ## Water 🚰
-
 The south-facing route is exposed to the sun all day, throughout the season. No access to water for 7-8 hours!
+
+Get water or drinks at
+- [Bergrestaurant Kreuzboden](https://maps.app.goo.gl/KCPTJuwrbcYg29bW8)
+- [Weissmiesshütte SAC](https://maps.app.goo.gl/CgPfLtSCdHEpm1dXA)
+
+## WC 🚾 🚽
+- [Bergrestaurant Kreuzboden](https://maps.app.goo.gl/KCPTJuwrbcYg29bW8)
+- [Weissmiesshütte SAC](https://maps.app.goo.gl/CgPfLtSCdHEpm1dXA)
 
 ## Renting equipment 🛍️
 Please send an email now or call and reserve a via ferrata set with helmet for this satursday:
 ￼
-INTERSPORT Zurbriggen
-Saastalstrasse 241
-3910 Saas Grund
-+41 27 957 14 40
- zurbriggensport@bluewin.ch
-It is close to the Bus stop and cable car.
-<img width="736" height="1600" alt="jegi1" src="https://github.com/user-attachments/assets/07d5714b-086f-4f8c-b582-366c02945ccd" />
+{{< contact-call 
+    name="INTERSPORT Zurbriggen" 
+    phone="+41 27 957 14 40" 
+    email="zurbriggensport@bluewin.ch"
+    website="https://tierbergli.ch/huette/" 
+    address="Saastalstrasse 241, 3910 Saas Grund" 
+    text="Note: It is close to the Bus stop and cable car."
+>}}
+
+{{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15268.64765680441!2d7.921681932740252!3d46.11804333747293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478f44c3a65909db%3A0x489a3380485412f0!2sZurbriggen%20Sport!5e1!3m2!1sen!2sch!4v1790146034434!5m2!1sen!2sch" >}}
+
+## Lake
+[Artificial lake](https://maps.app.goo.gl/dAU86g2HoymQCRkU9)  Where you can bath or put your feet in after this logn 7h day of efforts.
 
 ## Links 🔗
 - www.off-the-trail.de/jegihorn 
@@ -131,11 +144,31 @@ It is close to the Bus stop and cable car.
 - https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/via-ferrata-jaegihorn
 
 ## Useful contacts
-Saastal Tourismus AGObere Dorfstrasse 23906 Saas-FeeTel.: +41 (0)27 958 18 58E-Mail: info@saas-fee.chwww.saas-fee.ch
 
-Bergbahnen Hohsaas AGSeilbahnstrasse 183910 Saas-GrundTel.: +41 27 958 15 80E-Mail: info@hohsaas.chwww.hohsaas.ch
+{{< contact-call 
+    name="Saastal Tourismus AG Saas-Fee" 
+    phone="+41 (0) 27 958 18 58" 
+    email="info@saas-fee.ch"
+    website="www.saas-fee.ch"
+    website="http://www.sustenpass.ch/" 
+    address="Obere Dorfstrasse 2, 3906 Saas-Fee" 
+>}}
 
-WeissmieshütteFamily Carla & Roberto Arnold3910 Saas-GrundTel. +41 27 957 25 54E-Mail: huette@weissmieshuette.chwww.weissmieshuette.ch
+{{< contact-call 
+    name="Bergbahnen Hohsaas AG" 
+    phone="+41 (0) 27 958 15 80" 
+    email="info@hohsaas.ch"
+    website="http://www.hohsaas.ch" 
+    address="Seilbahnstrasse 18, 3910 Saas-Grund" 
+>}}
+
+{{< contact-call 
+    name="Weissmieshütte Family Carla & Roberto Arnold" 
+    phone="+41 (0) 27 957 25 54" 
+    email="huette@weissmieshuette.ch"
+    website="http://www.weissmieshuette.ch" 
+    address="3910 Saas-GrundT" 
+>}}
 
 ## My review ⭐️
 Beginner friendly but demanding and long day 7h minimum

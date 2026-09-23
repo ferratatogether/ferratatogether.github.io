@@ -25,6 +25,8 @@ trekdown="30min 🚠">}}
 ## Location
 {{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
+## Route overview ℹ️
+
 Following 750 m up a steep exposed wall, mostly on metal bars or rods. Very airy throughout the entire route, you should not be afraid of heights on this one.
 
 {{< notice info>}} 👨‍⚖️
@@ -51,15 +53,21 @@ Typically June through late October (conditions permitting)
 ## Difficulty 📈 
 K5, The hanging ladder at the top is a real deal 🤩
 
-## Meeting Point 📍
-05:45AM  Zürich HB, Main Meeting point, around the clock
-Find the turquoise Zürich Together Banner.
+## Meeting point 📍
 
-## Time of leaving 🏁
-5:55AM to platform 10
+{{< meetup meetTime="05:45" leaveTime="5:55" platform="10" >}}
 
 ## Recommended train 🚂
-I recommend https://a.sbbmobile.ch/s/SD8RUtqh meet me at 6:55 sharp below blue angel in Zurich main station
+
+{{< sbb start="Zürich HB" 
+destination="Engelberg" 
+time="06:38"
+duration="2h20min" 
+platform="9" 
+train="IR 70" 
+date="2026-09-12"
+sbbUrl="https://a.sbbmobile.ch/s/SD8RUtqh"
+ >}}
 
 ## Cable Car 🚠 
 Yes to go back to start.
@@ -68,9 +76,11 @@ Yes to go back to start.
 TODO
 
 ## Exit 🚶🏻‍♂️
+
 From Fürenalp summit → trail to Engelberg (1h) or cable car down
 
 ## Travelling home 🏡
+
 by public transportation
 
 ## WhatsApp group 💬 

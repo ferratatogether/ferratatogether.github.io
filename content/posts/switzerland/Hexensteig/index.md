@@ -7,15 +7,28 @@ tags:
   - via-ferrata
   - easy
   - short
-  - k2
+  - K3-K4
   - unique
   - trek-up-demanding
   - switzerland
 ---
 {{< toc-mobile >}}
 
+{{< viaferratacard 
+difficulty="K3-K4" 
+duration="4h" 
+durationclimb="3h" 
+vertical="90hm" 
+top="3206m"
+start="2800m"
+location="Silenen"
+trekup="1h20min"
+trekdown="1:30h">}}
+
+## Location
 {{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
+## Route overview ℹ️
 A via ferrata inside a mountain? Yes, it’s been there since July 2002, and as is typical of legendary figures, it remained hidden for a long time. 
 
 The route travels through a deep, narrow rock cleft system inside the mountain's cracks. While no headlamp is required due to incoming daylight, the atmosphere feels moody and claustrophobic to some.
@@ -44,9 +57,6 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## Duration ⏱️
-4 hours total min
-
 ## ☀️Weather
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
@@ -57,17 +67,24 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## Difficulty 📈 
-K3-K4 or C-D, +90m, 1h
+## Meeting point 📍
 
-## Meeting Point 📍
-7:50AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
+{{< meetup meetTime="07:50" leaveTime="8:05" platform="6" >}}
 
-## Time of leaving 🏁
-8:05AM to platform 6
+Recommended is to take an earlier train through, so you have more reserve time for the last K5 (optional) and enough time to reach the chairlift.
 
 ## Recommended train 🚂
-- https://a.sbbmobile.ch/s/PL4hAouP
+
+{{< sbb start="Zürich HB" 
+destination="Linthal Braunwaldbahn station" 
+time="08:05" 
+platform="6" 
+duration="1h30min" 
+train="IR 46" 
+date="2026-09-20"
+sbbUrl="https://a.sbbmobile.ch/s/PL4hAouP"
+ >}}
+
 - At Ertsfeld train station [you take a bus for 6 min to Silenen Dägerlohn bus station](https://www.sbb.ch/en/trip?tripId=3HA.eNqllN1u2kgUx0XSLV32zlcb-qFRjVaV0oiZ8Xg8joSEMRC-P4wBw01FjfkKGGJC6qK-y96stG-Qq71K36MvUGlfYdc2EKfNai92x9LM-Y_8O-fM8RzH_oxyX6N3t4Vy8e5WTygplK6n-p__cKbmBBQyaSPFRAIxQuleikiCxJAkpSveJhQghOlBCmGW3mM5Z309suZDH6IiJCLxIcowFIiwg0SEyAHCEFPIPDcMiqGQMUkUNUAowAQJiQRKBOPu9-5_i_It9BZkBhN7shztaSrBA00gDWhJEhh9lKOf1gPBEg8y0_9nkB3dms4t27Lfguzn38aWM19O7ICnMpSC6lNJxj61OyKljwspC-ihEBMZQCACCLEw29uyenfLd3I85tU8jyDkVYX3pqo3tYqqziNeqfKIEip6BvZ2FR0qNb6e5XlN5wXK-y72PiCf0y54gS8Ua76tlnlBogIWP4ULQfcL9J5AYEo_CZ7AwdYZRkQiTKCE-b61g3PkqZZno3cFsi4qu6EqGNeN9k22mmldJNlGdKY1B21X275sdgpKoyIV22Nj2UQLF62qN1W3UjaSQr-aaw4zpmjYDXNLFptCrpYvDSoTt9kiedYlg_Y6L1-W26NaY5mpFWuypjCmJVtXyqViddZuyy3UPnZWzWGvP9ZUnLQyWfMy-aFnNMu5U9pVO9vLrrJxZJgdlZzsDHU3jffGTW-pd5fbTQMPe7UPPVYSrStxPBoz470u1c0W2Ug3E-QQ0VVXA6s-0426aU_ri8asbXSW_Y6TFE_7-fXImdnO4jo7Rc0rFzaQOnanczo1uxXVvfho26U-q5S6uj2aDwelsbucjfBKZKOOWYUXSB2Itn2amaioPL-eK01F4b5EuEQsum9g7sS_L2eQnQlQh-wciucQnkLszVw0dowkCiLcT8Hr2Lu94GgvROiJ41BQ8CQUEvjhIBDC4GkoBBDlfjkIEv8muHyOyX1w8Cz-c-yoqHFHhMaf-H-C10-9dKHXQs9ev4xFFO5IA-Cvw4i8CU1uEftRMU1rva5YYy55H437l2gP6AAI2vNReuwfgV8juyMFzPdBBBQyJ7s6MIZkBuI74UMSeB4KBl6EQgYvD-Xy2v37fITwW4FX8ZNYJMMde-0eP_b6PagWQ_TNCXz1NzJpjnI.eNqrVirLTCxWsoqO1QGz_PJLkDkhRYl5xWmpRRCx1IrknNKUVJfEktSUsNSMzOScVK_80qK81EqoCf5KVkoWpgbGBgYGSjpKLhCeqZmZCZCXAuQZGRiZ6RpY6BqDpIEWKRmYW4GVJgLZfkA6B0g7Auk8Jau80pwcHaVckMG1AJjQLks&leg=3) 
 
 - At Silenen Dägerlohn bus station [you need to walk 10min to the cable car parking and meeting point](https://www.google.com/maps/dir/Silenen,+Dägerlohn,+6473+Silenen/Luftseilbahn+Chilcherberg,+Brandistrasse,+6473+Silenen/@46.7914617,8.6702083,358m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47856a174f376345:0x2a965629372f7ba2!2m2!1d8.669075!2d46.792389!1m5!1m1!1s0x47856a6c37a537ab:0x5036be3b301c124d!2m2!1d8.6737476!2d46.790847!3e2?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D)  
@@ -103,12 +120,6 @@ Park your car in the public spaces near the village church, as direct parking ri
 ## Start 🏁
 From the Chilcherberge top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
 
-## End 🎯
-+90m, 1H 
-
-## Exit 🚶🏻‍♂️
-1.5h walk down to the cable car
-
 ## Travelling home
 by public transportation
 
@@ -119,8 +130,14 @@ by public transportation
   link2="https://links.waltercedric.com/hexensteigferratatogether" 
 >}}
 
-## Water 🚰 
-No access to water for 4 hours!
+## Water 🚰
+No access to water for the duration of the via ferrata, around 4 hours!
+
+Get water or drinks at
+- Bahn station (public WC + soft drinks fridge for 3.-)
+
+## WC 🚾 🚽
+- - Bahn station (public WC)
 
 ## Alpine lake 🏊
 two lake in the area.

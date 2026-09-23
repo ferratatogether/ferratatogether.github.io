@@ -136,8 +136,6 @@ Not possible close to start, or around. I recommend from the one joining us to r
 >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2369.225418224392!2d8.411640875671706!3d46.702022050004956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47856372cdbc2339%3A0x843f29bfd3f2e495!2sTierberglih%C3%BCtte%20SAC!5e1!3m2!1sen!2sch!4v1789561740916!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-
-
 [tierbergli](https://tierbergli.ch)
 
 ## My review ⭐️

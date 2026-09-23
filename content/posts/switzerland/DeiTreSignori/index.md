@@ -11,6 +11,8 @@ tags:
 ---
 {{< toc-mobile >}}
 
+## Location
+
 {{< swiss-map highlight="TI" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
 # Via Media
@@ -59,19 +61,24 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## Meeting Point 📍
 
-6:45 AM  Zürich HB, Main Meeting point, around the clock
-Find the turquoise Zürich Together Banner.
+## Meeting point 📍
 
-## Time of leaving 🏁
-
-7:00AM to platform 10
+{{< meetup meetTime="06:45" leaveTime="7:00" platform="10" >}}
 
 ## Recommended train 🚂
 
-- 1 Stunde 58 Minuten
-- Zürich HB  -> Monte Carasso by train then take the bus to Urènn/Funivia 
+{{< sbb start="Zürich HB" 
+destination="Monte Carasso" 
+time="06:38"
+duration="1h58min" 
+platform="10" 
+train="IR 70" 
+date="2026-09-12"
+sbbUrl="https://a.sbbmobile.ch/s/SD8RUtqh"
+ >}}
+
+Zürich HB  -> Monte Carasso by train then take the bus to Urènn/Funivia 
 
 ## Cable Car 🚠
 

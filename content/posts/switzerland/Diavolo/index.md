@@ -26,7 +26,11 @@ location="Andermatt"
 trekup="15min"
 trekdown="1h">}}
 
+## Location
+
 {{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
+
+## Route overview ℹ️
 
 A truly spectacular route in the granite rocks of the Schöllenen gorge, albeit with plenty of grass in between. There are fascinating views down into the wild gorge and its roads. With 700 metres of wire rope, 265 iron pins and pitons, artificial footholds and two attached ladders. Not advisable when wet (grass). Moderately difficult via ferrata, ideal for beginners. 
 
@@ -48,15 +52,21 @@ Weather can cancel the event a few days before or during if weather is not perfe
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## Meeting Point 📍
-06:45AM  Zürich HB, Main Meeting point, around the clock
-Find the turquoise Zürich Together Banner.
+## Meeting point 📍
 
-## Time of leaving 🏁
-7:00AM to platform 8
+{{< meetup meetTime="06:45" leaveTime="7:00" platform="8" >}}
 
 ## Recommended train 🚂
-https://a.sbbmobile.ch/s/kBtLhuGZ 
+
+{{< sbb start="Zürich HB" 
+destination="Andermatt" 
+time="07:05"
+duration="2h31min" 
+platform="11" 
+train="IC 2" 
+date="2026-09-12"
+sbbUrl="https://a.sbbmobile.ch/s/kBtLhuGZ "
+ >}}
 
 ##  Start 🏁
 Andermatt (1436 m), station for the Furka-Oberalp-Bahn railway and terminus for the funicular coming up from Göschenen. Parking at the station. From the station at Andermatt, follow the route alongside and on the main road (route signed) through the Urner Loch into the Schöllenen gorge, turning right before you reach the Teufelsbrücke Bridge and making for the Suvorov Memorial (1,405 m).
