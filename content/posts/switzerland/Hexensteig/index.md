@@ -28,6 +28,9 @@ trekdown="1:30h">}}
 ## Location
 {{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
+## Hexensteig via ferrata flyover
+{{< video video/flyover-hexensteig-via-ferrata.mp4 >}}
+
 ## Route overview ℹ️
 A via ferrata inside a mountain? Yes, it’s been there since July 2002, and as is typical of legendary figures, it remained hidden for a long time. 
 
@@ -65,7 +68,8 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 
 ## Season 🗓️
 Typically June through late October (conditions permitting)
-{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+
+{{< yearly-calendar highlight="05,06,07,08,09,10" >}}
 
 ## Meeting point 📍
 
@@ -112,10 +116,10 @@ Park your car in the public spaces near the village church, as direct parking ri
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2360.0086555446283!2d8.712553684505965!3d46.911689061292066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478547bbc433fb3b%3A0xf9b3e7f1ff13152e!2sKlettersteig%20Fruttst%C3%A4g%C3%A4!5e1!3m2!1sen!2sch!4v1789324234232!5m2!1sen!2sch" >}}
 
 ## GPX 🗺️ Hike
-{{< gpx-map file="./hexensteig-hike.gpx" >}}
+{{< gpx-map file="gpx/hexensteig-hike.gpx" >}}
 
 ## GPX 🗺️ full trip
-{{< gpx-map file="./hexensteig.gpx" >}}
+{{< gpx-map file="gpx/hexensteig.gpx" >}}
 
 ## Start 🏁
 From the Chilcherberge top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
@@ -167,7 +171,7 @@ Decathlon https://rent.decathlon.ch/de/de-8754883
 - 👙🩳 alpine lake 4h away or with another cable car a smaller lake but car 20min required + cable car 13 CHF + 30min walk
 
 ## Topography 🗺️ 
-![Hexensteig-via-ferrata-topography](topo.jpg)
+![Hexensteig-via-ferrata-topography](img/topo.jpg)
 
 ## Gallery 🌄 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

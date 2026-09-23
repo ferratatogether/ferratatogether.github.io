@@ -54,7 +54,6 @@ And city
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-
 ## Meeting point 📍
 
 {{< meetup meetTime="05:45" leaveTime="5:55" platform="10" >}}
@@ -86,17 +85,16 @@ Walk T3, +480m, 1h30 to start of climb
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2393.1704989106906!2d7.970957275637942!3d46.153891887158856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478f4598bf0deee7%3A0x658f62718bccb73e!2sKlettersteig%20J%C3%A4gihorn%20(Jegihorn)!5e1!3m2!1sen!2sch!4v1789324440451!5m2!1sen!2sch" >}}
 
 ## GPX 🗺️
-{{< gpx-map file="jegihorn.gpx" >}}
+{{< gpx-map file="gpx/jegihorn.gpx" >}}
 
 ## Start 🏁 
 2800m  
-base station of the Hohsaas gondola in Saas-Grund, T3, 1h30, +480m https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/mountain-hiking/approach-to-the-jegihorn-via-ferrata-991/ 
+[Base station of the Hohsaas gondola in Saas-Grund](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/mountain-hiking/approach-to-the-jegihorn-via-ferrata-991/), T3, 1h30, +480m  
 
 ## End 🎯
-3206m  https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/panorama-jegihorn-via-ferrata-728/ 
+[Jegihorn top](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/panorama-jegihorn-via-ferrata-728/) at 3206m
 
 ## Exit 🚶🏻‍♂️
-
 2 hours trek down, need catching the last gondola down from Kreuzboden saves 1,100 metres of further descent.
 
 ## Travelling home
@@ -135,7 +133,7 @@ Please send an email now or call and reserve a via ferrata set with helmet for t
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15268.64765680441!2d7.921681932740252!3d46.11804333747293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478f44c3a65909db%3A0x489a3380485412f0!2sZurbriggen%20Sport!5e1!3m2!1sen!2sch!4v1790146034434!5m2!1sen!2sch" >}}
 
 ## Lake
-[Artificial lake](https://maps.app.goo.gl/dAU86g2HoymQCRkU9)  Where you can bath or put your feet in after this logn 7h day of efforts.
+[Artificial lake](https://maps.app.goo.gl/dAU86g2HoymQCRkU9)  Where you can bath or put your feet in after this long 7h day of efforts.
 
 ## Links 🔗
 - www.off-the-trail.de/jegihorn 
@@ -195,5 +193,5 @@ Beginner friendly but demanding and long day 7h minimum
 
 ## Gallery 🌄
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 

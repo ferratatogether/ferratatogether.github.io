@@ -2,7 +2,7 @@
 title: "Braunwald Ferrata Together"
 date: 2026-09-17T20:00:17+01:00
 summary: "The Braunwald via ferrata (Eggstöcke Klettersteig) features three separate sections that increase significantly in technical demand, allowing climbers to pick a route according to their skill level. The total route progresses along a highly panoramic, exposed mountain ridge across four distinct peaks"
-cover: cover.png
+cover: img/cover.png
 tags:
   - via-ferrata
   - K3-K4
@@ -99,7 +99,7 @@ Source:
 
 Typically June through late October (conditions permitting)
 
-{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+{{< yearly-calendar highlight="05,06,07,08,09,10" >}}
 
 ## Meeting point 📍
 
@@ -198,7 +198,7 @@ Please [send an email](https://www.braunwald.ch/klettersteige) now or call and r
 
 or use 
 From 06. JUNI 2026 to 18. OKTOBER 2027 (Operating time of Kombibahn Gumen)
-![alt text](kessler.jpeg)
+![alt text](img/kessler.jpeg)
 [Kessler Sport AG](https://www.kesslersport.ch/cms-klettersteige.asp)
 
 ## Donation 💶
@@ -241,14 +241,14 @@ Noticing some defects during the climb? contact immediately:
 
 ## Gallery 🌄
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Video 🎥
 
 
 ## GPX 🗺️
  
-{{< gpx-map file="braunwald-long.gpx" >}}
+{{< gpx-map file="gpx/braunwald-long.gpx" >}}
 
 ## MAP 🗺️
 

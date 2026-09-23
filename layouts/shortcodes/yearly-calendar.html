@@ -1,0 +1,43 @@
+
+{{ $highlight := .Get "highlight" | default "" }}
+{{ $highlightList := split $highlight "," }}
+
+<div class="yearly-calendar-mini">
+  <div class="calendar-grid-mini">
+    {{ $months := slice "Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Aug" "Sep" "Oct" "Nov" "Dec" }}
+    {{ range $index, $month := $months }}
+      {{ $monthNum := printf "%02d" (add $index 1) }}
+      {{ $isHighlighted := in $highlightList $monthNum }}
+      
+      <div class="month-node {{ if $isHighlighted }}highlighted-node{{ end }}">
+        {{ $month }}
+      </div>
+    {{ end }}
+  </div>
+</div>
+
+<style>
+  .yearly-calendar-mini { font-family: system-ui, sans-serif; max-width: 320px; margin: 0 auto; background: #fff; border: 1px solid #e2e8f0; border-radius: 6px; padding: 0.5rem; box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+  .calendar-header-mini { text-align: center; margin-bottom: 0.35rem; }
+  .calendar-year-title { font-size: 0.95rem; font-weight: 700; color: #4a5568; }
+  
+  /* Compact 4-column layout */
+  .calendar-grid-mini { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.25rem; }
+  
+  .month-node { 
+    font-size: 0.75rem; 
+    padding: 0.25rem 0; 
+    text-align: center; 
+    border-radius: 4px; 
+    color: #718096;
+    border: 1px solid transparent;
+  }
+  
+  /* Highlight styles */
+  .month-node.highlighted-node { 
+    background-color: #ebf8ff; 
+    color: #2b6cb0; 
+    font-weight: 700;
+    border-color: #bee3f8;
+  }
+</style>
