@@ -12,6 +12,12 @@ Via ferrata difficulty levels are primarily categorized into global alpine scale
 
 Depending on the region, routes are graded using a few standardized systems: the Schall Scale (Letters A-F), the Hüsler Scale (K1-K6), or the French System (F to ED).
 
+
+The Fletcher/Smith system uses a numeric score (1 to 5) for technical difficulty, paired with a letter (A to C) for commitment, exposure, and alpine hazard. Because the letter suffix depends entirely on the specific route's environment, this chart displays the core technical difficulty numbers (1 to 5) mapped precisely to their international equivalents.
+
+For instance, the chart shows that an Italian D (Difficile) is wide enough to cover both a standard K4 and a highly technical K5 route in Switzerland
+{{< difficulty2 >}}
+
 {{< difficulty >}}
 
 ## A / Easy
