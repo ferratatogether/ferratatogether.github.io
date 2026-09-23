@@ -96,7 +96,7 @@ https://www.gemmi.ch/en/
 {{< /notice >}}
 
 ## Status
-{{< iframe src="https://www.gemmi.ch/en/map" >}}
+[Interactive map about status](https://www.gemmi.ch/en/ma)
 
 ## WhatsApp group 💬 
 
