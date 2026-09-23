@@ -1,5 +1,5 @@
 ---
-title: "Daubenhorn"
+title: "Daubenhorn Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "The Daubenhorn Via Ferrata in Leukerbad is the longest via ferrata in Switzerland.   Over 2,000 meters of steel cable, 216 meters of ladders, and roughly 920 to 1,000 meters of vertical elevation gain."
 cover: img/cover.jpg
@@ -44,8 +44,26 @@ The Daubenhorn via ferrata is the longest in Switzerland. With the difficulty le
 - For someone in good physical shape it is between moderate and hard, with the most difficult section being inside the cave
 {{< /notice >}}
 
+## Duration
+**Approach (Gemmi Pass to Base): 20 to 30 minutes.**
+A downhill warm-up hike to Untere Schmitte.The "Small" 
+
+**Via Ferrata (Lower Section): 2 to 2.5 hours.**
+Includes highly exposed, vertical ladder climbs leading up to the Obere Gemsfreiheit terrace.
+
+**The "Large" Via Ferrata (Upper Section): 3.5 to 4 hours.**
+The main endurance test featuring long, sustained vertical walls, a dark cave crevice with a waterfall, and overhanging ladders up to the summit at 2,942 m.
+
+**Descent (Summit back to Gemmi Pass): 1.5 to 2 hours.**
+A true alpine route across the small Daubenhorn glacier, down over scree to Lämmerenboden, and a short final ascent back up to the cable car station
+
+Because the circuit takes a minimum of 8 hours (and can easily stretch to 9–10 hours for rest stops or slower traffic on the wires), you must start VERY early.
+
+## Exit route
+If you feel fatigued or if the weather turns while on the lower wall, you must exit at the Obere Gemsfreiheit. This is your ONLY bailout point. From here, a steep marked trail leads directly down to Leukerbad village rather than continuing up the peak
+
 {{< notice info>}} 👨‍⚖️
-Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more
+Newcomers are not accepted if they are beginners, you [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more
 {{< /notice >}}
 
 {{< notice tip>}} 📓 
@@ -76,6 +94,9 @@ It is better to sleep a day before in this hotel and start even earlier than the
 Reserve a room, so you can start earlier the climb
 https://www.gemmi.ch/en/
 {{< /notice >}}
+
+## Status
+{{< iframe src="https://www.gemmi.ch/en/map" >}}
 
 ## WhatsApp group 💬 
 
@@ -138,7 +159,7 @@ Alternative Village Parking: You can also use other central parking garages in L
 ## Cable Car 🚠
 
 - {{< osm lon="7.624351" lat="46.38379" text="Gemmibahn start station" >}}
-- {{< osm lon="7.615671" lat="46.397857" text="Gemmibahn top station" >}}
+- {{< osm lon="7.615671" lat="46.397857" text="Gemmibahn top station 2346m" >}}
 
 ### Gemmi cable car operating times
 
@@ -158,7 +179,15 @@ The cable car transitions its opening hours as the seasons shift
 {{< gpx-map file="gpx/daubenhorn.gpx" >}}
 
 ## Start 🏁
-{{< osm lon="7.614459" lat="46.393262"text="Einstieg Klettersteig" >}}
+Starting Point: Upper Gemmi Pass Cable Car Station (2,346 m).
+
+**The Route:** Head down slightly toward the Gemmi Pass height, then hook a sharp left (Southeast). Follow the old winding trail descending the cliffside down to Untere Schmitte, a flat grassy terrace.
+
+**The Entry:** At approximately 2,060 m, you will see a massive white information board marking the official start of the cables.
+
+**Time & Distance:** The T2 approach takes 20 to 30 minutes of hiking before you transition to clipping into the iron path.
+
+{{< osm lon="7.614459" lat="46.393262"text="Entry Via Ferrata" >}}
 
 ## End 🎯
 2,941 meters (9,649 feet) above sea level
@@ -177,13 +206,11 @@ The cable car transitions its opening hours as the seasons shift
 
 {{< iframe src="https://www.peakfinder.com/?lat=46.38860&lng=7.60278&ele=2942&azi=40.01&alt=-4.25&fov=45&date=2019-10-20T22:47Z&cfg=es&name=Daubenhorn" >}}
 
-
 ## Exit 🚶🏻‍♂️
 The walk off is also not to be underestimated, another good 2.5hrs from the top back to the gondola station. Crosses the small Daubenhorn Glacier down to Lämmerenboden and back toward the Gemmi area.
 
 ## Travelling home 🏡
 by public transportation
-
 
 ## Water 🚰
 No access for the duration of the via ferrata.
@@ -193,6 +220,19 @@ Get water or drinks at
 
 ## WC 🚾 🚽
 - {{< osm lon="7.615416" lat="46.397647"  text="Restaurant Wildstrubel 2332m" more="Günstige Unterkunft im Gemmigebiet / Alle Gäste des Hotel fahren bei An- und Abreise mit der Bahn zum 1/2 tax SBB Preis / Moderne sanitäre Einrichtungen / Alle Zimmer mit Blick auf die Walliser und Berner Alpen / Ideal für Gruppen, Vereine, Schulen und Seminare" >}}
+
+## Packing
+Mandatory Head lamp Cave Visibility: Crucial for navigating the pitch-black waterfall cavern section inside the upper wall.
+
+IP67 Waterproofing: Completely dustproof and waterproof up to 1m, easily handling the wet cave spray.
+
+Rigid Alpine Hiking Boots: High-top boots with strong Vibram outsoles (Category B/C or C). You need stiff soles for vertical ladder pegs and deep tread for the descending scree fields.
+
+Hydration and Fuel: Pack at least 2.5 to 3 liters of water per person. There are absolutely no natural water refilling points on the wall, and the southern exposure traps heat. Pack calorie-dense snacks like nuts and bars
+
+## Renting equipment 🛍️
+You can rent your via ferrata safety gear directly at the top of the Gemmi Pass cable car mountain station.
+Right inside the top station building where you exit the cable car (2,346 m).
 
 ## Links 🔗
 - https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/small-daubenhorn-via-ferrata-k5-k6
