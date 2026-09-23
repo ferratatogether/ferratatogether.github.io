@@ -3,7 +3,7 @@ title: "Sulzfluh Ferrata Together"
 date: 2026-09-12T9:44:17+01:00
 summary: "The Sulzfluh via ferrata is a classic, demanding alpine fixed-rope climb scaling the steep south face of the 2,817-meter Sulzfluh peak in the Rätikon range from St. Antönien, Switzerland. 
 Rated K4 to C/D, it features airy traverses, vertical limestone walls, and no early exit points"
-cover: /img/sulzfluh.webp
+cover: img/cover.webp
 tags:
   - via-ferrata
   - K4-K5
@@ -109,6 +109,19 @@ The approach to the start of the Sulzfluh via ferrata from the Berghaus Alpenrö
 - Begins with an entry ladder, moving across the "Obelix Crossing" and up the main ramp. Note: No turning back is possible past this ramp
 - Features the exposed "Panoramica" traverse, the "Deichmann Bridge" wire bridge, and the strenuous "Wailing Wall" final push to the top
 
+## View from Sulzfluh
+
+{{< panorama 
+    src="img/panorama.jpg" 
+    title="Sulzfluh panorama" 
+    author="Cédric" 
+    caption=""
+    height="600px" 
+    autorotate="-2" 
+>}}
+
+{{< iframe src="https://www.peakfinder.com/?lat=47.01250&lng=9.83972&ele=2818&azi=40.01&alt=-4.27&fov=45&date=2019-10-20T22:47Z&cfg=es&name=Sulzfluh" >}}
+
 ## Exit 🚶🏻‍♂️
 After descending on a red-white sign-posted normal path, always follow path to the right side of the hill, it may turn blue-white but will be again later red-white. Always follow sign to Tilisuna-Hütte. You're gonna see the lake on your right and will walk toward it and later close to it.
 
@@ -157,11 +170,11 @@ If you are driving or taking the post bus up from the main valley, you can stop 
 - Trek down (-1000m) is very nice and diverse but long and demanding, at some place even dangerous, extra attention required.
 
 ## Topography 🗺️ 
-![Sulzfluh topography](/img/sulzfluh-left.webp)
-![Partnunblick topography](/img/sulzfluh-right.webp)
+![Sulzfluh topography](img/sulzfluh-left.webp)
+![Partnunblick topography](img/sulzfluh-right.webp)
 
 ## Gallery 🌄 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## 📆 Ferrata Together log
 Ferrata Together visits:
