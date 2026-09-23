@@ -96,6 +96,7 @@ https://www.gemmi.ch/en/
 {{< /notice >}}
 
 ## Status
+
 [Interactive map about status](https://www.gemmi.ch/en/ma)
 
 ## WhatsApp group 💬 
@@ -127,15 +128,18 @@ sbbUrl="https://www.sbb.ch/de?stops=Zürich+HB_I8503000~Gemmipass_I8501657&day=2
 [Link](https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EGemmipass_I8501657&day=2026-09-26&time=06_00&moment=dep&cursor=M3xPQnxNVMK1MTTCtTQxNTEwMsK1NDE1MDg2wrU0MTUzMjbCtTQxNTMyNsK1MMK1MMK1MzY1wrU0MTUwODDCtTHCtTDCtTE2wrUwwrUwwrUtMjE0NzQ4MzY0OMK1McK1MnxQREjCtTkyYTcxZjcyYjBiNDNkMmU5YmMwMzhiZDkzMzU2YTQwfFJEwrUyNjA5MjAyNnxSVMK1NjAwMDB8VVPCtTB8UlPCtUlOSVQ%3D&trip=-1_2)
 
 ### Take the Train to Leuk
+
 The closest main-line train station to the mountain is Leuk.
 
 - From Geneva / Lausanne / Sion: Take the direct InterRegio (IR90) train heading toward Brig and exit at Leuk.
 - From Zurich / Bern / Basel: Take the InterCity (IC8 or IC61) south through the Lötschberg Base Tunnel to Visp, then make a quick cross-platform transfer to a regional train back to Leuk.
 
 ### Catch Bus 471 to Leukerbad
+
 Directly outside the train station, board the LLB (Leuk Leukerbad Bus) Route 471. The bus departs roughly every 30 minutes, perfectly timed to meet arriving trains. The mountain drive takes approximately 30 minutes to reach the Leukerbad, Busterminal.
 
 ### Transfer to the Gemmi Cable Car
+
 Once you arrive at the Leukerbad bus terminal, you have two simple options to reach the cable car:
 - **Local Bus:** Switch to the local Ringjet village bus, which drops you off directly at the Leukerbad, Gemmi-Bahnen stop.
 - **Walking:** Walk through the alpine village to the station; it is a scenic, slightly uphill walk of about 10–15 minutes.
@@ -144,36 +148,22 @@ From there, the Gemmi Cable Car will bring you up the cliff face to the pass to 
 
 ## By Car 🚗
 
-To reach the Daubenhorn (and its famous via ferrata) by car, drive to the mountain village of Leukerbad in the canton of Valais, park at the Gemmi-Bahnen cable car station, and take the cable car up to the Gemmi Pass to start your climb or hike
+To reach the Daubenhorn via ferrata by car, drive to the mountain village of Leukerbad in the canton of Valais, park at the Gemmi-Bahnen cable car station, and take the cable car up to the Gemmi Pass to start your climb or hike
 
 From the North (Bern / Thun / Zurich / Basel): Take the A6 highway toward Spiez, head toward Kandersteg, and use the Lötschberg car shuttle train (Kandersteg–Goppenstein). From Goppenstein, follow the signs via Gampel and Leuk up to Leukerbad
 
 ## Parking 🅿️
 
-Parking in LeukerbadGemmi-Bahnen Parking: Multi-story and open-air parking spaces are available directly at the Gemmi cable car valley station.
+**Parking in Leukerbad Gemmi-Bahnen Parking:** Multi-story and open-air parking spaces are available directly at the Gemmi cable car valley station.
 
-Alternative Village Parking: You can also use other central parking garages in Leukerbad, such as the Sportarena or Alpentherme garages, and follow local signs to the cable car.
+**Alternative Village Parking:**  You can also use other central parking garages in Leukerbad, such as the Sportarena or Alpentherme garages, and follow local signs to the cable car.
 
 {{< osm lon="7.626467" lat="46.382819" text="Parking location" >}}
 
 ## Cable Car 🚠
-
+42 CHF [see time table and prices](https://www.gemmi.ch/en/planning-booking/hours-of-operation-service-information) 
 - {{< osm lon="7.624351" lat="46.38379" text="Gemmibahn start station" >}}
 - {{< osm lon="7.615671" lat="46.397857" text="Gemmibahn top station 2346m" >}}
-
-### Gemmi cable car operating times
-
-Current Operating Hours (7 September – 4 October 2026)
-
-Daily (Monday – Sunday): 08:30 – 17:00
-Frequency: Departures run every 30 minutes (on the hour and half-hour). 
-
-During peak demand periods, it runs continuously every 10 minutes.
-
-The cable car transitions its opening hours as the seasons shift
-- 5 October – 8 November 2026 09:00 – 17:00
-- 9 November – 18 December 2026 Closed for autumn maintenance
-- 19 December 2026 – 18 April 202709:00 – 17:00 (Winter Season)
 
 ## GPX 🗺️
 {{< gpx-map file="gpx/daubenhorn.gpx" >}}
@@ -187,7 +177,7 @@ Starting Point: Upper Gemmi Pass Cable Car Station (2,346 m).
 
 **Time & Distance:** The T2 approach takes 20 to 30 minutes of hiking before you transition to clipping into the iron path.
 
-{{< osm lon="7.614459" lat="46.393262"text="Entry Via Ferrata" >}}
+{{< osm lon="7.614459" lat="46.393262"text="Entry of Daubenhorn Via Ferrata" >}}
 
 ## End 🎯
 2,941 meters (9,649 feet) above sea level
@@ -207,7 +197,7 @@ Starting Point: Upper Gemmi Pass Cable Car Station (2,346 m).
 {{< iframe src="https://www.peakfinder.com/?lat=46.38860&lng=7.60278&ele=2942&azi=40.01&alt=-4.25&fov=45&date=2019-10-20T22:47Z&cfg=es&name=Daubenhorn" >}}
 
 ## Exit 🚶🏻‍♂️
-The walk off is also not to be underestimated, another good 2.5hrs from the top back to the gondola station. Crosses the small Daubenhorn Glacier down to Lämmerenboden and back toward the Gemmi area.
+The walk off is also not to be underestimated, another good 2/2.5hrs from the top back to the gondola station. Crosses the small Daubenhorn Glacier down to Lämmerenboden and back toward the Gemmi area.
 
 ## Travelling home 🏡
 by public transportation
@@ -238,7 +228,7 @@ Right inside the top station building where you exit the cable car (2,346 m).
 - https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/small-daubenhorn-via-ferrata-k5-k6
 
 ## My review ⭐️
-
+- Not yet done
 
 ## Topography 🗺️ 
 ![Daubenhorn-via-ferrata-topography](img/topo.png)
@@ -248,6 +238,5 @@ Right inside the top station building where you exit the cable car (2,346 m).
 ## Gallery 🌄 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
-## 🎥 Video
+## Video 🎥
 {{< youtube AL4OHw4gXjM >}}
-
