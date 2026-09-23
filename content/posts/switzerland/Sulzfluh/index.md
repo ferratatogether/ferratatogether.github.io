@@ -30,7 +30,7 @@ trekdown="2h, -1000m">}}
 {{< swiss-map highlight="GR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
 ## Flyover
-{{< video flyover-sulzfluh-via-ferrata.mp4 >}}
+{{< video video/flyover-sulzfluh-via-ferrata.mp4 >}}
 
 ## Route overview ℹ️
 The Sulzfluh via ferrata is a classic, demanding alpine fixed-rope climb scaling the steep south face of the 2,817-meter Sulzfluh peak in the Rätikon range from St. Antönien, Switzerland. 
@@ -110,6 +110,8 @@ The approach to the start of the Sulzfluh via ferrata from the Berghaus Alpenrö
 - Features the exposed "Panoramica" traverse, the "Deichmann Bridge" wire bridge, and the strenuous "Wailing Wall" final push to the top
 
 ## View from Sulzfluh
+
+{{< video video/sulzfluh-top.mp4 >}}
 
 {{< panorama 
     src="img/panorama.jpg" 
