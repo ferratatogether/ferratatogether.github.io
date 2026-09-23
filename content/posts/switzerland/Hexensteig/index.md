@@ -29,7 +29,7 @@ trekdown="1:30h">}}
 {{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
 ## Hexensteig via ferrata flyover
-{{< video video/flyover-hexensteig-via-ferrata.mp4 >}}
+{{< video "video/flyover-hexensteig-via-ferrata.mp4" >}}
 
 ## Route overview ℹ️
 A via ferrata inside a mountain? Yes, it’s been there since July 2002, and as is typical of legendary figures, it remained hidden for a long time. 
