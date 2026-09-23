@@ -1,0 +1,18 @@
+{{ $id := default (printf "pano-%s" (sha1 (.Get "src"))) (.Get "id") }}
+{{ $height := default "520px" (.Get "height") }}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css">
+<script src="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js"></script>
+
+<div id="{{ $id }}" style="width:100%;height:{{ $height }}"></div>
+<script>
+  pannellum.viewer("{{ $id }}", {
+    type: "equirectangular",
+    panorama: "{{ .Get "src" }}",
+    autoLoad: true,
+    autoRotate: {{ default 0 (.Get "autorotate") }},
+    pitch: {{ default 0 (.Get "pitch") }},
+    yaw: {{ default 0 (.Get "yaw") }},
+    hfov: {{ default 100 (.Get "hfov") }},
+    compass: {{ default false (.Get "compass") }}
+ });
+</script>
