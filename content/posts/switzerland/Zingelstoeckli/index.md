@@ -85,18 +85,18 @@ About 30 min approach,
 
 ## Meeting point 📍
 
-{{< meetup meetTime="xxxx" leaveTime="xxxx" platform="xxxx" >}}
+{{< meetup meetTime="6:20" leaveTime="6:35" platform="9" >}}
 
 ## Recommended train 🚂
 
 {{< sbb start="Zürich HB" 
 destination="Urnerboden" 
-time="xxxx" 
-platform="xxxx" 
-duration="xxxx" 
-train="xxxx" 
-date="xxxx"
-sbbUrl="xxxx"
+time="6:43" 
+platform="9" 
+duration="2h17min" 
+train="S25" 
+date="25-09-2026"
+sbbUrl="https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EUrnerboden%2C+Dorf_I8505776&day=2026-09-25&time=08_00&moment=dep&cursor=M3xPQnxNVMK1MTTCtTQxMzc2NcK1NDEzNzY1wrU0MTM5NDfCtTQxMzk0N8K1MMK1MMK1MTg1wrU0MTM3NjDCtTHCtTDCtTLCtTDCtTDCtS0yMTQ3NDgzNjQ4wrUxwrUyfFBESMK1OTJhNzFmNzJiMGI0M2QyZTliYzAzOGJkOTMzNTZhNDB8UkTCtTI1MDkyMDI2fFJUwrU4MDAwMHxVU8K1MHxSU8K1SU5JVA%3D%3D&trip=-1_1"
  >}}
 
 ## By Car 🚗
@@ -163,11 +163,11 @@ The path brings you straight back down behind the former Hotel Wilhelm Tell and 
 
 - [klettersteige-in-uri](https://uri.swiss/klettern/klettersteige-in-uri)
 - [Hikr](https://www.hikr.org/tour/post111920.html)
-- [glarnerland.ch] (https://glarnerland.ch/en/map/detail-poi/klettersteig-zingelstockli-urnerboden--id--tou_s9t_dbaiabtf-segu-ebgs-jaqh-jqsciagddrab.html)
-- [viapeaks] (https://viapeaks.com/via/zingelstockli-klettersteig-urnerboden), 
-- [vivaferrata] (https://vivaferrata.ch/en/route/urnerboden/zingelstoeckli)
-- [uri.swiss] (https://uri.swiss/klettern/klettersteige-in-uri/klettersteig-zingelstoeckli)
-- [www.via-ferrata.de] (https://www.via-ferrata.de/klettersteige/topo/klettersteig-zingelstoeckli-via-ursi-urnerboden)
+- [glarnerland.ch](https://glarnerland.ch/en/map/detail-poi/klettersteig-zingelstockli-urnerboden--id--tou_s9t_dbaiabtf-segu-ebgs-jaqh-jqsciagddrab.html)
+- [viapeaks](https://viapeaks.com/via/zingelstockli-klettersteig-urnerboden), 
+- [vivaferrata](https://vivaferrata.ch/en/route/urnerboden/zingelstoeckli)
+- [uri.swiss](https://uri.swiss/klettern/klettersteige-in-uri/klettersteig-zingelstoeckli)
+- [www.via-ferrata.de](https://www.via-ferrata.de/klettersteige/topo/klettersteig-zingelstoeckli-via-ursi-urnerboden)
 - [bergsteigen.com](https://www.bergsteigen.com/touren/klettersteig/zingelstoeckli-klettersteig/)
 
 ## My review ⭐️
