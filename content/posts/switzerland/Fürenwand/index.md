@@ -5,7 +5,7 @@ summary: "Following 750 m up a steep exposed wall, mostly on metal bars or rods.
 cover: /img/furrenwand.webp
 tags:
   - via-ferrata
-  - K5
+  - K4-K5
   - engelberg
   - switzerland
 ---
@@ -13,11 +13,11 @@ tags:
 
 {{< viaferratacard 
 difficulty="K5" 
-duration="2h" 
-durationclimb="3h" 
+duration="3h" 
+durationclimb="2,5h" 
 vertical="750hm" 
-top="xxx"
-start="xxx"
+top="1845m"
+start="1240m"
 location="Engelberg"
 trekup="30min"
 trekdown="30min 🚠">}}
@@ -28,6 +28,17 @@ trekdown="30min 🚠">}}
 ## Route overview ℹ️
 
 Following 750 m up a steep exposed wall, mostly on metal bars or rods. Very airy throughout the entire route, you should not be afraid of heights on this one.
+
+The route tackles a 600-meter sheer limestone wall (the Fürenhochflue). It is heavily engineered with hundreds of steel pins, iron rungs, and staples. You will have very little direct rock contact, meaning it relies heavily on upper body and arm strength.
+
+### The Jägerband
+Roughly halfway up the 250-meter lower wall, the exposure breaks briefly at a lightly wooded, grassy ledge equipped with a wooden bench—the perfect spot to rest your arms.
+
+### The Rope Ladder (K5 part)
+The grand finale of the route is an iconic, highly exposed 19-to-30-meter wire-rope ladder that hangs slightly over the void. While it is well-fixed to prevent excessive swaying, it requires a steady mind and no fear of heights.
+
+### No Emergency Exit
+Once you progress past the initial sections, there is no way to abort the route. You must top out at the Fürenalp plateau.
 
 {{< notice info>}} 👨‍⚖️
 Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
@@ -69,15 +80,44 @@ date="2026-09-12"
 sbbUrl="https://a.sbbmobile.ch/s/SD8RUtqh"
  >}}
 
-## Cable Car 🚠 
+## Cable Car 🚠 1845m
 Yes to go back to start.
 
 ## GPX 🗺️
 TODO
 
+## Approach hike 🥾
+
+{{< approach 
+    sac="T2"
+    time="30min" 
+    terrain="Up" 
+    altitude_start="1140m (Fürenalp Cable Car)" 
+    altitude_end="1240m" 
+    elevation_gain="100m" 
+    elevation_loss="0m" 
+>}}
+
+{{< sac-scale level="T2" >}}
+Leave the parking area at the valley station of the Fürenalp Cable Car (Luftseilbahn Engelberg-Fürenalp)
+Part of approach on street road, 15min in the forest. At about 1,140 meters, you will reach a distinct signpost marked "Klettersteig-Fürenwand". Turn left here onto the blue-white-blue alpine hiking path. Follow the zigzag trail up the scree slope for another 10–15 minutes until you reach the official starting sign and cable entry point at 1,240 meters
+{{< /sac-scale >}}
+
 ## Exit 🚶🏻‍♂️
 
+{{< exit 
+    sac="T1"
+    time="15min" 
+    terrain="Up" 
+    altitude_start="1765m (Top via)" 
+    altitude_end="1845m" 
+    elevation_gain="80m" 
+    elevation_loss="0m" 
+>}}
+
+{{< sac-scale level="T1" >}}
 From Fürenalp summit → trail to Engelberg (1h) or cable car down
+{{< /sac-scale >}}
 
 ## Travelling home 🏡
 
@@ -92,6 +132,8 @@ by public transportation
 
 ## Water 🚰 
 No access to water for 2 hours!
+
+Restaurant 1,845 meters
 
 ## Lake 🏊
 A small reservoir at the top on the right path leading to the restaurant, big enough for 4-5 persons
