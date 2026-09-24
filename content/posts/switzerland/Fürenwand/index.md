@@ -15,7 +15,7 @@ tags:
 difficulty="K5" 
 duration="3h" 
 durationclimb="2,5h" 
-vertical="750hm" 
+vertical="760m" 
 top="1845m"
 start="1240m"
 location="Engelberg"
@@ -61,27 +61,26 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
 
-## Difficulty 📈 
-K5, The hanging ladder at the top is a real deal 🤩
-
 ## Meeting point 📍
 
-{{< meetup meetTime="05:45" leaveTime="5:55" platform="10" >}}
+{{< meetup meetTime="05:45" leaveTime="5:55" platform="4" >}}
 
 ## Recommended train 🚂
 
 {{< sbb start="Zürich HB" 
-destination="Engelberg" 
-time="06:38"
+destination="Engelberg (Fürenalp Bahn)" 
+time="06:10"
 duration="2h20min" 
-platform="9" 
+platform="4" 
 train="IR 70" 
 date="2026-09-12"
-sbbUrl="https://a.sbbmobile.ch/s/SD8RUtqh"
+sbbUrl="https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EEngelberg+%28F%C3%BCrenalp+Bahn%29_I8530368&day=2026-09-26&time=06_00&moment=dep&trip=0_0"
  >}}
 
 ## Cable Car 🚠 1845m
-Yes to go back to start.
+You can avoid the long trek down by taking the Luftseilbahn Engelberg-Fürenalp form the top of the via ferrrata.
+
+[timetable](https://www.fuerenalp.ch/oeffnungszeiten)
 
 ## GPX 🗺️
 TODO
