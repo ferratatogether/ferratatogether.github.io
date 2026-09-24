@@ -91,11 +91,18 @@ Walk T3, +480m, 1h30 to start of climb
 2800m  
 [Base station of the Hohsaas gondola in Saas-Grund](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/mountain-hiking/approach-to-the-jegihorn-via-ferrata-991/), T3, 1h30, +480m  
 
+{{< sac-scale level="T3" >}}
+{{< /sac-scale >}}
+
 ## End 🎯
+
 [Jegihorn top](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/panorama-jegihorn-via-ferrata-728/) at 3206m
 
 ## Exit 🚶🏻‍♂️
+
+{{< sac-scale level="T3" >}}
 2 hours trek down, need catching the last gondola down from Kreuzboden saves 1,100 metres of further descent.
+{{< /sac-scale >}}
 
 ## Travelling home
 by public transportation

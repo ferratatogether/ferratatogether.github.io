@@ -75,8 +75,9 @@
 }}
 
 {{ $current := index $data $level }}
+{{ $variant := .Get "mode" | default "" }} {{/* Accept "dark" to force it */}}
 
-<div style="font-family: system-ui, sans-serif; max-w: 750px; margin: 30px auto; border: 1px solid #e2e8f0; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05); background: #ffffff;">
+<div class="wa-container {{ $variant }}" style="font-family: system-ui, sans-serif; max-w: 750px; margin: 30px auto; border: 1px solid #e2e8f0; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05); background: #ffffff;">
   
   <!-- Banner -->
   <div style="display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; background: {{ if eq $level "T6" }}#0f172a{{ else }}#f8fafc{{ end }}; border-bottom: 1px solid #e2e8f0; flex-wrap: wrap; gap: 12px;">
