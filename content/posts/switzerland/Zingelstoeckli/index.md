@@ -117,8 +117,6 @@ None
 
 ## Approach hike 🏁
 
-From the church parking area, walk back toward the main road. Head to the right side of the abandoned Hotel Wilhelm Tell (or its ruins). A narrow path leads through the meadow and splits off to the right into the forest, marked with blue signs ("Klettersteig") and orange paint markers. Follow this through the trees up to the starting wall.
-
 {{< approach 
   sac="T1"
   time="5min" 
@@ -130,6 +128,10 @@ From the church parking area, walk back toward the main road. Head to the right 
   elevation_loss="-25m" 
   map_url="https://maps.app.goo.gl/zMcx6xTHcdResPTg7"
 >}}
+
+{{< sac-scale level="T1" >}}
+From the church parking area, walk back toward the main road. Head to the right side of the abandoned Hotel Wilhelm Tell (or its ruins). A narrow path leads through the meadow and splits off to the right into the forest, marked with blue signs ("Klettersteig") and orange paint markers. Follow this through the trees up to the starting wall.
+{{< /sac-scale >}}
 
 ## Exit routes
 An emergency exit is available about halfway up. 
@@ -147,6 +149,7 @@ An emergency exit is available about halfway up.
     elevation_loss="351m" 
 >}}
 
+{{< sac-scale level="T1" >}}
 Once you top out and unclip from the final cable of the via ferrata, make a very brief, gentle uphill walk across the alpine meadow toward the visible huts of [Alp Zingel](https://urneralpen.ch/schaechental/urnerboden-/-fiseten/zingel/) (1,751 m).Local 
 
 [Alp Zingel](https://urneralpen.ch/schaechental/urnerboden-/-fiseten/zingel/) is a fully operational seasonal dairy farm. If the herders are there, you can take a breather and buy fresh alpine milk and cheese directly from the source before starting your true downhill hike.
@@ -158,6 +161,7 @@ Follow the marked footpath heading west / southwest. The path winds down the gra
 The trail steadily drops elevation, eventually taking you back through the switchbacks of the forest belt above the valley floor.
 
 The path brings you straight back down behind the former Hotel Wilhelm Tell and onto the flat plains where you can walk the brief distance back to the main parking lot or the village church
+{{< /sac-scale >}}
 
 {{< contact-call 
     name="Rita & Klaus Imhof" 

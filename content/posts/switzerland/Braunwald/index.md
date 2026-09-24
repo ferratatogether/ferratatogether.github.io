@@ -159,8 +159,6 @@ Use the large open-air and covered parking facilities directly at the Linthal va
 
 ## Approach hike 🥾
 
-From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point.
-
 {{< approach 
     sac="T2"
     time="30min" 
@@ -172,8 +170,12 @@ From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past
     elevation_loss="0m" 
 >}}
 
+{{< sac-scale level="T2" >}}
+From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point.
+{{< /sac-scale >}}
+
 ## Exit hike 🚶🏻‍♂️
-{{< approach 
+{{< exit 
     sac="T2"
     time="25min" 
     distance="" 
@@ -183,6 +185,10 @@ From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past
     elevation_gain="0m" 
     elevation_loss="219hm" 
 >}}
+
+{{< sac-scale level="T2" >}}
+After the end of the via ferrata, if you run fast, you can reach the chairlift and Berggasthaus Gumen in 15min, a more real number is more 25-30min walk.
+{{< /sac-scale >}}
 
 see [**Tschingel exit - K3 - 1h**](#tschingel-exit-K3-1h)
 

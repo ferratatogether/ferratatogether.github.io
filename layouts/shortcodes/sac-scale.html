@@ -1,0 +1,128 @@
+{{ $level := .Get "level" | default "T1" }}
+
+{{ $data := dict 
+  "T1" (dict 
+    "name" "Hiking" 
+    "marker" "Yellow Trail" 
+    "marker_bg" "bg-yellow-400 text-gray-900"
+    "color" "#FBBF24" 
+    "bg" "bg-amber-50" 
+    "text" "text-amber-900" 
+    "border" "border-amber-300" 
+    "terrain" "Well-cleared, flat or gently sloped paths. No risk of falling if you stay on the path." 
+    "expect" "Smooth dirt or gravel tracks, wide paths, and staircases. Easy to navigate even in poor visibility." 
+    "reqs" "Basic physical fitness. Normal walking shoes, light sneakers, or trail running shoes are perfectly fine. Map not strictly required.")
+    
+  "T2" (dict 
+    "name" "Mountain Hiking" 
+    "marker" "White-Red-White" 
+    "marker_bg" "bg-gradient-to-r from-red-500 via-white to-red-500 text-gray-900 border border-red-300"
+    "color" "#EF4444" 
+    "bg" "bg-red-50" 
+    "text" "text-red-900" 
+    "border" "border-red-200" 
+    "terrain" "Continuous trail. Terrain can be steep and uneven; falling is possible on steeper off-trail flanks." 
+    "expect" "Exposed roots, rocky patches, and narrow singletrack. Some steep inclines, but no rock climbing." 
+    "reqs" "Basic sure-footedness. Proper hiking boots with a good grip profile are highly recommended. Basic map-reading skills.")
+    
+  "T3" (dict 
+    "name" "Challenging Mountain Hiking" 
+    "marker" "White-Red-White" 
+    "marker_bg" "bg-gradient-to-r from-red-600 via-white to-red-600 text-gray-900 border border-red-400"
+    "color" "#B91C1C" 
+    "bg" "bg-red-100" 
+    "text" "text-red-950" 
+    "border" "border-red-400" 
+    "terrain" "Trail path might be heavily eroded or disappearing. Exposed passages with steep drops are common." 
+    "expect" "Scree slopes, jagged talus fields, and sections secured with steel ropes or ladders. You may need your hands for balance." 
+    "reqs" "Solid sure-footedness and a good head for heights. Sturdy, high-cut trekking boots. Elementary alpine experience.")
+    
+  "T4" (dict 
+    "name" "Alpine Hiking" 
+    "marker" "White-Blue-White" 
+    "marker_bg" "bg-gradient-to-r from-blue-500 via-white to-blue-500 text-gray-900 border border-blue-300"
+    "color" "#3B82F6" 
+    "bg" "bg-blue-50" 
+    "text" "text-blue-900" 
+    "border" "border-blue-300" 
+    "terrain" "Often pathless. Very exposed alpine terrain, tricky grass slopes, rugged crags, and simple glaciers." 
+    "expect" "Steep scrambles, slippery slopes without distinct footprints, and navigating over un-crevassed bare ice or firn." 
+    "reqs" "Familiarity with exposed drops. Rigorous terrain assessment, route-finding navigation, and strong alpine experience.")
+    
+  "T5" (dict 
+    "name" "Challenging Alpine Hiking" 
+    "marker" "White-Blue-White" 
+    "marker_bg" "bg-gradient-to-r from-blue-700 via-white to-blue-700 text-white border border-blue-500"
+    "color" "#1D4ED8" 
+    "bg" "bg-blue-100" 
+    "text" "text-blue-950" 
+    "border" "border-blue-500" 
+    "terrain" "Entirely pathless. Extremely steep cliffs, rugged mountain ridges, and glaciers with a dangerous slip hazard." 
+    "expect" "Exposed, technical scrambling. Loose rock gullies, snowfields, and glacier crossings where slipping means a long fall." 
+    "reqs" "Heavy high-alpine experience. High-stiffness mountaineering boots. Basic mastery of alpine safety gear (ice axe, crampons, rope).")
+    
+  "T6" (dict 
+    "name" "Difficult Alpine Hiking" 
+    "marker" "Usually Unmarked" 
+    "marker_bg" "bg-slate-800 text-slate-100"
+    "color" "#0F172A" 
+    "bg" "bg-slate-900" 
+    "text" "text-white" 
+    "border" "border-slate-950" 
+    "terrain" "Pure wilderness, mostly pathless. Highly exposed, dangerous talus, vertical rock faces, and crevassed glaciers." 
+    "expect" "Sustained Grade II climbing/scrambling (UIAA scale). Precarious footing on crumbling rock and dangerous ice ridges." 
+    "reqs" "Flawless route judgment, top-tier mountaineering skills, and complete mastery of dynamic ropes, anchor placement, and alpine hardware.")
+}}
+
+{{ $current := index $data $level }}
+
+<div style="font-family: system-ui, sans-serif; max-w: 750px; margin: 30px auto; border: 1px solid #e2e8f0; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05); background: #ffffff;">
+  
+  <!-- Banner -->
+  <div style="display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; background: {{ if eq $level "T6" }}#0f172a{{ else }}#f8fafc{{ end }}; border-bottom: 1px solid #e2e8f0; flex-wrap: wrap; gap: 12px;">
+    <div style="display: flex; align-items: center; gap: 16px;">
+      <div style="font-size: 28px; font-weight: 900; background: {{ $current.bg }}; color: {{ $current.color }}; padding: 4px 16px; border-radius: 12px; border: 1px solid {{ $current.border }};">
+        {{ $level }}
+      </div>
+      <div>
+        <h3 style="margin: 0; font-size: 18px; font-weight: 700; color: {{ if eq $level "T6" }}#ffffff{{ else }}#0f172a{{ end }}; line-height: 1.2;">{{ $current.name }}</h3>
+        <span style="font-size: 11px; text-transform: uppercase; tracking: 0.05em; color: #64748b;">SAC Trekking Scale</span>
+      </div>
+    </div>
+    <div style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 9999px; background: {{ $current.color }}; color: white;">
+      {{ $current.marker }}
+    </div>
+  </div>
+
+  <!-- Content Grid -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; padding: 24px;">
+    
+    <!-- Left -->
+    <div style="display: flex; flex-direction: column; gap: 16px;">
+      <div>
+        <h4 style="margin: 0 0 4px 0; font-size: 11px; text-transform: uppercase; color: #94a3b8; letter-spacing: 0.05em;">Terrain & Path</h4>
+        <p style="margin: 0; font-size: 14px; line-height: 1.5; color: #334155;">{{ $current.terrain }}</p>
+      </div>
+      <div>
+        <h4 style="margin: 0 0 4px 0; font-size: 11px; text-transform: uppercase; color: #94a3b8; letter-spacing: 0.05em;">What to Expect</h4>
+        <p style="margin: 0; font-size: 14px; line-height: 1.5; color: #334155;">{{ $current.expect }}</p>
+      </div>
+    </div>
+
+    <!-- Right -->
+    <div style="display: flex; flex-direction: column; gap: 16px; border-left: 1px solid #f1f5f9; padding-left: 20px;">
+      <div>
+        <h4 style="margin: 0 0 4px 0; font-size: 11px; text-transform: uppercase; color: #ef4444; letter-spacing: 0.05em;">Requirements & Gear</h4>
+        <p style="margin: 0; font-size: 14px; line-height: 1.5; color: #334155;">{{ $current.reqs }}</p>
+      </div>
+      {{ if .Inner }}
+      <div style="margin-top: 8px; padding-top: 12px; border-top: 1px dashed #e2e8f0;">
+        <h4 style="margin: 0 0 4px 0; font-size: 11px; text-transform: uppercase; color: #2563eb; letter-spacing: 0.05em;">Tour-Specific Notes</h4>
+        <div style="font-size: 14px; line-height: 1.5; color: #334155;">{{ .Inner | markdownify }}</div>
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</div>
+
