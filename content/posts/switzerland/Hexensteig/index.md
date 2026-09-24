@@ -18,12 +18,12 @@ tags:
 difficulty="K3-K4" 
 duration="4h" 
 durationclimb="3h" 
-vertical="90hm" 
-top="3206m"
-start="2800m"
+vertical="80-130m" 
+top="1674m"
+start="1550m"
 location="Silenen"
-trekup="1h20min"
-trekdown="1:30h">}}
+trekup="1h30min"
+trekdown="45min-1h">}}
 
 ## Location
 {{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
@@ -112,6 +112,37 @@ From Silenen, ride the small open-air Luftseilbahn Chilcherberge cable car up to
 Park your car in the public spaces near the village church, as direct parking right at the tiny lower cable car station is extremely limited or unavailable (max 6 cars).
 [alternative location](https://maps.app.goo.gl/uehGS3EmVLq5RZJB8?g_st=ic) to park for free your car
 
+## Approach hike 🥾
+
+{{< approach 
+    sac="T2"
+    time="1h30min" 
+    terrain="Up" 
+    altitude_start="1,158 (Chilcherberge)" 
+    altitude_end="1550m" 
+    elevation_gain="392m" 
+    elevation_loss="0m" 
+>}}
+
+{{< sac-scale level="T2" >}}
+From the top station, hike up the marked trail toward Seewli past the Pfaffen rock face to the base entry
+{{< /sac-scale >}}
+
+## Exit 🚶🏻‍♂️
+
+{{< exit 
+    sac="T2"
+    time="45min" 
+    terrain="Down" 
+    altitude_start="1674m (Top via)" 
+    altitude_end="1,158 (Chilcherberge)" 
+    elevation_gain="0m" 
+    elevation_loss="516m" 
+>}}
+
+{{< sac-scale level="T2" >}}
+{{< /sac-scale >}}
+
 ## Map 🗺️
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2360.0086555446283!2d8.712553684505965!3d46.911689061292066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478547bbc433fb3b%3A0xf9b3e7f1ff13152e!2sKlettersteig%20Fruttst%C3%A4g%C3%A4!5e1!3m2!1sen!2sch!4v1789324234232!5m2!1sen!2sch" >}}
 
@@ -122,7 +153,7 @@ Park your car in the public spaces near the village church, as direct parking ri
 {{< gpx-map file="gpx/hexensteig.gpx" >}}
 
 ## Start 🏁
-From the Chilcherberge top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
+From the [Chilcherberge](https://www.chilcherbergen.ch) top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
 
 ## Travelling home
 by public transportation
@@ -138,10 +169,10 @@ by public transportation
 No access to water for the duration of the via ferrata, around 4 hours!
 
 Get water or drinks at
-- Bahn station (public WC + soft drinks fridge for 3.-)
+- [Chilcherberge](https://www.chilcherbergen.ch) top station (public WC + soft drinks fridge for 3.-)
 
 ## WC 🚾 🚽
-- - Bahn station (public WC)
+- [Chilcherberge](https://www.chilcherbergen.ch) top station (public WC)
 
 ## Alpine lake 🏊
 two lake in the area.
