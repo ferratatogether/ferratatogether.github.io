@@ -17,7 +17,7 @@ tags:
 {{< viaferratacard 
 difficulty="K3/K5-K6" 
 duration="7h" 
-durationclimb="3h" 
+durationclimb="3-4h" 
 vertical="400hm" 
 top="3206m"
 start="2800m"
@@ -32,7 +32,19 @@ trekdown="1h">}}
 {{< video flyover-jegihorn-via-ferrata.mp4 >}}
 
 ## Route overview ℹ️
-At 3,206 metres above sea level at its highest, the Jegihorn is the highest Via Ferrata in the Western Alps. 1,000 metres of steel cable, 400 anchor points, and a stomach-churning suspension bridge, several ladders  secure the path.
+
+The Jegihorn Via Ferrata is one of the most thrilling and scenic high-altitude routes in Switzerland, offering an unforgettable vertical adventure in the heart of the Saas Valley. Perched high above Saas-Grund, this route takes you to the summit of the Jegihorn at 3,206 meters, making it one of the highest via ferratas in the Western Alps.
+As you ascend, you are treated to a masterclass in alpine grandeur, with jaw-dropping, panoramic views of the Mischabel Hanseg—including the perfectly shaped pyramid of the Weissmies and the towering Dom. The route perfectly balances pure exposure with excellent protection, featuring iron rungs, steep ladders, and a dramatic, optional 65-meter suspension bridge that will get any adventurer's adrenaline pumping. Whether you tackle the challenging traditional route or the demanding, athletic variation, reaching the summit cross rewards you with the ultimate feeling of conquering a true alpine peak.
+
+1,000 metres of steel cable, 400 anchor points, and a stomach-churning suspension bridge, 5 ladders secure the path.
+
+Near the upper portion of the face (around the lower peak at 3,093m), the route offers a dramatic split where you must choose between two starkly different finishes:
+
+### The Normal Route - Ridge Finish (K4) 
+Follows a beautiful, direct line along the natural ridge to the main summit. It maintains a steady climbing rhythm with good rock contact and is technically less exhausting than the variation.
+
+### The Expert Variant - The Bridge (K5)
+An athletic, highly exposed alternative designed for experts only. It features a 65-meter three-cable suspension bridge swaying across a deep, stomach-churning abyss, immediately followed by an intense, vertical wall climb.
 
 {{< notice tip>}} 📓 
 Time is your worst enemy! you can NOT start aroung 9:00AM: You'll have to run down to not miss the last cable car. Start Earlier!
@@ -77,11 +89,10 @@ sbbUrl="https://a.sbbmobile.ch/s/Fr3OKmQv"
 Train Zürich HB to Visp
 Train Visp to Saas Grund
 Bus Saas Grund to Saas Grund Cable car 
-Saas Grund Cable car to Kreuzboden
-
+Saas Grund Cable car to [Kreuzboden](http://www.hohsaas.info/index.php/bahnen)
 
 ## 🚠 Cable Car
-08:00 to 16:30 
+[Kreuzboden](http://www.hohsaas.info/index.php/bahnen) 08:00 to 16:30 
 
 [Timetable of cable car](https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund)
 
@@ -92,10 +103,19 @@ Saas Grund Cable car to Kreuzboden
 {{< gpx-map file="gpx/jegihorn.gpx" >}}
 
 ## Start 🏁 
-2800m  
-[Base station of the Hohsaas gondola in Saas-Grund](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/mountain-hiking/approach-to-the-jegihorn-via-ferrata-991/), T3, 1h30, +480m  
+
+{{< approach 
+    sac="T3"
+    time="1.5h" 
+    terrain="Up" 
+    altitude_start="2397m (Kreuzboden)" 
+    altitude_end="2800m (via start)" 
+    elevation_gain="480m" 
+    elevation_loss="40m"
+>}}
 
 {{< sac-scale level="T3" >}}
+From the [cable car station at Kreuzboden](http://www.hohsaas.info/index.php/bahnen) (2,397 m), hike up to the Weissmieshütte (2,726 m). Next, walk north on a flat trail to the valley near the Fletschhorn glacier and Jegihorn. At point 2,739, turn north and climb to the start of the via ferrata.
 {{< /sac-scale >}}
 
 ## End 🎯
@@ -104,8 +124,20 @@ Saas Grund Cable car to Kreuzboden
 
 ## Exit 🚶🏻‍♂️
 
+{{< exit 
+    sac="T3"
+    time="2h" 
+    terrain="Down" 
+    altitude_start="3206m (Top via)" 
+    altitude_end="2397m (Kreuzboden)" 
+    elevation_gain="0m" 
+    elevation_loss="809m" 
+>}}
+
 {{< sac-scale level="T3" >}}
-2 hours trek down, need catching the last gondola down from Kreuzboden saves 1,100 metres of further descent.
+The descent is a demanding SAC T3/T4 alpine trek. You must navigate down a steep, un-secured channel filled with loose rock rubble and moraines where absolute sure-footedness is non-negotiable. In the early summer months (June to early July), this section frequently harbors dangerous snowfields that require extra caution or specialized tracking.
+
+You MUST catch the last gondola down from Kreuzboden, to avoid 1,100 metres of further descent back in the valley.
 {{< /sac-scale >}}
 
 ## Travelling home

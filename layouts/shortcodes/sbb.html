@@ -6,6 +6,7 @@
 {{ $train := .Get "train" | default "Train" }}
 {{ $date := .Get "date" | default (now.Format "2006-01-02") }}
 {{ $sbbUrl := .Get "sbbUrl" }}
+{{ $variant := .Get "mode" | default "" }} {{/* Accept "dark" to force it */}}
 
 <div class="sbb-card">
   <div class="sbb-header">

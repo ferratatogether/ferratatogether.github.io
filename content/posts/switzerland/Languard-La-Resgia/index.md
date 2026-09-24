@@ -94,7 +94,8 @@ A bit expensive one way for 20.50 CHF to go down back to the valley (but very ve
 ## 🅿️ Parking
 Park at the designated Resgia parking area on the edge of town.
 
-46.4813°, 9.9151°
+{{< osm lon="9.9151" lat="46.4813" text="La resgia parking" >}}
+
 Attention: 3.- CHF per hour!
 
 ## Approach hike 🥾

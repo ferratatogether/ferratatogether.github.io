@@ -120,7 +120,6 @@ None
 {{< approach 
   sac="T1"
   time="5min" 
-  distance="400m" 
   terrain="Mostly flat" 
   altitude_start="1400m" 
   altitude_end="1720m" 
@@ -191,7 +190,7 @@ The path brings you straight back down behind the former Hotel Wilhelm Tell and 
 - [bergsteigen.com](https://www.bergsteigen.com/touren/klettersteig/zingelstoeckli-klettersteig/)
 
 ## My review ⭐️
-
+- Soon
 
 ## Topography 🗺️
 
@@ -210,4 +209,4 @@ The path brings you straight back down behind the former Hotel Wilhelm Tell and 
 Ferrata Together visits:
 | Date | Number of people | Organizer |
 |----------|--------|--------|
-| 25 Sept 2026 | 2 | Cédric Walter |
+| 25 Sept 2026 | 3 | Cédric Walter |
