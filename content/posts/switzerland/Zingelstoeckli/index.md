@@ -170,11 +170,22 @@ The path brings you straight back down behind the former Hotel Wilhelm Tell and 
 
 ## My review ⭐️
 
-## Topography 🗺️ 
+
+## Topography 🗺️
+
+![Zingelstöckli via ferrata topography](img/zingelstöckli-via-ferrata-topography.png)
 
 ## Gallery 🌄 
+
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## GPX 🗺️
  
 {{< gpx-map file="gpx/zingelstoeckli.gpx" >}}
+
+## 📆 Ferrata Together log
+
+Ferrata Together visits:
+| Date | Number of people | Organizer |
+|----------|--------|--------|
+| 25 Sept 2026 | 2 | Cédric Walter |
