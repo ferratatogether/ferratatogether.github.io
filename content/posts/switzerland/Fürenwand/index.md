@@ -48,9 +48,6 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
-## Duration ⏱️
-2-3 hours total
-
 ## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
@@ -59,7 +56,7 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 
 ## Season 🗓️
 Typically June through late October (conditions permitting)
-{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+{{< yearly-calendar highlight="05,06,07,08,09,10" >}}
 
 ## Meeting point 📍
 

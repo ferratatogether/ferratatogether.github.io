@@ -56,7 +56,7 @@ And city
 
 ## Season 🗓️
 Typically June through late October (conditions permitting)
-{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+{{< yearly-calendar highlight="05,06,07,08,09,10" >}}
 
 ## Meeting point 📍
 
@@ -78,7 +78,7 @@ Train Zürich HB to Visp
 Train Visp to Saas Grund
 Bus Saas Grund to Saas Grund Cable car 
 Saas Grund Cable car to Kreuzboden
-Walk T3, +480m, 1h30 to start of climb
+
 
 ## 🚠 Cable Car
 08:00 to 16:30 
@@ -199,8 +199,8 @@ Beginner friendly but demanding and long day 7h minimum
 
 ## Topography 🗺️
 
-![Jegihorn-via-ferrata-topography1](topo1.jpg)
-![Jegihorn-via-ferrata-topography2](topo2.jpg)
+![Jegihorn-via-ferrata-topography1](img/topo1.jpg)
+![Jegihorn-via-ferrata-topography2](img/topo2.jpg)
 
 ## Gallery 🌄
 
