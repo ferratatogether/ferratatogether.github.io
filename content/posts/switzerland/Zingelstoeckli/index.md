@@ -101,7 +101,9 @@ sbbUrl="xxxx"
 
 ## By Car 🚗
 
-Drive via the scenic Klausen Pass. You can approach either from Altdorf (Canton Uri) over the pass summit, or directly from Linthal/Glarus up to Urnerboden.
+Drive via the scenic Klausen Pass (1h53 from Zürich) over the pass summit or You can approach from Altdorf directly from Linthal/Glarus up to Urnerboden (1h30 from Zürich).
+
+[Google map](https://www.google.com/maps/dir/Zürich/Klettersteig+Zingelstöckli,+Klausenstrasse,+8751+Spiringen/@47.1200898,8.4231791,110144m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x47900b9749bea219:0xe66e8df1e71fdc03!2m2!1d8.541694!2d47.3768866!1m5!1m1!1s0x47853be461f01d07:0xb60382850217b3bb!2m2!1d8.8994188!2d46.894391!3e0?entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D)
 
 ## Parking 🅿️
 
