@@ -33,7 +33,14 @@
   {{ if .Get "address" }}
     <span class="contact-divider">&#8226;</span>
     <span class="contact-text">
-      <span class="contact-icon">&#128205;</span>{{ .Get "address" }}
+      <span class="contact-icon">&#128205;</span>
+      {{ if .Get "addressLink" }}
+        <a href="{{ .Get "addressLink" | safeURL }}" target="_blank">  
+          {{ .Get "address" }}
+        </a>
+      {{ else }}
+         {{ .Get "address" }}
+      {{ end }}
     </span>
   {{ end }}
 
