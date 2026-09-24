@@ -168,14 +168,21 @@ From the North (Bern / Thun / Zurich / Basel): Take the A6 highway toward Spiez,
 ## GPX 🗺️
 {{< gpx-map file="gpx/daubenhorn.gpx" >}}
 
-## Start 🏁
-Starting Point: Upper Gemmi Pass Cable Car Station (2,346 m).
+## Approach
+{{< approach 
+    sac="T2"
+    time="20-30min" 
+    distance="" 
+    terrain="down" 
+    altitude_start="2346m (Gemmipass Cable Car)" 
+    altitude_end="2060m" 
+    elevation_gain="0m" 
+    elevation_loss="286m" 
+>}}
 
-**The Route:** Head down slightly toward the Gemmi Pass height, then hook a sharp left (Southeast). Follow the old winding trail descending the cliffside down to Untere Schmitte, a flat grassy terrace.
+Head down slightly toward the Gemmi Pass height, then hook a sharp left (Southeast). Follow the old winding trail descending the cliffside down to Untere Schmitte, a flat grassy terrace.
 
-**The Entry:** At approximately 2,060 m, you will see a massive white information board marking the official start of the cables.
-
-**Time & Distance:** The T2 approach takes 20 to 30 minutes of hiking before you transition to clipping into the iron path.
+At approximately 2,060 m, you will see a massive white information board marking the official start of the cables.
 
 {{< osm lon="7.614459" lat="46.393262"text="Entry of Daubenhorn Via Ferrata" >}}
 
@@ -197,6 +204,16 @@ Starting Point: Upper Gemmi Pass Cable Car Station (2,346 m).
 {{< iframe src="https://www.peakfinder.com/?lat=46.38860&lng=7.60278&ele=2942&azi=40.01&alt=-4.25&fov=45&date=2019-10-20T22:47Z&cfg=es&name=Daubenhorn" >}}
 
 ## Exit 🚶🏻‍♂️
+{{< exit 
+    sac="T2"
+    time="2-2.5h" 
+    distance="" 
+    terrain="down" 
+    altitude_start="2941m" 
+    altitude_end="2346m (Gemmipass Cable Car)" 
+    elevation_gain="0m" 
+    elevation_loss="595m" 
+>}}
 The walk off is also not to be underestimated, another good 2/2.5hrs from the top back to the gondola station. Crosses the small Daubenhorn Glacier down to Lämmerenboden and back toward the Gemmi area.
 
 ## Travelling home 🏡

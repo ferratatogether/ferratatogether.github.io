@@ -157,18 +157,36 @@ To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to th
 
 Use the large open-air and covered parking facilities directly at the Linthal valley station. The parking use [ParkingPay](https://parkingpay.ch) and not EasyPark. You can pay with twint.
 
-## Approach hike 🏁
+## Approach hike 🥾
 
 From Berggasthaus Gumen (1901m) follow the marked alpine path diagonally up past the paraglider launch area on the Gumengrat ridge to the via ferrata entry point.
 
-- Start of the hike 1901m (Berggasthaus Gumen)
-- End of the approach hike: 2120m
-- It can take approx. 30 to 45min for 219Hm
+{{< approach 
+    sac="T2"
+    time="30min" 
+    distance="400m" 
+    terrain="Up" 
+    altitude_start="1901m (Berggasthaus Gumen)" 
+    altitude_end="2120m" 
+    elevation_gain="219hm" 
+    elevation_loss="0m" 
+>}}
 
 ## Exit hike 🚶🏻‍♂️
+{{< approach 
+    sac="T2"
+    time="25min" 
+    distance="" 
+    terrain="down" 
+    altitude_start="2120m" 
+    altitude_end="1901m (Berggasthaus Gumen)" 
+    elevation_gain="0m" 
+    elevation_loss="219hm" 
+>}}
+
 see [**Tschingel exit - K3 - 1h**](#tschingel-exit-K3-1h)
 
-## Travelling home 🏠
+## Travelling home 🏠
 
 If you take on the Medium or Long circuits, expect to spend the entire day out, returning to Zurich in the evening
 
@@ -258,5 +276,5 @@ Noticing some defects during the climb? contact immediately:
 
 Ferrata Together visits:
 | Date | Number of people | Organizer |
-|----------|--------------------|
+|----------|--------------------| ---- 
 | 20 Sept 2026 | 9 | Cédric Walter |

@@ -72,15 +72,11 @@ Typically 1. May through 31. October (conditions permitting)
 
 {{< yearly-calendar highlight="05,06,07,08,09,10" >}}
 
-## Duration 
-About 30 min approach, 
-1 to 1.5 hours on the wire, and a marked hiking descentLocation & Access: Starts at Urnerboden (Switzerland's largest alpine pasture), reached via the Klausen Pass. Free parking is available near the village church.
-
 ## WhatsApp group 💬 
 
 {{< whatsapp-groups 
   link1="https://links.waltercedric.com/ferratatogether" 
-  link2="" 
+  link2="https://links.waltercedric.com/zingelstoeckli-ferrata-together" 
 >}}
 
 ## Meeting point 📍
@@ -123,14 +119,34 @@ None
 
 From the church parking area, walk back toward the main road. Head to the right side of the abandoned Hotel Wilhelm Tell (or its ruins). A narrow path leads through the meadow and splits off to the right into the forest, marked with blue signs ("Klettersteig") and orange paint markers. Follow this through the trees up to the starting wall.
 
-5min, 400m, Mostly flat, -25m
-
-[Google map approach hike](https://maps.app.goo.gl/zMcx6xTHcdResPTg7)
+{{< approach 
+  sac="T1"
+  time="5min" 
+  distance="400m" 
+  terrain="Mostly flat" 
+  altitude_start="1400m" 
+  altitude_end="1720m" 
+  elevation_gain="+0m" 
+  elevation_loss="-25m" 
+  map_url="https://maps.app.goo.gl/zMcx6xTHcdResPTg7"
+>}}
 
 ## Exit routes
 An emergency exit is available about halfway up. 
 
 ## Exit hike 🚶🏻‍♂️
+
+{{< exit 
+    sac="T1"
+    time="45min" 
+    distance="" 
+    terrain="down" 
+    altitude_start="1751m" 
+    altitude_end="1400m" 
+    elevation_gain="0m" 
+    elevation_loss="351m" 
+>}}
+
 Once you top out and unclip from the final cable of the via ferrata, make a very brief, gentle uphill walk across the alpine meadow toward the visible huts of [Alp Zingel](https://urneralpen.ch/schaechental/urnerboden-/-fiseten/zingel/) (1,751 m).Local 
 
 [Alp Zingel](https://urneralpen.ch/schaechental/urnerboden-/-fiseten/zingel/) is a fully operational seasonal dairy farm. If the herders are there, you can take a breather and buy fresh alpine milk and cheese directly from the source before starting your true downhill hike.
