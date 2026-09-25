@@ -282,5 +282,5 @@ Noticing some defects during the climb? contact immediately:
 
 Ferrata Together visits:
 | Date | Number of people | Organizer |
-|----------|--------------------| ---- 
+|----------|--------------------| ---- |
 | 20 Sept 2026 | 9 | Cédric Walter |

@@ -80,33 +80,34 @@ Recommended is to take an earlier train through, so you have more reserve time f
 ## Recommended train 🚂
 
 {{< sbb start="Zürich HB" 
-destination="Linthal Braunwaldbahn station" 
+destination="Silenen Dägerlohn (Uri)" 
 time="08:05" 
 platform="6" 
 duration="1h30min" 
 train="IR 46" 
 date="2026-09-20"
-sbbUrl="https://a.sbbmobile.ch/s/PL4hAouP"
+sbbUrl="https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7ESilenen%2C+D%C3%A4gerlohn_I8505664&day=2026-09-27&time=07_00&moment=dep&trip=0_2"
  >}}
 
 - At Ertsfeld train station [you take a bus for 6 min to Silenen Dägerlohn bus station](https://www.sbb.ch/en/trip?tripId=3HA.eNqllN1u2kgUx0XSLV32zlcb-qFRjVaV0oiZ8Xg8joSEMRC-P4wBw01FjfkKGGJC6qK-y96stG-Qq71K36MvUGlfYdc2EKfNai92x9LM-Y_8O-fM8RzH_oxyX6N3t4Vy8e5WTygplK6n-p__cKbmBBQyaSPFRAIxQuleikiCxJAkpSveJhQghOlBCmGW3mM5Z309suZDH6IiJCLxIcowFIiwg0SEyAHCEFPIPDcMiqGQMUkUNUAowAQJiQRKBOPu9-5_i_It9BZkBhN7shztaSrBA00gDWhJEhh9lKOf1gPBEg8y0_9nkB3dms4t27Lfguzn38aWM19O7ICnMpSC6lNJxj61OyKljwspC-ihEBMZQCACCLEw29uyenfLd3I85tU8jyDkVYX3pqo3tYqqziNeqfKIEip6BvZ2FR0qNb6e5XlN5wXK-y72PiCf0y54gS8Ua76tlnlBogIWP4ULQfcL9J5AYEo_CZ7AwdYZRkQiTKCE-b61g3PkqZZno3cFsi4qu6EqGNeN9k22mmldJNlGdKY1B21X275sdgpKoyIV22Nj2UQLF62qN1W3UjaSQr-aaw4zpmjYDXNLFptCrpYvDSoTt9kiedYlg_Y6L1-W26NaY5mpFWuypjCmJVtXyqViddZuyy3UPnZWzWGvP9ZUnLQyWfMy-aFnNMu5U9pVO9vLrrJxZJgdlZzsDHU3jffGTW-pd5fbTQMPe7UPPVYSrStxPBoz470u1c0W2Ug3E-QQ0VVXA6s-0426aU_ri8asbXSW_Y6TFE_7-fXImdnO4jo7Rc0rFzaQOnanczo1uxXVvfho26U-q5S6uj2aDwelsbucjfBKZKOOWYUXSB2Itn2amaioPL-eK01F4b5EuEQsum9g7sS_L2eQnQlQh-wciucQnkLszVw0dowkCiLcT8Hr2Lu94GgvROiJ41BQ8CQUEvjhIBDC4GkoBBDlfjkIEv8muHyOyX1w8Cz-c-yoqHFHhMaf-H-C10-9dKHXQs9ev4xFFO5IA-Cvw4i8CU1uEftRMU1rva5YYy55H437l2gP6AAI2vNReuwfgV8juyMFzPdBBBQyJ7s6MIZkBuI74UMSeB4KBl6EQgYvD-Xy2v37fITwW4FX8ZNYJMMde-0eP_b6PagWQ_TNCXz1NzJpjnI.eNqrVirLTCxWsoqO1QGz_PJLkDkhRYl5xWmpRRCx1IrknNKUVJfEktSUsNSMzOScVK_80qK81EqoCf5KVkoWpgbGBgYGSjpKLhCeqZmZCZCXAuQZGRiZ6RpY6BqDpIEWKRmYW4GVJgLZfkA6B0g7Auk8Jau80pwcHaVckMG1AJjQLks&leg=3) 
 
-- At Silenen Dägerlohn bus station [you need to walk 10min to the cable car parking and meeting point](https://www.google.com/maps/dir/Silenen,+Dägerlohn,+6473+Silenen/Luftseilbahn+Chilcherberg,+Brandistrasse,+6473+Silenen/@46.7914617,8.6702083,358m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47856a174f376345:0x2a965629372f7ba2!2m2!1d8.669075!2d46.792389!1m5!1m1!1s0x47856a6c37a537ab:0x5036be3b301c124d!2m2!1d8.6737476!2d46.790847!3e2?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D)  
+- At Silenen Dägerlohn bus station (Free parking are also located there for the people coming by car)[you need to walk 10min to the cable car parking and meeting point](https://www.google.com/maps/dir/Silenen,+Dägerlohn,+6473+Silenen/Luftseilbahn+Chilcherberg,+Brandistrasse,+6473+Silenen/@46.7914617,8.6702083,358m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47856a174f376345:0x2a965629372f7ba2!2m2!1d8.669075!2d46.792389!1m5!1m1!1s0x47856a6c37a537ab:0x5036be3b301c124d!2m2!1d8.6737476!2d46.790847!3e2?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D)  
 
 ## By Car 🚗
 To reach the Hexensteig via ferrata by car from Gland, drive northeast via the A1 and A2 motorways toward Gotthard/Altdorf/Silenen in Canton Uri (approx. 150 km, 1 hour 45 minutes). Exit the A2 at Amsteg/Silenen, drive to Silenen village, and park near the local church or designated spots below, then take the Luftseilbahn Chilcherberge open-air cable car up to begin your hike to the route.
 If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car station https://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
 
 ## 🚠 Historical cable car!
-From Silenen, ride the small open-air Luftseilbahn Chilcherberge cable car up to the Chilcherberge mountain station. Note that it is a small self-service cabin where you call the operator via an intercom at the bottom, and cash (or TWINT if supported) is recommended for the roughly CHF 7–10 single ticket. You'll pay at the top of the station.
+From Silenen, ride the small open-air [Luftseilbahn Chilcherberge cable car](https://www.chilcherbergen.ch/) up to the Chilcherberge mountain station. Note that it is a small self-service cabin where you call the operator via an intercom at the bottom. 
+
+You can pay at the top of the sation wth cash or TWINT for the roughly CHF 7–10 single ticket. 
 
 [Cable car location](https://maps.app.goo.gl/Tpa13H8QZGaSsA9p9?g_st=ic)
 - 7.00 to 21.00 in evening, costs 14.- both way (cash, card or Twint), 
 - up to 4 people (or 320 kg) per trip.
-- Top of cable car at 1159m https://www.chilcherbergen.ch/ 
-- Could be busy with waiting time.
-- At the top, they are selling soft drinks for 3.-, have toilets
-- Tips: when going down, take seats in front :-)
+- Top of cable car at 1159m
+- Could be busy with waiting time,
+- Tips: when going down, take the seats in front for a surprise
 
 ## 🅿️ Parking
 Park your car in the public spaces near the village church, as direct parking right at the tiny lower cable car station is extremely limited or unavailable (max 6 cars).
@@ -125,7 +126,7 @@ Park your car in the public spaces near the village church, as direct parking ri
 >}}
 
 {{< sac-scale level="T2" >}}
-From the top station, hike up the marked trail toward Seewli past the Pfaffen rock face to the base entry
+From the [Chilcherberge](https://www.chilcherbergen.ch) top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
 {{< /sac-scale >}}
 
 ## Exit 🚶🏻‍♂️
@@ -141,6 +142,7 @@ From the top station, hike up the marked trail toward Seewli past the Pfaffen ro
 >}}
 
 {{< sac-scale level="T2" >}}
+From the top follow the path down, at one point you will see again the sign "Klettersteig" and continue walking down usign the same path you took early that day to approach the via ferrata
 {{< /sac-scale >}}
 
 ## Map 🗺️
@@ -151,9 +153,6 @@ From the top station, hike up the marked trail toward Seewli past the Pfaffen ro
 
 ## GPX 🗺️ full trip
 {{< gpx-map file="gpx/hexensteig.gpx" >}}
-
-## Start 🏁
-From the [Chilcherberge](https://www.chilcherbergen.ch) top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
 
 ## Travelling home
 by public transportation
@@ -206,3 +205,10 @@ Decathlon https://rent.decathlon.ch/de/de-8754883
 
 ## Gallery 🌄 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+## 📆 Ferrata Together log
+
+Ferrata Together visits:
+| Date | Number of people | Organizer |
+|----------|--------------------| ---- |
+| 30 August 2026 | 7 | Cédric Walter |
