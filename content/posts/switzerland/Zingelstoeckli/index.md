@@ -13,6 +13,7 @@ tags:
 
 {{< viaferratacard 
 difficulty="K4-K5" 
+distance="3.41km"
 duration="3h" 
 durationclimb="1.5H" 
 vertical="200m" 
@@ -119,12 +120,12 @@ None
 
 {{< approach 
   sac="T1"
-  time="5min" 
-  terrain="Mostly flat" 
-  altitude_start="1400m" 
-  altitude_end="1720m" 
-  elevation_gain="+0m" 
-  elevation_loss="-25m" 
+  time="30min" 
+  terrain="Mostly up" 
+  altitude_start="1422m" 
+  altitude_end="1533m" 
+  elevation_gain="+111m" 
+  elevation_loss="0m" 
   map_url="https://maps.app.goo.gl/zMcx6xTHcdResPTg7"
 >}}
 
@@ -139,13 +140,13 @@ An emergency exit is available about halfway up.
 
 {{< exit 
     sac="T1"
-    time="45min" 
+    time="30/45min" 
     distance="" 
     terrain="down" 
     altitude_start="1751m" 
-    altitude_end="1400m" 
+    altitude_end="1422m" 
     elevation_gain="0m" 
-    elevation_loss="351m" 
+    elevation_loss="329m" 
 >}}
 
 {{< sac-scale level="T1" >}}
@@ -178,6 +179,21 @@ The path brings you straight back down behind the former Hotel Wilhelm Tell and 
     addressLink="https://maps.app.goo.gl/ig3qzWXyda7pSXKG9"
 >}}
 
+## Water 🚰
+No access to water for the duration of the via ferrata, full round trip 3h
+
+Get water before and/or after your climb near the church:
+![Near the church, there is a fountain before or after your climb](img/water.jpeg)
+
+## WC 🚾 🚽
+- None, you'll have to go to a restaurant at the top of klaussenpass, or a few km away from the via ferrata on your way back to Zürich
+
+## Alp Zingel
+Get drinks after the climb
+- [Alp Zingel](https://urneralpen.ch/schaechental/urnerboden-/-fiseten/zingel/) 4.- soft drinks and bier 5.- or coffee 3.- Pay with Twint
+
+{{< gallery match="alp-zingel/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Links
 
 - [klettersteige-in-uri](https://uri.swiss/klettern/klettersteige-in-uri)
@@ -190,7 +206,10 @@ The path brings you straight back down behind the former Hotel Wilhelm Tell and 
 - [bergsteigen.com](https://www.bergsteigen.com/touren/klettersteig/zingelstoeckli-klettersteig/)
 
 ## My review ⭐️
-- Soon
+- Easy access and exit, 20-30min up and 30-45min down
+- Climb is easy but not recommended for beginners, required in 2 places good clipping and climbing techniques
+- Not too long not too short
+- The farm at the top is nice, the small village too
 
 ## Topography 🗺️
 
@@ -202,7 +221,7 @@ The path brings you straight back down behind the former Hotel Wilhelm Tell and 
 
 ## GPX 🗺️
  
-{{< gpx-map file="gpx/zingelstoeckli.gpx" >}}
+{{< gpx-map file="gpx/zingelstoeckli-via-ferrata.gpx" >}}
 
 ## 📆 Ferrata Together log
 

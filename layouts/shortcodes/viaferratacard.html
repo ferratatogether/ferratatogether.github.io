@@ -20,6 +20,16 @@
   </div>
   {{ end }}
 
+  {{ if .Get "distance" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">🗺️</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Total Distance</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "distance" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
   {{ if .Get "durationclimb" }}
   <div style="display: flex; align-items: center; gap: 0.5rem;">
     <span style="font-size: 1.2rem;">⏱️</span>
