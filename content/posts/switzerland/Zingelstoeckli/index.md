@@ -54,7 +54,7 @@ The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks
 
 ## Zingelstöckli via ferrata flyover
 
-{{< video flyover-zingelstöckli-via-ferrata.mp4 >}}
+{{< video "video/flyover-zingelstöckli-via-ferrata.mp4" >}}
 
 ## Weather ☀️
 

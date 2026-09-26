@@ -50,6 +50,8 @@ The approach follows the hiking trail toward Seewli. Soon you’ll reach a fores
 
 To start the via ferrata, you’ll cross a mini-gorge via a zip line. After that, the route—a combination of tree trunks and iron rungs—leads steeply upward through a rock crevice. About halfway up, a breezy bench invites you to take a break. 
 
+
+
 As you exit the “Hexenhäuschen,” there’s another spot to rest. If you continue climbing for about 10 minutes to the Pfaffen, you’ll be rewarded with a picnic area offering panoramic views. The return route follows the white-blue-white-marked alpine hiking trail downhill.
 
 {{< notice info>}} 👨‍⚖️
@@ -74,8 +76,6 @@ Typically June through late October (conditions permitting)
 ## Meeting point 📍
 
 {{< meetup meetTime="07:50" leaveTime="8:05" platform="6" >}}
-
-Recommended is to take an earlier train through, so you have more reserve time for the last K5 (optional) and enough time to reach the chairlift.
 
 ## Recommended train 🚂
 
@@ -116,7 +116,7 @@ Park your car in the public spaces near the village church, as direct parking ri
 ## Approach hike 🥾
 
 {{< approach 
-    sac="T2"
+    sac="T1"
     time="1h30min" 
     terrain="Up" 
     altitude_start="1,158 (Chilcherberge)" 
@@ -125,14 +125,14 @@ Park your car in the public spaces near the village church, as direct parking ri
     elevation_loss="0m" 
 >}}
 
-{{< sac-scale level="T2" >}}
+{{< sac-scale level="T1" >}}
 From the [Chilcherberge](https://www.chilcherbergen.ch) top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
 {{< /sac-scale >}}
 
 ## Exit 🚶🏻‍♂️
 
 {{< exit 
-    sac="T2"
+    sac="T1"
     time="45min" 
     terrain="Down" 
     altitude_start="1674m (Top via)" 
@@ -141,7 +141,7 @@ From the [Chilcherberge](https://www.chilcherbergen.ch) top station, follow the 
     elevation_loss="516m" 
 >}}
 
-{{< sac-scale level="T2" >}}
+{{< sac-scale level="T1" >}}
 From the top follow the path down, at one point you will see again the sign "Klettersteig" and continue walking down usign the same path you took early that day to approach the via ferrata
 {{< /sac-scale >}}
 
