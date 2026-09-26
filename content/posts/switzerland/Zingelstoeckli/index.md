@@ -189,8 +189,9 @@ Get water before and/or after your climb near the church:
 - None, you'll have to go to a restaurant at the top of klaussenpass, or a few km away from the via ferrata on your way back to Zürich
 
 ## Alp Zingel
-Get drinks after the climb
-- [Alp Zingel](https://urneralpen.ch/schaechental/urnerboden-/-fiseten/zingel/) 4.- soft drinks and bier 5.- or coffee 3.- Pay with Twint
+[Alp Zingel](https://urneralpen.ch/schaechental/urnerboden-/-fiseten/zingel/) is a fully operational seasonal dairy farm. If the herders are there, you can take a breather and buy fresh alpine milk and cheese directly from the source before starting your true downhill hike.
+
+[Alp Zingel](https://urneralpen.ch/schaechental/urnerboden-/-fiseten/zingel/) also sell soft drinks 4.- and bier 5.- or coffee 3.- Pay with Twint
 
 {{< gallery match="alp-zingel/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
