@@ -116,7 +116,7 @@ Park your car in the public spaces near the village church, as direct parking ri
 ## Approach hike 🥾
 
 {{< approach 
-    sac="T1"
+    sac="T3"
     time="1h30min" 
     terrain="Up" 
     altitude_start="1,158 (Chilcherberge)" 
@@ -125,14 +125,16 @@ Park your car in the public spaces near the village church, as direct parking ri
     elevation_loss="0m" 
 >}}
 
-{{< sac-scale level="T1" >}}
+{{< sac-scale level="T3" >}}
+The access hike to the Hexensteig via ferrata (located above Silenen in Canton Uri) is rated T3 on the Swiss Alpine Club (SAC) Hiking Scale. 
+
 From the [Chilcherberge](https://www.chilcherbergen.ch) top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
 {{< /sac-scale >}}
 
 ## Exit 🚶🏻‍♂️
 
 {{< exit 
-    sac="T1"
+    sac="T3"
     time="45min" 
     terrain="Down" 
     altitude_start="1674m (Top via)" 
@@ -141,7 +143,7 @@ From the [Chilcherberge](https://www.chilcherbergen.ch) top station, follow the 
     elevation_loss="516m" 
 >}}
 
-{{< sac-scale level="T1" >}}
+{{< sac-scale level="T3" >}}
 From the top follow the path down, at one point you will see again the sign "Klettersteig" and continue walking down usign the same path you took early that day to approach the via ferrata
 {{< /sac-scale >}}
 
