@@ -129,6 +129,8 @@ Park your car in the public spaces near the village church, as direct parking ri
 The access hike to the Hexensteig via ferrata (located above Silenen in Canton Uri) is rated T3 on the Swiss Alpine Club (SAC) Hiking Scale. 
 
 From the [Chilcherberge](https://www.chilcherbergen.ch) top station, follow the exhausting mountain trail uphill toward Seewli/Pfaffen for about 1 to 1.5 hours (approx. 450 vertical meters of ascent, 10% now shadows, 90% in the forest) until you reach the marked signpost and cairn indicating the entrance to the Hexensteig
+
+![alt text](img/hexensteig-entry.jpeg)
 {{< /sac-scale >}}
 
 ## Exit 🚶🏻‍♂️
@@ -174,6 +176,12 @@ Get water or drinks at
 
 ## WC 🚾 🚽
 - [Chilcherberge](https://www.chilcherbergen.ch) top station (public WC)
+
+## Where to eat after 🥪
+**The Hexensteig Stone Table:** Located right at the end of the via ferrata, this stone picnic table comfortably seats 6 to 8 people, though the surrounding view is fairly limited.
+
+**The Grassy Slope:** Alternatively, you can hike up and slightly back down to reach a scenic spot perfect for sitting directly in the grass.
+![alt text](img/hexensteig-picnic-place.jpeg)
 
 ## Alpine lake 🏊
 two lake in the area.
