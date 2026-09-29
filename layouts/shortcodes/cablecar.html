@@ -1,0 +1,82 @@
+<div class="cable-car-card" style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; max-width: 500px; font-family: sans-serif; box-shadow: 0 4px 6px rgba(0,0,0,0.05); margin: 20px auto;">
+  <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #3182ce; padding-bottom: 10px; margin-bottom: 15px;">
+    <strong style="font-size: 1.2rem; color: #2d3748;">🚠 {{ .Get "name" | default "Cable Car Details" }}</strong>
+    <span style="background: #ebf8ff; color: #2b6cb0; padding: 4px 8px; border-radius: 4px; font-size: 0.85rem; font-weight: bold;">Info</span>
+  </div>
+  
+  <!-- Main Grid Core Info -->
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px 20px; border-bottom: {{ if or (.Get "phone") (.Get "email") (.Get "address") (.Get "remarks") }}1px solid #edf2f7{{ else }}none{{ end }}; padding-bottom: {{ if or (.Get "phone") (.Get "email") (.Get "address") (.Get "remarks") }}15px{{ else }}0{{ end }}; margin-bottom: {{ if or (.Get "phone") (.Get "email") (.Get "address") (.Get "remarks") }}15px{{ else }}0{{ end }};">
+    <div>
+      <span style="font-size: 0.8rem; color: #718096; display: block; text-transform: uppercase;">From</span>
+      <strong style="color: #2d3748;">{{ .Get "from" }}</strong>
+    </div>
+    <div>
+      <span style="font-size: 0.8rem; color: #718096; display: block; text-transform: uppercase;">To</span>
+      <strong style="color: #2d3748;">{{ .Get "to" }}</strong>
+    </div>
+    <div>
+      <span style="font-size: 0.8rem; color: #718096; display: block; text-transform: uppercase;">⏱ Duration</span>
+      <span style="color: #2d3748;">{{ .Get "duration" }}</span>
+    </div>
+    <div>
+      <span style="font-size: 0.8rem; color: #718096; display: block; text-transform: uppercase;">📏 Distance</span>
+      <span style="color: #2d3748;">{{ .Get "distance" }}</span>
+    </div>
+
+    {{ if .Get "capacity" }}
+    <div style="grid-column: span 2;">
+      <span style="font-size: 0.8rem; color: #718096; display: block; text-transform: uppercase;">👥 Cabin Capacity</span>
+      <span style="color: #2d3748;">{{ .Get "capacity" }}</span>
+    </div>
+    {{ end }}
+
+    <div>
+      <span style="font-size: 0.8rem; color: #718096; display: block; text-transform: uppercase;">🕒 Timetable</span>
+      <span style="color: #2d3748;">
+        {{ if .Get "timetable_url" }}
+          <a href="{{ .Get "timetable_url" }}" target="_blank" rel="noopener" style="color: #3182ce; text-decoration: underline;">{{ .Get "timetable" }}</a>
+        {{ else }}
+          {{ .Get "timetable" }}
+        {{ end }}
+      </span>
+    </div>
+    <div>
+      <span style="font-size: 0.8rem; color: #718096; display: block; text-transform: uppercase;">💰 Cost</span>
+      <span style="color: #e53e3e; font-weight: bold;">
+        {{ if .Get "cost_url" }}
+          <a href="{{ .Get "cost_url" }}" target="_blank" rel="noopener" style="color: #e53e3e; text-decoration: underline;">{{ .Get "cost" }}</a>
+        {{ else }}
+          {{ .Get "cost" }}
+        {{ end }}
+      </span>
+    </div>
+  </div>
+
+  <!-- Optional Contact Info -->
+  <div style="display: flex; flex-direction: column; gap: 8px; font-size: 0.9rem; color: #4a5568; margin-bottom: {{ if and (or (.Get "phone") (.Get "email") (.Get "address")) (.Get "remarks") }}12px{{ else }}0{{ end }};">
+    {{ if .Get "address" }}
+    <div>
+      <span style="color: #718096;">📍 Address:</span> <span>{{ .Get "address" }}</span>
+    </div>
+    {{ end }}
+    
+    {{ if .Get "phone" }}
+    <div>
+      <span style="color: #718096;">📞 Phone:</span> <a href="tel:{{ .Get "phone" | urlquery }}" style="color: #3182ce; text-decoration: none;">{{ .Get "phone" }}</a>
+    </div>
+    {{ end }}
+    
+    {{ if .Get "email" }}
+    <div>
+      <span style="color: #718096;">✉️ Email:</span> <a href="mailto:{{ .Get "email" }}" style="color: #3182ce; text-decoration: none;">{{ .Get "email" }}</a>
+    </div>
+    {{ end }}
+  </div>
+
+  <!-- Optional Remarks Field -->
+  {{ if .Get "remarks" }}
+  <div style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 10px 12px; font-size: 0.85rem; color: #dd6b20; border-radius: 0 4px 4px 0; line-height: 1.4;">
+    <strong>Note:</strong> {{ .Get "remarks" }}
+  </div>
+  {{ end }}
+</div>

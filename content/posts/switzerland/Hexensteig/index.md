@@ -117,7 +117,7 @@ Park your car in the public spaces near the village church, as direct parking ri
 
 {{< approach 
     sac="T3"
-    time="1h30min" 
+    time="1h" 
     terrain="Up" 
     altitude_start="1,158 (Chilcherberge)" 
     altitude_end="1550m" 
@@ -222,3 +222,4 @@ Ferrata Together visits:
 | Date | Number of people | Organizer |
 |----------|--------------------| ---- |
 | 30 August 2026 | 7 | Cédric Walter |
+| 27 Sept 2026 | 8 | Yves |

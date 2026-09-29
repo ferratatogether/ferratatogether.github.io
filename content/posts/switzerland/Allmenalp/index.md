@@ -35,6 +35,7 @@ Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it c
 The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA) is a good start to learn how to execute via ferrata in safety, a must read for beginners and experienced climbers. It contains a lot of tips.
 {{< /notice >}}
 
+## Route overview ℹ️
 For beginners that do NOT fear heights.
 The vertical face directly after the starting point, the four roaring waterfalls of the Allmibach, the two three-rope-bridges or the zip line – the via ferrata Allmenalp won't leave one wish unfulfilled!
 
@@ -64,7 +65,7 @@ The variant "Freude herrscht" is classified as K4+ in the SAC via ferrata scale.
 
 ## Season 🗓️
 Typically 16 May/June through late October (conditions permitting)
-{{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
+{{< yearly-calendar highlight="05,06,07,08,09,10" >}}
 
 ## Weather ☀️
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
@@ -73,35 +74,78 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 Source:
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view)
 
-## Difficulty 📈 
-K3-K4, +400m, 3h
+## Meeting point 📍
 
-## Meeting Point 📍
-05:45AM  Zürich HB, Main Meeting point, around the clock
-Find the turquoise Zürich Together Banner.
+{{< meetup meetTime="05:45" leaveTime="5:55" platform="10" >}}
 
-## Time of leaving 🏁
-5:55AM to platform 10
+Recommended is to take an earlier train through, so you have more reserve time for the last K5 (optional) and enough time to reach the chairlift.
 
 ## Recommended train 🚂
-https://a.sbbmobile.ch/s/u3qOIzZM
+
+{{< sbb start="Zürich HB" 
+destination="Linthal Braunwaldbahn station" 
+time="07:12" 
+platform="10" 
+duration="1h30min" 
+train="IC 8" 
+date="2026-09-20"
+sbbUrl="https://a.sbbmobile.ch/s/u3qOIzZM"
+ >}}
 
 ## Cable Car 🚠
-After the climb, we can use the cable car to avoid a trek down (+2h, steep) back to the valley.
-14.- CHF down to the valley or you’ll have to trek 2h down. https://www.allmenalp.ch/en/cable-car/prices.html
+
+{{< cablecar 
+  name="Luftseilbahn Kandersteg-Allmenalp AG" 
+  from="Kandersteg 1181m" 
+  to="Allmenalp 1725m" 
+  duration="5 mins" 
+  distance="1113m" 
+  capacity="8"
+  timetable="May 9 - August 30: 08.30 - 18.00 h | August 31 - October 25: 08.30 – 17.00 h" 
+  timetable_url="https://www.allmenalp.ch/en/cable-car/"
+  cost="CHF 14" 
+  cost_url="https://www.allmenalp.ch/en/cable-car/prices.html"
+  address="Allmenbahnstrasse 23 - CH-3718 Kandersteg"
+  phone="+41 (0)33 675 16 90"
+  email="info@allmenalp.ch"
+  remarks="Because it travels a relatively short horizontal distance while climbing a massive, near-vertical rock face, it is widely considered one of the steepest cable car rides in Europe. The 554-meter altitude gain takes just under 5 minutes to complete - After the climb, we can use the cable car to avoid a trek down (+2h, steep) back to the valley. Tickets can be purchased directly at the valley station. We accept cash (swiss francs), Twint and most of the major debit- and creditcards."
+>}}
 
 ## GPX 🗺️
 {{< gpx-map file="gpx/allmenalp.gpx" >}}
 
-## Approach trek 🏁
+## Approach hike 🥾
 
-15 min on car road from Kandersteg train station, 10min more from rental (cable car building)
+{{< approach 
+    sac="T2"
+    time="15min" 
+    distance="400m" 
+    terrain="Up" 
+    altitude_start="1181m (cable car building)" 
+    altitude_end="1250m (start)" 
+    elevation_gain="69m" 
+    elevation_loss="0m" 
+>}}
 
-## End 🎯
-
-370 m of via ferrata climbing (550 m total ascent from the valley)
+{{< sac-scale level="T2" >}}
+From the bottom cable car station, you cross a small bridge over the Allmibach river and hike uphill through the forest for about 20 minutes to reach the base of the rock wall
+{{< /sac-scale >}}
 
 ## Exit trek 🚶🏻‍♂️
+{{< approach 
+    sac="T2"
+    time="20min" 
+    distance="700m" 
+    terrain="Up" 
+    altitude_start="1600m (cable car building)" 
+    altitude_end="1725m" 
+    elevation_gain="125m" 
+    elevation_loss="0m" 
+>}}
+
+{{< sac-scale level="T2" >}}
+From the bottom cable car station, you cross a small bridge over the Allmibach river and hike uphill through the forest for about 20 minutes to reach the base of the rock wall
+{{< /sac-scale >}}
 
 ### Using cable car
 15min walk steep to restaurant, toilets and cable car.

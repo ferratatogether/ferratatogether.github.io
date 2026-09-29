@@ -72,7 +72,7 @@ sbbUrl="https://a.sbbmobile.ch/s/rGc6SpQI"
 To reach the Sulzfluh via ferrata by public transport:
 - Use SBB 
 - AND
-- reserve a seat in local Bus Alpin using https://www.luzein.ch/de/bus-alpin/st-antoenien-sagaris-partnun-alpenroesli
+- reserve a seat in local Bus Alpin using https://www.luzein.ch/de/bus-alpin/st-antoenien-sagaris-partnun-alpenroesli to avoid a 2h hike on public road to Berghaus Alpenrösli
 
 NOTE about misleading names in this website: 
 - St. Antönien, Sagaris = St Antonien Platz 
