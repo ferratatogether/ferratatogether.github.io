@@ -87,9 +87,9 @@ paginate = 1
   #   jsDateFormat = "yyyy年MM月dd日"
 
   [params.navItems]
-    quickguide = { href = "https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA", target = "_blank", icon = "book", title = "Quick Start Guide" }
-    advancedguide = { href = "https://docs.google.com/document/d/1DlwYLguZtEandi8OJXAx1lN8TRAW05mX1F5DioEo9GE/edit?usp=sharing", target = "_blank", icon = "book", title = "Advanced Guide" }
-    FAQ = { href = "https://docs.google.com/document/d/1YhEtmZ--_Py2u39Vuc1vpGOgYMyvXoZcdSAGDRZo0Ho/edit?usp=sharing", target = "_blank", icon = "book", title = "FAQ" }
+    quickguide = { href = "https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA", target = "_blank", icon = "", title = "Ferrata Quick Start Guide" }
+    advancedguide = { href = "https://docs.google.com/document/d/1DlwYLguZtEandi8OJXAx1lN8TRAW05mX1F5DioEo9GE/edit?usp=sharing", target = "_blank", icon = "", title = "Ferrata Advanced Guide" }
+    FAQ = { href = "https://docs.google.com/document/d/1YhEtmZ--_Py2u39Vuc1vpGOgYMyvXoZcdSAGDRZo0Ho/edit?usp=sharing", target = "_blank", icon = "", title = "FAQ" }
 
   [params.advanced]
       customCSS = ["css/custom.css"] # files in the list will be loaded in order

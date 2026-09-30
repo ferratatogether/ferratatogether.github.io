@@ -29,19 +29,18 @@ Each member is responsible for their own accident insurance. We strongly advise 
 
 The organisers of this group are NOT professional or licensed mountain or climbing guides, but we have decades of climbing experience and are happy to share our knowledge without any liability.
 
-The purpose of this group is NOT to provide any climbing instruction, but merely to allow existing climbers to connect with each other and engage in safe, fun climbing in the superb mountains and crag's of Switzerland.
+The purpose of this group is NOT to provide any climbing instruction, but merely to allow existing climbers to connect with each other and engage in safe, fun climbing in the superb mountains of Switzerland.
 
-Every member must ensure that both they and their climbing buddy on a given day have the correct equipment in good condition (including harness, shoes, helmet, chalk, appropriate clothing, water, food, etc.).
+Every member must ensure that both they and their climbing buddy on a given day have the correct equipment in good condition (including harness, shoes, helmet, appropriate clothing, water, food, etc.).
 
-Each member must ensure that correct "partner checks" are done before EVERY route is climbed 
+Each member must ensure that correct "partner checks" are done before EVERY route is climbed.
 
-To protect the safety of all members, the organisers reserve the right to terminate the membership of anyone who does not abide by the above conditions and/or who is deemed to have inadequate habits, and/or who may put other climbers in danger, and/or who does not support the friendly, courteous and respectful ethos of the group.
+To protect the safety of all members, the organisers reserve the right to forbid anyone to participate  if this person does not abide by the above conditions and/or who is deemed to have inadequate habits, and/or who may put other climbers in danger, and/or who does not support the friendly, courteous and respectful ethos of the group.
 
 ## RSVP
-
 Please only sign up for am event if there is a very high likelihood of your attendance. It takes quite a bit of time for the organisers to arrange an event, and places may be limited. If your plans change, sign out «No» as soon as possible.
 
-With all that said, we look forward to safe, fun and social climbing
+With all that said, we look forward to safe, fun and social climbing.
 
 Some illustrations are from PETZL website, which is the reference. They are here reproduced for more readability, no copyright infringements intended.
 
