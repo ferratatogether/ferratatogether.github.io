@@ -107,9 +107,11 @@ sbbUrl="https://a.sbbmobile.ch/s/u3qOIzZM"
   cost_url="https://www.allmenalp.ch/en/cable-car/prices.html"
   address="Allmenbahnstrasse 23 - CH-3718 Kandersteg"
   phone="+41 (0)33 675 16 90"
-  email="info@allmenalp.ch"
-  remarks="Because it travels a relatively short horizontal distance while climbing a massive, near-vertical rock face, it is widely considered one of the steepest cable car rides in Europe. The 554-meter altitude gain takes just under 5 minutes to complete - After the climb, we can use the cable car to avoid a trek down (+2h, steep) back to the valley. Tickets can be purchased directly at the valley station. We accept cash (swiss francs), Twint and most of the major debit- and creditcards."
->}}
+  email="info@allmenalp.ch" >}}
+- Because it travels a relatively short horizontal distance while climbing a massive, near-vertical rock face, it is widely considered one of the steepest cable car rides in Europe. The 554-meter altitude gain takes just under 5 minutes to complete 
+- After the climb, we can use the cable car to avoid a trek down (+2h, steep) back to the valley. 
+- Tickets can be purchased directly at the valley station. They accept cash (swiss francs), Twint and most of the major debit- and creditcards.
+{{< /cablecar >}}
 
 ## GPX 🗺️
 {{< gpx-map file="gpx/allmenalp.gpx" >}}

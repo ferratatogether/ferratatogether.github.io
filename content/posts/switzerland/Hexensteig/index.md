@@ -100,14 +100,25 @@ If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable
 ## 🚠 Historical cable car!
 From Silenen, ride the small open-air [Luftseilbahn Chilcherberge cable car](https://www.chilcherbergen.ch/) up to the Chilcherberge mountain station. Note that it is a small self-service cabin where you call the operator via an intercom at the bottom. 
 
-You can pay at the top of the sation wth cash or TWINT for the roughly CHF 7–10 single ticket. 
-
 [Cable car location](https://maps.app.goo.gl/Tpa13H8QZGaSsA9p9?g_st=ic)
-- 7.00 to 21.00 in evening, costs 14.- both way (cash, card or Twint), 
-- up to 4 people (or 320 kg) per trip.
-- Top of cable car at 1159m
+
+{{< cablecar 
+  name="Luftseilbahn Kandersteg-Allmenalp AG" 
+  from="Silenen 549m" 
+  to="1159m" 
+  duration="6 mins" 
+  distance="1110m" 
+  capacity="4 / 320kg"
+  timetable="7.00 to 21.00 in evening" 
+  timetable_url="https://www.chilcherbergen.ch"
+  cost="CHF 14 both way" 
+  cost_url="https://www.chilcherbergen.ch"
+  address="Chilcherberge; 6473 Silenen"
+  phone=" Epp Alois; +41 (0)79 339 57 02">}}
+- Cash or Twint
 - Could be busy with waiting time,
-- Tips: when going down, take the seats in front for a surprise
+- When going down, take the seats in front for a surprise!
+{{< /cablecar >}}
 
 ## 🅿️ Parking
 Park your car in the public spaces near the village church, as direct parking right at the tiny lower cable car station is extremely limited or unavailable (max 6 cars).

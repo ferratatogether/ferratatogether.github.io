@@ -92,11 +92,31 @@ Bus Saas Grund to Saas Grund Cable car
 Saas Grund Cable car to [Kreuzboden](http://www.hohsaas.info/index.php/bahnen)
 
 ## 🚠 Cable Car
-[Kreuzboden](http://www.hohsaas.info/index.php/bahnen) 08:00 to 16:30 
+[Kreuzboden](http://www.hohsaas.info/index.php/bahnen) 
 
-[Timetable of cable car](https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund)
+[Timetable of cable car]()
+
+{{< cablecar 
+  name="Bergbahnen Hohsaas" 
+  from="Saas-Grund 1559m" 
+  to="Kreuzboden 2397m" 
+  duration="8 mins" 
+  distance="+900hm" 
+  capacity="8"
+  timetable="08:00 to 16:30" 
+  timetable_url="https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/fahrplaene-bergbahnen/sommer/saas-grund"
+  cost="CHF 39 both way" 
+  cost_url="https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/tarife-bergbahnen"
+  address="Bergbahnen Hohsaas AG, Seilbahnstrasse 18, CH-3910 Saas-Grund"
+  phone="+41 27 958 15 80"
+  email="info@hohsaas.ch" >}}
+- Top of station Hohsaas 3142m but you must exit at Kreuzboden!
+{{< /cablecar >}}
 
 ## Map 🗺️
+
+[Saas Grund realtime map](https://infosnow.ch/~apgmontagne/?id=206&tab=map-su&lang=de?)
+
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2393.1704989106906!2d7.970957275637942!3d46.153891887158856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478f4598bf0deee7%3A0x658f62718bccb73e!2sKlettersteig%20J%C3%A4gihorn%20(Jegihorn)!5e1!3m2!1sen!2sch!4v1789324440451!5m2!1sen!2sch" >}}
 
 ## GPX 🗺️
