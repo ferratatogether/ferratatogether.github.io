@@ -88,6 +88,10 @@ K3, -170m, nt really a climb, more a walk 80% in the forest. 3 bridges.
 ## Recommended train 🚂
 6:02 Platform 10 https://a.sbbmobile.ch/s/FTVOE29
 
+## By Car 🚗
+
+{{< google-map-directions origin="Zurich" destination="Lauterbrunnen" mode="d" height="500" >}}
+
 ## 🚠 Cable car
 After the via ferrata or a 1h30 walk on road up for free
 

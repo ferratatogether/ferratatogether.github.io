@@ -68,6 +68,8 @@ To reach the Aletsch Via Ferrata (located around the Gibidum Reservoir at the Ma
 
 ## By Car 🚗
 
+{{< google-map-directions origin="Zurich" destination="Blatten b. Naters (Belalpbahn)" mode="d" height="500" >}}
+
 ## Parking 🅿️ 
 Parking lot at the Gibidum reservoir outside the village of Blatten near Naters (1482m)
 

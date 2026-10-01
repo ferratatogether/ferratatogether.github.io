@@ -2,7 +2,7 @@
 title: "Dei Tre Signori Ferrata Together"
 date: 2026-09-03T9:44:17+01:00
 summary: "The Via Ferrata dei Tre Signori is a highly regarded, modern climbing route located in the Sementina Valley near Monte Carasso / Bellinzona in the canton of Ticino, Switzerland. Known for its eco-friendly construction and breathtaking views over the Piano di Magadino and Monte Tamaro, it features multiple variants suited for different experience levels"
-cover: /img/deitreisignori.webp
+cover: img/deitreisignori.webp
 tags:
   - via-ferrata
   - K5
@@ -80,6 +80,10 @@ sbbUrl="https://a.sbbmobile.ch/s/SD8RUtqh"
 
 Zürich HB  -> Monte Carasso by train then take the bus to Urènn/Funivia 
 
+## By Car 🚗
+
+{{< google-map-directions origin="Zurich" destination="Funivia Monte Carasso - Mornera, I Fracc 1, 6513 Monte Carasso" mode="d" height="500" >}}
+
 ## Cable Car 🚠
 
 {{< notice info>}} 👨‍⚖️
@@ -96,7 +100,7 @@ This could be after 19:20 or later. A lot of locals are going down late with the
 {{< /notice >}}
 
 ## GPX 🗺️
-{{< gpx-map file="deitreisignori.gpx" >}}
+{{< gpx-map file="gpx/deitreisignori.gpx" >}}
 
 ## WhatsApp group 💬
 
@@ -130,7 +134,7 @@ Beginner friendly (right path)
 
 ## Gallery 🌄
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## 📆 Ferrata Together log
 

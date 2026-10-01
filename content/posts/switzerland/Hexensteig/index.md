@@ -97,13 +97,15 @@ sbbUrl="https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7ESilenen%2C+D%C3%A4
 To reach the Hexensteig via ferrata by car from Gland, drive northeast via the A1 and A2 motorways toward Gotthard/Altdorf/Silenen in Canton Uri (approx. 150 km, 1 hour 45 minutes). Exit the A2 at Amsteg/Silenen, drive to Silenen village, and park near the local church or designated spots below, then take the Luftseilbahn Chilcherberge open-air cable car up to begin your hike to the route.
 If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car station https://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
 
+{{< google-map-directions origin="Zurich" destination="Seilbahn Chilcherbergen, Brandistrasse 1, 6473 Silenen" mode="d" height="500" >}}
+
 ## 🚠 Historical cable car!
 From Silenen, ride the small open-air [Luftseilbahn Chilcherberge cable car](https://www.chilcherbergen.ch/) up to the Chilcherberge mountain station. Note that it is a small self-service cabin where you call the operator via an intercom at the bottom. 
 
 [Cable car location](https://maps.app.goo.gl/Tpa13H8QZGaSsA9p9?g_st=ic)
 
 {{< cablecar 
-  name="Luftseilbahn Kandersteg-Allmenalp AG" 
+  name="Seilbahn Chilcherbergen" 
   from="Silenen 549m" 
   to="1159m" 
   duration="6 mins" 

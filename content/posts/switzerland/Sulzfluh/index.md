@@ -89,6 +89,10 @@ To get by car to the Sulzfluh via ferrata, drive through the Prättigau valley i
 turn up toward St. Antönien, and continue past the village toward Partnun up to the designated mountain 
 parking lots (such as P6 or further up toward Partnunstafel), from where you hike 1.5 to 2 hours to the start. (avoid that by making somewhere near St Antonien Platz and take the alpin bus, see above)
 
+## By Car 🚗
+
+{{< google-map-directions origin="Zurich" destination="Partnun" mode="d" height="500" >}}
+
 ## 🅿️ Parking
 St. Antönien in Prättigau (1,420 meters). 
 Bus from Küblis railway station to Rüti or parking lots below Partnun (1620 meters).

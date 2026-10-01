@@ -80,7 +80,7 @@ It is **faster and easier** to take the car to join the start of this via ferrat
 - 9:10 arrival at Tällibahn
 - https://a.sbbmobile.ch/s/Gb6VKwsU
 
-## 🚠 Cable car
+## Cable car 🚠
 Tällibahn cable car has a capacity of 8 people, or 4 people seated. It ascends to an altitude of 1714 meters, covering a vertical gain of 540 meters in 7 minutes. The route is 1236 meters long. The cable car belongs to the Oberhasli power company and was opened in 1957. Tickets can be purchased online, at the Grimseltor Tourist Center in Innertkirchen, and at the ticket machines (cashless only) at the valley and mountain stations of the Tällibahn.
 
 - Self service cable car
