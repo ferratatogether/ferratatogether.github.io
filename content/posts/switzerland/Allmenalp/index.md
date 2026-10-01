@@ -195,6 +195,13 @@ Renting Equipment (+25 CHF max)
 * only harness: CHF 10
 * material to buy: gloves CHF 5 
 
+## Other things to do
+* Take gondola to Oeschinensee Lake: hike lakeside or rent a boat 
+* [Go paragliding](https://paragliding-kandertal.ch/angebote/erlebnisflug-allmenalp/) 
+* [Hiking map](https://www.allmenalp.ch/de/erleben/wandern.html)
+* Naturpark Blausee 
+* Rodelbahn Oeschinensee 
+
 ## Links 🔗
 - [Allmenalp via ferrata official page](https://www.allmenalp.ch/en/experience/climbing.html)
 - [SAC](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/allmenalp-8207/klettersteig/klettersteig-kandersteg-allmenalp-1840/)

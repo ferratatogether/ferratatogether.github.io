@@ -326,5 +326,13 @@
     "difficulty": "K4",
     "summary": "A historic military valley fort pass route. Climbs dense limestone walls using tight rungs, leading into subterranean tunnel shafts and defensive bunkers.",
     "url": "/posts/switzerland/taffignon/"
+  },
+  {
+    "name": "Via Ferrata Charmey",
+    "lat": 46.6208,
+    "lon": 7.2102,
+    "difficulty": "KK3-K4/K5/K6",
+    "summary": "The Via Ferrata de Charmey is a modern, high-quality via ferrata network located on the steep slopes of the Dent de Vounetse (1,813m) in the Fribourg Prealps. Open seasonally from May to October, it features three distinct routes that cater to different skill levels—ranging from a fun intermediate climb to one of the most physically demanding, overhanging routes in Switzerland.",
+    "url": "/posts/switzerland/charmey/"
   }
 ]
