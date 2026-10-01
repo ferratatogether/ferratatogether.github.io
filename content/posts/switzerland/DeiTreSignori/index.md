@@ -39,7 +39,25 @@ location="Monte Carasso"
 trekup="1h"
 trekdown="1:30">}}
 
-A via ferrata is a protected, fixed-cable climbing route that allows people to traverse steep or difficult rocky terrain safely. These routes incorporate steel cables, rungs, ladders, and bridges, which serve as both climbing aids and continuous anchors for a special via ferrata safety set to clip into, blending the experience of hiking and rock climbing.
+The Via Ferrata dei Tre Signori is one of the most spectacular and airy protected climbing routes in the Canton of Ticino. It is located on the vertical rock face of Sasso Torrasco (between Mornera and Albagno) in the Sementina Valley, right above Monte Carasso and Bellinzona. The route features distinct variants ranging from medium difficulty (K3) to extremely challenging (K5/K6), culminating in a thrilling 15-meter suspension bridge.
+
+![Dei Tre Signori Ferrata overview](img/overview.jpeg)
+
+### Shared Start
+
+The route begins with a common vertical slab section before splitting into separate variants.
+
+### Via Media (Medium Route)
+
+Rated C/K3. It is well-equipped with iron steps and rungs, making it suitable for climbers with moderate experience.
+
+### Via Difficile (Difficult Route)
+
+Rated D/E up to K6. An incredibly athletic, exposed, and overhanging route that requires excellent upper body strength and absolute freedom from vertigo.
+
+### Suspension Bridge
+
+Both routes converge near a short optional Tibetan bridge suspended over the abyss, offering panoramic views of the Magadino Plain before the descent.
 
 {{< notice info>}} 👨‍⚖️
 Newcomers [MUST sign the waiver form](https://forms.gle/phYLQZ5mvnNeuR9N9), it contains detailed information about the risks difficulty and more 
@@ -60,7 +78,6 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 
 Typically June through late October (conditions permitting)
 {{< months highlight="5,6,7,8,9,10" class="month-list" activeClass="highlighted" >}}
-
 
 ## Meeting point 📍
 
@@ -86,18 +103,64 @@ Zürich HB  -> Monte Carasso by train then take the bus to Urènn/Funivia
 
 ## Cable Car 🚠
 
-{{< notice info>}} 👨‍⚖️
+{{< cablecar 
+  name="The Monte Carasso – Mornera Cable Car " 
+  from="300m" 
+  to="1400m" 
+  duration="10-12min" 
+  distance="+1300m" 
+  capacity="8 / 650kg"
+  timetable="06:30 to 21:30" 
+  timetable_url="https://www.mornera.ch/en/cable-car/"
+  cost="CHF 21.-" 
+  cost_url="https://www.mornera.ch/en/cable-car/"
+  address="Fracc 1, 6513 Monte Carasso, Switzerland."
+  phone="+41 91 825 81 88"
+  email="carasc@bellinzona.ch" >}}
 You must reserve your seats using this link https://www.mornera.ch/en/cable-car/.
 1. Monte-Carasso to Mornera at around 9:15
 2. Mornera to Monte-Carasso at around 17:15
-{{< /notice >}}
 
-Cable car cost CHF 21.00 both way (In case of emergency cable car staff can be reached at the following phone number +41 91 825 81 88.)
+The line includes two intermediate stations where passengers can disembark: Curzútt (~600m) (popular for the Carasc Tibetan Bridge) and Pientina (1,000m).
+
+It transitions to an automated, self-service operator framework outside of staff hours. Note that it closes briefly on Wednesdays from 08:00 to 10:00 for routine maintenance.
+{{< /cablecar >}}
 
 {{< notice info>}} 👨‍⚖️
 If you miss your time slot, or somebody take your seat (punch it!) you'll have to wait till there is a no show or enough space in the cabin!
 This could be after 19:20 or later. A lot of locals are going down late with their garbage bag.
 {{< /notice >}}
+
+## Approach hike 🥾
+
+{{< approach 
+    sac="T1"
+    time="45min" 
+    distance="2000m" 
+    terrain="15min Up then flat" 
+    altitude_start="1347m (Mornera station)" 
+    altitude_end="1390m" 
+    elevation_gain="43m" 
+    elevation_loss="0m" 
+>}}
+
+{{< sac-scale level="T1" >}}
+{{< /sac-scale >}}
+
+## Exit hike 🚶🏻‍♂️
+{{< exit 
+    sac="T1"
+    time="45min" 
+    distance="" 
+    terrain="down" 
+    altitude_start="1695m/1740m" 
+    altitude_end="1347m (Mornera station)" 
+    elevation_gain="0m" 
+    elevation_loss="393m" 
+>}}
+
+{{< sac-scale level="T1" >}}
+{{< /sac-scale >}}
 
 ## GPX 🗺️
 {{< gpx-map file="gpx/deitreisignori.gpx" >}}
@@ -113,7 +176,8 @@ This could be after 19:20 or later. A lot of locals are going down late with the
 Restaurant near cable car at the top.
 Equipment rental at Grotto Mornera to be booked at 091 825 84 38 (helmet + set CHF 30.00) Or bringing your own Via Ferrata complete set.
 
-## My review
+## My review ⭐️
+
 Beginner friendly (right path)
 
 - Scenic but not much, forest
@@ -124,13 +188,13 @@ Beginner friendly (right path)
 - No help of iron steps, only safety cable, easy to grab rocks and use shoes friction
 - Recommend to do right path then trek down 15min then do the left more difficult path (technically demanding, physically brutal)
 
-## Links
+## Links 🔗
 - [Ticino](https://www.ticino.ch/de/commons/details/Via-Ferrata-dei-Tre-Signori/83778.html)
 - [Mornera](https://www.mornera.ch/my-product/via-ferrata-dei-tre-signori/)
 
-## My review ⭐️
-
 ## Topography 🗺️ 
+
+![Dei Tre Signori Ferrata overview](img/topo.jpeg)
 
 ## Gallery 🌄
 
@@ -139,7 +203,7 @@ Beginner friendly (right path)
 ## 📆 Ferrata Together log
 
 Ferrata Together visits:
-| Date | Number of people |
-|----------|--------------------|
-| 6 Sept 2026 | 4 |
-| 3 Mai 2026 | 1 |
+| Date | Number of people | Organizer |
+|----------|--------------------|--------------------|
+| 6 Sept 2026 | 4 | Cédric Walter |
+| 3 Mai 2026 | 1 | Cédric Walter |
