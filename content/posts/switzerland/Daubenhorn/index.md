@@ -155,12 +155,13 @@ To reach the Daubenhorn via ferrata by car, drive to the mountain village of Leu
 From the North (Bern / Thun / Zurich / Basel): Take the A6 highway toward Spiez, head toward Kandersteg, and use the Lötschberg car shuttle train (Kandersteg–Goppenstein). From Goppenstein, follow the signs via Gampel and Leuk up to Leukerbad
 
 ## Parking 🅿️
+There are three major multi-storey public parking garages located directly along Ringstrasse in Leukerbad, allowing you to park close to the thermal baths, local town administration, or the ski lifts
 
 **Parking in Leukerbad Gemmi-Bahnen Parking:** Multi-story and open-air parking spaces are available directly at the Gemmi cable car valley station.
 
 **Alternative Village Parking:**  You can also use other central parking garages in Leukerbad, such as the Sportarena or Alpentherme garages, and follow local signs to the cable car.
 
-{{< osm lon="7.626467" lat="46.382819" text="Parking location" >}}
+{{< osm lon="7.626467" lat="46.382819" text="Parking location" more="Ringstrasse" >}}
 
 ## Cable Car 🚠
 The Gemmi Cable Car (Gemmibahn) transports passengers from Leukerbad (1,411 meters) up to the historic Gemmi Pass (2,350 meters) in just about 5 to 6 minutes, overcoming an altitude difference of nearly 950 meters. At the top, you will find a panoramic viewing platform, the Wildstrubel mountain hotel & restaurant, and the Panorama Spa
@@ -302,3 +303,5 @@ Right inside the top station building where you exit the cable car (2,346 m).
 
 ## Video 🎥
 {{< youtube AL4OHw4gXjM >}}
+
+{{< instagram-video "DcgTmrgzhEs" >}}

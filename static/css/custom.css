@@ -501,3 +501,22 @@
   .leaflet-container {
     background: #f4f4f4 !important;
   }
+
+
+
+
+  .instagram-video-wrapper {
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    width: 100%;
+    max-width: 540px;
+    margin: 1.5rem auto;
+}
+
+.instagram-iframe {
+    /* Changes height automatically based on width to favor vertical content */
+    aspect-ratio: 9 / 16; 
+    width: 100%;
+    max-height: 780px; /* Gives enough room for the Reel + caption space */
+}
