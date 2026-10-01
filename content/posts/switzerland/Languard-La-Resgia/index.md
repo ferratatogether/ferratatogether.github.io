@@ -83,7 +83,7 @@ sbbUrl="https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EPontresina%2C+Hote
 ## 🚗 Pontresina, Hotel Palü, Via da Bernina, 2h50
 To drive to the La Resgia via ferrata, navigate to Pontresina in the Engadine valley of Switzerland. Head toward the southeastern exit of the village on the road toward the Bernina Pass, park near the Resgia parking area or close to Hotel Palü, and walk a few minutes to the trailhead.
 
-[Google map directions](https://maps.app.goo.gl/7SvuiYJyyTVuwGxB7)
+{{< google-map-directions origin="Zurich" destination="Hotel Palü, Via da Bernina 17, 7504 Pontresina" mode="d" height="500" >}}
 
 ## 🚠 chairlift
 A bit expensive one way for 20.50 CHF to go down back to the valley (but very very long ride)

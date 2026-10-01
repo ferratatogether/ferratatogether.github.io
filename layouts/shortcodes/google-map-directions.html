@@ -1,0 +1,17 @@
+{{/* layouts/shortcodes/google-map-directions.html */}}
+{{ $origin := .Get "origin" }}
+{{ $destination := .Get "destination" }}
+{{ $mode := .Get "mode" | default "d" }}
+{{ $height := .Get "height" | default "450" }}
+
+<div class="map-wrapper" style="border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid rgba(0,0,0,0.05); margin: 2rem 0;">
+  <iframe
+    width="100%"
+    height="{{ $height }}"
+    style="border:0;"
+    loading="lazy"
+    allowfullscreen
+    referrerpolicy="no-referrer-when-downgrade"
+    src="https://maps.google.com/maps?f=d&saddr={{ $origin }}&daddr={{ $destination }}&dirflg={{ $mode }}&output=embed">
+  </iframe>
+</div>

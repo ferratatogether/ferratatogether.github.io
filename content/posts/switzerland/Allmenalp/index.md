@@ -83,7 +83,7 @@ Recommended is to take an earlier train through, so you have more reserve time f
 ## Recommended train 🚂
 
 {{< sbb start="Zürich HB" 
-destination="Linthal Braunwaldbahn station" 
+destination="Kandersteg" 
 time="07:12" 
 platform="10" 
 duration="1h30min" 
@@ -91,6 +91,10 @@ train="IC 8"
 date="2026-09-20"
 sbbUrl="https://a.sbbmobile.ch/s/u3qOIzZM"
  >}}
+
+## By Car 🚗
+
+{{< google-map-directions origin="Zurich" destination="Luftseilbahn Kandersteg-Allmenalp AG" mode="d" height="500" >}}
 
 ## Cable Car 🚠
 

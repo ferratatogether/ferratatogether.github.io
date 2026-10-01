@@ -68,7 +68,8 @@ sbbUrl="https://www.sbb.ch/de?stops=Zürich+HB_I8503000~Gadmen,+Tällibahn_I8582
 
 ## By Car 🚗
 It is **faster and easier** to take the car to join the start of this via ferrata in Sustenpass.
-1h52min from Zürich to [Gadmen Tällibahn, Grimselstrasse 19, 3862 Innertkirchen](https://maps.app.goo.gl/RKbtvK73UCJBX78M9)
+
+{{< google-map-directions origin="Zurich" destination="Gadmen Tällibahn, Grimselstrasse 19, 3862 Innertkirchen" mode="d" height="500" >}}
 
 ## Parking 🅿️ 
 [Located beside the Tällibahn](https://maps.app.goo.gl/AGnXi8PmDybjG3cN7), it is free - up to 50 cars - Sustenstrasse 190, 3863 Innertkirchen - 1174m
@@ -144,10 +145,10 @@ Beginner friendly but demanding and long day 7h minimum
 - 👙🩳 River and lake 2km away right side of the road when driving to the Sustenpass.
 
 ## Topography 🗺️ 
-![Tierbergli-via-ferrata-topography](topo.png)
+![Tierbergli-via-ferrata-topography](img/topo.png)
 
 ## Gallery 🌄 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## 🎥 Video
 {{< youtube ZbbZ8fWHUn8 >}}

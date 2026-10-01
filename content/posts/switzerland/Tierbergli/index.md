@@ -2,7 +2,7 @@
 title: "Tierbergli Ferrata Together"
 date: 2026-07-04T9:44:17+01:00
 summary: "Impressive views of the Gwächtenhorn, Sustenhorn, and the Gadmertal valley open up time and again. Just before the final stretch to the Tierbergli Hut, the panorama widens—and your gaze falls upon the mighty Steingletscher: a true highlight of this tour!"
-cover: cover.webp
+cover: img/cover.webp
 tags:
   - via-ferrata
   - long
@@ -80,6 +80,8 @@ It is **faster and easier** to take the car to join the start of this via ferrat
 Please take note of road closures at the start of winter, for the latest information on the Susten Pass road, visit [www.tcs.ch](https://www.tcs.ch) and [www.alpen-paesse.ch](https://www.alpen-paesse.ch) 
 {{< /notice >}}
 
+{{< google-map-directions origin="Zurich" destination="Parkplatz Umpol" mode="d" height="500" >}}
+
 ## 🅿️ Parking
 You must pay 7.- to take a private road up to the highest parking ([Parking Umpol](https://maps.app.goo.gl/szowUVPffgrvBCRZ8)). If you want to avoid that you'll need to walk up [from the free parking of Berghotel & Restaurant Steingletscher at 1865m](https://maps.app.goo.gl/AbRxx4ucZJhvx2y27) 45min on open raod to the start near the parking Umpol (2100m).
 
@@ -89,7 +91,7 @@ When in the parking Umpol, you cross a bridge, and after 5min youre at [the star
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2368.7956765302497!2d8.412568775672318!3d46.711814049338265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4785638ebf0a624d%3A0xc3ef0a20bef598de!2sVia%20ferrata%20Tierbergli!5e1!3m2!1sen!2sch!4v1789372468415!5m2!1sen!2sch" >}}
 
 ## GPX 🗺️
-{{< gpx-map file="tierbergli.gpx" >}}
+{{< gpx-map file="gpx/tierbergli.gpx" >}}
 
 ## Travelling home
 by public transportation or by car (fastest)
@@ -151,7 +153,7 @@ Beginner friendly but demanding and long day
 - 👙🩳 small lak 15min right to the path when going down, glacier water so cold
 
 ## Topography 🗺️ 
-![Tierbergli-via-ferrata-topography](topo.png)
+![Tierbergli-via-ferrata-topography](img/topo.png)
 
 ## Gallery 🌄 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

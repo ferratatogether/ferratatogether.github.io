@@ -169,6 +169,8 @@ Follow the signs from the station along Oberloochstrasse and Hüttenbergstrasse 
 
 To reach the Braunwald via ferrata (Eggstöcke Klettersteig) by car, drive to the [**Linthal Braunwaldbahn station**](#gumen-combined-cable-car), park your vehicle, take the [**Braunwaldbahn funicular**](#braunwaldbahn-funicular) up to the car-free village of Braunwald, and proceed via the Gumen combined cable car to the Gumen starting point.
 
+{{< google-map-directions origin="Zurich" destination="Linthal Braunwaldbahn" mode="d" height="500" >}}
+
 ## Parking 🅿️
 
 Use the large open-air and covered parking facilities directly at the Linthal valley station. The parking use [ParkingPay](https://parkingpay.ch) and not EasyPark. You can pay with twint.

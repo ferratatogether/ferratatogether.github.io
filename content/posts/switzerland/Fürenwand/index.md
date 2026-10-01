@@ -74,6 +74,10 @@ date="2026-09-12"
 sbbUrl="https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EEngelberg+%28F%C3%BCrenalp+Bahn%29_I8530368&day=2026-09-26&time=06_00&moment=dep&trip=0_0"
  >}}
 
+## By Car 🚗
+
+{{< google-map-directions origin="Zurich" destination="Fürenalp-Bahn, Wasserfallstrasse 222, 6390 Engelberg" mode="d" height="500" >}}
+
 ## Cable Car 🚠 1845m
 You can avoid the long trek down by taking the Luftseilbahn Engelberg-Fürenalp form the top of the via ferrrata.
 

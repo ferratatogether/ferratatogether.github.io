@@ -154,6 +154,8 @@ To reach the Daubenhorn via ferrata by car, drive to the mountain village of Leu
 
 From the North (Bern / Thun / Zurich / Basel): Take the A6 highway toward Spiez, head toward Kandersteg, and use the Lötschberg car shuttle train (Kandersteg–Goppenstein). From Goppenstein, follow the signs via Gampel and Leuk up to Leukerbad
 
+{{< google-map-directions origin="Zurich" destination="Leukerbad" mode="d" height="500" >}}
+
 ## Parking 🅿️
 There are three major multi-storey public parking garages located directly along Ringstrasse in Leukerbad, allowing you to park close to the thermal baths, local town administration, or the ski lifts
 
