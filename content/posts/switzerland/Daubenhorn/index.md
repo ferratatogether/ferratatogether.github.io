@@ -39,9 +39,11 @@ The Daubenhorn via ferrata is the longest in Switzerland. With the difficulty le
 - 920 to 1,000 meters of vertical elevation gain.
 
 {{< notice warning>}}
+- The entire journey (cable car to cable car) takes roughly 7 to 8 hours, with about 5 to 6 hours spent purely on the rock wall. Your upper body endurance and core strength will be tested to their absolute limits.
 - Route wise there are sections with no hand or foot metal, just the cable and the rock, so bring gloves. The climbing is strenuous in places,
 - There’s a few spots with some pretty wild exposure, traversing around a corner with some 2000m drop behind you 
 - For someone in good physical shape it is between moderate and hard, with the most difficult section being inside the cave
+- Do not enter the wall if there is any forecast of rain, heavy wind, or thunderstorms. A lightning strike on a continuous steel cable is fatal, and the rock becomes dangerously slick.
 {{< /notice >}}
 
 ## Duration
@@ -99,7 +101,7 @@ https://www.gemmi.ch/en/
 
 [Interactive map about status](https://www.gemmi.ch/en/ma)
 
-## WhatsApp group 💬 
+## WhatsApp group 💬 
 
 {{< whatsapp-groups 
   link1="https://links.waltercedric.com/ferratatogether" 
@@ -161,9 +163,37 @@ From the North (Bern / Thun / Zurich / Basel): Take the A6 highway toward Spiez,
 {{< osm lon="7.626467" lat="46.382819" text="Parking location" >}}
 
 ## Cable Car 🚠
-42 CHF [see time table and prices](https://www.gemmi.ch/en/planning-booking/hours-of-operation-service-information) 
-- {{< osm lon="7.624351" lat="46.38379" text="Gemmibahn start station" >}}
-- {{< osm lon="7.615671" lat="46.397857" text="Gemmibahn top station 2346m" >}}
+The Gemmi Cable Car (Gemmibahn) transports passengers from Leukerbad (1,411 meters) up to the historic Gemmi Pass (2,350 meters) in just about 5 to 6 minutes, overcoming an altitude difference of nearly 950 meters. At the top, you will find a panoramic viewing platform, the Wildstrubel mountain hotel & restaurant, and the Panorama Spa
+
+{{< cablecar 
+  name="Gemmi Cable Car (Gemmibahn)" 
+  from="Gemmibahn start station 1411m" 
+  to="Gemmibahn top station 2346m" 
+  duration="5-6 mins" 
+  distance="+950m" 
+  capacity="8"
+  timetable=" 08:30 to 17:00" 
+  timetable_url="https://www.gemmi.ch/en/planning-booking/hours-of-operation-service-information"
+  cost="CHF 42" 
+  cost_url="https://www.gemmi.ch/en/planning-booking/hours-of-operation-service-information"
+  address="Gemmi-Bahnen AG, Gemmistrasse 14, CH-3954 Leukerbad, Switzerland"
+  phone="+41 27 470 12 01"
+  email="welcome@gemmi.ch" >}}
+Take the earliest possible Gemmi Cable Car up. Getting stuck on the wall after dark or missing the last cable car down makes a tough day significantly worse. Better is to sleep near the start and start around 7:00AM or earlier!
+{{< /cablecar >}}
+
+{{< contact-call 
+  name="Lower Station (Tickets)" 
+  phone="+41 27 470 18 39" 
+  email="lowerstation@gemmi.ch"
+  lon="7.624351" lat="46.38379">}}
+
+{{< contact-call
+  name="Upper Station (Technical / Rental)" 
+  phone="+41 27 470 62 20" 
+  email="upperstation@gemmi.ch"
+  lon="7.615671" lat="46.397857"
+>}}
 
 ## GPX 🗺️
 {{< gpx-map file="gpx/daubenhorn.gpx" >}}
@@ -220,7 +250,9 @@ The walk off is also not to be underestimated, another good 2/2.5hrs from the to
 by public transportation
 
 ## Water 🚰
-No access for the duration of the via ferrata.
+No access for the duration of the via ferrata. Carry at least 2 to 3 litres of water, ideally with electrolytes.
+
+Bring easily accessible, calorie-dense foods (energy bars, nuts, dried fruit, gels) that you can eat while resting on a ledge.
 
 Get water or drinks at
 - {{< osm lon="7.615416" lat="46.397647"  text="Restaurant Wildstrubel 2332m" more="Affordable accommodation in the Gemmi region / All hotel guests travel by rail at the SBB half-fare rate on arrival and departure / Modern sanitary facilities / All rooms offer views of the Valais and Bernese Alps" >}}
@@ -241,8 +273,21 @@ Hydration and Fuel: Pack at least 2.5 to 3 liters of water per person. There are
 You can rent your via ferrata safety gear directly at the top of the Gemmi Pass cable car mountain station.
 Right inside the top station building where you exit the cable car (2,346 m).
 
+{{< contact-call
+  name="Upper Station (Technical / Rental)" 
+  phone="+41 27 470 62 20" 
+  email="upperstation@gemmi.ch"
+  lon="7.615671" lat="46.397857"
+>}}
+
+## Other things to do 🎢
+- Take Gemmi Pass cable car and hike the lakeside trail to Daubensee. 
+- Visit the thermal pools at Leukerbad Therme or Walliser Alpentherme (beautiful outdoor heated baths)
+- Explore Leukerbad Thermal Canyon Walk or stroll to nearby Albinen. 
+
 ## Links 🔗
-- https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/small-daubenhorn-via-ferrata-k5-k6
+- [valais.ch](https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/small-daubenhorn-via-ferrata-k5-k6)
+- [ferrataguide.com](https://ferrataguide.com/ferrata/Klettersteig_Leukerbad_Daubenhorn_%28variant_E%29)
 
 ## My review ⭐️
 - Not yet done

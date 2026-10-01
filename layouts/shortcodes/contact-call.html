@@ -44,6 +44,18 @@
     </span>
   {{ end }}
 
+{{ if .Get "lat" }}
+    <span class="contact-divider">&#8226;</span>
+    <span class="contact-text">
+      <span class="contact-icon"></span>
+         <a href="https://openstreetmap.org?mlat={{ .Get "lat" }}&mlon={{ .Get "lon" }}#map=16/{{ .Get "lat" }}/{{ .Get "lon" }}" target="_blank" rel="noopener">
+          🗺️ Map
+          <!-- - ({{ .Get "lat" }}, {{ .Get "lon" }}) -->
+        </a>
+    </span>
+  {{ end }}
+  
+
     <!-- Free Text Block (Optional) -->
   {{ if .Get "text" }}
     <div class="contact-free-text">
