@@ -51,17 +51,21 @@ Gadmen area
 Source:
 - [MeteoSwiss](https://www.meteoschweiz.admin.ch/lokalprognose/sustenpass.html#forecast-tab=detail-view)
 
-## Meeting Point 📍
-XXXXAM  Zürich HB, Main Meeting point, around the clock
-Find the turquoise Zürich Together Banner.
+## Meeting point 📍
 
-## Time of leaving 🏁
-XXXAM to platform XXX
+{{< meetup meetTime="06:40" leaveTime="6:55" platform="11" >}}
 
 ## Recommended train 🚂
-https://a.sbbmobile.ch/s/Eta68VPo
 
-Duration: 4.5H
+{{< sbb start="Zürich HB" 
+destination="Steingletscher" 
+time="07:05"
+duration="2h51" 
+platform="11" 
+train="IC 2" 
+date="2026-10-03"
+sbbUrl="https://www.sbb.ch/en?stops=Z%C3%BCrich+HB_I8503000%7ESteingletscher%2C+Susten_I8508877&day=2026-10-03&time=07_00&moment=dep&trip=0_0"
+ >}}
 
 **Train from Zürich HB:** Take the inter-city or regional train connection heading south towards Interlaken Ost (with a quick transfer typically required in Bern or Spiez depending on the exact morning departure). 
 
@@ -82,8 +86,20 @@ Please take note of road closures at the start of winter, for the latest informa
 
 {{< google-map-directions origin="Zurich" destination="Parkplatz Umpol" mode="d" height="500" >}}
 
-## 🅿️ Parking
-You must pay 7.- to take a private road up to the highest parking ([Parking Umpol](https://maps.app.goo.gl/szowUVPffgrvBCRZ8)). If you want to avoid that you'll need to walk up [from the free parking of Berghotel & Restaurant Steingletscher at 1865m](https://maps.app.goo.gl/AbRxx4ucZJhvx2y27) 45min on open raod to the start near the parking Umpol (2100m).
+## Parking 🅿️ 
+
+### Parking Umpol 🅿️
+Driving a private road to parking Umpol allows you to bypass the lower section of the mountain trail, saving about 50 minutes of hiking time to the start of the Tierbergli Via Ferrata.
+
+You must pay 7.- to take this private road up to the highest parking ([Parking Umpol](https://maps.app.goo.gl/szowUVPffgrvBCRZ8)). 
+The toll is collected via a ticket machine located near the start of the road at Hotel Steingletscher. You can pay using cash (Swiss Francs or Euros) or credit card. There is no physical barrier, but local rangers and police perform regular daily checks. 
+
+Make sure to display the ticket clearly behind your windshield.
+
+When in the parking Umpol, you cross a bridge, and after 5min youre at [the start of the Via Ferrata](https://maps.app.goo.gl/Pih8J2cLKeTeaqRG7).
+
+### Free parking 🅿️
+If you want to avoid that you'll need to walk up [from the free parking of Berghotel & Restaurant Steingletscher at 1865m](https://maps.app.goo.gl/AbRxx4ucZJhvx2y27) 50 minutes on open raod to the start near the parking Umpol (2100m).
 
 When in the parking Umpol, you cross a bridge, and after 5min youre at [the start of the Via Ferrata](https://maps.app.goo.gl/Pih8J2cLKeTeaqRG7).
 
@@ -109,6 +125,11 @@ by public transportation or by car (fastest)
 ## Water 🚰 
 
 Tierbergli has lot of shadows (north face), carry at least 2 liter of water and warm clothes. After exiting the via ferrata, a Berghutte is only 35min away (still an exhausting walk up)
+
+## Alpine lake 🏊
+On the way back after the via ferrata, you can see a small lake 15min right to the path when going down, it is glacier water soit is cold but nice in summer.
+
+alternatively there is also the bigger 500mx400m Steinsee (1932m)
 
 ## Renting equipment 🛍️
 Not possible close to start, or around. I recommend from the one joining us to rent their Via Ferrata set at [Transa.ch](https://www.transa.ch) or [Decathlon](https://rent.decathlon.ch/de/de-8754883) 
@@ -136,7 +157,7 @@ Not possible close to start, or around. I recommend from the one joining us to r
     address="Sustenstrasse 365, 3863 Steingletscher" 
     text="Winter season – March 21 to May 17, 2026 / Summer season – June 4 to September/October 2026 (depending on snow conditions)"
 >}}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2369.225418224392!2d8.411640875671706!3d46.702022050004956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47856372cdbc2339%3A0x843f29bfd3f2e495!2sTierberglih%C3%BCtte%20SAC!5e1!3m2!1sen!2sch!4v1789561740916!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2369.225418224392!2d8.411640875671706!3d46.702022050004956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47856372cdbc2339%3A0x843f29bfd3f2e495!2sTierberglih%C3%BCtte%20SAC!5e1!3m2!1sen!2sch!4v1789561740916!5m2!1sen!2sch"></iframe>
 
 [tierbergli](https://tierbergli.ch)
 
@@ -146,11 +167,11 @@ Beginner friendly but demanding and long day
 - Easier and faster access by car then SBB
 - Scenic
 - Vertical but not much
-- Easy access 3min from parking (7 CHF)
+- Easy access 5min from parking Umpol
 - Easy climb with some trek to make it to next sections
 - Demanding exit 45min to restaurant
 - Demanding path down T3+ of 2.5h back to parking
-- 👙🩳 small lak 15min right to the path when going down, glacier water so cold
+- 👙🩳 small lake 15min right to the path when going down, glacier water so cold
 
 ## Topography 🗺️ 
 ![Tierbergli-via-ferrata-topography](img/topo.png)
@@ -163,6 +184,6 @@ Beginner friendly but demanding and long day
 
 ## 📆 Ferrata Together log
 Ferrata Together visits:
-| Date | Number of people |
+| Date | Number of people | Organizer |
 |----------|--------------------|
-| 4 Juli 2026 | 6 |
+| 4 Juli 2026 | 6 | Cédric Walter |
