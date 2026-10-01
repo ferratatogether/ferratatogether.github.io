@@ -165,6 +165,10 @@ This could be after 19:20 or later. A lot of locals are going down late with the
 ## GPX 🗺️
 {{< gpx-map file="gpx/deitreisignori.gpx" >}}
 
+## Dei Tre Signori panorama
+
+{{< video "video/dei-tre-signori-top.mp4" >}}
+
 ## WhatsApp group 💬
 
 {{< whatsapp-groups 
@@ -178,15 +182,14 @@ Equipment rental at Grotto Mornera to be booked at 091 825 84 38 (helmet + set C
 
 ## My review ⭐️
 
-Beginner friendly (right path)
-
-- Scenic but not much, forest
-- Access 45min walk, 15min up then flat in the forest
+- Beginner friendly, at least the right path Via Media (Medium Route)
+- Scenic but not much, mainly you will see the forest
+- Access 45min walk, 15min up then flat for 30min in the forest
 - Exit 45min flat then down
 - Cable car ticket must be reserved online
 - More some incline walls and ridge climb
-- No help of iron steps, only safety cable, easy to grab rocks and use shoes friction
-- Recommend to do right path then trek down 15min then do the left more difficult path (technically demanding, physically brutal)
+- No help of iron steps, only safety cable, you will have to to grab rocks and use shoes frictions.
+- I recommend you to do right path then trek down 15min then do the left more difficult path: technically demanding, physically brutal in the first sections. Even sections later are not really easier while still being rated B-C
 
 ## Links 🔗
 - [Ticino](https://www.ticino.ch/de/commons/details/Via-Ferrata-dei-Tre-Signori/83778.html)
