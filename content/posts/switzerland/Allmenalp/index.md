@@ -94,6 +94,8 @@ sbbUrl="https://a.sbbmobile.ch/s/u3qOIzZM"
 
 ## Cable Car 🚠
 
+You only need to take the Luftseilbahn Kandersteg-Allmenalp cable car after the via ferrata to avoid 2h more trekking down the mountain. 
+
 {{< cablecar 
   name="Luftseilbahn Kandersteg-Allmenalp AG" 
   from="Kandersteg 1181m" 

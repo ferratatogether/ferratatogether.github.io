@@ -92,6 +92,9 @@ Bus Saas Grund to Saas Grund Cable car
 Saas Grund Cable car to [Kreuzboden](http://www.hohsaas.info/index.php/bahnen)
 
 ## 🚠 Cable Car
+
+You need to take this cable car before and after the via ferrata.
+
 [Kreuzboden](http://www.hohsaas.info/index.php/bahnen) 
 
 [Timetable of cable car]()

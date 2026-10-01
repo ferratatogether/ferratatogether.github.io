@@ -135,12 +135,28 @@ You'll have first to take the funicular that is located in the SBB train station
 - A GA Duo has proven twice to not work through the first checkpoint, ask for help and you will get through for free (add some delays to get to the desk if the queue is important)
 
 ### Gumen combined cable car
-
 [Walk through for 16min/900m](https://maps.app.goo.gl/BvKUCgqszxhVuHog9) the car-free village and take the Gumen combination chairlift up to the Berggasthaus Gumen (1,901 m), which serves as the start of the trail to the via ferrata.
 
 The GA won't let you go up for free with the chairlift to Gumen, you'll have to pay a day ticket anyway (30.-)
 
-The [Kombibahn Gumen](https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html) (Gumen combined chairlift and gondola lift) in Braunwald operates daily during the summer season (June 6 to October 18, 2026) from 08:45 to 12:30 and 13:30 to 16:30, with continuous operation until 17:00 during peak periods and high guest volume.
+The Kombibahn Gumen combined chairlift and gondola in the same cable car. 
+
+{{< cablecar 
+  name="Kombibahn Gumen" 
+  from="Braunwald 1310m" 
+  to="Kreuzboden 1901m" 
+  duration="7min30s" 
+  distance="+591m / 2,031 to 2,039m" 
+  capacity="2-4"
+  timetable="summer season (June 6 to October 18, 2026) from 08:45 to 12:30 and 13:30 to 16:30, with continuous operation until 17:00 during peak periods and high guest volume" 
+  timetable_url="https://sportbahnen-braunwald.ch/de/informationen/sommer/betriebszeiten-sommer.html"
+  cost="CHF 30.- day" 
+  cost_url="https://www.saas-fee.ch/de/services-informationen/tarife-fahrplaene-bergbahnen/fahrplaene-bergbahnen/tarife-bergbahnen"
+  address="Sportbahnen Braunwald AG, Burstberg 12, 8784 Braunwald"
+  phone="+41 55 653 65 65"
+  email="info@sportbahnen-braunwald.ch" >}}
+Follow the signs from the station along Oberloochstrasse and Hüttenbergstrasse to Burstberg (approx. a 15-minute walk) where the Gumen lift departs.
+{{< /cablecar >}}
 
 #### Operating Hours & Schedule Details
 
