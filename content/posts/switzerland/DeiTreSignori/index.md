@@ -5,8 +5,12 @@ summary: "The Via Ferrata dei Tre Signori is a highly regarded, modern climbing 
 cover: img/deitreisignori.webp
 tags:
   - via-ferrata
-  - K5
+  - K5-K6
   - K3
+  - monte-carasso
+  - belinzona
+  - 2-routes
+  - cable-car
   - switzerland
 ---
 {{< toc-mobile >}}
@@ -17,12 +21,12 @@ tags:
 
 # Via Media
 {{< viaferratacard 
-difficulty="K3" 
+difficulty="K3/K5-K6" 
 duration="4h" 
 durationclimb="2h" 
-vertical="xxx" 
-top="xxxx"
-start="xxxx"
+vertical="305m/350m" 
+top="1695m/1740m"
+start="1390m"
 location="Monte Carasso"
 trekup="1h"
 trekdown="1:30">}}
@@ -176,9 +180,29 @@ This could be after 19:20 or later. A lot of locals are going down late with the
   link2="https://links.waltercedric.com/deitreisignoriferratatogether" 
 >}}
 
-## Renting equipment 🛍️
-Restaurant near cable car at the top.
-Equipment rental at Grotto Mornera to be booked at 091 825 84 38 (helmet + set CHF 30.00) Or bringing your own Via Ferrata complete set.
+## Restaurant Grotto Mornera
+The Grotto is located at the cable car end station in Mornera offering typical Ticinese cuisine. from 9 am to 6 pm
+
+{{< contact-call 
+  name="Grotto Mornera" 
+  email="grotto@mornera.ch"
+  address="Fracc 1, 6513 Monte Carasso"
+  phone="+41 (0) 91 825 84 38"
+  instagram="grottomornera"
+  facebook="grotto.mornera"
+ >}}
+
+## Renting equipment 🛍️ 
+Equipment rental at Restaurant Grotto Mornera near cable car at the top to be booked: helmet + set for CHF 30.00.-
+
+{{< contact-call 
+  name="Grotto Mornera" 
+  email="grotto@mornera.ch"
+  address="Fracc 1, 6513 Monte Carasso"
+  phone="+41 (0) 91 825 84 38"
+  instagram="grottomornera"
+  facebook="grotto.mornera"
+ >}}
 
 ## My review ⭐️
 
@@ -194,6 +218,16 @@ Equipment rental at Grotto Mornera to be booked at 091 825 84 38 (helmet + set C
 ## Links 🔗
 - [Ticino](https://www.ticino.ch/de/commons/details/Via-Ferrata-dei-Tre-Signori/83778.html)
 - [Mornera](https://www.mornera.ch/my-product/via-ferrata-dei-tre-signori/)
+
+## Contacts
+
+{{< contact-call 
+  name="Infopoint Monte Carasso" 
+  email="carasc@bellinzona.ch"
+  address="Presso l’ex Municipio, El Cunvént 3, 6513 Monte Carasso"
+  phone="+41 (0) 58 203 14 50"
+ >}}
+
 
 ## Topography 🗺️ 
 
