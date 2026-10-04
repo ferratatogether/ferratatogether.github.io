@@ -64,10 +64,45 @@ sbbUrl="https://a.sbbmobile.ch/s/LpBaNchl"
  >}}
 
 ## Cable car 🚠
-
-- Engelberg cable car to Trubsee
-- Trubsee chairlift to Jochpass
 Both costs 25.- with Half Fare back and forth
+
+{{< cablecar 
+  name="Cable car Engelberg to Trubsee" 
+  from="300m" 
+  to="1400m" 
+  duration="10-12min" 
+  distance="+1300m" 
+  capacity="8 / 650kg"
+  timetable="06:30 to 21:30" 
+  timetable_url="https://www.mornera.ch/en/cable-car/"
+  cost="CHF 21.-" 
+  cost_url="https://www.mornera.ch/en/cable-car/"
+  address="Fracc 1, 6513 Monte Carasso, Switzerland."
+  phone="+41 91 825 81 88"
+  email="carasc@bellinzona.ch" 
+>}}
+
+{{< /cablecar >}}
+then 
+{{< cablecar 
+  name="Chairlift Trubsee to Jochpass" 
+  from="300m" 
+  to="1400m" 
+  duration="10-12min" 
+  distance="+1300m" 
+  capacity="8 / 650kg"
+  timetable="06:30 to 21:30" 
+  timetable_url="https://www.mornera.ch/en/cable-car/"
+  cost="CHF 21.-" 
+  cost_url="https://www.mornera.ch/en/cable-car/"
+  address="Fracc 1, 6513 Monte Carasso, Switzerland."
+  phone="+41 91 825 81 88"
+  email="carasc@bellinzona.ch" 
+>}}
+
+{{< /cablecar >}}
+
+
 
 ## GPX 🗺️
 {{< gpx-map file="graustock.gpx" >}}
@@ -82,20 +117,26 @@ by public transportation
   link2="https://links.waltercedric.com/allmenalpferratatogether" 
 >}}
 
+## View from Graustock
+
+{{< iframe src="https://www.peakfinder.com/?lat=46.69330&lng=8.29806&ele=2689&azi=40.01&alt=-4.3&fov=45&date=2019-10-20T22:47Z&cfg=es&name=Graustock" >}}
+
 ## Water 🚰 
+Berghaus Jochpass or on your path to the start of the via ferrata
 
 ## Renting equipment 🛍️
 The via ferrata kit can be hired from Titlis Rent at the valley station or from Berghaus Jochpass.
 Call to reserve a kit now, number is limited:
 
-Bärghuis Jochpass
-Jochpass 2222
-CH-6390 Engelberg
-+41 41 637 11 87
-info@jochpass.ch
+{{< contact-call 
+  name="Bärghuis Jochpass" 
+  email="info@jochpass.ch"
+  address="Bärghuis Jochpass, Jochpass 2222, CH-6390 Engelberg"
+  phone="+41 (0) 41 637 11 87"
+ >}}
 
 ## Links 🔗
-- https://ferrataguide.com/ferrata/Graustock_Klettersteig
+- [ferrataguide.com](https://ferrataguide.com/ferrata/Graustock_Klettersteig)
 
 ## My review ⭐️
 - Easy access by cable car, 15min walk to chairlift to Jochpass trubsee. A short walk up of 1h

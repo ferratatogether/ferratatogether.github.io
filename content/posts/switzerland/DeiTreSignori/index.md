@@ -19,9 +19,22 @@ tags:
 
 {{< swiss-map highlight="TI" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
-# Via Media
+The Via Ferrata dei Tre Signori is one of the most spectacular and airy protected climbing routes in the Canton of Ticino. It is located on the vertical rock face of Sasso Torrasco (between Mornera and Albagno) in the Sementina Valley, right above Monte Carasso and Bellinzona. The route features distinct variants ranging from medium difficulty (K3) to extremely challenging (K5/K6), culminating in a thrilling 15-meter suspension bridge.
+
+## Route overview ℹ️
+
+![Dei Tre Signori Ferrata overview](img/overview.jpeg)
+
+### Shared Start
+
+The route begins with a common vertical slab section before splitting into separate variants.
+
+### Via Media (Medium Route)
+
+Rated C/K3. It is well-equipped with iron steps and rungs, making it suitable for climbers with moderate experience.
+
 {{< viaferratacard 
-difficulty="K3/K5-K6" 
+difficulty="K3 media / K5-K6 Difficile" 
 duration="4h" 
 durationclimb="2h" 
 vertical="305m/350m" 
@@ -31,35 +44,22 @@ location="Monte Carasso"
 trekup="1h"
 trekdown="1:30">}}
 
-# Via Difficile
+### Via Difficile (Difficult Route)
+
+Rated D/E up to K6. An incredibly athletic, exposed, and overhanging route that requires excellent upper body strength and absolute freedom from vertigo.
+
 {{< viaferratacard 
 difficulty="K5" 
 duration="4h" 
 durationclimb="1h" 
-vertical="xxx" 
-top="xxxx"
-start="xxxx"
+vertical="170m" 
+top="1740m"
+start="1570m"
 location="Monte Carasso"
 trekup="1h"
 trekdown="1:30">}}
 
-The Via Ferrata dei Tre Signori is one of the most spectacular and airy protected climbing routes in the Canton of Ticino. It is located on the vertical rock face of Sasso Torrasco (between Mornera and Albagno) in the Sementina Valley, right above Monte Carasso and Bellinzona. The route features distinct variants ranging from medium difficulty (K3) to extremely challenging (K5/K6), culminating in a thrilling 15-meter suspension bridge.
-
-![Dei Tre Signori Ferrata overview](img/overview.jpeg)
-
-### Shared Start
-
-The route begins with a common vertical slab section before splitting into separate variants.
-
-### Via Media (Medium Route)
-
-Rated C/K3. It is well-equipped with iron steps and rungs, making it suitable for climbers with moderate experience.
-
-### Via Difficile (Difficult Route)
-
-Rated D/E up to K6. An incredibly athletic, exposed, and overhanging route that requires excellent upper body strength and absolute freedom from vertigo.
-
-### Suspension Bridge
+### Suspension Bridge
 
 Both routes converge near a short optional Tibetan bridge suspended over the abyss, offering panoramic views of the Magadino Plain before the descent.
 
@@ -121,13 +121,13 @@ Zürich HB  -> Monte Carasso by train then take the bus to Urènn/Funivia
   address="Fracc 1, 6513 Monte Carasso, Switzerland."
   phone="+41 91 825 81 88"
   email="carasc@bellinzona.ch" >}}
-You must reserve your seats using this link https://www.mornera.ch/en/cable-car/.
-1. Monte-Carasso to Mornera at around 9:15
-2. Mornera to Monte-Carasso at around 17:15
+You must reserve your seats using this link https://www.mornera.ch/en/cable-car/. If you come by train from Zürich, these times were used for two climbing sessions with success:
+1. Book your ticket Monte-Carasso to Mornera at around 9:15 
+2. Book your return ticket Mornera to Monte-Carasso at around 17:15
 
 The line includes two intermediate stations where passengers can disembark: Curzútt (~600m) (popular for the Carasc Tibetan Bridge) and Pientina (1,000m).
 
-It transitions to an automated, self-service operator framework outside of staff hours. Note that it closes briefly on Wednesdays from 08:00 to 10:00 for routine maintenance.
+Outside offical working time, It transitions to an automated, self-service operator framework outside of staff hours. Note that it closes briefly on Wednesdays from 08:00 to 10:00 for routine maintenance.
 {{< /cablecar >}}
 
 {{< notice info>}} 👨‍⚖️
@@ -149,6 +149,7 @@ This could be after 19:20 or later. A lot of locals are going down late with the
 >}}
 
 {{< sac-scale level="T1" >}}
+15min steep up walk then 30min flat in the shadow of the forest. You will pass near a small water pond, where you can also seat and picnic on your way back.
 {{< /sac-scale >}}
 
 ## Exit hike 🚶🏻‍♂️
@@ -181,7 +182,7 @@ This could be after 19:20 or later. A lot of locals are going down late with the
 >}}
 
 ## Restaurant Grotto Mornera
-The Grotto is located at the cable car end station in Mornera offering typical Ticinese cuisine. from 9 am to 6 pm
+The Grotto is located at the cable car end station in Mornera offering typical Ticinese cuisine. from 9 am to 6 pm.
 
 {{< contact-call 
   name="Grotto Mornera" 
