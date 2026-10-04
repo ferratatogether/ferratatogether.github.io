@@ -9,9 +9,7 @@
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
-
-
-<div class="alpine-map-wrapper">
+  <div class="full-width-breakout alpine-map-wrapper">
   <div id="swiss-osm-map"></div>
   <div class="alpine-sidebar">
     <!-- Filter Checkboxes Panel -->
@@ -47,7 +45,7 @@
   .alpine-map-wrapper {
     display: flex;
     flex-direction: row;
-    width: 100%;
+    min-width: 100% !important;
     height: 70vh;
     border-radius: 12px;
     overflow: hidden;

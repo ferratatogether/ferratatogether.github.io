@@ -520,3 +520,17 @@
     width: 100%;
     max-height: 780px; /* Gives enough room for the Reel + caption space */
 }
+
+
+
+
+.full-width-breakout {
+  width: 100vw !important;
+  height: 100vw !important;
+  position: relative !important;
+  left: 50% !important;
+  right: 50% !important;
+  margin-left: -50vw !important;
+  margin-right: -50vw !important;
+  max-width: none !important;
+}

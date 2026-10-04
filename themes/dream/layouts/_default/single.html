@@ -88,7 +88,7 @@
             </div>
           {{ end }}
         {{ end }}    
-		{{ if and .Params.Cover site.Params.showSummaryCoverInPost }}
+		{{ if and .Params.Cover site.Params.showSummaryCoverInPost (not .Params.hideCover)}}
           <figure>
             <img class="z-30" src="{{ .Params.Cover }}" alt="{{ .Title }}" />
             {{ with .Params.covercaption }}

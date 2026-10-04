@@ -3,6 +3,7 @@ title: "All Via Ferrata in Austria"
 date: 2026-09-21T20:00:17+01:00
 summary: "All Via Ferrata in Austria"
 cover: /img/next.webp
+hideCover: true
 tags:
   - via-ferrata
   - austria
