@@ -63,17 +63,17 @@ To get to the Schwarzhorn via ferrata (above Grindelwald) from Zurich by train, 
 Drive from Zürich to Grindelwald via Lucerne and the Brünig Pass (approx. 2.5 hours, ~130 km).
 Take the A1/A4 out of Zürich, head toward Lucerne, and continue on the A8 over the Brünig Pass toward Interlaken/Grindelwald.Exit: Follow signs through Interlaken to Grindelwald.
 
-## 🅿️ Parking
+## Parking 🅿️ 
 Park your car at the valley station of the Firstbahn in Grindelwald
 46.624°, 8.0429°
 
-## 🚠 Cable car
+## Cable car 🚠 
 Back and forth ticket 38 CHF with GA or Half Fare, 76 CHF without anything
 - 08:00 to 18:00 [timetable](https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?to=First)
 - https://www.jungfrau.ch/de-ch/grindelwaldfirst
 - [Grindelwald-First Gondola](https://grindelwald.swiss/de/map/detail/grindelwald-first-b8e09f4c-b0e7-439b-a1fa-fb0285e72279.html)
 
-## 🏁 Approach Hike
+## Approach Hike 🏁 
 From the First top station, hike down slightly and follow the trail across green meadows toward Chrinnenboden and on to the base of the ridge at Grosse Chrinne (about 1.5 to 2 hours of walking). 46.6827°, 8.0679° 2400m 
 
 ## End 🎯
@@ -102,10 +102,10 @@ Yes/No
 ## Renting equipment 🛍️
 
 ## Links 🔗
-- https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/schwarzhoren-schwarzhorn-be-1741/via-ferrata/
-- https://www.outdoor.ch/en/outdoor-mountaineering/via-ferrata-schwarzhorn
-- https://ferrataguide.com/ferrata/Schwarzhorn-Klettersteig
-- https://www.komoot.com/highlight/589532
+- [sac-cas.ch](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/schwarzhoren-schwarzhorn-be-1741/via-ferrata/)
+- [outdoor.ch](https://www.outdoor.ch/en/outdoor-mountaineering/via-ferrata-schwarzhorn)
+- [ferrataguide.com](https://ferrataguide.com/ferrata/Schwarzhorn-Klettersteig)
+- [komoot](https://www.komoot.com/highlight/589532)
 
 ## My review ⭐️
 
@@ -113,4 +113,4 @@ Yes/No
 ![schwarzhorn-via-ferrata-topography](schwarzhorn-via-ferrata-topography.jpeg)
 
 ## Gallery 🌄 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

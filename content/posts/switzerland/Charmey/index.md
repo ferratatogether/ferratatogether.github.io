@@ -5,7 +5,9 @@ summary: "The Via Ferrata de Charmey is a modern, high-quality via ferrata netwo
 cover: /img/next.webp
 tags:
   - via-ferrata
-  - K3
+  - K3-K4
+  - K5
+  - K6
   - switzerland
 ---
 {{< toc-mobile >}}
@@ -29,7 +31,6 @@ Not executed yet 🥲
 {{< /notice >}}
 
 The Via Ferrata de Charmey is a modern, high-quality via ferrata network located on the steep slopes of the Dent de Vounetse (1,813m) in the Fribourg Prealps. Open seasonally from May to October, it features three distinct routes that cater to different skill levels—ranging from a fun intermediate climb to one of the most physically demanding, overhanging routes in Switzerland.
-
 
 The routes share the same spectacular panoramic views of the Gastlosen, the Moléson, and the Gruyère region, but they diverge significantly in difficulty:
 

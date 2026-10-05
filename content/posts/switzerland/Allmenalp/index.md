@@ -16,6 +16,10 @@ tags:
 
 {{< viaferratacard
 difficulty="K4/K4+" 
+  landscape="4"
+  physical="2"
+  exposure="3"
+  equipment="4"
 duration="3h" 
 durationclimb="2h" 
 vertical="370m" 
@@ -222,10 +226,10 @@ Beginner friendly if no fear of heights
 - Can be overcrowded during weekends, a 1h20 “Freude Herscht” for experienced climbers can be 3 or 4h or worse, so start early before 9:00
 
 ## Topography 🗺️ 
-![Allmenalp-via-ferrata-topography](topo.png)
+![Allmenalp-via-ferrata-topography](img/topo.png)
 
 ## Gallery 🌄 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## 📆 Ferrata Together log
 Ferrata Together visits:

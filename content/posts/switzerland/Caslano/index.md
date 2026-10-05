@@ -16,3 +16,6 @@ Not executed yet 🥲
 
 A mini lake-level via ferrata looping around the scenic Monte Caslano peninsula. A quick, low-exposure traverse that is excellent for family outings.
    
+
+## Gallery 🌄 
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

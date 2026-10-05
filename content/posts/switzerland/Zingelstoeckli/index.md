@@ -12,16 +12,21 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K4-K5" 
-distance="3.41km"
-duration="3h" 
-durationclimb="1.5H" 
-vertical="200m" 
-top="1720m"
-start="1400m"
-location="Urnerboden (1372m)"
-trekup="30min"
-trekdown="45min">}}
+  difficulty="K4-K5" 
+  landscape="2"
+  physical="3"
+  exposure="2"
+  equipment="3"
+  distance="3.41km"
+  duration="3h" 
+  durationclimb="1.5H" 
+  vertical="200m" 
+  top="1720m"
+  start="1400m"
+  location="Urnerboden (1372m)"
+  trekup="30min"
+  trekdown="45min"
+  >}}
 
 ## Location
 {{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}

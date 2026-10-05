@@ -179,8 +179,10 @@ phone="+41 (0) 27 744 18 95" >}}
 - [sac-cas](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/passerelle-a-farinet-12215/via-ferrata/)
 - [bergsteigen.com](https://www.bergsteigen.com/touren/klettersteig/via-farinetta/)
 - [valais.ch](https://www.valais.ch/en/explore/activities/other-summer-activities/fixed-rope-routes/via-farinetta)
+- [alltrails.com](https://www.alltrails.com/trail/switzerland/valais/via-ferrata-farinetta-saillon)
 
 ## My review ⭐️
+- Not executed yet
 
 ## Topography 🗺️ 
 
@@ -188,6 +190,9 @@ phone="+41 (0) 27 744 18 95" >}}
 
 ## Gallery 🌄 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+## Video 🎥
+{{< youtube M7CkKWNvQzs >}}
 
 ## 📆 Ferrata Together log
 Ferrata Together visits:

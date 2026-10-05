@@ -42,8 +42,11 @@ The Daubenhorn via ferrata is the longest in Switzerland. With the difficulty le
 - The entire journey (cable car to cable car) takes roughly 7 to 8 hours, with about 5 to 6 hours spent purely on the rock wall. Your upper body endurance and core strength will be tested to their absolute limits.
 - Route wise there are sections with no hand or foot metal, just the cable and the rock, so bring gloves. The climbing is strenuous in places,
 - There’s a few spots with some pretty wild exposure, traversing around a corner with some 2000m drop behind you 
+- Minimal overhang in the cave. One where you need to pull up on the wire while slightly overhung but it’s all of a metre long.
 - For someone in good physical shape it is between moderate and hard, with the most difficult section being inside the cave
 - Do not enter the wall if there is any forecast of rain, heavy wind, or thunderstorms. A lightning strike on a continuous steel cable is fatal, and the rock becomes dangerously slick.
+- Get in the first Gondola up. Think the last one down is at 4pm and if you miss it, then its a 3 hour hike back down!
+- Plot the decent on offline maps / GPS watch, as the clouds can drop and it can be hard to find the route down with low visibility. A lot of paths that look like they lead down but they are in fact top-out paths for cliffs on the back side, meaning if you follow them in the mist they take you over the edge of a cliff!
 {{< /notice >}}
 
 ## Duration

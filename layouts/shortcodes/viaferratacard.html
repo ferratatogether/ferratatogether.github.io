@@ -1,5 +1,180 @@
-<div class="via-ferrata-card" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1rem; padding: 1rem; background: #f9f9f9; border-left: 4px solid #4a5568; border-radius: 4px; margin: 1rem 0;">
+{{ $landscape := .Get "landscape" | default 1 }}
+{{ $landscapeInt := int $landscape }}
+{{ $percentLandscape := mul $landscapeInt 25 }}
+
+{{ $physical := .Get "physical" | default 1 }}
+{{ $physicalInt := int $physical }}
+{{ $percentPhysical := mul $physicalInt 25 }}
+
+{{ $exposure := .Get "exposure" | default 1 }}
+{{ $exposureInt := int $exposure }}
+{{ $percentExposure := mul $exposureInt 25 }}
+
+{{ $equipment := .Get "equipment" | default 1 }}
+{{ $equipmentInt := int $equipment }}
+{{ $percentEquipment := mul $equipmentInt 25 }}
+
+{{ $size := .Get "size" | default "40px" }}
+{{ $activeColor := .Get "activeColor" | default "#3b82f6" }}
+{{ $bgColor := .Get "bgColor" | default "#e5e7eb" }}
+{{ $textColor := .Get "textColor" | default "#1f2937" }}
+
+<div class="via-ferrata-card" style="display: grid; 
+grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); 
+gap: 1rem; padding: 1rem; background: #f9f9f9; 
+border-radius: 4px; 
+">
   
+  {{ if .Get "landscape" }}
+    <div style="display: flex; align-items: center; gap: 0.5rem;">
+      <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; 
+      font-weight: bold; line-height: 1;">Landscape</div>
+          <div class="hugo-donut-chart" 
+            style="
+            position: relative;
+            width: {{ $size }}; 
+            height: {{ $size }}; 
+            border-radius: 50%; 
+            background: conic-gradient({{ $activeColor }} 0% {{ $percentLandscape }}%, {{ $bgColor }} {{ $percentLandscape }}% 100%);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            vertical-align: middle;">
+          <div style="
+                position: absolute;
+                width: 84%; 
+                height: 84%; 
+                background-color: white; 
+                border-radius: 50%;">
+          </div>
+          <span style="
+                position: relative;
+                z-index: 1;
+                font-family: system-ui, -apple-system, sans-serif;
+                font-weight: 600;
+                font-size: calc({{ $size }} * 0.22);
+                color: {{ $textColor }};
+            ">
+            {{ $landscapeInt }}/4
+          </span>
+      </div>
+    </div>
+    </div>
+  {{ end }}
+
+  {{ if .Get "physical" }}
+    <div style="display: flex; align-items: center; gap: 0.5rem;">
+      <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Physical</div>
+          <div class="hugo-donut-chart" 
+            style="
+            position: relative;
+            width: {{ $size }}; 
+            height: {{ $size }}; 
+            border-radius: 50%; 
+            background: conic-gradient({{ $activeColor }} 0% {{ $percentPhysical }}%, {{ $bgColor }} {{ $percentPhysical }}% 100%);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            vertical-align: middle;">
+          <div style="
+                position: absolute;
+                width: 84%; 
+                height: 84%; 
+                background-color: white; 
+                border-radius: 50%;">
+          </div>
+          <span style="
+                position: relative;
+                z-index: 1;
+                font-family: system-ui, -apple-system, sans-serif;
+                font-weight: 600;
+                font-size: calc({{ $size }} * 0.22);
+                color: {{ $textColor }};
+            ">
+            {{ $physicalInt }}/4
+          </span>
+      </div>
+    </div>
+    </div>
+  {{ end }}
+
+  {{ if .Get "exposure" }}
+    <div style="display: flex; align-items: center; gap: 0.5rem;">
+      <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Exposure</div>
+          <div class="hugo-donut-chart" 
+            style="
+            position: relative;
+            width: {{ $size }}; 
+            height: {{ $size }}; 
+            border-radius: 50%; 
+            background: conic-gradient({{ $activeColor }} 0% {{ $percentExposure }}%, {{ $bgColor }} {{ $percentExposure }}% 100%);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            vertical-align: middle;">
+          <div style="
+                position: absolute;
+                width: 84%; 
+                height: 84%; 
+                background-color: white; 
+                border-radius: 50%;">
+          </div>
+          <span style="
+                position: relative;
+                z-index: 1;
+                font-family: system-ui, -apple-system, sans-serif;
+                font-weight: 600;
+                font-size: calc({{ $size }} * 0.22);
+                color: {{ $textColor }};
+            ">
+            {{ $exposureInt }}/4
+          </span>
+      </div>
+    </div>
+    </div>
+  {{ end }}
+
+  {{ if .Get "equipment" }}
+    <div style="display: flex; align-items: center; gap: 0.5rem;">
+      <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Equipment</div>
+          <div class="hugo-donut-chart" 
+            style="
+            position: relative;
+            width: {{ $size }}; 
+            height: {{ $size }}; 
+            border-radius: 50%; 
+            background: conic-gradient({{ $activeColor }} 0% {{ $percentEquipment }}%, {{ $bgColor }} {{ $percentEquipment }}% 100%);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            vertical-align: middle;">
+          <div style="
+                position: absolute;
+                width: 84%; 
+                height: 84%; 
+                background-color: white; 
+                border-radius: 50%;">
+          </div>
+          <span style="
+                position: relative;
+                z-index: 1;
+                font-family: system-ui, -apple-system, sans-serif;
+                font-weight: 600;
+                font-size: calc({{ $size }} * 0.22);
+                color: {{ $textColor }};
+            ">
+            {{ $equipmentInt }}/4
+          </span>
+      </div>
+    </div>
+    </div>
+  {{ end }}
+
+
   {{ if .Get "difficulty" }}
   <div style="display: flex; align-items: center; gap: 0.5rem;">
     <span style="font-size: 1.2rem;">🧗</span>
@@ -66,6 +241,57 @@
     <div>
       <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Vert. Gain</div>
       <div style="font-weight: 600; color: #2d3748;">{{ .Get "vertical" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "escape" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">🛟</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Escape(s)</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "escape" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "ladder" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">🪜</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Ladder(s)</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "ladder" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "monkeybridge" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">🐒</span>
+    <div>
+      <div 
+      style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Monkey bridge(s)</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "monkeybridge" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Get "beam" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">Beam</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Beam(s)</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "beam" }}</div>
+    </div>
+  </div>
+  {{ end }}
+
+    {{ if .Get "footbridge" }}
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size: 1.2rem;">🌁</span>
+    <div>
+      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Foot bridge(s)</div>
+      <div style="font-weight: 600; color: #2d3748;">{{ .Get "footbridge" }}</div>
     </div>
   </div>
   {{ end }}

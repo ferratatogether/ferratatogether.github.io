@@ -168,7 +168,7 @@ Beginner friendly if you master techniques
 - 👙🩳 very small water reservoir at the top (left path after door), good for feet or short body immersion
 
 ## Topography 🗺️ 
-![Furrenwand-via-ferrata-topography](topo.png)
+![Furrenwand-via-ferrata-topography](img/topo.png)
 
 ## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

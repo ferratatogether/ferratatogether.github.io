@@ -55,26 +55,33 @@ Typically June through late October (conditions permitting)
 ## Difficulty 📈 
 K3-4. 3 hours Technically only a moderately difficult route, and the west bank is somewhat lacking in variety. By contrast, there is plenty of variety on the inward route, with some short steep passages, traverses which force the climber slightly out from the rock face, and the two highlights mentioned above. Important: pay close attention to the information board at the starting-point, which explains precisely how to use the Tyrolienne traverse. After your "journey into space", first secure yourself again to the via ferrata, and only then unclip yourself from the rope pulley!
 
-## Meeting Point 📍
-7:15AM  Zürich HB, Main Meeting point, around the clock
-Find the turquoise Zürich Together Banner.
+## Meeting point 📍
 
-## Time of leaving 🏁
-7:30 to platform 15
+{{< meetup meetTime="07:15" leaveTime="7:30" platform="15" >}}
+
+Recommended is to take an earlier train through, so you have more reserve time for the last K5 (optional) and enough time to reach the chairlift.
 
 ## Recommended train 🚂
-https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EBlatten+b.+Naters+%28Belalpbahn%29_I8530235&day=2026-08-22&time=07_00&moment=dep&trip=0_1
 To reach the Aletsch Via Ferrata (located around the Gibidum Reservoir at the Massa Gorge) via public transport, take a train to Brig station, catch the local Postbus (Route 624) to Blatten bei Naters (20min), and walk about 1 kilometer northeast to the reservoir. The entire trip from Zürich takes roughly 3.5 hours
 
-## By Car 🚗
+{{< sbb start="Zürich HB" 
+destination="Blatten b. Naters (Belalpbahn)" 
+time="07:38" 
+platform="15" 
+duration="2h35min" 
+train="IC" 
+date="2026-09-20"
+sbbUrl="https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EBlatten+b.+Naters+%28Belalpbahn%29_I8530235&day=2026-08-22&time=07_00&moment=dep&trip=0_1"
+ >}}
 
+## By Car 🚗
 {{< google-map-directions origin="Zurich" destination="Blatten b. Naters (Belalpbahn)" mode="d" height="500" >}}
 
 ## Parking 🅿️ 
 Parking lot at the Gibidum reservoir outside the village of Blatten near Naters (1482m)
 
 ## GPX 🗺️
-{{< gpx-map file="aletsch.gpx" >}}
+{{< gpx-map file="gpx/aletsch.gpx" >}}
 
 ## Start 🏁
 Blatten (1,327 m) is reached from Brig-Naters via a mountain road. It is possible to drive further, to the artificial lake of the Gibidum-Stausee (1,436 m), where there is parking.
