@@ -331,8 +331,16 @@
     "name": "Via Ferrata Charmey",
     "lat": 46.6208,
     "lon": 7.2102,
-    "difficulty": "KK3-K4/K5/K6",
+    "difficulty": "K3-K4/K5/K6",
     "summary": "The Via Ferrata de Charmey is a modern, high-quality via ferrata network located on the steep slopes of the Dent de Vounetse (1,813m) in the Fribourg Prealps. Open seasonally from May to October, it features three distinct routes that cater to different skill levels—ranging from a fun intermediate climb to one of the most physically demanding, overhanging routes in Switzerland.",
     "url": "/posts/switzerland/charmey/"
+  },
+    {
+    "name": "Via Ferrata Indianer",
+    "lat": 47.0657,
+    "lon": 9.0612,
+    "difficulty": "K4",
+    "summary": "The Indianer Klettersteig is a short, highly varied, and thrilling via ferrata located in Netstal, Canton Glarus, Switzerland. Originally built as a private family project, this route features unique, playful, and creative homemade safety elements alongside standard wire cables. It is highly exposed and arm-intensive, meaning it is not suitable for beginners",
+    "url": "/posts/switzerland/indianer/"
   }
 ]

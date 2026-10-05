@@ -181,15 +181,7 @@ or by email: info@heftisports.ch.
 https://heftisports.ch/summer/rental/
 
 ## Donation 💶
-Maintaining the Via Ferrata Braunwald cost from 10k to 20k per year because of rocks falling, winter, thunder, ...
 
-{{< bank-donations 
-    organization="Verein Trendsport Braunwald" 
-    bank="Glarner Kantonalbank" 
-    address="8750 Glarus" 
-    postal="87-62-5" 
-    iban="CH71 0077 3801 0344 3260 3" 
->}}
 
 ## Defects ⛓️‍💥
 

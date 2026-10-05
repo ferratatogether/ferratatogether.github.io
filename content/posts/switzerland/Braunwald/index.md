@@ -18,6 +18,10 @@ tags:
 
 {{< viaferratacard 
 difficulty="K3/K5" 
+  landscape="4"
+  physical="2"
+  exposure="3"
+  equipment="4"
 duration="7h" 
 durationclimb="4/5/6/7h" 
 vertical="450hm" 
