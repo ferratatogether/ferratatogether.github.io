@@ -127,4 +127,29 @@
     "summary": "A rugged, classic alpine route up the Pfaffenstein. It tests endurance across relentless vertical pillars and exposed, blocky alpine terrain with demanding downclimbs.",
     "url": "/posts/austria/eisenerzer-pfaffenstein/"
   }
+  ,
+  {
+    "name": "Croce di Fai",
+    "lat": 47.5312,
+    "lon": 14.8912,
+    "difficulty": "D",
+    "summary": "Ferrata Croce di Fai is a modern via ferrata that runs along the southeast wall directly to the viewpoint of Croce di Fai. ",
+    "url": "/posts/austria/croce-di-fai/"
+  },
+  {
+    "name": "Val del Ri",
+    "lat": 47.5312,
+    "lon": 14.8912,
+    "difficulty": "D",
+    "summary": "",
+    "url": "/posts/austria/val-de-ri/"
+  },
+  {
+    "name": "Eisenerzer Klettersteig",
+    "lat": 47.5312,
+    "lon": 14.8912,
+    "difficulty": "D",
+    "summary": "A rugged, classic alpine route up the Pfaffenstein. It tests endurance across relentless vertical pillars and exposed, blocky alpine terrain with demanding downclimbs.",
+    "url": "/posts/austria/eisenerzer-pfaffenstein/"
+  }
 ]

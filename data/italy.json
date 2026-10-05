@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Via Ferrata Ivano Dibona",
+        "lat": 46.5983,
+        "lon": 12.1644,
+        "difficulty": "B",
+        "summary": "A historic, panoramic high-altitude ridge route in the Cristallo group, featuring the famous 30-meter suspension bridge.",
+        "url": "/posts/italy/ivano-dibona/"
+    },
+    {
+        "name": "Via Ferrata Tridentina (Brigata Tridentina)",
+        "lat": 46.5492,
+        "lon": 11.8353,
+        "difficulty": "C",
+        "summary": "One of the most popular and scenic via ferrata routes in the Dolomites, ascending a vertical wall near the Sella Pass and ending with a suspension bridge.",
+        "url": "/posts/italy/tridentina/"
+    },
+    {
+        "name": "Via Ferrata Sci club 18",
+        "lat": 46.5414,
+        "lon": 12.1528,
+        "difficulty": "D",
+        "summary": "A highly demanding and athletic modern route directly under the Faloria cable car, offering steep, exposed, and strenuous vertical climbing.",
+        "url": "/posts/italy/sci-club-18/"
+    },
+    {
+        "name": "Via Ferrata Punta Anna",
+        "lat": 46.5469,
+        "lon": 12.0983,
+        "difficulty": "D",
+        "summary": "A steep and exposed classic ridge route climbing the prominent southern buttress of Tofana di Mezzo.",
+        "url": "/posts/italy/punta-anna/"
+    },
+    {
+        "name": "Via Ferrata Giuseppe Olivieri",
+        "lat": 46.5511,
+        "lon": 12.1022,
+        "difficulty": "D",
+        "summary": "The demanding continuation of the Punta Anna route leading further up towards the summit of Tofana di Mezzo.",
+        "url": "/posts/italy/giuseppe-olivieri/"
+    },
+    {
+        "name": "Via Ferrata Bolver-Lugli",
+        "lat": 46.2625,
+        "lon": 11.8028,
+        "difficulty": "D",
+        "summary": "A long, vertical, and challenging high-alpine route on Cimone della Pala in the Pale di San Martino group.",
+        "url": "/posts/italy/bolver-lugli/"
+    },
+    {
+        "name": "Via Ferrata delle Bocchette Centrali",
+        "lat": 46.1625,
+        "lon": 10.8986,
+        "difficulty": "C",
+        "summary": "A masterpiece of ledge systems in the Brenta Dolomites, offering world-class exposure along natural horizontal rock shelves.",
+        "url": "/posts/italy/bocchette-centrali/"
+    },
+    {
+        "name": "Via Ferrata delle Bocchette Alte",
+        "lat": 46.1772,
+        "lon": 10.9031,
+        "difficulty": "D",
+        "summary": "One of the highest and most strenuous routes in the Brenta Dolomites, traversing spectacular ladders and narrow ledges.",
+        "url": "/posts/italy/bocchette-alte/"
+    },
+    {
+        "name": "Via Ferrata Lagazuoi (Gallerie del Lagazuoi)",
+        "lat": 46.5272,
+        "lon": 12.0089,
+        "difficulty": "A",
+        "summary": "A unique historic route passing through a continuous network of steep tunnels bored by Italian soldiers during WWI.",
+        "url": "/posts/italy/lagazuoi-tunnels/"
+    },
+    {
+        "name": "Via Ferrata Giovanni Lipella",
+        "lat": 46.5539,
+        "lon": 12.0622,
+        "difficulty": "D",
+        "summary": "A massive, classic alpine route circling and ascending the Tofana di Rozes, passing through a WWI tunnel and open vertical faces.",
+        "url": "/posts/italy/giovanni-lipella/"
+    },
+    {
+        "name": "Via Ferrata Oskar Schuster",
+        "lat": 46.5133,
+        "lon": 11.7011,
+        "difficulty": "C",
+        "summary": "An alpine route leading up to the summit of Plattkofel (Sasso Piatto) in the Langkofel Group.",
+        "url": "/posts/italy/oskar-schuster/"
+    },
+    {
+        "name": "Via Ferrata delle Aquile",
+        "lat": 46.1558,
+        "lon": 11.0422,
+        "difficulty": "D",
+        "summary": "An incredibly exposed and exciting modern sport route on Paganella, featuring dramatic aerial ladders and a bridge.",
+        "url": "/posts/italy/delle-aquile/"
+    },
+    {
+        "name": "Via Ferrata Rino Pisetta",
+        "lat": 46.0625,
+        "lon": 10.9347,
+        "difficulty": "E",
+        "summary": "One of the most physically demanding and difficult via ferratas in Italy, ascending a near-vertical limestone wall near Lake Toblino.",
+        "url": "/posts/italy/rino-pisetta/"
+    },
+    {
+        "name": "Via Ferrata Monte Albano (Ottorino Marangoni)",
+        "lat": 45.8647,
+        "lon": 10.9322,
+        "difficulty": "D",
+        "summary": "A legendary, heavily overhanging athletic sport route located above the town of Mori near Lake Garda.",
+        "url": "/posts/italy/monte-albano/"
+    },
+    {
+        "name": "Via Ferrata Gerardo Sega",
+        "lat": 45.6981,
+        "lon": 10.9158,
+        "difficulty": "C",
+        "summary": "A unique itinerary on the walls of the Adige Valley, traversing an enormous overhanging amphitheater on a spectacular natural shelf.",
+        "url": "/posts/italy/gerardo-sega/"
+    },
+    {
+        "name": "Via Ferrata Che Guevara",
+        "lat": 46.0469,
+        "lon": 10.9389,
+        "difficulty": "C",
+        "summary": "A massive endurance route climbing over 1,200 meters of vertical elevation up the east face of Monte Casale.",
+        "url": "/posts/italy/che-guevara/"
+    },
+    {
+        "name": "Via Ferrata Col dei Bos",
+        "lat": 46.5197,
+        "lon": 12.0153,
+        "difficulty": "C",
+        "summary": "A popular modern sport route near Cortina, ideal for intermediate climbers, featuring beautiful slabs and historical ruins at the base.",
+        "url": "/posts/italy/col-dei-bos/"
+    },
+    {
+        "name": "Via Ferrata Innerkofler-De Luca",
+        "lat": 46.6194,
+        "lon": 12.3089,
+        "difficulty": "C",
+        "summary": "A classic historic route ascending the Paternkofel (Monte Paterno) right next to the iconic Tre Cime di Lavaredo.",
+        "url": "/posts/italy/innerkofler-de-luca/"
+    },
+    {
+        "name": "Via Ferrata Giulio Segata",
+        "lat": 46.0028,
+        "lon": 11.0847,
+        "difficulty": "E",
+        "summary": "A short but incredibly technical and strenuous vertical crack-and-chimney climb on Monte Bondone.",
+        "url": "/posts/italy/giulio-segata/"
+    },
+    {
+        "name": "Via Ferrata Gamma 2",
+        "lat": 45.8753,
+        "lon": 9.4219,
+        "difficulty": "D",
+        "summary": "An athletic and highly exposed vertical sport route scaling the limestone pillars of Monte Resegone near Lecco.",
+        "url": "/posts/italy/gamma-2/"
+    },
+    {
+        "name": "Via Ferrata Zandonella",
+        "lat": 46.6375,
+        "lon": 12.3997,
+        "difficulty": "D",
+        "summary": "A steep and rugged alpine route scaling the south face of the Sexten Rotwand (Croda Rossa di Sesto).",
+        "url": "/posts/italy/zandonella/"
+    },
+    {
+        "name": "Via Ferrata Constancia (Sass Rigais)",
+        "lat": 46.6083,
+        "lon": 11.7708,
+        "difficulty": "C",
+        "summary": "A high alpine route climbing to the highest summit of the Geisler (Odle) group in the western Dolomites.",
+        "url": "/posts/italy/sass-rigais/"
+    },
+    {
+        "name": "Via Ferrata dei Tre Signori",
+        "lat": 45.3111,
+        "lon": 7.3114,
+        "difficulty": "D",
+        "summary": "An athletic route located in the Piedmont region (Lanzo Valleys), featuring multiple suspension bridges and steep rock plates.",
+        "url": "/posts/italy/tre-signori/"
+    },
+    {
+        "name": "Via Ferrata del Gabiola",
+        "lat": 44.2042,
+        "lon": 7.3917,
+        "difficulty": "D",
+        "summary": "A sustained and airy route exploring the rocky spurs of the Maritime Alps in Liguria/Piedmont borderlands.",
+        "url": "/posts/italy/gabiola/"
+    },
+    {
+        "name": "Via Ferrata Gamma 1",
+        "lat": 45.8692,
+        "lon": 9.4125,
+        "difficulty": "C",
+        "summary": "A highly enjoyable, varied ladder-and-ridge progression ascending the lower cliffs of Monte Resegone.",
+        "url": "/posts/italy/gamma-1/"
+    }
+]
