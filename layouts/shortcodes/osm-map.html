@@ -18,15 +18,15 @@
       <div class="filter-group">
         <label class="filter-label">
           <input type="checkbox" class="difficulty-filter" value="easy" checked>
-          <span class="filter-status-dot" style="background:#22c55e;"></span> K1 - K2 (Easy)
+          <span class="filter-status-dot" style="background:#22c55e;"></span> K1 - K2 / A - B (Easy)
         </label>
         <label class="filter-label">
           <input type="checkbox" class="difficulty-filter" value="medium" checked>
-          <span class="filter-status-dot" style="background:#eab308;"></span> K3 - K4 (Medium)
+          <span class="filter-status-dot" style="background:#eab308;"></span> K3 - K4 / B - C (Medium)
         </label>
         <label class="filter-label">
           <input type="checkbox" class="difficulty-filter" value="hard" checked>
-          <span class="filter-status-dot" style="background:#ef4444;"></span> K5 - K6 (Expert)
+          <span class="filter-status-dot" style="background:#ef4444;"></span> K5 - K6 / D - E (Expert)
         </label>
       </div>
     </div>
@@ -122,17 +122,17 @@
 
     function getDifficultyTier(diff) {
       var d = diff.toUpperCase();
-      if (d === 'K1' || d === 'K2') return 'easy';
-      if (d === 'K3' || d === 'K4') return 'medium';
-      if (d === 'K5' || d === 'K6') return 'hard';
+      if (d === 'K1' || d === 'K2' || d === 'A' || d === 'B') return 'easy';
+      if (d === 'K3' || d === 'K4' || d === 'C' || d === 'D') return 'medium';
+      if (d === 'K5' || d === 'K6' || d === 'E' || d === 'F') return 'hard';
       return 'unknown';
     }
 
     function getDifficultyColor(diff) {
       var d = diff.toUpperCase();
-      if (d === 'K1' || d === 'K2') return '#22c55e';
-      if (d === 'K3' || d === 'K4') return '#eab308';
-      if (d === 'K5' || d === 'K6') return '#ef4444';
+      if (d === 'K1' || d === 'K2' || d === 'A' || d === 'B') return '#22c55e';
+      if (d === 'K3' || d === 'K4' || d === 'C' || d === 'D') return '#eab308';
+      if (d === 'K5' || d === 'K6' || d === 'E' || d === 'F') return '#ef4444';
       return '#64748b';
     }
 
