@@ -64,14 +64,15 @@ Typically June through late October (conditions permitting)
 
 ## Recommended train 🚂
 
-{{< sbb start="Zürich HB" 
-destination="Engelberg (Fürenalp Bahn)" 
-time="06:10"
-duration="2h20min" 
-platform="4" 
-train="IR 70" 
-date="2026-09-12"
-sbbUrl="https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EEngelberg+%28F%C3%BCrenalp+Bahn%29_I8530368&day=2026-09-26&time=06_00&moment=dep&trip=0_0"
+{{< sbb 
+  start="Zürich HB" 
+  destination="Engelberg (Fürenalp Bahn)" 
+  time="06:10"
+  duration="2h20min" 
+  platform="4" 
+  train="IR 70" 
+  date="2026-09-12"
+  sbbUrl="https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EEngelberg+%28F%C3%BCrenalp+Bahn%29_I8530368&day=2026-09-26&time=06_00&moment=dep&trip=0_0"
  >}}
 
 ## By Car 🚗
@@ -133,31 +134,34 @@ by public transportation
 ## Water 🚰 
 No access to water for 2 hours!
 
+{{< waterbottle liters="2.0" max="5.0">}}
+
 Restaurant 1,845 meters
 
 ## Lake 🏊
 A small reservoir at the top on the right path leading to the restaurant, big enough for 4-5 persons
 
 ## Renting equipment 🛍️ 
-Via ferrata sets with helmets can be rented at the Fürenalp valley station. We recommend reserving via ferrata sets by telephone on 041 637 20 94 (opening hours 8:30 - 17:30) or by e-mail. 
+Via ferrata sets with helmets can be rented at the Fürenalp valley station. We recommend reserving via ferrata sets by telephone.
 
 A limited number of via ferrata sets (helmet, climbing harness, slings) are available.
-
-Send an email to: 
-- [info@fuerenalp.ch](mailto:info@fuerenalp.ch) or
-- [bahn@fuerenalp.ch](mailto:bahn@fuerenalp.ch) 
-to reserve now, we will be there around 10:00
-
 - Cost via ferrata set complete: CHF 25.00
 - Cost via ferrata set slings: CHF 15.00
 
+{{< contact-call 
+  name="Fürenalp valley station" 
+  phone="+41 (0) 41 637 20 94" 
+  email="info@fuerenalp.ch or bahn@fuerenalp.ch"
+  address="Wasserfallstrasse 222, 6390 Engelberg"
+  website="https://www.fuerenalp.ch"
+  text="opening hours 8:30 - 17:30"
+>}}
+
 ## Links 🔗
-- https://www.instagram.com/reel/DRAN2p6DUiT/?igsh=MTkxbjhpNzNkZ2d5Yw%3D%3D
-- https://www.fuerenalp.ch/klettersteig
+- [fuerenalp.ch](https://www.fuerenalp.ch/klettersteig)
 
 ## My review ⭐️
-Beginner friendly if you master techniques
-
+- Beginner friendly if you master techniques
 - Easy access
 - Scenic
 - Vertical +700m
@@ -173,3 +177,5 @@ Beginner friendly if you master techniques
 ## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
+## Video
+{{< instagram-video "DRAN2p6DUiT" >}}

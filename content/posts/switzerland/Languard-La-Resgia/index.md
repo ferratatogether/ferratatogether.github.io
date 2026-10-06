@@ -148,6 +148,8 @@ by public transportation
 ## Water 🚰 
 The route is exposed to the sun from 9:00, throughout the season. No access to water for 2-3 hours!
 
+{{< waterbottle liters="2.0" max="5.0">}}
+
 At the top, the [Bergrestaurant Alp Languard](https://maps.app.goo.gl/CtvZ6zAik5opkd2LA) is close and offer drinks, meals and toilets
 
 ## WC 🚾 🚽

@@ -180,6 +180,8 @@ by public transportation
 ## Water 🚰
 The south-facing route is exposed to the sun all day, throughout the season. No access to water for 7-8 hours!
 
+{{< waterbottle liters="4.0" max="5.0">}}
+
 Get water or drinks at
 - [Bergrestaurant Kreuzboden](https://maps.app.goo.gl/KCPTJuwrbcYg29bW8)
 - [Weissmiesshütte SAC](https://maps.app.goo.gl/CgPfLtSCdHEpm1dXA)

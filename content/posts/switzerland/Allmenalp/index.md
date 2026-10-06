@@ -198,7 +198,16 @@ if you finish early, possibility to go to OeschninenSee in the afternoon  (+22.5
 
 ## Renting equipment 🛍️
 Please send an email now or call and reserve a via ferrata set with helmet for this satursday:
-There's a rental service directly with the valley station (Luftseilbahn Kandersteg-Allmenalp Allmenbahnstrasse 23 CH-3718 Kandersteg) of the cable car, opening hours 08.30 – 17.00 h. https://www.allmenalp.ch/en/experience/climbing.html
+There's a rental service directly with the valley station
+
+{{< contact-call 
+name="Luftseilbahn Kandersteg-Allmenalp" 
+phone="+41 (0) 33 675 16 90" 
+address="Allmenbahnstrasse 23 CH-3718 Kandersteg"
+website="https://www.allmenalp.ch/en/experience/climbing.html"
+text=""
+>}}
+* opening hours 08.30 – 17.00 h. 
 Renting Equipment (+25 CHF max)
 * Whole equipment (helmet, via ferrata-set, harness but no gloves: CHF 25
 * only helmet: CHF 7

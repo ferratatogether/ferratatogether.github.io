@@ -87,17 +87,19 @@ by public transportation
 ## Water 🚰
 Enough water for 2-3h of moderate efforts
 
-## Renting equipment 🧗
+{{< waterbottle liters="2.0" max="5.0">}}
 
-(30.- for the day) Call ASAP to reserve
-Intersport Alpina Sport
-Gotthardstrasse 101
-6490 Andermatt, Uri, 
-+41418871788
-info@alpina-sport.ch  
-Mo - Fr 09:00 - 12:00 13:00 - 18:00
-Sa - So 08:30 - 17:00
-Call ASAP to reserve
+## Renting equipment 🧗
+30.- for the day, Call ASAP to reserve
+
+{{< contact-call 
+name="Intersport Alpina Sport" 
+phone="+41 (0) 41 887 17 88" 
+email="info@alpina-sport.ch"
+address="Gotthardstrasse 101, 6490 Andermatt, Uri"
+website="https://www.alpina-sport.ch"
+text="Mo - Fr 09:00 - 12:00 13:00 - 18:00 - Sa - So 08:30 - 17:00"
+>}}
 
 ## Links 🔗
 - https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/tuefelstalboden-7805/klettersteig/via-ferrata-del-diavolo-743/

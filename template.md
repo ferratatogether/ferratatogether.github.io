@@ -19,10 +19,12 @@ tags:
 {{< viaferratacard 
   difficulty="K3/k4/K6" 
   distance="6.9km"
+  
   landscape="2"
   physical="4"
   exposure="2"
   equipment="3"
+
   escape="2"
   ladder="2"
   monkeybridge="3"
@@ -30,6 +32,7 @@ tags:
   footbridge="0"
   suspension="1"
   zipline="1"
+
   duration="4h" 
   durationclimb="2h45min, 335m" 
   vertical="900m" 
@@ -152,7 +155,6 @@ xxxxx
 {{< sac-scale level="T2" >}}
 {{< /sac-scale >}}
 
-
 ## Travelling home 🏠
 
 xxxx
@@ -177,15 +179,25 @@ xxxx
 
 xxxx
 
+{{< contact-call 
+name="xxxx" 
+phone="+41 (0) xxxx" 
+email="xxxx"
+address="xxxx"
+website="xxxx"
+text="opening hours 8:30 - 17:30"
+>}}
+
+
 ## Donation 💶
 xxxx
 
 {{< bank-donations 
-    organization="Verein Trendsport Braunwald" 
-    bank="Glarner Kantonalbank" 
-    address="8750 Glarus" 
+    organization="xxxx" 
+    bank="xxxx" 
+    address="xxxx" 
     postal="87-62-5" 
-    iban="CH71 0077 3801 0344 3260 3" 
+    iban="xxxx" 
 >}}
 
 ## Defects ⛓️‍💥
@@ -219,6 +231,9 @@ Noticing some defects during the climb? contact immediately:
 ## MAP 🗺️
 
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758.3795015553615!2d8.975794776356691!3d46.960662071137996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47853038b6718ad7%3A0x6819beabe9d2d959!2sBraunwalder%20Klettersteig!5e1!3m2!1sen!2sch!4v1789676929809!5m2!1sen!2sch" >}}
+
+## Video
+{{< instagram-video "xxxxxxx" >}}
 
 ## 📆 Ferrata Together log
 
