@@ -131,6 +131,22 @@ Train from Zurich HB: Board an InterCity (IC1) train toward Brig, typically tran
 
 Bus connection: From Riddes CFF, Martigny CFF, or Sion CFF, catch the PostBus 311 directly to the Saillon St-Laurent bus stop. Check live connections on the SBB Timetable
 	
+## By Car 🚗
+
+Take the A9 motorway and use Exit 24 (Riddes). Follow the Route de Riddes to Leytron, and then continue along the Route de Saillon towards Saillon.
+
+{{< google-map-directions origin="Zurich" destination="Saillon" mode="d" height="500" >}}
+
+## Parking 🅿️
+
+The local municipality actively fines drivers who park illegally on the shoulders outside designated areas. You should park only in the designated free parking spaces:
+
+{{< osm lon="7.1883" lat="46.1732" text="Parking" more="main parking lot for the Via Farinetta">}}
+
+* **Route de la Salentze Parking Spots:** Located closest to the trailhead. These are free but require a parking disc and have a maximum time limit of 5 hours.
+
+* **Alternative Parking Lots:** If the spots near the river are full, you can use the larger free lots at Place Farinet (at the foot of the village) or at the Bains de Saillon thermal baths. Both are about a 10-to-25-minute walk from the start of the route
+
 ## GPX 🗺️
 {{< gpx-map file="gpx/via-farinetta.gpx" >}}
 

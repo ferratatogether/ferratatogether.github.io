@@ -108,7 +108,7 @@ Drive to Aigle and head up to Leysin village. The approach sits beneath the Leys
 
 You can drive up the narrow mountain road directly toward the route and use the small dirt parking area located just past the Parking - Leysin Lodge. From this spot, the approach trail to the base of the rock face is incredibly short
 
-{{< osm lon="7.01643" lat="46.35023°" text="Parking" more="Leysin Lodge">}}
+{{< osm lon="7.01643" lat="46.35023" text="Parking" more="Leysin Lodge">}}
 
 If you prefer wider, paved lots that are easier to access, you can park down in the village at the main Les Esserts Parking right by the Télécabin Berneuse lower station. From here, you will need to hike up past the back of the cable car station and follow the signs uphill through the forest to reach the start.
 
