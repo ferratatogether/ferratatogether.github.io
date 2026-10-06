@@ -145,6 +145,8 @@ No access to water for 7 hours!
 
 Get Water at Brunnihütte
 
+{{< waterbottle liters="4.0" max="5.0">}}
+
 ## 🏊 Lake
 A small artificial lake is welcoming you beside the top of the chairlift. Even just putting your feets inside is great after this long day!
 

@@ -187,6 +187,8 @@ The path brings you straight back down behind the former Hotel Wilhelm Tell and 
 ## Water 🚰
 No access to water for the duration of the via ferrata, full round trip 3h
 
+{{< waterbottle liters="2" >}}
+
 Get water before and/or after your climb near the church:
 ![Near the church, there is a fountain before or after your climb](img/water.jpeg)
 
