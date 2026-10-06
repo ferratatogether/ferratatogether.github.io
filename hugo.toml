@@ -20,7 +20,9 @@ enableGitInfo = true
 lastmod = [':git', ':fileModTime']
 paginate = 1
 
-
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [params] 
   relativeURLs = false
