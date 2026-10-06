@@ -25,6 +25,13 @@ durationclimb="2h"
 vertical="370m" 
 top="1700m"
 location="Kandersteg"
+  escape="0"
+  ladder="7"
+  monkeybridge="1"
+  beam="1"
+  footbridge="2"
+  suspension="0"
+  zipline="2"
 trekup="20min"
 trekdown="15min">}}
 

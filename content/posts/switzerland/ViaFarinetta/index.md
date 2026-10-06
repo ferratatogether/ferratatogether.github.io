@@ -27,6 +27,7 @@ tags:
   beam="0"
   footbridge="0"
   suspension="1"
+  zipline="0"
   duration="4h" 
   durationclimb="2h45min, 335m" 
   vertical="900m" 

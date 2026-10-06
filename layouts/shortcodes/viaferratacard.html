@@ -287,13 +287,23 @@ border-radius: 4px;
   {{ end }}
 
     {{ if .Get "footbridge" }}
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <span style="font-size: 1.2rem;">🌁</span>
-    <div>
-      <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Foot bridge(s)</div>
-      <div style="font-weight: 600; color: #2d3748;">{{ .Get "footbridge" }}</div>
+      <div style="display: flex; align-items: center; gap: 0.5rem;">
+        <span style="font-size: 1.2rem;">🌁</span>
+        <div>
+          <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Foot bridge(s)</div>
+          <div style="font-weight: 600; color: #2d3748;">{{ .Get "footbridge" }}</div>
+        </div>
+      </div>
+  {{ end }}
+
+  {{ if .Get "zipline" }}
+    <div style="display: flex; align-items: center; gap: 0.5rem;">
+      <span style="font-size: 1.2rem;">➰</span>
+      <div>
+        <div style="font-size: 0.75rem; text-transform: uppercase; color: #718096; font-weight: bold; line-height: 1;">Zip Line(s)</div>
+        <div style="font-weight: 600; color: #2d3748;">{{ .Get "zipline" }}</div>
+      </div>
     </div>
-  </div>
   {{ end }}
 
     {{ if .Get "suspension" }}

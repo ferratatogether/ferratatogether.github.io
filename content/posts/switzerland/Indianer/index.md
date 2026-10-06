@@ -28,6 +28,16 @@ vertical="57m"
 top="691m"
 start="634m"
 location="Glarus"
+
+  escape="1"
+  ladder="1"
+  monkeybridge="0"
+  beam="0"
+  footbridge="1"
+  suspension="0"
+  zipline="1"
+
+
 trekup="30min"
 trekdown="45min">}}
 
