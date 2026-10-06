@@ -2,7 +2,7 @@
 title: "Via Farinetta"
 date: 2026-01-12T9:44:17+01:00
 summary: "The Via Farinetta leads through the wild and mysterious Salentze Gorge, from which the thermal water for the thermal baths in Saillon also originates."
-cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
+cover: img/cover.jpg
 tags:
   - via-ferrata
   - valais
@@ -15,15 +15,22 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K3/k4/K6" 
-duration="4h" 
-durationclimb="2h45min, 335m" 
-vertical="900m" 
-top="841m"
-start="536m"
-location="Valais"
-trekup="25min"
-trekdown="-350m, 50min, T1">}}
+  difficulty="K3/k4/K6" 
+  distance="6.9km"
+  landscape="2"
+  physical="4"
+  exposure="2"
+  equipment="3"
+  escape="2"
+  duration="4h" 
+  durationclimb="2h45min, 335m" 
+  vertical="900m" 
+  top="841m"
+  start="536m"
+  location="Valais"
+  trekup="25min"
+  trekdown="-350m, 50min, T1"
+>}}
 
 {{< swiss-map highlight="VS" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 
@@ -192,7 +199,7 @@ phone="+41 (0) 27 744 18 95" >}}
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Video 🎥
-{{< youtube M7CkKWNvQzs >}}
+{{< youtube YIDdiiP9kO8 >}}
 
 ## 📆 Ferrata Together log
 Ferrata Together visits:
