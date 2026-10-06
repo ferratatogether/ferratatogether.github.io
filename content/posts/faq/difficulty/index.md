@@ -3,6 +3,7 @@ title: "Difficulty"
 date: 2026-09-14T16:00:00+01:00
 summary: "Via ferrata difficulty levels are primarily categorized into global alpine scales (A to F, or K1 to K6). These systems evaluate the physical exertion, required equipment, and technical skills needed to navigate exposed rock, steep verticals, and artificial climbing aids like steel cables and rungs"
 cover: /img/header.png
+hideCover: true
 tags:
   - via-ferrata
   - difficulty
@@ -87,7 +88,7 @@ precipice extreme!
 
 
 ## Traumatic index
-As some people in our Ferrata Together group joked, this happens when we have to sprint down the mountain to catch the last cable car—just like we did at Sulzfluh and Rigidalstockgrat!
+According to a theory shared by members of our Ferrata Together group, this occurs when we are rushing down the mountains to catch the final cable car, as experienced at Sulzfluh or Rigidalstockgrat.
 
 NOTE: rushing introduces serious hazards that the Ferrata Together group should actively manage by better managing time.
 
