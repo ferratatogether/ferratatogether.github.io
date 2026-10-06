@@ -17,19 +17,27 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K3-K4" 
+  difficulty="K3/k4/K6" 
+  distance="6.9km"
   landscape="2"
-  physical="2"
+  physical="4"
   exposure="2"
   equipment="3"
-duration="7h" 
-durationclimb="4/5/6/7h" 
-vertical="450hm" 
-top="2455m"
-start="2120m"
-location="Glarus"
-trekup="1901m, 30min"
-trekdown="25min">}}
+  escape="2"
+  ladder="2"
+  monkeybridge="3"
+  beam="0"
+  footbridge="0"
+  suspension="1"
+  duration="4h" 
+  durationclimb="2h45min, 335m" 
+  vertical="900m" 
+  top="841m"
+  start="536m"
+  location="Valais"
+  trekup="25min"
+  trekdown="-350m, 50min, T1"
+>}}
 
 ## Location
 {{< swiss-map highlight="GL" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
