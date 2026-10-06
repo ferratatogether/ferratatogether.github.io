@@ -1,0 +1,34 @@
+{{/* layouts/shortcodes/trauma-barometer.html */}}
+{{ $level := .Get "level" | default "stubbed-toe" }}
+
+{{ $levels := dict 
+    "stubbed-toe" (dict "title" "Stubbed Toe on the Coffee Table" "color" "#4caf50" "emoji" "🩼" "desc" "Ouch! Flash-fury lasting exactly 45 seconds. You will survive, but the table is now your sworn enemy.")
+    "voice-recording" (dict "title" "Sound of My Own Voice on a Recording" "color" "#ffeb3b" "emoji" "🫨" "desc" "Cringe factor maximum. Who permitted me to speak? Do I really sound like a deflating balloon?")
+    "days-since-crying" (dict "title" "Days Since Last Crying Session" "color" "#ff9800" "emoji" "💧" "desc" "The counter has reset to zero. Honestly, it was a good release. Credit card commercial triggered it.")
+    "doctors-checking" (dict "title" "Doctors Around Me Checking My Mental Health" "color" "#f44336" "emoji" "🩺" "desc" "They are taking notes. They are nodding slowly. Someone just said 'interesting' under their breath.")
+    "spiritual-extinction" (dict "title" "Total Spiritual Extinction" "color" "#212121" "emoji" "🕳️" "desc" "The void has consumed everything. Only iced coffee can save us now. System override initiated.")
+}}
+
+{{ $current := index $levels $level }}
+
+<div class="trauma-barometer" style="border: 2px solid {{ $current.color }}; padding: 1.5rem; border-radius: 12px; margin: 1.5rem 0; font-family: system-ui, sans-serif; background-color: #fafafa; max-width: 450px; box-shadow: 4px 4px 0px 0px {{ $current.color }};">
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 1rem;">
+        <span style="font-size: 2.5rem; line-height: 1;">{{ $current.emoji }}</span>
+        <div>
+            <span style="text-transform: uppercase; font-size: 0.75rem; letter-spacing: 1px; color: #666; font-weight: bold;">Traumatic Barometer Status</span>
+            <h3 style="margin: 0; color: #111; font-size: 1.3rem;">{{ $current.title }}</h3>
+        </div>
+    </div>
+    
+    <p style="margin: 0 0 1.5rem 0; color: #444; font-size: 0.95rem; line-height: 1.4;">
+        {{ $current.desc }}
+    </p>
+
+    <div style="display: flex; gap: 4px; height: 12px; background: #e0e0e0; border-radius: 6px; overflow: hidden;">
+        <div style="flex: 1; background-color: {{ if eq $level "stubbed-toe" }}#4caf50{{ else }}#e0e0e0{{ end }};"></div>
+        <div style="flex: 1; background-color: {{ if eq $level "voice-recording" }}#ffeb3b{{ else }}#e0e0e0{{ end }};"></div>
+        <div style="flex: 1; background-color: {{ if eq $level "days-since-crying" }}#ff9800{{ else }}#e0e0e0{{ end }};"></div>
+        <div style="flex: 1; background-color: {{ if eq $level "doctors-checking" }}#f44336{{ else }}#e0e0e0{{ end }};"></div>
+        <div style="flex: 1; background-color: {{ if eq $level "spiritual-extinction" }}#212121{{ else }}#e0e0e0{{ end }};"></div>
+    </div>
+</div>

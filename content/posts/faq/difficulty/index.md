@@ -84,3 +84,17 @@ precipice extreme!
 - Primarily overhanging, exposed, very small steps or slab climbing
 ### Securing
 - Wire rope, iron clamps and stepping pins are often far apart. Combined with scrambling.
+
+
+## Traumatic index
+As some people in our Ferrata Together group joked, this happens when we have to sprint down the mountain to catch the last cable car—just like we did at Sulzfluh and Rigidalstockgrat!
+
+NOTE: rushing introduces serious hazards that the Ferrata Together group should actively manage by better managing time.
+
+Here is our index proposal:
+
+{{< trauma-barometer level="stubbed-toe" >}}
+{{< trauma-barometer level="voice-recording" >}}
+{{< trauma-barometer level="days-since-crying" >}}
+{{< trauma-barometer level="doctors-checking" >}}
+{{< trauma-barometer level="spiritual-extinction" >}}
