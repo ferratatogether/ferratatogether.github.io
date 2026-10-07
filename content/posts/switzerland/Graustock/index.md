@@ -102,8 +102,6 @@ then
 
 {{< /cablecar >}}
 
-
-
 ## GPX 🗺️
 {{< gpx-map file="graustock.gpx" >}}
 

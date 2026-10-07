@@ -75,7 +75,7 @@ Weather can cancel/abort/shorten the event a few days before if weather is not p
 # WhatsApp group 💬 
 
 {{< whatsapp-groups 
-  link1="#" 
+  link1="https://links.waltercedric.com/ferratatogether" 
   link2="#" 
 >}}
 

@@ -16,15 +16,31 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K5/K6" 
-duration="8h-10h" 
-durationclimb="5.5h/6h" 
-vertical="900m" 
-top="2941m"
-start=""
-location="Leukerbad"
-trekup="+1226m"
-trekdown="-1246m">}}
+  difficulty="K5/K6" 
+  duration="8h-10h" 
+  durationclimb="5.5h/6h" 
+  vertical="900m" 
+  top="2941m"
+  start=""
+
+  landscape="4"
+  physical="4"
+  exposure="4"
+  equipment="3"
+
+  escape="1"
+  ladder="x"
+  monkeybridge="x"
+  beam="x"
+  footbridge="x"
+  suspension="x"
+  zipline="x"
+
+
+  location="Leukerbad"
+  trekup="+1226m"
+  trekdown="-1246m"
+>}}
 
 ## Location
 {{< swiss-map highlight="VS" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
