@@ -136,7 +136,14 @@ No access to water for 2 hours!
 
 {{< waterbottle liters="2.0" max="5.0">}}
 
-Restaurant 1,845 meters
+{{< contact-call 
+  name="Bergrestaurant Fürenalp (1,845 meters)" 
+  phone="+41 (0) 41 637 39 49" 
+  email="restaurant@fuerenalp.ch"
+  address="6390 Engelberg"
+  website="https://www.fuerenalp.ch"
+  text="opening hours 8.20-17.20 Uhr"
+>}}
 
 ## Lake 🏊
 A small reservoir at the top on the right path leading to the restaurant, big enough for 4-5 persons
