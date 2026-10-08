@@ -103,7 +103,7 @@
 </div>
 
 <script>
-     const FETCH_URL = `https://api.open-meteo.com/v1/forecast?latitude={{ $lat }}&longitude={{ $lon }}&hourly=temperature_2m,precipitation,cloud_cover,wind_speed_10m&forecast_days=3&timezone=Europe%2FZurich`;
+     const FETCH_URL = `https://api.open-meteo.com/v1/forecast?latitude={{ $lat }}&longitude={{ $lon }}&hourly=temperature_2m,precipitation,cloud_cover,wind_speed_10m&forecast_days=7&timezone=Europe%2FZurich`;
 
     // Map cloud cover percentages to functional emoji weather icons
     function getWeatherEmoji(cloudCover, precipitation) {
