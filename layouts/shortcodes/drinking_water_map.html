@@ -1,0 +1,214 @@
+{{ $lat := .Get "lat" | default "46.5626" }}
+{{ $lng := .Get "lng" | default "7.0792" }}
+{{ $radius := .Get "radius" | default "1500" }}
+{{ $zoom := .Get "zoom" | default "15" }}
+{{ $id := md5 (printf "%s-%s-%s" $lat $lng $radius) }}
+
+{{ $query := printf `[out:json][timeout:25];
+    node["amenity"="drinking_water"](around:%s,%s,%s);
+    node["amenity"="water_point"](around:%s,%s,%s);
+    node["man_made"="water_well"]["drinking_water"="yes"](around:%s,%s,%s);
+    node["natural"="spring"]["drinking_water"="yes"](around:%s,%s,%s);
+    node["amenity"="restaurant"](around:%s,%s,%s);
+    node["shop"="supermarket"](around:%s,%s,%s);
+    out body;` $radius $lat $lng $radius $lat $lng $radius $lat $lng $radius $lat $lng $radius $lat $lng $radius $lat $lng
+}}
+
+{{ warnf "Debugging drinking water map shortcode - query: %s" $query }}
+
+{{ $overpassUrlQuery := ($query | urlquery) }}
+{{ warnf "Debugging drinking water map shortcode - overpassUrlQuery: %s" $overpassUrlQuery }}
+
+{{ $url :=  printf "https://overpass-api.de/api/interpreter?data=%s" $overpassUrlQuery }}
+
+{{ $opts := dict "headers" (dict "Accept" "application/json" "User-Agent" "Hugo-Static-Site-Generator") }}
+
+{{ $data := "" }}
+{{ with try (resources.GetRemote $url $opts) }}
+  {{ with .Err }}
+    {{ warnf "Overpass API build-time network mismatch: %s" . }}
+  {{ else }}
+    {{ $data = unmarshal .Value.Content }}
+  {{ end }}
+{{ end }}
+
+{{ warnf "Debugging drinking water map shortcode - data: %s" $data }}
+
+
+<!-- Leaflet CDN Resources -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+
+<!-- Map Container -->
+<div id="map-{{ $id }}" style="height: 500px; width: 100%; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const lat = {{ $lat | safeJS }};
+    const lng = {{ $lng | safeJS }};
+    const zoom = {{ $zoom | safeJS }};
+    const jsData = {{ $data }}; 
+
+    // 1. Initialize Leaflet Map
+    const map = L.map('map-{{ $id }}').setView([lat, lng], zoom);
+
+    // 2. Add OpenStreetMap Base Layer
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // 3. Highlight Search Center
+    const centerIcon = L.divIcon({
+        className: 'custom-center-icon',
+        html: "<div style='background-color:#000000; width:14px; height:14px; border-radius:50%; border:2px solid white; box-shadow:0 0 6px rgba(0,0,0,0.6);'></div>",
+        iconSize: [14, 14],
+        iconAnchor: [7, 7]
+    });
+    L.marker([lat, lng], {icon: centerIcon}).addTo(map);
+    //.bindPopup("<b>Your Search Center</b>").openPopup();
+
+    // 4. Initialize Interactive Layer Groups
+    const layers = {
+        water: L.layerGroup().addTo(map),
+        restaurant: L.layerGroup().addTo(map),
+        supermarket: L.layerGroup().addTo(map)
+    };
+
+    // 5. Inject pre-fetched data from Hugo build engine
+    if (jsData) {
+        if (jsData.elements) {
+                const geoData = jsData.elements;
+                
+                geoData.forEach(element => {
+                    console.log("------ element:", element);
+
+                    if (element.type === 'node' && element.lat && element.lon) {
+                        const tags = element.tags || {};
+                        let markerColor = "#7f8c8d"; 
+                        let typeLabel = "Point of Interest";
+                        let emoji = "📍";
+                        let TargetLayer = layers.water;
+
+            
+                        console.log("### Found tags.amenity:", tags.amenity);
+            
+                        if (tags.amenity === "drinking_water") {
+                            console.log("+++++++ drinking_water:");
+                            markerColor = "#3498db"; 
+                            typeLabel = "Drinking Water Fountain";
+                            emoji = "🚰";
+                            TargetLayer = layers.water;
+                        } else if (tags.man_made === "water_well") {
+                            console.log("+++++++ water_well:");
+                            markerColor = "#a0522d"; 
+                            typeLabel = "Water Well (Potable)";
+                            emoji = "🧱";
+                            TargetLayer = layers.water;
+                        } else if (tags.natural === "spring") {
+                             console.log("+++++++ spring:");
+                            markerColor = "#2ecc71"; 
+                            typeLabel = "Natural Spring (Potable)";
+                            emoji = "🌱";
+                            TargetLayer = layers.water;
+                        } else if (tags.amenity === "restaurant") {
+                            console.log("+++++++ restaurant:");
+                            markerColor = "#e74c3c"; 
+                            typeLabel = "Restaurant";
+                            emoji = "🍽️";
+                            TargetLayer = layers.restaurant;
+                        } else if (tags.shop === "supermarket") {
+                            console.log("+++++++ supermarket:");
+                            markerColor = "#9b59b6"; 
+                            typeLabel = "Supermarket";
+                            emoji = "🛒";
+                            TargetLayer = layers.supermarket;
+                        } 
+                        
+                        const name = tags.name || typeLabel;
+                        const details = tags.description ? `<br/><i>${tags.description}</i>` : "";
+                        const cuisine = tags.cuisine ? `<br/><b>Cuisine:</b> ${tags.cuisine}` : "";
+                        
+                        const icon = L.divIcon({
+                            className: 'custom-poi-icon',
+                            html: `<div style='background-color:${markerColor}; 
+                            width:14px; height:14px; border-radius:50%; 
+                            border:2px solid white; 
+                            box-shadow:0 1px 5px rgba(0,0,0,0.4);'></div>`,
+                            iconSize: [14, 14],
+                            iconAnchor: [7, 7]
+                        });
+
+                        const popupContent = `
+                            <strong>${emoji} ${name}</strong>
+                            <br/>Category: ${typeLabel}
+                            ${cuisine}
+                            ${details}
+                        `;
+
+                        L.marker([element.lat, element.lon], {icon: icon})
+                         .bindPopup(popupContent)
+                         .addTo(TargetLayer);
+                    }
+                });
+        }
+    }
+
+    // 6. Interactive Control Legend Panel
+    const legend = L.control({ position: "bottomright" });
+    legend.onAdd = function() {
+        const div = L.DomUtil.create("div", "map-legend");
+        Object.assign(div.style, {
+            backgroundColor: "white", padding: "10px 14px", borderRadius: "6px",
+            boxShadow: "0 1px 5px rgba(0,0,0,0.4)", fontFamily: "sans-serif", fontSize: "12px"
+        });
+
+        div.innerHTML = `
+            <b style="display:block;margin-bottom:8px;">🗺️ Layers Control</b>
+            <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
+                <input type="checkbox" id="chk-drinking-water" checked style="margin-right:6px;">
+                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 💧 Drinking Water
+            </label>
+            <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
+                <input type="checkbox" id="chk-water_well" checked style="margin-right:6px;">
+                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 💧 Water well
+            </label>
+            <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
+                <input type="checkbox" id="chk-water-spring" checked style="margin-right:6px;">
+                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 💧 spring Water
+            </label>
+            <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
+                <input type="checkbox" id="chk-restaurant" checked style="margin-right:6px;">
+                <span style="background:#e74c3c;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 🍽️ Restaurants
+            </label>
+            <label style="display:flex;align-items:center;cursor:pointer;">
+                <input type="checkbox" id="chk-supermarket" checked style="margin-right:6px;">
+                <span style="background:#9b59b6;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 🛒 Supermarkets
+            </label>
+        `;
+
+        L.DomEvent.disableClickPropagation(div);
+        L.DomEvent.disableScrollPropagation(div);
+
+        setTimeout(() => {
+            setupToggle("chk-drinking-water", layers.drinking_water);
+            setupToggle("chk-drinking-water_well", layers.water_well);
+            setupToggle("chk-drinking-spring", layers.spring);
+            setupToggle("chk-restaurant", layers.restaurant);
+            setupToggle("chk-supermarket", layers.supermarket);
+        }, 50);
+
+        function setupToggle(id, layerGroup) {
+            const el = div.querySelector(`#${id}`);
+            if(el) {
+                el.addEventListener("change", function(e) {
+                    if (e.target.checked) { map.addLayer(layerGroup); } 
+                    else { map.removeLayer(layerGroup); }
+                });
+            }
+        }
+        return div;
+    };
+    legend.addTo(map);
+});
+</script>

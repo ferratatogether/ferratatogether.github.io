@@ -172,6 +172,10 @@ No access for the duration of the via ferrata.
 Get water or drinks at
 xxxx
 
+### Rivers
+{{< river-location lat="46.5626" lng="7.0792" radius="3000" zoom="13" >}}
+
+
 ## WC 🚾 🚽
 xxxx
 
@@ -240,3 +244,13 @@ Noticing some defects during the climb? contact immediately:
 Ferrata Together visits:
 | Date | Number of people | Organizer |
 |----------|--------------------| ---- |
+
+
+{{< accordion mode="open" separated=true >}}
+  {{< accordionItem title="Drinking water locations" icon="code" open=true >}}
+  {{< /accordionItem >}}
+
+  {{< accordionItem title="Rivers water locations" md=false >}}
+    
+  {{< /accordionItem >}}
+{{< /accordion >}}

@@ -116,7 +116,7 @@
 
     async function fetchForecast() {
         try {
-            console.log("URL is", FETCH_URL);
+            //console.log("URL is", FETCH_URL);
             const response = await fetch(FETCH_URL);
             if (!response.ok) throw new Error('Network response failure');
             

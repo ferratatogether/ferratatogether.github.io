@@ -1,0 +1,89 @@
+{{ $lat := .Get "lat" | default "46.5626" }}
+{{ $lng := .Get "lng" | default "7.0792" }}
+{{ $radius := .Get "radius" | default "2000" }}
+{{ $zoom := .Get "zoom" | default "14" }}
+{{ $id := md5 (printf "%s-%s" $lat $lng) }}
+
+<!-- Include Leaflet CSS and JS via CDN -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+
+<!-- Map Container -->
+<div id="map-{{ $id }}" style="height: 500px; width: 100%; margin-bottom: 20px; border-radius: 8px;"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const lat = {{ $lat }};
+    const lng = {{ $lng }};
+    const radius = {{ $radius }};
+    const zoom = {{ $zoom }};
+
+    // 1. Initialize the Leaflet Map centered around the coordinates
+    const map = L.map('map-{{ $id }}').setView([lat, lng], zoom);
+
+    // 2. Add OpenStreetMap Standard Tile Layer
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // 3. Optional: Add a marker for the primary center point
+    L.marker([lat, lng]).addTo(map).bindPopup("<b>Center Location</b>").openPopup();
+
+    // 4. Build Overpass QL query targeting natural=water and waterways
+    const overpassUrl = "https://overpass-api.de/api/interpreter";
+    const overpassQuery = `
+        [out:json][timeout:25];
+        (
+          nwr["natural"="water"](around:${radius}, ${lat}, ${lng});
+          nwr["waterway"](around:${radius}, ${lat}, ${lng});
+        );
+        out body;
+        >;
+        out skel qt;
+    `;
+
+    // 5. Fetch OSM Data and map it
+    fetch(overpassUrl, {
+        method: "POST",
+        body: new URLSearchParams({ data: overpassQuery })
+    })
+    .then(response => response.json())
+    .then(data => {
+        const nodes = {};
+        
+        // Cache nodes first
+        data.elements.forEach(element => {
+            if (element.type === 'node') {
+                nodes[element.id] = [element.lat, element.lon];
+                if (element.tags && (element.tags.natural === 'water' || element.tags.waterway)) {
+                    L.marker([element.lat, element.lon])
+                     .bindPopup(`<b>${element.tags.name || 'Water body'}</b> (${element.tags.water || 'node'})`)
+                     .addTo(map);
+                }
+            }
+        });
+
+        // Plot ways (rivers, lakes, coastlines)
+        data.elements.forEach(element => {
+            if (element.type === 'way' && element.nodes) {
+                const coordinates = element.nodes.map(nodeId => nodes[nodeId]).filter(coord => coord !== undefined);
+                if (coordinates.length > 0) {
+                    const popupText = `<b>${element.tags.name || 'Unnamed Water Area'}</b><br>Type: ${element.tags.water || element.tags.waterway || 'water'}`;
+                    
+                    L.polyline(coordinates, {
+                        color: '#3388ff', 
+                        weight: element.tags.waterway ? 4 : 2, 
+                        fill: !element.tags.waterway,
+                        fillColor: '#3388ff',
+                        fillOpacity: 0.4
+                    })
+                    .bindPopup(popupText)
+                    .addTo(map);
+                }
+            }
+        });
+    })
+    .catch(error => console.error("Error loading water features from Overpass API:", error));
+});
+</script>
