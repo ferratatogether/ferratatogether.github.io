@@ -192,10 +192,7 @@ No access to water for the duration of the via ferrata, full round trip 3h
 Get water before and/or after your climb near the church:
 ![Near the church, there is a fountain before or after your climb](img/water.jpeg)
 
-{{< drinking_water_map lat="46.889" lng="8.900" radius="1200" zoom="16" >}}
-
-### Rivers
-{{< river-location lat="46.5626" lng="7.0792" radius="3000" zoom="13" >}}
+{{< drinking_water_map lat="46.889" lng="8.900" radius="2400" zoom="16" >}}
 
 ## WC 🚾 🚽
 - None, you'll have to go to a restaurant at the top of klaussenpass, or a few km away from the via ferrata on your way back to Zürich

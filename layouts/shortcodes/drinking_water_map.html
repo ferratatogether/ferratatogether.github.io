@@ -5,13 +5,10 @@
 {{ $id := md5 (printf "%s-%s-%s" $lat $lng $radius) }}
 
 {{ $query := printf `[out:json][timeout:25];
-    node["amenity"="drinking_water"](around:%s,%s,%s);
-    node["amenity"="water_point"](around:%s,%s,%s);
-    node["man_made"="water_well"]["drinking_water"="yes"](around:%s,%s,%s);
-    node["natural"="spring"]["drinking_water"="yes"](around:%s,%s,%s);
-    node["amenity"="restaurant"](around:%s,%s,%s);
-    node["shop"="supermarket"](around:%s,%s,%s);
-    out body;` $radius $lat $lng $radius $lat $lng $radius $lat $lng $radius $lat $lng $radius $lat $lng $radius $lat $lng
+(
+    node["amenity"~"drinking_water|restaurant|water|waterway|water_point|water_well|spring|supermarket"](around:%s,%s,%s);
+);
+out body;` $radius $lat $lng
 }}
 
 {{ warnf "Debugging drinking water map shortcode - query: %s" $query }}
@@ -19,7 +16,9 @@
 {{ $overpassUrlQuery := ($query | urlquery) }}
 {{ warnf "Debugging drinking water map shortcode - overpassUrlQuery: %s" $overpassUrlQuery }}
 
-{{ $url :=  printf "https://overpass-api.de/api/interpreter?data=%s" $overpassUrlQuery }}
+<!-- https://overpass-api.de -->
+<!-- https://overpass.osm.ch -->
+{{ $url :=  printf "https://overpass.osm.ch/api/interpreter?data=%s" $overpassUrlQuery }}
 
 {{ $opts := dict "headers" (dict "Accept" "application/json" "User-Agent" "Hugo-Static-Site-Generator") }}
 
@@ -65,12 +64,15 @@ document.addEventListener("DOMContentLoaded", function() {
         iconSize: [14, 14],
         iconAnchor: [7, 7]
     });
-    L.marker([lat, lng], {icon: centerIcon}).addTo(map);
-    //.bindPopup("<b>Your Search Center</b>").openPopup();
+    L.marker([lat, lng], {icon: centerIcon}).addTo(map); //.bindPopup("<b>Your Search Center</b>").openPopup();
 
     // 4. Initialize Interactive Layer Groups
     const layers = {
+        drinking_water: L.layerGroup().addTo(map),
+        water_well: L.layerGroup().addTo(map),
+        spring: L.layerGroup().addTo(map),
         water: L.layerGroup().addTo(map),
+        waterway: L.layerGroup().addTo(map),
         restaurant: L.layerGroup().addTo(map),
         supermarket: L.layerGroup().addTo(map)
     };
@@ -81,38 +83,40 @@ document.addEventListener("DOMContentLoaded", function() {
                 const geoData = jsData.elements;
                 
                 geoData.forEach(element => {
-                    console.log("------ element:", element);
-
                     if (element.type === 'node' && element.lat && element.lon) {
                         const tags = element.tags || {};
                         let markerColor = "#7f8c8d"; 
                         let typeLabel = "Point of Interest";
                         let emoji = "📍";
                         let TargetLayer = layers.water;
-
-            
-                        console.log("### Found tags.amenity:", tags.amenity);
             
                         if (tags.amenity === "drinking_water") {
-                            console.log("+++++++ drinking_water:");
                             markerColor = "#3498db"; 
                             typeLabel = "Drinking Water Fountain";
                             emoji = "🚰";
-                            TargetLayer = layers.water;
+                            TargetLayer = layers.drinking_water;
                         } else if (tags.man_made === "water_well") {
-                            console.log("+++++++ water_well:");
                             markerColor = "#a0522d"; 
                             typeLabel = "Water Well (Potable)";
                             emoji = "🧱";
-                            TargetLayer = layers.water;
+                            TargetLayer = layers.water_well;
                         } else if (tags.natural === "spring") {
-                             console.log("+++++++ spring:");
                             markerColor = "#2ecc71"; 
                             typeLabel = "Natural Spring (Potable)";
                             emoji = "🌱";
+                            TargetLayer = layers.spring;
+                        } else if (tags.natural === "water") {
+                            markerColor = "#2ecc71"; 
+                            typeLabel = "Natural water (non Potable)";
+                            emoji = "🏞️";
                             TargetLayer = layers.water;
-                        } else if (tags.amenity === "restaurant") {
-                            console.log("+++++++ restaurant:");
+                        } else if (tags.natural === "waterway") {
+                            markerColor = "#2ecc71"; 
+                            typeLabel = "Natural waterway (Non Potable)";
+                            emoji = "🏞️";
+                            TargetLayer = layers.spring;
+                        }  
+                        else if (tags.amenity === "restaurant") {
                             markerColor = "#e74c3c"; 
                             typeLabel = "Restaurant";
                             emoji = "🍽️";
@@ -167,23 +171,38 @@ document.addEventListener("DOMContentLoaded", function() {
             <b style="display:block;margin-bottom:8px;">🗺️ Layers Control</b>
             <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
                 <input type="checkbox" id="chk-drinking-water" checked style="margin-right:6px;">
-                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 💧 Drinking Water
+                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;
+                display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 💧 Drinking Water
             </label>
             <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
                 <input type="checkbox" id="chk-water_well" checked style="margin-right:6px;">
-                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 💧 Water well
+                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;
+                display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 💧 Water well
             </label>
             <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
                 <input type="checkbox" id="chk-water-spring" checked style="margin-right:6px;">
-                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 💧 spring Water
+                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;
+                display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 💧 spring Water
+            </label>
+            <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
+                <input type="checkbox" id="chk-water" checked style="margin-right:6px;">
+                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;
+                display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 🏞️ Water
+            </label>
+            <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
+                <input type="checkbox" id="chk-waterway" checked style="margin-right:6px;">
+                <span style="background:#3498db;width:10px;height:10px;border-radius:50%;
+                display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 🏞️ Waterway
             </label>
             <label style="display:flex;align-items:center;margin-bottom:6px;cursor:pointer;">
                 <input type="checkbox" id="chk-restaurant" checked style="margin-right:6px;">
-                <span style="background:#e74c3c;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 🍽️ Restaurants
+                <span style="background:#e74c3c;width:10px;height:10px;border-radius:50%;
+                display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 🍽️ Restaurants
             </label>
             <label style="display:flex;align-items:center;cursor:pointer;">
                 <input type="checkbox" id="chk-supermarket" checked style="margin-right:6px;">
-                <span style="background:#9b59b6;width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 🛒 Supermarkets
+                <span style="background:#9b59b6;width:10px;height:10px;border-radius:50%;
+                display:inline-block;margin-right:6px;border:1px solid #fff;"></span> 🛒 Supermarkets
             </label>
         `;
 
@@ -194,8 +213,11 @@ document.addEventListener("DOMContentLoaded", function() {
             setupToggle("chk-drinking-water", layers.drinking_water);
             setupToggle("chk-drinking-water_well", layers.water_well);
             setupToggle("chk-drinking-spring", layers.spring);
+            setupToggle("chk-water", layers.water);
+            setupToggle("chk-waterway", layers.waterway);
             setupToggle("chk-restaurant", layers.restaurant);
             setupToggle("chk-supermarket", layers.supermarket);
+
         }, 50);
 
         function setupToggle(id, layerGroup) {
