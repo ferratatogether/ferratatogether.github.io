@@ -1,5 +1,5 @@
  {{- $country := lower (.Get 0 | default (.Get "country")) -}}
- {{- $countryData := index site.Data $country -}}
+ {{- $countryData := index hugo.Data $country -}}
  {{ $lat := .Get "lat" }}
  {{ $long := .Get "long" }}
 

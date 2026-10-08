@@ -157,7 +157,7 @@ Not possible close to start, or around. I recommend from the one joining us to r
     address="Sustenstrasse 365, 3863 Steingletscher" 
     text="Winter season – March 21 to May 17, 2026 / Summer season – June 4 to September/October 2026 (depending on snow conditions)"
 >}}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2369.225418224392!2d8.411640875671706!3d46.702022050004956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47856372cdbc2339%3A0x843f29bfd3f2e495!2sTierberglih%C3%BCtte%20SAC!5e1!3m2!1sen!2sch!4v1789561740916!5m2!1sen!2sch"></iframe>
+{{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2369.225418224392!2d8.411640875671706!3d46.702022050004956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47856372cdbc2339%3A0x843f29bfd3f2e495!2sTierberglih%C3%BCtte%20SAC!5e1!3m2!1sen!2sch!4v1789561740916!5m2!1sen!2sch" >}}
 
 [tierbergli](https://tierbergli.ch)
 
