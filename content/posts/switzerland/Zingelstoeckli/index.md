@@ -9,6 +9,10 @@ tags:
   - K4-K5
   - Uri
 ---
+
+{{< river-location lat="46.889" lng="8.900" radius="2400" zoom="16" >}}
+
+
 {{< toc-mobile >}}
 
 {{< viaferratacard 

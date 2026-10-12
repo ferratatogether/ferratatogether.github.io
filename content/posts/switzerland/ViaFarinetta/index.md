@@ -221,7 +221,7 @@ phone="+41 (0) 27 744 18 95" >}}
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Video 🎥
-{{< youtube YIDdiiP9kO8 >}}
+{{< youtube W5qlvm2HwFk >}}
 
 ## 📆 Ferrata Together log
 Ferrata Together visits:

@@ -4,6 +4,33 @@
 {{ $zoom := .Get "zoom" | default "14" }}
 {{ $id := md5 (printf "%s-%s" $lat $lng) }}
 
+{{ $query := printf `[out:json][timeout:25];
+(
+    nwr["natural"="water"](around:%s,%s,%s);
+    nwr["waterway"](around:%s,%s,%s);
+);
+out body;
+>;
+out skel qt;
+` $radius $lat $lng
+}}
+
+{{ $overpassUrlQuery := ($query | urlquery) }}
+
+<!-- https://overpass-api.de -->
+<!-- https://overpass.osm.ch -->
+{{ $url :=  printf "https://overpass.osm.ch/api/interpreter?data=%s" $overpassUrlQuery }}
+{{ $opts := dict "headers" (dict "Accept" "application/json" "User-Agent" "Hugo-Static-Site-Generator") }}
+
+{{ $data := "" }}
+{{ with try (resources.GetRemote $url $opts) }}
+  {{ with .Err }}
+    {{ warnf "Overpass API build-time network mismatch: %s" . }}
+  {{ else }}
+    {{ $data = unmarshal .Value.Content }}
+  {{ end }}
+{{ end }}
+
 <!-- Include Leaflet CSS and JS via CDN -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
@@ -17,6 +44,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const lng = {{ $lng }};
     const radius = {{ $radius }};
     const zoom = {{ $zoom }};
+    const jsData = {{ $data }}; 
 
     // 1. Initialize the Leaflet Map centered around the coordinates
     const map = L.map('map-{{ $id }}').setView([lat, lng], zoom);
@@ -28,35 +56,19 @@ document.addEventListener("DOMContentLoaded", function() {
     }).addTo(map);
 
     // 3. Optional: Add a marker for the primary center point
-    L.marker([lat, lng]).addTo(map).bindPopup("<b>Center Location</b>").openPopup();
-
-    // 4. Build Overpass QL query targeting natural=water and waterways
-    const overpassUrl = "https://overpass-api.de/api/interpreter";
-    const overpassQuery = `
-        [out:json][timeout:25];
-        (
-          nwr["natural"="water"](around:${radius}, ${lat}, ${lng});
-          nwr["waterway"](around:${radius}, ${lat}, ${lng});
-        );
-        out body;
-        >;
-        out skel qt;
-    `;
+    L.marker([lat, lng]).addTo(map);//.bindPopup("<b>Center Location</b>").openPopup();
 
     // 5. Fetch OSM Data and map it
-    fetch(overpassUrl, {
-        method: "POST",
-        body: new URLSearchParams({ data: overpassQuery })
-    })
-    .then(response => response.json())
-    .then(data => {
+    if (jsData) {
         const nodes = {};
-        
+     
         // Cache nodes first
-        data.elements.forEach(element => {
+        jsData.elements.forEach(element => {
             if (element.type === 'node') {
                 nodes[element.id] = [element.lat, element.lon];
+                
                 if (element.tags && (element.tags.natural === 'water' || element.tags.waterway)) {
+                    console.log("found water");
                     L.marker([element.lat, element.lon])
                      .bindPopup(`<b>${element.tags.name || 'Water body'}</b> (${element.tags.water || 'node'})`)
                      .addTo(map);
@@ -65,7 +77,8 @@ document.addEventListener("DOMContentLoaded", function() {
         });
 
         // Plot ways (rivers, lakes, coastlines)
-        data.elements.forEach(element => {
+        jsData.elements.forEach(element => {
+            console.log(element);
             if (element.type === 'way' && element.nodes) {
                 const coordinates = element.nodes.map(nodeId => nodes[nodeId]).filter(coord => coord !== undefined);
                 if (coordinates.length > 0) {
@@ -83,7 +96,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             }
         });
-    })
-    .catch(error => console.error("Error loading water features from Overpass API:", error));
+    }
+
 });
 </script>

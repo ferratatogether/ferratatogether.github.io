@@ -11,15 +11,11 @@
 out body;` $radius $lat $lng
 }}
 
-{{ warnf "Debugging drinking water map shortcode - query: %s" $query }}
-
 {{ $overpassUrlQuery := ($query | urlquery) }}
-{{ warnf "Debugging drinking water map shortcode - overpassUrlQuery: %s" $overpassUrlQuery }}
 
 <!-- https://overpass-api.de -->
 <!-- https://overpass.osm.ch -->
 {{ $url :=  printf "https://overpass.osm.ch/api/interpreter?data=%s" $overpassUrlQuery }}
-
 {{ $opts := dict "headers" (dict "Accept" "application/json" "User-Agent" "Hugo-Static-Site-Generator") }}
 
 {{ $data := "" }}
@@ -30,9 +26,6 @@ out body;` $radius $lat $lng
     {{ $data = unmarshal .Value.Content }}
   {{ end }}
 {{ end }}
-
-{{ warnf "Debugging drinking water map shortcode - data: %s" $data }}
-
 
 <!-- Leaflet CDN Resources -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
