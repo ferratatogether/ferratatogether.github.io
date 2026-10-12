@@ -2,7 +2,7 @@
 title: "Eggishorn Ferrata Together"
 date: 2026-01-12T9:44:17+01:00
 summary: "The Eggishorn via ferrata (Klettersteig) is a spectacular, high-altitude iron way located in the Aletsch Arena in Valais, Switzerland. Perched between 2,724 and 2,869 metres above sea level, it offers climbers breathtaking, panoramic views directly over the iconic Great Aletsch Glacier. It is open seasonally from June to October"
-cover: /img/cover.jpg
+cover: img/cover.jpg
 tags:
   - via-ferrata
   - k3
