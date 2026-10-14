@@ -243,6 +243,8 @@ Beginner friendly if no fear of heights
 
 ## Topography 🗺️ 
 ![Allmenalp-via-ferrata-topography](img/topo.png)
+ ![Allmenalp-via-ferrata-topography 1](img/topo1.avif)
+![Allmenalp-via-ferrata-topography 2](img/topo2.avif)
 
 ## Gallery 🌄 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

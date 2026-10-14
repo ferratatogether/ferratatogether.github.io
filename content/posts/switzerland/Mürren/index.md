@@ -124,7 +124,7 @@ INSPORT: +41 33 855 21 88
 - https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/muerrenbachfall-8215/klettersteig/klettersteig-muerren-1846/
 - [https://lauterbrunnen.swiss/de/entdecken/erlebnisse/klettersteig-muerren-gimmelwald.html](https://lauterbrunnen.swiss/de/entdecken/erlebnisse/klettersteig-muerren-gimmelwald.html)
 
-## My review
+## My review ⭐️
 Beginner friendly if no fear of heights
 
 - Ridiculously over hyped and over crowded
@@ -136,11 +136,12 @@ Beginner friendly if no fear of heights
 - 15min instagrammable because of depth
 - Last bridge 120m length is great
 
-## My review ⭐️
-
 ## Topography 🗺️ 
 
+![Mürren topo](img/topo.avif)
+
 ## Gallery 🌄 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 
