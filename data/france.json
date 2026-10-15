@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Via Ferrata du Diable (Les Angelots)",
+    "lat": 45.2289,
+    "lon": 6.7364,
+    "difficulty": "F",
+    "summary": "Dedicated children and beginners section of the massive Forts de l'Esseillon via ferrata network.",
+    "url": "/posts/france/diable-angelots/"
+  },
+  {
+    "name": "Via Ferrata Aiguillette du Lauzet",
+    "lat": 45.0233,
+    "lon": 6.4461,
+    "difficulty": "PD",
+    "summary": "Magnificent alpine route climbing to a panoramic summit at 2,611 meters in the Écrins.",
+    "url": "/posts/france/aiguillette-lauzet/"
+  },
+  {
+    "name": "Via Ferrata Les Prises de La Bastille (Part 1)",
+    "lat": 45.1936,
+    "lon": 5.7241,
+    "difficulty": "PD",
+    "summary": "The initial urban section ascending Grenoble's historic fortification walls.",
+    "url": "/posts/france/prises-bastille-1/"
+  },
+  {
+    "name": "Via Ferrata des Evettes",
+    "lat": 45.9388,
+    "lon": 6.8906,
+    "difficulty": "AD",
+    "summary": "Located in the Chamonix valley near the Flégère lift, facing Mont Blanc.",
+    "url": "/posts/france/evettes/"
+  },
+  {
+    "name": "Via Ferrata de Curalla",
+    "lat": 45.9344,
+    "lon": 6.6975,
+    "difficulty": "AD",
+    "summary": "A continuous cliffside ledge traverse in Passy facing the Mont Blanc Massif.",
+    "url": "/posts/france/curalla/"
+  },
+  {
+    "name": "Via Ferrata Fort de l'Écluse",
+    "lat": 46.1214,
+    "lon": 5.8924,
+    "difficulty": "AD",
+    "summary": "A historic military fort layout scaling vertical limestone ramparts.",
+    "url": "/posts/france/fort-ecluse/"
+  },
+  {
+    "name": "Via Ferrata du Roc de Cornillon",
+    "lat": 45.6961,
+    "lon": 5.8617,
+    "difficulty": "AD",
+    "summary": "Overlooking Lac du Bourget, featuring exposed horizontal traverses and a footbridge.",
+    "url": "/posts/france/roc-cornillon/"
+  },
+  {
+    "name": "Via Ferrata de La Guinguette",
+    "lat": 45.9369,
+    "lon": 5.5414,
+    "difficulty": "D",
+    "summary": "A vertical and highly atmospheric wall climb located in Hostias-Tenay.",
+    "url": "/posts/france/guinguette/"
+  },
+  {
+    "name": "Via Ferrata des Échelles de la Mort",
+    "lat": 47.1989,
+    "lon": 6.8856,
+    "difficulty": "D",
+    "summary": "The 'Ladders of Death' route near the Swiss border in the Jura mountains.",
+    "url": "/posts/france/echelles-mort/"
+  },
+  {
+    "name": "Via Ferrata de Liaucous",
+    "lat": 44.2025,
+    "lon": 3.1972,
+    "difficulty": "D",
+    "summary": "A spectacular canyon maze route in the Gorges du Tarn, featuring red rock columns.",
+    "url": "/posts/france/liaucous/"
+  },
+  {
+    "name": "Via Ferrata Yves Pollet-Villard",
+    "lat": 45.9083,
+    "lon": 6.4439,
+    "difficulty": "D",
+    "summary": "A premier vertical route scaling the Aravis limestone in La Clusaz.",
+    "url": "/posts/france/yves-pollet-villard/"
+  },
+  {
+    "name": "Via Ferrata de la Grande Fistoire",
+    "lat": 44.3644,
+    "lon": 6.0792,
+    "difficulty": "TD",
+    "summary": "A highly challenging route in Le Caire, famous for a towering 60-meter footbridge and zip lines.",
+    "url": "/posts/france/grande-fistoire/"
+  },
+  {
+    "name": "Via Ferrata du Boffi",
+    "lat": 44.1136,
+    "lon": 3.1258,
+    "difficulty": "TD",
+    "summary": "An aerial route tracing the sheer cliffs of the Dourbie Gorges, demanding high arm strength.",
+    "url": "/posts/france/boffi/"
+  },
+  {
+    "name": "Via Ferrata Les Prises de La Bastille (Part 2)",
+    "lat": 45.1942,
+    "lon": 5.7252,
+    "difficulty": "TD",
+    "summary": "The secondary upper segment of the Grenoble urban route, characterized by intensely physical overhangs.",
+    "url": "/posts/france/prises-bastille-2/"
+  },
+  {
+    "name": "Via Ferrata des Trois Pucelles",
+    "lat": 45.1683,
+    "lon": 5.6425,
+    "difficulty": "ED",
+    "summary": "An extremely difficult, sustained alpine ridge route in the Vercors Massif.",
+    "url": "/posts/france/trois-pucelles/"
+  },
+  {
+    "name": "Via Ferrata de Freissinières (La Grande Falaise)",
+    "lat": 44.7536,
+    "lon": 6.5375,
+    "difficulty": "D",
+    "summary": "Historically the very first modern via ferrata built in France (1988), ascending a prominent vertical cliff.",
+    "url": "/posts/france/freissinieres/"
+  },
+  {
+    "name": "Via Ferrata de Llo (Les Escaldilles)",
+    "lat": 42.4542,
+    "lon": 2.0622,
+    "difficulty": "D",
+    "summary": "Located in the Pyrénées-Orientales, a scenic route combining vertical walls with physical passages.",
+    "url": "/posts/france/llo-escaldilles/"
+  },
+  {
+    "name": "Via Ferrata de Chisa",
+    "lat": 41.9244,
+    "lon": 9.2611,
+    "difficulty": "D",
+    "summary": "A spectacular Corsican via ferrata offering magnificent high-altitude granite climbing sequences.",
+    "url": "/posts/france/chisa-corse/"
+  },
+  {
+    "name": "Via Ferrata Planfoy (Gouffre d'Enfer)",
+    "lat": 45.3811,
+    "lon": 4.4502,
+    "difficulty": "AD",
+    "summary": "A highly popular route in the Loire department featuring scenic crossings over water reservoirs.",
+    "url": "/posts/france/planfoy-gouffre/"
+  },
+  {
+    "name": "Via Ferrata Gorges de la Durance",
+    "lat": 44.7867,
+    "lon": 6.5583,
+    "difficulty": "AD",
+    "summary": "A magnificent family-friendly network spanning multiple canyon sections and monkey bridges over the river.",
+    "url": "/posts/france/gorges-durance/"
+  },
+  {
+    "name": "Via Ferrata du Roc du Vent",
+    "lat": 45.7194,
+    "lon": 6.6433,
+    "difficulty": "AD",
+    "summary": "A stunning high-alpine route in the Beaufortain range offering gorgeous views over Roselend Lake.",
+    "url": "/posts/france/roc-du-vent/"
+  },
+  {
+    "name": "Via Ferrata du Pont du Diable (Thueyts)",
+    "lat": 44.6711,
+    "lon": 4.2217,
+    "difficulty": "AD",
+    "summary": "Crosses the wild Ardèche River over historic rock columns and a major suspension bridge structure.",
+    "url": "/posts/france/pont-du-diable/"
+  },
+  {
+    "name": "Via Ferrata des Gorges d'Agnielles",
+    "lat": 44.5833,
+    "lon": 5.7833,
+    "difficulty": "F",
+    "summary": "An accessible initiation pathway running along cliff edges inside a deep mountain canyon corridor.",
+    "url": "/posts/france/gorges-agnielles/"
+  },
+  {
+    "name": "Via Ferrata du Pas de l'Ours",
+    "lat": 45.4125,
+    "lon": 6.9189,
+    "difficulty": "AD",
+    "summary": "A beautifully framed high-valley route in Val d'Isère maneuvering through massive structural slabs.",
+    "url": "/posts/france/pas-ours/"
+  },
+  {
+    "name": "Via Ferrata Comtes Lascaris",
+    "lat": 44.0883,
+    "lon": 7.4936,
+    "difficulty": "ED",
+    "summary": "An intensely athletic, long, and exceptionally exposed route over vertical cliffs near Tende.",
+    "url": "/posts/france/comtes-lascaris/"
+  },
+  {
+    "name": "Via Ferrata de la Roche Veyrand",
+    "lat": 45.4214,
+    "lon": 5.8569,
+    "difficulty": "TD",
+    "summary": "A major technical itinerary in the Chartreuse massif consisting of highly exposed vertical columns.",
+    "url": "/posts/france/roche-veyrand/"
+  },
+  {
+    "name": "Via Ferrata Baus de la Frema",
+    "lat": 44.0683,
+    "lon": 7.2342,
+    "difficulty": "D",
+    "summary": "A lofty maritime-alpine route climbing high above La Colmiane with steep vertical challenges.",
+    "url": "/posts/france/baus-frema/"
+  },
+  {
+    "name": "Via Ferrata du Rocher de Neuf Heures",
+    "lat": 44.0933,
+    "lon": 6.2361,
+    "difficulty": "AD",
+    "summary": "Directly overlooks Digne-les-Bains, scaling limestone cliffs with wonderful visibility across Provence.",
+    "url": "/posts/france/rocher-neuf-heures/"
+  },
+  {
+    "name": "Via Ferrata de Tolla",
+    "lat": 41.9744,
+    "lon": 8.9722,
+    "difficulty": "AD",
+    "summary": "A lovely Corsican traverse hanging directly above the emerald waters of Lake Tolla.",
+    "url": "/posts/france/tolla-corse/"
+  },
+  {
+    "name": "Via Ferrata de Mende (Rocher de Moïse)",
+    "lat": 44.5122,
+    "lon": 3.4989,
+    "difficulty": "D",
+    "summary": "A varied Lozère route packing multiple zip line crossings and tightly technical athletic overhang variations.",
+    "url": "/posts/france/mende-moise/"
+  }
+]

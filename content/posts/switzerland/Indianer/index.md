@@ -178,7 +178,7 @@ Noticing some defects during the climb? contact immediately:
 
 ## Topography 🗺️
 
-![Indianer-klettersteig-topo](img/topo.jpg)
+![Indianer-klettersteig-topo](img/topo.png)
 
 ## Gallery 🌄
 
