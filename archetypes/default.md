@@ -120,6 +120,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+{{< osm lon="7.01643" lat="46.35023°" text="Parking" more="Leysin Lodge">}}
+
 ## Approach hike 🥾
 
 {{< approach 
@@ -168,17 +170,22 @@ No access for the duration of the via ferrata.
 Get water or drinks at
 - xxxxxxxx
 
+### Rivers
+{{< river-location lat="46.5626" lng="7.0792" radius="3000" zoom="13" >}}
+
 ## WC 🚾 🚽
 - xxxxxxxxx
 
 ## Renting equipment 🛍️
 xxxxxxxxx xxxxxxxxx xxxxxxxxx
 
-{{< contact-call
-  name="Upper Station (Technical / Rental)" 
-  phone="+41 xxxxxxxxx" 
-  email="upperstation@gemmi.ch"
-  lon="7.615671" lat="46.397857"
+{{< contact-call 
+  name="xxxx" 
+  phone="+41 (0) xxxx" 
+  email="xxxx"
+  address="xxxx"
+  website="xxxx"
+  text="opening hours 8:30 - 17:30"
 >}}
 
 ## Donation 💶
@@ -207,6 +214,9 @@ Noticing some defects during the climb? contact immediately:
 
 ## Video 🎥
 
+{{< youtube AL4OHw4gXjM >}}
+
+{{< instagram-video "xxxxxxx" >}}
 
 ## GPX 🗺️
  
