@@ -25,6 +25,7 @@ gap: 1rem; padding: 1rem; background: #f9f9f9;
 border-radius: 4px; 
 ">
   
+  <div style="display: flex; flex-direction: column; gap: 0.75rem;">
   {{ if .Get "landscape" }}
     <div style="display: flex; align-items: center; gap: 0.5rem;">
       <div>
@@ -173,8 +174,9 @@ border-radius: 4px;
     </div>
     </div>
   {{ end }}
+  </div>
 
-
+  <div style="display: flex; flex-direction: column; gap: 0.75rem;">
   {{ if .Get "difficulty" }}
   <div style="display: flex; align-items: center; gap: 0.5rem;">
     <span style="font-size: 1.2rem;">🧗</span>
@@ -244,7 +246,9 @@ border-radius: 4px;
     </div>
   </div>
   {{ end }}
+</div>
 
+  <div style="display: flex; flex-direction: column; gap: 0.75rem;">
   {{ if .Get "escape" }}
   <div style="display: flex; align-items: center; gap: 0.5rem;">
     <span style="font-size: 1.2rem;">🛟</span>
@@ -315,8 +319,9 @@ border-radius: 4px;
     </div>
   </div>
   {{ end }}
-  
+  </div>
 
+    <div style="display: flex; flex-direction: column; gap: 0.75rem;">
   {{ if .Get "location" }}
   <div style="display: flex; align-items: center; gap: 0.5rem;">
     <span style="font-size: 1.2rem;">📍</span>
@@ -346,5 +351,6 @@ border-radius: 4px;
     </div>
   </div>
   {{ end }}
+  </div>
 
 </div>

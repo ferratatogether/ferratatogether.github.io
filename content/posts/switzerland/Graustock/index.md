@@ -12,15 +12,30 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K5" 
-duration="4h" 
-durationclimb="2h" 
-vertical="260hm" 
-top="2662m"
-start="2310m"
-location="Engelberg"
-trekup="2207m, 1h30, T2"
-trekdown="1h30, T3+" >}}
+  difficulty="K5" 
+  duration="4h" 
+  durationclimb="2h" 
+  vertical="260hm" 
+  top="2662m"
+  start="2310m"
+  
+  landscape="3"
+  physical="3"
+  exposure="3"
+  equipment="3"
+
+  escape="2"
+  ladder="0"
+  monkeybridge="0"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+  
+  location="Engelberg"
+  trekup="2207m, 1h30, T2"
+  trekdown="1h30, T3+" 
+>}}
 
 ## Location
 {{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
@@ -146,6 +161,7 @@ Call to reserve a kit now, number is limited:
 - 👙🩳 Lake Trubsee after the chairlift while going back, can be really cold in september!
 
 ## Topography 🗺️ 
+![topo-graustock-via-ferrata](img/topo-graustock-via-ferrata.webp)
 
 ## Gallery 🌄 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

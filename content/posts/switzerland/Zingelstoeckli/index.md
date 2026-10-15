@@ -25,6 +25,15 @@ tags:
   duration="3h" 
   durationclimb="1.5H" 
   vertical="200m" 
+
+  escape="2"
+  ladder="6"
+  monkeybridge="0"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+
   top="1720m"
   start="1400m"
   location="Urnerboden (1372m)"
