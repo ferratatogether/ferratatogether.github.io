@@ -16,15 +16,31 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K4/K4+" 
-duration="7h" 
-durationclimb="3h" 
-vertical="450Hm/550m" 
-top="2817m"
-start="1450m"
-location="Partnun"
-trekup="2h, +867m"
-trekdown="2h, -1000m">}}
+
+  landscape="4"
+  physical="3"
+  exposure="2"
+  equipment="3"
+
+  difficulty="K4/K4+" 
+  duration="7h" 
+  durationclimb="3h" 
+  vertical="450m/550m" 
+
+  escape="0"
+  ladder="7"
+  monkeybridge="1"
+  beam="0"
+  footbridge="1"
+  suspension="1"
+  zipline="0"
+
+  top="2817m"
+  start="1450m"
+  location="Partnun"
+  trekup="2h, +867m"
+  trekdown="2h, -1000m"
+>}}
 
 ## Location
 {{< swiss-map highlight="GR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
@@ -89,8 +105,6 @@ To get by car to the Sulzfluh via ferrata, drive through the Prättigau valley i
 turn up toward St. Antönien, and continue past the village toward Partnun up to the designated mountain 
 parking lots (such as P6 or further up toward Partnunstafel), from where you hike 1.5 to 2 hours to the start. (avoid that by making somewhere near St Antonien Platz and take the alpin bus, see above)
 
-## By Car 🚗
-
 {{< google-map-directions origin="Zurich" destination="Partnun" mode="d" height="500" >}}
 
 ## 🅿️ Parking
@@ -104,14 +118,29 @@ None
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2355.6643054146166!2d9.837155711250682!3d47.01026762884734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4784ad2138385001%3A0x431d7e98ad62590c!2sKlettersteig%20Sulzfluh!5e1!3m2!1sen!2sch!4v1789373305325!5m2!1sen!2sch" >}}
 
 ## GPX 🗺️
-{{< gpx-map file="sulzfluh-done.gpx" >}}
+{{< gpx-map file="gpx/sulzfluh-done.gpx" >}}
 
-## Start 🏁 
+## Approach hike 🥾
+
+{{< approach 
+    sac="T2-T3"
+    time="1.5h" 
+    distance="2/2.5km" 
+    terrain="Up" 
+    altitude_start="1770m (Berghaus Alpenrösli)" 
+    altitude_end="2360m" 
+    elevation_gain="585m" 
+    elevation_loss="0m" 
+>}}
+
+{{< sac-scale level="T2" >}}
 Approach and Via Ferrata Details: From Berghaus Alpenrösli, follow the white-blue-white alpine trail signs toward Carschinahütte. Follow sign "Klettersteig/Via Ferrata".
-The approach to the start of the Sulzfluh via ferrata from the Berghaus Alpenrösli takes about 1 to 1.5 hours of hiking, from 1770m to entry wall at roughly 2360m, so a nice exhausting walk of +600m elevation 🙄
+The approach to the start of the Sulzfluh via ferrata from the Berghaus Alpenrösli takes about 1 to 1.5 hours of hiking, 
+from 1770m to entry wall at roughly 2360m, so a nice exhausting walk of +600m elevation 🙄
 
 - Begins with an entry ladder, moving across the "Obelix Crossing" and up the main ramp. Note: No turning back is possible past this ramp
 - Features the exposed "Panoramica" traverse, the "Deichmann Bridge" wire bridge, and the strenuous "Wailing Wall" final push to the top
+{{< /sac-scale >}}
 
 ## View from Sulzfluh
 
@@ -128,8 +157,21 @@ The approach to the start of the Sulzfluh via ferrata from the Berghaus Alpenrö
 
 {{< iframe src="https://www.peakfinder.com/?lat=47.01250&lng=9.83972&ele=2818&azi=40.01&alt=-4.27&fov=45&date=2019-10-20T22:47Z&cfg=es&name=Sulzfluh" >}}
 
-## Exit 🚶🏻‍♂️
+## Exit hike 🚶🏻‍♂️
+{{< exit 
+    sac="T3"
+    time="1.5h" 
+    distance="" 
+    terrain="down" 
+    altitude_start="2817m" 
+    altitude_end="1770m (Berghaus Alpenrösli)" 
+    elevation_gain="0m" 
+    elevation_loss="219hm" 
+>}}
+
+{{< sac-scale level="T3" >}}
 After descending on a red-white sign-posted normal path, always follow path to the right side of the hill, it may turn blue-white but will be again later red-white. Always follow sign to Tilisuna-Hütte. You're gonna see the lake on your right and will walk toward it and later close to it.
+{{< /sac-scale >}}
 
 ## 🏠 Travelling home
 From Alpenrössli, you will for sure have miss the alpine bus..., you can rent a bike for 10.-, but choose one that brake properly, you can now ride down back to St Antonien Platz (5.3km, 18min, don't go too fast, one turn on a bridge at the beginning is hazardous).
