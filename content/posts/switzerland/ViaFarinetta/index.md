@@ -15,12 +15,11 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-  difficulty="K3/k4/K6" 
-  distance="6.9km"
-  landscape="2"
+  landscape="3"
   physical="4"
   exposure="2"
   equipment="3"
+
   escape="2"
   ladder="2"
   monkeybridge="3"
@@ -28,11 +27,15 @@ tags:
   footbridge="0"
   suspension="1"
   zipline="0"
+
+  difficulty="K3/k4/K6" 
+  distance="6.9km"
   duration="4h" 
   durationclimb="2h45min, 335m" 
   vertical="900m" 
   top="841m"
   start="536m"
+
   location="Valais"
   trekup="25min"
   trekdown="-350m, 50min, T1"

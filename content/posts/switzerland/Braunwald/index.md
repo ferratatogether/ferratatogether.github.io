@@ -17,7 +17,6 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K3/K5" 
   landscape="4"
   physical="2"
   exposure="3"
@@ -31,14 +30,17 @@ difficulty="K3/K5"
   suspension="1"
   zipline="0"
 
-duration="7h" 
-durationclimb="4/5/6/7h" 
-vertical="450hm" 
-top="2455m"
-start="2120m"
-location="Glarus"
-trekup="1901m, 30min"
-trekdown="25min">}}
+  difficulty="K3/K5" 
+  duration="7h" 
+  durationclimb="4/5/6/7h" 
+  vertical="450hm" 
+  top="2455m"
+  start="2120m"
+  
+  location="Glarus"
+  trekup="1901m, 30min"
+  trekdown="25min"
+>}}
 
 ## Location
 {{< swiss-map highlight="GL" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}

@@ -12,13 +12,6 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-  difficulty="K5" 
-  duration="4h" 
-  durationclimb="2h" 
-  vertical="260hm" 
-  top="2662m"
-  start="2310m"
-  
   landscape="3"
   physical="3"
   exposure="3"
@@ -32,6 +25,13 @@ tags:
   suspension="0"
   zipline="0"
   
+  difficulty="K5" 
+  duration="4h" 
+  durationclimb="2h" 
+  vertical="260hm" 
+  top="2662m"
+  start="2310m"
+
   location="Engelberg"
   trekup="2207m, 1h30, T2"
   trekdown="1h30, T3+" 

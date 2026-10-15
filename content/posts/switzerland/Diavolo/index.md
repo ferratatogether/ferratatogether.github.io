@@ -16,15 +16,30 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K2/K3" 
-duration="2h" 
-durationclimb="3h" 
-vertical="450hm" 
-top="1900m"
-start="1450m"
-location="Andermatt"
-trekup="15min"
-trekdown="1h">}}
+  landscape="3"
+  physical="1"
+  exposure="2"
+  equipment="4"
+
+  escape="0"
+  ladder="0"
+  monkeybridge="0"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+
+  difficulty="K2/K3" 
+  duration="2h" 
+  durationclimb="3h" 
+  vertical="450hm" 
+  top="1900m"
+  start="1450m"
+
+  location="Andermatt"
+  trekup="15min"
+  trekdown="1h"
+>}}
 
 ## Location
 

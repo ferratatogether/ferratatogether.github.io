@@ -12,15 +12,30 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K5" 
-duration="3h" 
-durationclimb="2,5h" 
-vertical="760m" 
-top="1845m"
-start="1240m"
-location="Engelberg"
-trekup="30min"
-trekdown="30min 🚠">}}
+  landscape="3"
+  physical="3"
+  exposure="3"
+  equipment="3"
+
+  escape="0"
+  ladder="3 (30m)"
+  monkeybridge="0"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+
+  difficulty="K5" 
+  duration="3h" 
+  durationclimb="2,5h" 
+  vertical="760m" 
+  top="1845m"
+  start="1240m"
+
+  location="Engelberg"
+  trekup="30min"
+  trekdown="30min 🚠"
+>}}
 
 ## Location
 {{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}

@@ -34,30 +34,60 @@ The route begins with a common vertical slab section before splitting into separ
 Rated C/K3. It is well-equipped with iron steps and rungs, making it suitable for climbers with moderate experience.
 
 {{< viaferratacard 
-difficulty="K3 media / K5-K6 Difficile" 
-duration="4h" 
-durationclimb="2h" 
-vertical="305m/350m" 
-top="1695m/1740m"
-start="1390m"
-location="Monte Carasso"
-trekup="1h"
-trekdown="1:30">}}
+  landscape="2"
+  physical="2"
+  exposure="2"
+  equipment="2"
+
+  escape="0"
+  ladder="0"
+  monkeybridge="0"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+
+  difficulty="K3 media / K5-K6 Difficile" 
+  duration="4h" 
+  durationclimb="2h" 
+  vertical="305m/350m" 
+  top="1695m/1740m"
+  start="1390m"
+
+  location="Monte Carasso"
+  trekup="1h"
+  trekdown="1:30"
+>}}
 
 ### Via Difficile (Difficult Route)
 
 Rated D/E up to K6. An incredibly athletic, exposed, and overhanging route that requires excellent upper body strength and absolute freedom from vertigo.
 
 {{< viaferratacard 
-difficulty="K5" 
-duration="4h" 
-durationclimb="1h" 
-vertical="170m" 
-top="1740m"
-start="1570m"
-location="Monte Carasso"
-trekup="1h"
-trekdown="1:30">}}
+  landscape="3"
+  physical="4"
+  exposure="3"
+  equipment="2"
+
+  escape="0"
+  ladder="0"
+  monkeybridge="0"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+
+  difficulty="K5" 
+  duration="4h" 
+  durationclimb="1h" 
+  vertical="170m" 
+  top="1740m"
+  start="1570m"
+
+  location="Monte Carasso"
+  trekup="1h"
+  trekdown="1:30"
+>}}
 
 ### Suspension Bridge
 

@@ -20,15 +20,30 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K3" 
-duration="4h" 
-durationclimb="3h" 
-vertical="-160hm" 
-top="xxxx"
-start="xxxx"
-location="Mürren"
-trekup="3min"
-trekdown="15min">}}
+  landscape="2"
+  physical="2"
+  exposure="2"
+  equipment="4"
+
+  escape="1"
+  ladder="6"
+  monkeybridge="2"
+  beam="0"
+  footbridge="1"
+  suspension="1"
+  zipline="1"
+
+  difficulty="K3" 
+  duration="4h" 
+  durationclimb="3h" 
+  vertical="-160hm" 
+  top="xxxx"
+  start="xxxx"
+
+  location="Mürren"
+  trekup="3min"
+  trekdown="15min"
+>}}
 
 ## Location
 {{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}

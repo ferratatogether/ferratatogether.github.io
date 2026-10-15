@@ -16,13 +16,6 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-  difficulty="K5/K6" 
-  duration="8h-10h" 
-  durationclimb="5.5h/6h" 
-  vertical="900m" 
-  top="2941m"
-  start=""
-
   landscape="4"
   physical="4"
   exposure="4"
@@ -36,6 +29,12 @@ tags:
   suspension="x"
   zipline="x"
 
+  difficulty="K5/K6" 
+  duration="8h-10h" 
+  durationclimb="5.5h/6h" 
+  vertical="900m" 
+  top="2941m"
+  start=""
 
   location="Leukerbad"
   trekup="+1226m"

@@ -13,13 +13,11 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-  difficulty="K3-K4/K5/K6" 
-  duration="4h" 
-  durationclimb="3h"
   landscape="1"
   physical="1"
   exposure="1"
   equipment="1"
+
   escape="X"
   ladder="X"
   monkeybridge="X"
@@ -27,9 +25,14 @@ tags:
   footbridge="X"
   suspension="X"
   zipline="X"
+
+  difficulty="K3-K4/K5/K6" 
+  duration="4h" 
+  durationclimb="3h"
   vertical="160/180m" 
   top="1813m"
   start="1640m"
+  
   location="Charmey"
   trekup="15min"
   trekdown="45min"

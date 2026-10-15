@@ -15,15 +15,30 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K3-K4/K5" 
-duration="3h" 
-durationclimb="1.5h" 
-vertical="330m" 
-top="2198m"
-start="1928m"
-location="Pontresina"
-trekup="15min"
-trekdown="1h">}}
+  landscape="3"
+  physical="4"
+  exposure="2"
+  equipment="3"
+
+  escape="0"
+  ladder="0"
+  monkeybridge="1"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+
+  difficulty="K3-K4/K5" 
+  duration="3h" 
+  durationclimb="1.5h" 
+  vertical="330m" 
+  top="2198m"
+  start="1928m"
+
+  location="Pontresina"
+  trekup="15min"
+  trekdown="1h"
+>}}
 
 ## Location
 {{< swiss-map highlight="GR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}

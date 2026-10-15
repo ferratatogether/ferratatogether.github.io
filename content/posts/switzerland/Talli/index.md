@@ -13,15 +13,30 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K3" 
-duration="7h"
-durationclimb="3h" 
-vertical="+500m" 
-top="2555m"
-start="1726m, 1,5h, +330m T3+"
-location="Sustenpass"
-trekup="1h, +200m"
-trekdown="+260m -1060m T4">}}
+  landscape="3"
+  physical="2"
+  exposure="2"
+  equipment="4"
+
+  escape="0"
+  ladder="14"
+  monkeybridge="0"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+
+  difficulty="K3" 
+  duration="7h"
+  durationclimb="3h" 
+  vertical="+500m" 
+  top="2555m"
+  start="1726m, 1,5h, +330m T3+"
+  
+  location="Sustenpass"
+  trekup="1h, +200m"
+  trekdown="+260m -1060m T4"
+>}}
 
 ## Location
 {{< swiss-map highlight="BE" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}

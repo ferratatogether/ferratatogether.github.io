@@ -15,15 +15,30 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K3/K5-K6" 
-duration="7h" 
-durationclimb="3-4h" 
-vertical="400hm" 
-top="3206m"
-start="2800m"
-location="Saas-grund"
-trekup="15min"
-trekdown="1h">}}
+    landscape="4"
+    physical="3"
+    exposure="3"
+    equipment="3"
+
+    escape="0"
+    ladder="5"
+    monkeybridge="0"
+    beam="0"
+    footbridge="0"
+    suspension="1"
+    zipline="0"
+
+    difficulty="K3/K5-K6" 
+    duration="7h" 
+    durationclimb="3-4h" 
+    vertical="400hm" 
+    top="3206m"
+    start="2800m"
+
+    location="Saas-grund"
+    trekup="15min"
+    trekdown="1h"
+>}}
 
 ## Location
 {{< swiss-map highlight="VS" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}

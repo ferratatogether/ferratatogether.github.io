@@ -15,15 +15,30 @@ tags:
 {{< toc-mobile >}}
 
 {{< viaferratacard 
-difficulty="K3-K4" 
-duration="4h" 
-durationclimb="3h" 
-vertical="80-130m" 
-top="1674m"
-start="1550m"
-location="Silenen"
-trekup="1h30min"
-trekdown="45min-1h">}}
+  landscape="2"
+  physical="2"
+  exposure="1"
+  equipment="4"
+
+  escape="0"
+  ladder="5"
+  monkeybridge="0"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+
+  difficulty="K3-K4" 
+  duration="4h" 
+  durationclimb="3h" 
+  vertical="80-130m" 
+  top="1674m"
+  start="1550m"
+
+  location="Silenen"
+  trekup="1h30min"
+  trekdown="45min-1h"
+>}}
 
 ## Location
 {{< swiss-map highlight="UR" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
