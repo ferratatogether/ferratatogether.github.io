@@ -47,7 +47,7 @@ Rated C/K3. It is well-equipped with iron steps and rungs, making it suitable fo
   suspension="0"
   zipline="0"
 
-  difficulty="K3 media / K5-K6 Difficile" 
+  difficulty="K3" 
   duration="4h" 
   durationclimb="2h" 
   vertical="305m/350m" 
