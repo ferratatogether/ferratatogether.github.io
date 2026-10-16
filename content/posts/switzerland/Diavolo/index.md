@@ -83,11 +83,39 @@ date="2026-09-12"
 sbbUrl="https://a.sbbmobile.ch/s/kBtLhuGZ "
  >}}
 
-##  Start 🏁
+## Approach hike 🥾
+
+{{< approach 
+    sac="T1"
+    time="20min" 
+    distance="700m" 
+    terrain="Up" 
+    altitude_start="1410m (Teufelsbrücke)" 
+    altitude_end="1450m" 
+    elevation_gain="40hm" 
+    elevation_loss="0m" 
+>}}
+
+{{< sac-scale level="T1" >}}
 Andermatt (1436 m), station for the Furka-Oberalp-Bahn railway and terminus for the funicular coming up from Göschenen. Parking at the station. From the station at Andermatt, follow the route alongside and on the main road (route signed) through the Urner Loch into the Schöllenen gorge, turning right before you reach the Teufelsbrücke Bridge and making for the Suvorov Memorial (1,405 m).
 
-## Exit 🚶🏻‍♂️
-1 hour On a well-signed path, first taking in a slight climb over the Tüfelstalboden, and then gently downhill to the avalanche obstructions, before zig-zagging down to the barracks area at Andermatt.
+From the Teufelsbrücke parking spaces, walk along the historical pedestrian paths heading north toward the old stone bridge portal. Cross safely through the pedestrian tunnel galleries to locate the starting cable placard situated right against the open granite rock wall base.{{< /sac-scale >}}
+
+## Exit hike 🚶🏻‍♂️
+{{< exit 
+    sac="T2"
+    time="45min" 
+    distance="2.2km" 
+    terrain="flat/down" 
+    altitude_start="1860m" 
+    altitude_end="1410m (Teufelsbrücke Parking)" 
+    elevation_gain="10hm" 
+    elevation_loss="460hm" 
+>}}
+
+{{< sac-scale level="T2" >}}
+From the top exit meadow, follow the painted indicators leading along the high-alpine trail toward Tuefsmatt. The track loops smoothly around the mountain flank into a panoramic hiking pathway descending steadily through the alpine pastures back down to Andermatt village and the Teufelsbrücke loop.
+{{< /sac-scale >}}
 
 ## Travelling home 🏠
 by public transportation
@@ -115,6 +143,26 @@ address="Gotthardstrasse 101, 6490 Andermatt, Uri"
 website="https://www.alpina-sport.ch"
 text="Mo - Fr 09:00 - 12:00 13:00 - 18:00 - Sa - So 08:30 - 17:00"
 >}}
+
+or
+
+{{< contact-call 
+  name="Imholz Sport Andermatt" 
+  phone="+41 (0) 41 887 16 51" 
+  email="info@imholzsport.ch"
+  address="Gotthardstrasse 103, 6490 Andermatt"
+  website="https://imholzsport.ch"
+  text="Located centrally within Andermatt village. Standard daily safety kit rental (harness, lanyard, helmet) is approx. CHF 30.-."
+>}}
+
+## Donation 💶
+Climbing access is entirely free of charge. The heavy safety infrastructure checks and winter stress testing are coordinated and funded by the Andermatt-Urserntal tourism board.
+
+## Defects ⛓️‍💥
+
+Noticing some defects or rockfall cable damage during the climb? Contact immediately:
+
+{{< contact-call name="Andermatt-Urserntal Tourismus" phone="+41 (0) 41 888 71 00" >}}
 
 ## Links 🔗
 - https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/tuefelstalboden-7805/klettersteig/via-ferrata-del-diavolo-743/
