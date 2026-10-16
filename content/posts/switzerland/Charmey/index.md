@@ -219,8 +219,6 @@ Noticing some defects during the climb? contact immediately:
 
 {{< youtube M7CkKWNvQzs >}}
 
-{{< instagram-video "DcgTmrgzhEs" >}}
-
 ## GPX 🗺️
  
 {{< gpx-map file="gpx/xxxx.gpx" >}}
