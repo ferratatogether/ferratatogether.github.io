@@ -83,8 +83,7 @@ destination="Vicosoprano, Pranzaira"
 time="05:38" 
 platform="9" 
 duration="3h12min" 
-train="IC3 / Bus 4
-1" 
+train="IC3 / Bus 41" 
 date="2026-09-20"
 sbbUrl="https://sbb.ch"
  >}}

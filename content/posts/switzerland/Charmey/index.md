@@ -140,7 +140,7 @@ A large, paved public paid parking lot is situated directly adjacent to the Rapi
 >}}
 
 {{< sac-scale level="T2" >}}
-From the Vounetse top gondola station, follow the white arrow markers heading along the ridge path toward the Dent de Vounetse north faces to locate the start kiosk.{{< /sac-scale >}}
+From the Vounetse top gondola station, follow the white arrow markers heading along the ridge path toward the Dent de Vounetse north faces to locate the start kiosk.
 {{< /sac-scale >}}
 
 ## Exit hike 🚶🏻‍♂️
