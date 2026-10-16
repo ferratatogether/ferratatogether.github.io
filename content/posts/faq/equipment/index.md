@@ -117,17 +117,17 @@ It is mainly a matter of taste and how fast you wanna clip to the safety line.
 
 Any carabiners, ideally big for easier clipping, with a button on the other side work great.
 
-![alt](carabiner-size.png)
+![alt](img/carabiner-size.png)
 
 Most rentals equipment or cheap via ferrata sets offer basic carabiners, don’t buy a kit like this as you have to twist and put one finger against the rock to open it (rubbing your finger for hours can be painful)
 
 These use a Slide-ring Automatic Locks: Unlocks by pushing a small sliding collar down with your fingers.
 
-![alt](carabiner.png)
+![alt](img/carabiner.png)
 
 Even PETZL has one of these in his offering ☹️
 
-![alt](petzl.png)
+![alt](img/petzl.png)
 
 ## Zip line pulley
 You don't need them in Switzerland, but in France and other places you need to bring your own pulley. The standard is PETZL. Attention there are 2 kinds of pulleys!

@@ -17,16 +17,31 @@ tags:
 ---
 {{< toc-mobile >}}
 
-{{< viaferratacard 
-difficulty="K2" 
-duration="1h" 
-durationclimb="30min" 
-vertical="400hm" 
-top="xxxx"
-start="xxxx"
-location="Engelberg"
-trekup="15min"
-trekdown="15min">}}
+{{< viaferratacard
+  landscape="1"
+  physical="1"
+  exposure="1"
+  equipment="1"
+
+  escape="0"
+  ladder="0"
+  monkeybridge="0"
+  beam="0"
+  footbridge="0"
+  suspension="0"
+  zipline="0"
+
+  difficulty="K2" 
+  duration="1h" 
+  durationclimb="30min" 
+  vertical="400hm" 
+  top="xxxx"
+  start="xxxx"
+
+  location="Engelberg"
+  trekup="15min"
+  trekdown="15min"
+>}}
 
 {{< swiss-map highlight="OW" activeColor="#D52B1E" baseColor="#F4F5F7"  >}}
 

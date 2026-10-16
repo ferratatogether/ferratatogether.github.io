@@ -35,7 +35,7 @@ REMOVE the resting lanyard when you continue climbing.
 {{< /notice >}}
 
 ## Rest before you are exhausted to avoid a fall
-![alt text](rest.png)
+![alt text](img/rest.png)
 
 ## Differents types
 - Via ferrata lanyard for resting
@@ -62,7 +62,7 @@ OR
 ### Integrated loop for resting
 Some via ferrata lanyard sets have an integrated loop to add an additional carabiner (in Green). It is clearly written on it, just after the energy absorber you may find a loop or ring.
 
-![alt text](integrated.png)
+![alt text](img/integrated.png)
 
 #### Cons
 - It puts some additional (low) stress on the energy absorber.
@@ -80,7 +80,7 @@ Some via ferrata lanyard sets have an integrated loop to add an additional carab
 ### A Sling with a carabiner
 A Sling with a carabiner connected to the belay loop
 
-![alt text](sling.png)
+![alt text](img/sling.png)
 
 #### Cons
 - It may not put you in a comfortable resting position.
@@ -101,7 +101,7 @@ A Sling with a carabiner connected to the belay loop
 
 An adjustable lanyard like PETZL adjust or any other brand.
 
-![alt text](adjustable.png)
+![alt text](img/adjustable.png)
 
 #### Cons
 - 45.- CHF + one Carabiner < 20.- CHF.
