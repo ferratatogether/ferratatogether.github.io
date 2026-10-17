@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         // Plot ways (rivers, lakes, coastlines)
         jsData.elements.forEach(element => {
-            console.log(element);
+            //console.log(element);
             if (element.type === 'way' && element.nodes) {
                 const coordinates = element.nodes.map(nodeId => nodes[nodeId]).filter(coord => coord !== undefined);
                 if (coordinates.length > 0) {
