@@ -1,10 +1,12 @@
 ---
 title: Privacy Policy
-date: 2020-03-08T19:11:49+00:00
+date: 2026-10-17T10:11:49+00:00
+summary: "At **Ferrata Together** (https://ferratatogether.github.io), we are committed to protecting the privacy of our community members. This Privacy Policy explains how your information is handled when you browse our website or participate in our community platforms, including Meetup and WhatsApp."
+cover: /img/next.webp
 ---
 **Last Updated: October 17, 2026**
 
-At **Ferrata Together** (https://github.io), we are committed to protecting the privacy of our community members. This Privacy Policy explains how your information is handled when you browse our website or participate in our community platforms, including Meetup and WhatsApp.
+At **Ferrata Together** (https://ferratatogether.github.io), we are committed to protecting the privacy of our community members. This Privacy Policy explains how your information is handled when you browse our website or participate in our community platforms, including Meetup and WhatsApp.
 
 Because we are a non-profit, volunteer-run hobby group, we do not operate complex commercial tracking systems or sell user data. 
 

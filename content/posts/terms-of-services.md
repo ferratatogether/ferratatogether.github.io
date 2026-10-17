@@ -1,10 +1,12 @@
 ---
 title: Terms of Service
-date: 2020-03-08T19:11:49+00:00
+date: 2026-10-17T10:11:49+00:00
+summary: "Welcome to **Ferrata Together** (https://ferratatogether.github.io). Please read these Terms of Service carefully before using our website or participating in any events, WhatsApp groups, or meetups organized under our community name. "
+cover: /img/next.webp
 ---
 **Last Updated: October 17, 2026**
 
-Welcome to **Ferrata Together** (https://github.io). Please read these Terms of Service ("Terms") carefully before using our website or participating in any events, WhatsApp groups, or meetups organized under our community name. 
+Welcome to **Ferrata Together** (https://ferratatogether.github.io). Please read these Terms of Service ("Terms") carefully before using our website or participating in any events, WhatsApp groups, or meetups organized under our community name. 
 
 By accessing our website or participating in our community events, you agree to comply with and be bound by these Terms. If you do not agree, you must not use our website or join our events.
 
@@ -32,7 +34,7 @@ By accessing our website or participating in our community events, you agree to 
 * To ensure the safety of the collective group, **organizers reserve the absolute right to forbid anyone from participating** in an event or to remove them from communication channels if they display unsafe habits, lack mandatory equipment, or disrupt the respectful ethos of the community.
 
 ### 6. Information Accuracy Disclaimer
-* The guides, routes, difficulty ratings (e.g., K-ratings), and advice shared on https://github.io are provided for general educational and informational purposes only. 
+* The guides, routes, difficulty ratings (e.g., K-ratings), and advice shared on https://ferratatogether.github.io are provided for general educational and informational purposes only. 
 * Mountain conditions change rapidly. Ferrata Together does not guarantee the accuracy, completeness, or safety of the route descriptions on the website. Always cross-reference route data with official regional tourism or alpine club sources.
 
 ### 7. Intellectual Property & External Content
