@@ -4,9 +4,18 @@ date: 2026-01-12T9:44:17+01:00
 summary: "he Klettersteig Adlerhorst at Piel Flue above Arnisee in Uri, Switzerland, is a scenic, family-friendly via ferrata rated up to C/D (K4) featuring a length of 230 meters and gorgeous views of the Urner Reusstal."
 cover: /img/next.webp
 tags:
-  - via-ferrata
   - K3
-  - switzerland
+  - "via-ferrata"
+  - "klettersteig"
+  - "adlerhorst"
+  - "arnisee"
+  - "uri"
+  - "switzerland"
+  - "swiss-alps"
+  - "climbing"
+  - "adventure"
+  - "outdoor-sports"
+  - "piel-flue"
 ---
 {{< toc-mobile >}}
 

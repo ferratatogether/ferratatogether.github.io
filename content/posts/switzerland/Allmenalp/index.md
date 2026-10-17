@@ -4,13 +4,22 @@ date: 2026-06-07T9:44:17+01:00
 summary: "The Allmenalp Via Ferrata is one of the best in Switzerland. Climb iron pegs, cable bridges and traverse above the spectacular Allmenalp waterfall."
 cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
-  - via-ferrata
+  - "via-ferrata"
+  - "klettersteig"
+  - "allmenalp"
+  - "kandersteg"
+  - "bernese-oberland"
+  - "switzerland"
+  - "swiss-alps"
+  - "climbing"
+  - "adventure"
+  - "outdoor-sports"
+  - "waterfalls"
+  - k5
   - k4
-  - kandersteg
   - k4+
   - easy
   - short
-  - switzerland
 ---
 {{< toc-mobile >}}
 

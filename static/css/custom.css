@@ -534,3 +534,110 @@
   margin-right: -50vw !important;
   max-width: none !important;
 }
+
+
+/* Hide inactive tabs */
+.tab-pane.hidden-tab {
+  display: none !important;
+}
+.tab-pane.active {
+  display: block !important;
+}
+
+/* Basic styling for tab buttons */
+.nav-link {
+  background: #f8f9fa;
+  border: 1px solid #ccc;
+  border-bottom: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.nav-link.active {
+  background: #fff;
+  font-weight: bold;
+  position: relative;
+  top: 1px;
+}
+
+/* Container holding the tab navigation bar */
+.tab__nav {
+  background-color: #f4f4f5; /* Light gray navigation background track */
+  padding: 0.5rem;
+  border-radius: 0.5rem 0.5rem 0 0; /* Rounded top corners only */
+  border: 1px solid #e4e4e7;
+  border-bottom: none; /* Merges cleanly into the content box below */
+}
+
+/* Base button appearance with explicit click signals */
+.tab__button {
+  color: #52525b;
+  border-bottom: none !important;
+  margin-right: 0.5rem; /* Creates visible space between individual tab titles */
+  cursor: pointer !important; /* Explicitly forces the interactive hand pointer */
+  user-select: none;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Interactive Hover State: Clearly communicates "Click Me" */
+.tab__button:hover {
+  color: #2563eb; /* Changes color ahead of the click */
+  background-color: #e4e4e7 !important; /* Visual feedback behind the text */
+  transform: translateY(-1px); /* Subtle lift animation on hover */
+}
+
+/* Highly distinct Active Tab State */
+.tab__button.tab--active {
+  background-color: #ffffff !important; /* Highlights against the gray track */
+  color: #2563eb !important; /* Premium blue accent text */
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.06);
+  transform: translateY(0); /* Resets the hover lift when active */
+}
+
+/* The Content Box: Encloses the active panel text */
+.tab__content {
+  margin-top: 0 !important; /* Snaps directly to the navigation tracking header */
+  background-color: #ffffff; /* White canvas background */
+  border: 1px solid #e4e4e7; /* Clean borders wrapping the text */
+  border-radius: 0 0 0.5rem 0.5rem; /* Rounded bottom corners to complete the card container */
+  padding: 1.5rem; /* Generous inside spacing for your text */
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.02);
+}
+
+/* Core visibility management */
+.tab__panel { 
+  display: none !important; 
+}
+.tab__panel.tab--active { 
+  display: block !important; 
+}
+
+/* ==========================================
+   DARK MODE ENHANCEMENTS
+   ========================================== */
+@media (prefers-color-scheme: dark) {
+  .tab__nav {
+    background-color: #171717; /* Dark slate track */
+    border-color: #262626;
+  }
+  
+  .tab__button {
+    color: #a1a1aa;
+  }
+  
+  .tab__button:hover {
+    color: #60a5fa;
+    background-color: #262626 !important;
+  }
+  
+  .tab__button.tab--active {
+    background-color: #262626 !important; /* Card background match */
+    color: #60a5fa !important; /* Bright blue text */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+  }
+  
+  .tab__content {
+    background-color: #1c1c1e; /* Deep canvas body color */
+    border-color: #262626;
+  }
+}
+
