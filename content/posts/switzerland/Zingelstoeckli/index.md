@@ -78,7 +78,7 @@ The [Ferrata Together QuickStart Guide](https://docs.google.com/document/d/19oks
 
 Weather can cancel/abort/shorten the event a few days before if weather is not perfect for execution!  
 
-### Strictly closed in winter/wet conditions!
+***Strictly closed in winter/wet conditions!***
 
 {{< meteoswiss lat="46.889" long="8.900" name="Urnerboden" >}}
 
@@ -246,9 +246,11 @@ Get water before and/or after your climb near the church:
  
 {{< gpx-map file="gpx/zingelstoeckli-via-ferrata.gpx" >}}
 
-## 📆 Ferrata Together log
+## Ferrata Together log 📆 
 
 Ferrata Together visits:
 | Date | Number of people | Organizer |
 |----------|--------|--------|
 | 25 Sept 2026 | 3 | Cédric Walter |
+
+## Comments

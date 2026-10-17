@@ -2546,7 +2546,7 @@ html {
 #TableOfContents {
   position: sticky;
   top: calc(var(--spacing) * 24);
-  max-height: calc(100vh - 7rem);
+  max-height: calc(120vh - 7rem);
   overflow-y: auto;
   max-width: 100%;
 }

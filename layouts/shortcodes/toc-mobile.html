@@ -24,10 +24,10 @@
             border-radius: 6px;
             background-color: #f8fafc;
             font-family: sans-serif;
+             max-height: 700px !important;
         }
         .mobile-toc-toggle {
             width: 100%;
-            padding: 0.75rem 1rem;
             background: none;
             border: none;
             text-align: left;
@@ -41,23 +41,30 @@
         }
         .mobile-toc-menu {
             display: none; /* Hidden by default, toggled via JS */
-            padding: 0 1rem 1rem 1rem;
             border-top: 1px solid #e2e8f0;
         }
         /* Style Hugo's built-in markdown list output */
         .mobile-toc-menu nav ul {
             list-style-type: none;
-            padding-left: 1rem;
-            margin: 0.5rem 0;
+            padding: 0 !important;
+            margin: 0 !important;
         }
+        
+        .mobile-toc-menu nav li {
+            padding: 0 !important;
+            margin: 0 !important;
+        }
+        
         .mobile-toc-menu nav > ul {
-            padding-left: 0;
+            padding: 0!important ;
+            margin: 0 !important;
         }
+
         .mobile-toc-menu a {
             color: #2563eb;
-            text-decoration: none;
-            display: inline-block;
-            padding: 0.25rem 0;
+            text-decoration: none;  
+            padding: 0!important ;
+            margin: 0 !important;
         }
         .mobile-toc-menu a:hover {
             text-decoration: underline;
