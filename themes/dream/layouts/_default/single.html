@@ -99,6 +99,11 @@
 
         {{ .Content | emojify }}
 
+        <!-- Inject the comments section below the post content -->
+        {{ if not .Params.disableComments }}
+          {{ partial "comments.html" . }}
+        {{ end }}
+
        {{ if site.Params.showTaxonomyInPostBottom }}
         {{ $taxonomy := "tags" }}
           {{ with .GetTerms $taxonomy }}

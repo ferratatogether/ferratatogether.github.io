@@ -169,7 +169,5 @@ paginate = 1
     path = "github.com/mfg92/hugo-shortcode-gallery"
 
 [services]
-  [services.disqus]
-    shortname = "ferrata-together"
   [services.googleAnalytics]
     ID = "G-0HF4GFN7F8"
