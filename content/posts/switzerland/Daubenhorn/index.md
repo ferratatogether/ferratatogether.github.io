@@ -22,12 +22,13 @@ tags:
   equipment="3"
 
   escape="1"
-  ladder="x"
+  ladder="216m"
   monkeybridge="x"
   beam="x"
   footbridge="x"
   suspension="x"
   zipline="x"
+  cave="100m"
 
   difficulty="K5/K6" 
   duration="8h-10h" 
