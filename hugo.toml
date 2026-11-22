@@ -25,6 +25,39 @@ paginate = 1
     dir = ':cacheDir/images'
 
 [params] 
+  pgpPublicKey = """
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFjUOq4BCACdtkcWoOSW+DRk++q6kX/QZMY+ZFa8Brd7stfAD4c07Kqi1rPP
+o1eMzLQlpC3Fn0JACJEkCMVEzfX2zBYbLuc+vFhGDv+UheLLCsDyCRPnrZmYzODc
+8Qtc/xQCw82ne1A9RGsZ9JRJ7qRUVRBcyfuDIpMIsp5w3A8hFebM14p54rUKu6oB
+Q36ZivbvHxKbrHn1QItdqTHcZmK/Xsrynt6JqHaOhOwHiS3v+8r7Lhkkk3hUsN6i
+x/ZmZTzyjPc/W4FKyUpQGRVjC06VgvyF4lQux0Ebl+2p6soNfgHwuHaBzN9tszd6
+LdBqUA/KUZd8FrhJ+sfbK5yhcxzRIFmO/5+jABEBAAG0P0PDqWRyaWMgV2FsdGVy
+IC0gd3d3LmNlZHJpY3dhbHRlci5jb20gPGNlZHJpYy53YWx0ZXJAZ21haWwuY29t
+PokBOQQTAQgAIwUCWNQ6rgIbAwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJ
+EN9SrdrIGgimhjwH/iZ6c2v8ChTNCKB6R9f1Kz+yOK4xBXLmRvP9s0vJjkxvoC3P
+jvjtb7nYXZ5hEGDXuIvUFrGNOcsEVebvbdHwKDLTQe0DylayeK1nIiv6q4rhe6Fc
+FzgZh7aUSBh3No0xlSDg/zXliCgsoEmO1UEJm156Ct37a36IpflTjkFlR5wDc0Gq
+SZq8jPeVfG38aLFUeonEPNtU5z+cjEuNwX5TQsyIx+pg5x3fKx3cv281G9bKNkey
+GQ8b6QuJOoe3M8mfa04U+EYPY6t9JOOWUzgJAs2sM1+G4pgmAfZALJX7L0UBhvcV
+8O3tvbiXSUkaSoLScejLt/tuKGCuCtoF2+r7vj25AQ0EWNQ6rgEIALQjn9/idpTp
+7MbqV9nUAuYYkkAHkdmdX4CIsrDw/cMcdcCdZcD89rDyIUJOUZfJAtzso9ORhwbP
+Bd0kHMLCNhRafcEc3VideyeEO7UFWO7GwqakuKiegUK2KnWdbY1bFkLoJ455snvt
+GCr4pb9byp3CB6ExS1LGo99aBvP2OKgsDylqPKxud2+k+8u5NzfDnVcwpZqFxYVF
+JKm/gyARfGBzGalTvdrJhLY0c3XkImJZB199zL/2DSQ28ESIpnnARqoQCKcQRvHA
+y/xIwZT8szL/DODop1xLn8ZRrat1z/C+9TU1hGtWtQU24DM+40grW3h2MFumrlLV
+8d/CJx/rI90AEQEAAYkBHwQYAQgACQUCWNQ6rgIbDAAKCRDfUq3ayBoIph9SB/4p
+vKA//TGhZYGMfbyoo9t4h9PIvTFfUEhddeaGsT6bn6lNVMSg11zchLRoiEGdFH8k
+Ers3nxRN8enPZxeybPePbz/ljOROKc/bqU7VGN6W952OfmHMN5/xMJ9NOoIa/jFv
+xP/+RP6h8wmaRzDK5b35GtPVhXMX0rofUsaZ3RJnQuRWjR3MpzBSnOPzTJ+BhMhZ
+EWn/dYsQ/0UXrlwfph64LK9A70HVrS7+KIsFGjNhTUS/6amFRMSyKMiNjj9rto+e
+YgECu/4Fb/ripWhD4vGWsxBkISz1Y7MT42D3BVWL7N8Q2JrhqJ/lsCo7mtDqpcFW
+19YryXPjfASv+ucr0vwr
+=uptC
+-----END PGP PUBLIC KEY BLOCK-----
+  """
+  
   relativeURLs = false
   name = "Ferrata Together (Zurich Together)"
   headerTitle = "Ferrata Together (Zurich Together)"

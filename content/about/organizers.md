@@ -9,4 +9,6 @@ Here is the list of organizer(s)
 |----------|--------------------|
 | Cédric Walter (Zürich) | ![Cédric Walter](/img/cedricwalter.png)  | 
 
-{{< contact >}}
+{{< pgp-form endpoint="https://formspree.io/f/mvkawkdq" >}}
+
+{{< pgp >}}
