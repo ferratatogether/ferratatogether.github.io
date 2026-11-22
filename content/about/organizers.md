@@ -7,4 +7,6 @@ Here is the list of organizer(s)
 
 |          |                    |
 |----------|--------------------|
-| Cédric Walter (Zürich) | ![Cédric Walter](/img/cedricwalter.png)  |
+| Cédric Walter (Zürich) | ![Cédric Walter](/img/cedricwalter.png)  | 
+
+{{< contact >}}
